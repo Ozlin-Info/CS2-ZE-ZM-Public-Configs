@@ -193,7 +193,7 @@ Usually checked once a day during Sydney night time. Push/Pull updates are done 
 ![Gametracker banner](https://cache.gametracker.com/server_info/139.99.144.28:28058/b_560_95_1.png)
 
 ## Acknowledgement 
-Due to short of hands in Australia/New Zealand, we recognise that Zombie Escape is a community effort and there are other resoruces where you can get config files to make maps work better.
+Due to a shortage of hands in Australia/New Zealand, we recognise that Zombie Escape is a community effort and that there are other resources where you can get config files to make maps work better.
 * GFL USA: https://github.com/gflze/CS2-ZE-Configs
 * 93x China: https://github.com/UpKK-Xnet-YYDCS/UPKK_ZE_PUBLIC
 * Looking for other contributors - we can credit you on this repository!
