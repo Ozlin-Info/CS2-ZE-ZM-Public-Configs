@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " MAP BY JB_GAMBLE ": {
+    "Translation": " MAP BY JB_GAMBLE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ROUND 1/5 ": {
+    "Translation": " ROUND 1/5 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LEFT ROUTE  HOLD HERE ": {
+    "Translation": " LEFT ROUTE  HOLD HERE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LEFT ROUTE  FALL BACK ": {
+    "Translation": " LEFT ROUTE  FALL BACK ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

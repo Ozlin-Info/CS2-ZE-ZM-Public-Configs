@@ -1,0 +1,279 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "由理子:紧急情况，死后世界爆发了僵尸病毒": {
+    "Translation": "由理子:紧急情况，死后世界爆发了僵尸病毒",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:我们需要前往Guild获取武器以消灭僵尸": {
+    "Translation": "由理子:我们需要前往Guild获取武器以消灭僵尸",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:马上行动，游佐，你来带路": {
+    "Translation": "由理子:马上行动，游佐，你来带路",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:收到，请各位现在前往体育馆": {
+    "Translation": "游佐:收到，请各位现在前往体育馆",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:基地Guild在体育馆正下方": {
+    "Translation": "游佐:基地Guild在体育馆正下方",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:不过体育馆正门被锁住了,请走侧门": {
+    "Translation": "游佐:不过体育馆正门被锁住了,请走侧门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:小心,前方发现天使": {
+    "Translation": "游佐:小心,前方发现天使",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:她好像有点不太对劲（注意小奏的音速手刃）": {
+    "Translation": "游佐:她好像有点不太对劲（注意小奏的音速手刃）",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "立华奏:Hand sonic（音速手刃）": {
+    "Translation": "立华奏:Hand sonic（音速手刃）",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由依:小奏为什么要袭击我们？": {
+    "Translation": "由依:小奏为什么要袭击我们？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由依:我们不是同伴吗？": {
+    "Translation": "由依:我们不是同伴吗？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:糟了,还记得之前的影子怪物吗？": {
+    "Translation": "由理子:糟了,还记得之前的影子怪物吗？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:看来这病毒和影子怪物一样可以控制人类": {
+    "Translation": "由理子:看来这病毒和影子怪物一样可以控制人类",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:小奏被控制了！": {
+    "Translation": "由理子:小奏被控制了！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由依:那怎么办？？？": {
+    "Translation": "由依:那怎么办？？？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:可恶，虽然很想救她，但是我们现在自保都困难": {
+    "Translation": "由理子:可恶，虽然很想救她，但是我们现在自保都困难",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:好在她看来没有生命危险": {
+    "Translation": "由理子:好在她看来没有生命危险",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:我们先去Guild，再想办法": {
+    "Translation": "由理子:我们先去Guild，再想办法",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:Guild的入口在舞台下方": {
+    "Translation": "游佐:Guild的入口在舞台下方",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10S?????????????????????": {
+    "Translation": "10S?????????????????????",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:开关在第一台电脑处": {
+    "Translation": "游佐:开关在第一台电脑处",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:守住这里，我来开门": {
+    "Translation": "游佐:守住这里，我来开门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:舞台下方的暗门将在30秒后打开,守住这里": {
+    "Translation": "游佐:舞台下方的暗门将在30秒后打开,守住这里",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:门开了,快走": {
+    "Translation": "游佐:门开了,快走",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由依:等等,这里的陷阱为什么还是开着的": {
+    "Translation": "由依:等等,这里的陷阱为什么还是开着的",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由依:难道他们想杀了我们吗？": {
+    "Translation": "由依:难道他们想杀了我们吗？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:不对，应该是僵尸正在入侵这里": {
+    "Translation": "由理子:不对，应该是僵尸正在入侵这里",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:他们开启了陷阱防御,全体注意小心陷阱！": {
+    "Translation": "由理子:他们开启了陷阱防御,全体注意小心陷阱！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:岩石将在15秒后破碎": {
+    "Translation": "游佐:岩石将在15秒后破碎",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:注意,岩石后面道路的尽头有一个可怕的陷阱": {
+    "Translation": "游佐:注意,岩石后面道路的尽头有一个可怕的陷阱",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:都给我守住这里！不许后退！": {
+    "Translation": "由理子:都给我守住这里！不许后退！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  ".............": {
+    "Translation": ".............",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:C4将在15秒后爆炸": {
+    "Translation": "游佐:C4将在15秒后爆炸",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "??????????????????": {
+    "Translation": "??????????????????",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:注意！这里是滚石陷阱！": {
+    "Translation": "游佐:注意！这里是滚石陷阱！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:快跑！": {
+    "Translation": "游佐:快跑！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:玻璃门将在5秒后关闭": {
+    "Translation": "游佐:玻璃门将在5秒后关闭",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:小心了！前方是送终鸡的刀光剑影！": {
+    "Translation": "游佐:小心了！前方是送终鸡的刀光剑影！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:躲不开的话会被它用最好的手法切成两半！": {
+    "Translation": "游佐:躲不开的话会被它用最好的手法切成两半！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????!": {
+    "Translation": "???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:岩石将在25秒后破碎": {
+    "Translation": "游佐:岩石将在25秒后破碎",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:注意！岩石后面是天花板坠落陷阱！": {
+    "Translation": "游佐:注意！岩石后面是天花板坠落陷阱！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:门开之后一定要跑起来！": {
+    "Translation": "游佐:门开之后一定要跑起来！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "????????????????????????????????????????????????": {
+    "Translation": "????????????????????????????????????????????????",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:注意脚下的红色地板": {
+    "Translation": "游佐:注意脚下的红色地板",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:如果我没记错的话,这里的地板会碎！": {
+    "Translation": "游佐:如果我没记错的话,这里的地板会碎！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:请靠着白色柱子前进！": {
+    "Translation": "游佐:请靠着白色柱子前进！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:下面是水淹...": {
+    "Translation": "游佐:下面是水淹...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:很抱歉..我不会游...": {
+    "Translation": "游佐:很抱歉..我不会游...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "游佐:~~咕噜咕噜咕噜咕噜~~": {
+    "Translation": "游佐:~~咕噜咕噜咕噜咕噜~~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由依:啊！游佐！！！": {
+    "Translation": "由依:啊！游佐！！！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "（游佐顺着水流被冲走了...）（我们失去了游佐的踪迹...）": {
+    "Translation": "（游佐顺着水流被冲走了...）（我们失去了游佐的踪迹...）",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:小心！注意旁边的风扇！！！": {
+    "Translation": "由理子:小心！注意旁边的风扇！！！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:加油！我们很快到终点了！！！": {
+    "Translation": "由理子:加油！我们很快到终点了！！！",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

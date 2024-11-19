@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Loading Stage 1": {
+    "Translation": "Loading Stage 1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by KadianS": {
+    "Translation": "Map by KadianS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Admin room is on top of spawn": {
+    "Translation": "Admin room is on top of spawn",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Want to donate? Visit my Patreon!": {
+    "Translation": "Want to donate? Visit my Patreon!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Problems? Contact me": {
+    "Translation": "Problems? Contact me",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Have fun!": {
+    "Translation": "Have fun!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie Items have been spawned": {
+    "Translation": "Zombie Items have been spawned",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Turn up your graphics settings to enjoy the best experience!": {
+    "Translation": "Turn up your graphics settings to enjoy the best experience!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A lever has been pulled": {
+    "Translation": "A lever has been pulled",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Welcome to TRAP ESCAPE ": {
+    "Translation": " Welcome to TRAP ESCAPE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Please do NOT get MAD! This map is JUST A TRIM!!! ": {
+    "Translation": " Please do NOT get MAD! This map is JUST A TRIM!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The TRAP ESCAPE doors will open soon! ": {
+    "Translation": " The TRAP ESCAPE doors will open soon! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " nuke inbound ": {
+    "Translation": " nuke inbound ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

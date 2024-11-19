@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "The Ocean Base is starting to explode!": {
+    "Translation": "The Ocean Base is starting to explode!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Find a place to hide and hold here for 45secs until a path is clear!!": {
+    "Translation": "Find a place to hide and hold here for 45secs until a path is clear!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Path clear. Make your way to the other end of the base before it's too late!": {
+    "Translation": "Path clear. Make your way to the other end of the base before it's too late!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Modern Lab path opening in 5secs. RUN!!": {
+    "Translation": "Modern Lab path opening in 5secs. RUN!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Research path opening in 7secs. RUN!!": {
+    "Translation": "Research path opening in 7secs. RUN!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Swim to the wrecked ship. We'll have to go through the hole in the hull.": {
+    "Translation": "Swim to the wrecked ship. We'll have to go through the hole in the hull.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Old Lab path opening in 5secs. RUN!!": {
+    "Translation": "Old Lab path opening in 5secs. RUN!!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " goober's basement extravaganza!!! ": {
+    "Translation": " goober's basement extravaganza!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE OPENING IN 40 SECONDS": {
+    "Translation": "GATE OPENING IN 40 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE OPENING IN 10 SECONDS": {
+    "Translation": "GATE OPENING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE OPENING IN 50 SECONDS": {
+    "Translation": "GATE OPENING IN 50 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FALL BACK": {
+    "Translation": "FALL BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TELEPORT IN 10 SECONDS": {
+    "Translation": "AFK TELEPORT IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE OPENS IN 45 SECONDS": {
+    "Translation": "GATE OPENS IN 45 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TP IN 10 SECONDS": {
+    "Translation": "AFK TP IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE OPENS IN 10 SECONDS": {
+    "Translation": "GATE OPENS IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR OPENING IN 30 SECONDS": {
+    "Translation": "FINAL DOOR OPENING IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR OPENING IN 10 SECONDS": {
+    "Translation": "FINAL DOOR OPENING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR CLOSING IN 30 SECONDS": {
+    "Translation": "FINAL DOOR CLOSING IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR CLOSING IN 10 SECONDS": {
+    "Translation": "FINAL DOOR CLOSING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

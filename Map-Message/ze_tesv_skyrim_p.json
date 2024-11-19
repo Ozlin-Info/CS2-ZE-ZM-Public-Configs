@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " WARMUP ROUND ": {
+    "Translation": " WARMUP ROUND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map By P'a'ss and Kim ": {
+    "Translation": " Map By P'a'ss and Kim ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " After winning a round you will get 100 points which equals with 1 level  ": {
+    "Translation": " After winning a round you will get 100 points which equals with 1 level  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Level 1 item requires 100 points Level 2 item requires 200 points and so on. ": {
+    "Translation": " Level 1 item requires 100 points Level 2 item requires 200 points and so on. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " When round starts you have small amount of time to pick an item before the zombies spawn ": {
+    "Translation": " When round starts you have small amount of time to pick an item before the zombies spawn ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK ": {
+    "Translation": " AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Shooting the Zombie items in the head will push them back! ": {
+    "Translation": " Shooting the Zombie items in the head will push them back! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE ": {
+    "Translation": " ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage 1 Helgen ": {
+    "Translation": " Stage 1 Helgen ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

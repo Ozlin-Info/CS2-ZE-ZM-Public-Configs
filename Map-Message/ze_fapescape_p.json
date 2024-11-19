@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Level 1 ": {
+    "Translation": " Level 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Turning music on ": {
+    "Translation": " Turning music on ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

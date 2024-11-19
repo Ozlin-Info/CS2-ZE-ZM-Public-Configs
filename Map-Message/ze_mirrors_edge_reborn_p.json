@@ -1,0 +1,149 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " DIFFICULTY LEVEL : EASY ": {
+    "Translation": " DIFFICULTY LEVEL : EASY ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS ": {
+    "Translation": " THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map created by Dark Arrow": {
+    "Translation": "Map created by Dark Arrow",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Edited first by [pF]Detonator": {
+    "Translation": "Edited first by [pF]Detonator",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Finished by Hallucinogenic Troll": {
+    "Translation": "Finished by Hallucinogenic Troll",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIME'S OUT!! YOU LOSE": {
+    "Translation": "TIME'S OUT!! YOU LOSE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nuke launched": {
+    "Translation": " Nuke launched",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 4 ": {
+    "Translation": " 4 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 3 ": {
+    "Translation": " 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 2 ": {
+    "Translation": " 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 1 ": {
+    "Translation": " 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DIFFICULTY LEVEL : NORMAL ": {
+    "Translation": " DIFFICULTY LEVEL : NORMAL ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS ": {
+    "Translation": " ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " OBJECTIVE : RUN TO THE CHOPPER ": {
+    "Translation": " OBJECTIVE : RUN TO THE CHOPPER ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door Opens In 15 sec ": {
+    "Translation": " Door Opens In 15 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door Opens In 10 sec ": {
+    "Translation": " Door Opens In 10 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door Opens In 5 sec ": {
+    "Translation": " Door Opens In 5 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD HERE FOR 20 SEC ": {
+    "Translation": " HOLD HERE FOR 20 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RUN!!! ": {
+    "Translation": " RUN!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold For 25 secs ": {
+    "Translation": " Hold For 25 secs ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 Seconds Remaining ": {
+    "Translation": " 10 Seconds Remaining ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Heli leaves in 30 seconds ": {
+    "Translation": " Heli leaves in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Heli leaves in 20 seconds ": {
+    "Translation": " Heli leaves in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Heli leaves in 10 seconds ": {
+    "Translation": " Heli leaves in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Heli is leaving hop on ": {
+    "Translation": " Heli is leaving hop on ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WELL DONE YOU WIN ": {
+    "Translation": " WELL DONE YOU WIN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DIFFICULTY LEVEL : HARD ": {
+    "Translation": " DIFFICULTY LEVEL : HARD ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " OBJECTIVE : COLLECT 1 SUITCASE ": {
+    "Translation": " OBJECTIVE : COLLECT 1 SUITCASE ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

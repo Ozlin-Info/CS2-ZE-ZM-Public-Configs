@@ -1,0 +1,79 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "=== 15s后开门 ===": {
+    "Translation": "=== 15s后开门 ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== 5s后开门 ===": {
+    "Translation": "=== 5s后开门 ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== 20s后开门 ===": {
+    "Translation": "=== 20s后开门 ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== 10s后开门 ===": {
+    "Translation": "=== 10s后开门 ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 3 ": {
+    "Translation": " 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 2 ": {
+    "Translation": " 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 1 ": {
+    "Translation": " 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== 30s后传送 ===": {
+    "Translation": "=== 30s后传送 ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== 10s后传送 ===": {
+    "Translation": "=== 10s后传送 ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== 15s后第一扇门开启 ===": {
+    "Translation": "=== 15s后第一扇门开启 ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== 15s后第二扇门开启 ===": {
+    "Translation": "=== 15s后第二扇门开启 ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== 45s后传送 ===": {
+    "Translation": "=== 45s后传送 ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== 20s后传送 ===": {
+    "Translation": "=== 20s后传送 ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== 侧路10s后开启 ===": {
+    "Translation": "=== 侧路10s后开启 ===",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

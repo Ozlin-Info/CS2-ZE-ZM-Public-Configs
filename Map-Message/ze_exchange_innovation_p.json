@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "VERIFICAÇÃO EM PROGRESSO...": {
+    "Translation": "VERIFICAÇÃO EM PROGRESSO...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SCANNER IN PROGRESS...": {
+    "Translation": "SCANNER IN PROGRESS...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NÍVEL DE INFECÇÃO: DESCONHECIDO": {
+    "Translation": "NÍVEL DE INFECÇÃO: DESCONHECIDO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ATENÇÃO: ARMAS DETECTADAS": {
+    "Translation": "ATENÇÃO: ARMAS DETECTADAS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL OF INFECTION: UNKNOWN": {
+    "Translation": "LEVEL OF INFECTION: UNKNOWN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ATTENTION: WEAPONS DETECTED": {
+    "Translation": "ATTENTION: WEAPONS DETECTED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAP MADE BY N!kO  NickMaps": {
+    "Translation": "MAP MADE BY N!kO  NickMaps",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THANKS TO DenniS": {
+    "Translation": "THANKS TO DenniS",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

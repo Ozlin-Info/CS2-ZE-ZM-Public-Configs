@@ -1,0 +1,79 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Stage 1": {
+    "Translation": "Stage 1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Original map : kz_otakuroom_v3 , by GemaYue": {
+    "Translation": "Original map : kz_otakuroom_v3 , by GemaYue",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by Tenshi.": {
+    "Translation": "Map by Tenshi.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Model by uuz": {
+    "Translation": "Model by uuz",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special Thanks:GemaYue , uuz , 银月筱瑶, 兎RB": {
+    "Translation": "Special Thanks:GemaYue , uuz , 银月筱瑶, 兎RB",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "It's my first map , thanks for playing": {
+    "Translation": "It's my first map , thanks for playing",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Version: CS2 v1.2.1": {
+    "Translation": "Version: CS2 v1.2.1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait for 15 seconds": {
+    "Translation": "Wait for 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold on for 20 seconds": {
+    "Translation": "Hold on for 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 seconds": {
+    "Translation": "5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait for 30 seconds": {
+    "Translation": "Wait for 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait for 70 seconds": {
+    "Translation": "Wait for 70 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The paper plane will take off in 10 seconds": {
+    "Translation": "The paper plane will take off in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Survive for 30 seconds": {
+    "Translation": "Survive for 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Boat 1 leaving in 10secs.": {
+    "Translation": "Boat 1 leaving in 10secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boat 2 leaving in 5secs.": {
+    "Translation": "Boat 2 leaving in 5secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Tram leaving in 10secs.": {
+    "Translation": "Tram leaving in 10secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bobsled leaving in 5secs.": {
+    "Translation": "Bobsled leaving in 5secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boat 4 leaving in 10secs.": {
+    "Translation": "Boat 4 leaving in 10secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boat 3 leaving in 10secs.": {
+    "Translation": "Boat 3 leaving in 10secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "First shortcuts opening in 15secs.": {
+    "Translation": "First shortcuts opening in 15secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ice Wall breaking in 10secs.": {
+    "Translation": "Ice Wall breaking in 10secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Armory open.": {
+    "Translation": "Armory open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "...WashTub leaving in 3secs...": {
+    "Translation": "...WashTub leaving in 3secs...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final Boat leaving in 75secs.": {
+    "Translation": "Final Boat leaving in 75secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WashTub leaving in 65secs.": {
+    "Translation": "WashTub leaving in 65secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Second shortcuts opening in 15secs.": {
+    "Translation": "Second shortcuts opening in 15secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WashTub leaving in 30secs.": {
+    "Translation": "WashTub leaving in 30secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final Boat leaving in 30secs.": {
+    "Translation": "Final Boat leaving in 30secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WashTub leaving in 5secs.": {
+    "Translation": "WashTub leaving in 5secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final Boat leaving in 5secs.": {
+    "Translation": "Final Boat leaving in 5secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nuke in 10secs.": {
+    "Translation": "Nuke in 10secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5": {
+    "Translation": "5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4": {
+    "Translation": "4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate opening in 75secs.": {
+    "Translation": "Gate opening in 75secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate opening in 30secs.": {
+    "Translation": "Gate opening in 30secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate opening in 5secs.": {
+    "Translation": "Gate opening in 5secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Start up the Helicopter.": {
+    "Translation": "Start up the Helicopter.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Helicopter leaving in 5secs.": {
+    "Translation": "Helicopter leaving in 5secs.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

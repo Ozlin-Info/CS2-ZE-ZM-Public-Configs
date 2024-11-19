@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "### MAP CREATED BY CISNEROS ###": {
+    "Translation": "### MAP CREATED BY CISNEROS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WELCOME TO ARTIKA BASE ###": {
+    "Translation": "### WELCOME TO ARTIKA BASE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### Objetive: Run for your life ###": {
+    "Translation": "### Objetive: Run for your life ###",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

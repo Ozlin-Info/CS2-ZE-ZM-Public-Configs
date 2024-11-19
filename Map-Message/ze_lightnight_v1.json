@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "[ Map made by Pohmian ]": {
+    "Translation": "[ Map made by Pohmian ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ This map is based on mg_azure ]": {
+    "Translation": "[ This map is based on mg_azure ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ Current Version : Alpha 1.0 ]": {
+    "Translation": "[ Current Version : Alpha 1.0 ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ Stage 1 ]": {
+    "Translation": "[ Stage 1 ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ 15 seconds ]": {
+    "Translation": "[ 15 seconds ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ 20 seconds ]": {
+    "Translation": "[ 20 seconds ]",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

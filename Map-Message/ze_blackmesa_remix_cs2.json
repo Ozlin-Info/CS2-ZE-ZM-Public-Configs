@@ -1,0 +1,64 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ORIGINAL ZE BLACKMESA BY BILL SMAUTZ ": {
+    "Translation": " ORIGINAL ZE BLACKMESA BY BILL SMAUTZ ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " REDESIGN BY CISNEROS ": {
+    "Translation": " REDESIGN BY CISNEROS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 变动:无，无聊的正常模式! ": {
+    "Translation": " 变动:无，无聊的正常模式! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 堡垒回合:存活5分钟! ": {
+    "Translation": " 堡垒回合:存活5分钟! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 变动:窥探秘密是不礼貌的——被锁住的秘密通道？ ": {
+    "Translation": " 变动:窥探秘密是不礼貌的——被锁住的秘密通道？ ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 歼灭模式启用:怪物实验室, 开放(32个人类及以上，额外激活12个怪物) ": {
+    "Translation": " 歼灭模式启用:怪物实验室, 开放(32个人类及以上，额外激活12个怪物) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tram Starts in 7 Seconds ": {
+    "Translation": " Tram Starts in 7 Seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bridge Activated ": {
+    "Translation": " Bridge Activated ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It seems as if there was going to ocurr a big earthquake...  ": {
+    "Translation": " It seems as if there was going to ocurr a big earthquake...  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 变动:登上电车吧——没有前路/秘密通道  ": {
+    "Translation": " 变动:登上电车吧——没有前路/秘密通道  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 变动:登上电车吧——没有桥/秘密通道 ": {
+    "Translation": " 变动:登上电车吧——没有桥/秘密通道 ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

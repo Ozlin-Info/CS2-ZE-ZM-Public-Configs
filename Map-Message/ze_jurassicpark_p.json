@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Wait for other survivors 25  seconds ": {
+    "Translation": " Wait for other survivors 25  seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Get Ready ": {
+    "Translation": " Get Ready ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Run! ": {
+    "Translation": " Run! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Call the mainland  Tell them to send the damn helicopters! ": {
+    "Translation": " Call the mainland  Tell them to send the damn helicopters! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SECURE THE LZ  ": {
+    "Translation": " SECURE THE LZ  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Biosyn Huey inbound  ETA 15 seconds ": {
+    "Translation": " Biosyn Huey inbound  ETA 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nerve gas released  ": {
+    "Translation": " Nerve gas released  ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

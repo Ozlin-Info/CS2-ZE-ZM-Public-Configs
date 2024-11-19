@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Lv1": {
+    "Translation": "Lv1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20s": {
+    "Translation": "20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15s": {
+    "Translation": "15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10s": {
+    "Translation": "10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "25s": {
+    "Translation": "25s",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

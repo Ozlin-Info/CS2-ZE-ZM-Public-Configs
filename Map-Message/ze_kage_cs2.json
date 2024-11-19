@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " WarmTime 60s": {
+    "Translation": " WarmTime 60s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage1  ": {
+    "Translation": " Stage1  ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

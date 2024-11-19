@@ -1,0 +1,74 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "地图作者：ze探险家": {
+    "Translation": "地图作者：ze探险家",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "欢迎来到炽蓝仙野": {
+    "Translation": "欢迎来到炽蓝仙野",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找出不同图案解锁机关": {
+    "Translation": "找出不同图案解锁机关",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "祝你好运": {
+    "Translation": "祝你好运",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "还需要再等一会哦,10second left": {
+    "Translation": "还需要再等一会哦,10second left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "还需要再等一会哦,30second left": {
+    "Translation": "还需要再等一会哦,30second left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "石碑印记，指明道路。独一无二，引领前路": {
+    "Translation": "石碑印记，指明道路。独一无二，引领前路",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "你好像走错了": {
+    "Translation": "你好像走错了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "前方的路很难走，要仔细辨别哦，5 seconds left": {
+    "Translation": "前方的路很难走，要仔细辨别哦，5 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "太好了，你找到了": {
+    "Translation": "太好了，你找到了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "你需要找到机关才能打开迷雾之门": {
+    "Translation": "你需要找到机关才能打开迷雾之门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "同类同形，虚无之路。唯一印记，唯一正途": {
+    "Translation": "同类同形，虚无之路。唯一印记，唯一正途",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "被你发现了": {
+    "Translation": "被你发现了",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map Created by Microsoft Edge and DarkRoad": {
+    "Translation": "Map Created by Microsoft Edge and DarkRoad",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP ROUND": {
+    "Translation": "WARMUP ROUND",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks Batnik_Ref.smd for animation TRIFACE": {
+    "Translation": "Thanks Batnik_Ref.smd for animation TRIFACE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[AERIS] This is the Temple of the Ancients": {
+    "Translation": "[AERIS] This is the Temple of the Ancients",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[AERIS] I feel it! the knowledge of the Ancients floating": {
+    "Translation": "[AERIS] I feel it! the knowledge of the Ancients floating",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[AERIS] I want to go inside!": {
+    "Translation": "[AERIS] I want to go inside!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "STAGE 1 [NORMAL]": {
+    "Translation": "STAGE 1 [NORMAL]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[CLOUD] If we want enter the ancient temple first activate teleport crystal!": {
+    "Translation": "[CLOUD] If we want enter the ancient temple first activate teleport crystal!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[CLOUD] Hold this area for 10 seconds!": {
+    "Translation": "[CLOUD] Hold this area for 10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[AERIS] I know it's going to be tough": {
+    "Translation": "[AERIS] I know it's going to be tough",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[AERIS] Anyway": {
+    "Translation": "[AERIS] Anyway",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[AERIS] Cloud has been moved to another part of temple": {
+    "Translation": "[AERIS] Cloud has been moved to another part of temple",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[AERIS] Find way to next part of temple": {
+    "Translation": "[AERIS] Find way to next part of temple",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "== Map By Rakka ==": {
+    "Translation": "== Map By Rakka ==",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "== Port By SIRloin ==": {
+    "Translation": "== Port By SIRloin ==",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "== Original Material By Antosha ==": {
+    "Translation": "== Original Material By Antosha ==",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "== SPECIAL THANKS : Hweyeon , Tsukasa , Koen ==": {
+    "Translation": "== SPECIAL THANKS : Hweyeon , Tsukasa , Koen ==",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "== THANKS SERVERS : Zeddy Servers ==": {
+    "Translation": "== THANKS SERVERS : Zeddy Servers ==",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD 25 SECONDS ": {
+    "Translation": " HOLD 25 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FALL BACK ": {
+    "Translation": " FALL BACK ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

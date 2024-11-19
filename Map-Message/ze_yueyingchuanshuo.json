@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "You need to defend for 23 seconds.": {
+    "Translation": "You need to defend for 23 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "you need hold 25s": {
+    "Translation": "you need hold 25s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "I remember here, here is my back mountain": {
+    "Translation": "I remember here, here is my back mountain",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "From here you can reach my house directly": {
+    "Translation": "From here you can reach my house directly",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

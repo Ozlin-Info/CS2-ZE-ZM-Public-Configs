@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map transplanted on the L4D2 ": {
+    "Translation": " Map transplanted on the L4D2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Made a lot of modifications and deletions on the original map ": {
+    "Translation": " Made a lot of modifications and deletions on the original map ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold 25 seconds ": {
+    "Translation": " Hold 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies will teleport in 10 seconds ": {
+    "Translation": " Zombies will teleport in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

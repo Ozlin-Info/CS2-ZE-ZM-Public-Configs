@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Special Thanks to Heyfumi and Killik ": {
+    "Translation": " Special Thanks to Heyfumi and Killik ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend 40s before entering the door ": {
+    "Translation": " Defend 40s before entering the door ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FALLBACK ": {
+    "Translation": " FALLBACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RESIST 60 SECONDS ": {
+    "Translation": " RESIST 60 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND 60 SECONDS ": {
+    "Translation": " DEFEND 60 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND 15 SECONDS ": {
+    "Translation": " DEFEND 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS REMAINING ": {
+    "Translation": " 10 SECONDS REMAINING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " REVERSE ": {
+    "Translation": " REVERSE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " YOU WON THE MAP! CONGRATULATIONS! ": {
+    "Translation": " YOU WON THE MAP! CONGRATULATIONS! ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

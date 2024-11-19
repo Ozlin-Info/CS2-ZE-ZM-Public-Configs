@@ -1,0 +1,329 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Welcome to the city of  NEO EXUYAN": {
+    "Translation": "Welcome to the city of  NEO EXUYAN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "There is a deadly invisible gas in this city, it seems dangerous, move quickly!": {
+    "Translation": "There is a deadly invisible gas in this city, it seems dangerous, move quickly!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gas has turned some of our squad into ZOMBIES": {
+    "Translation": "The gas has turned some of our squad into ZOMBIES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Our mission cannot fail, we must keep moving!": {
+    "Translation": "Our mission cannot fail, we must keep moving!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This gate will open soon, hold this bridge!": {
+    "Translation": "This gate will open soon, hold this bridge!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Call the elevator, we can hack the console over there to make it faster": {
+    "Translation": "Call the elevator, we can hack the console over there to make it faster",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " VAL. VE MEGACORP HAS BLESSED YOU WITH INCREDIBLE HACKING SKILLS ": {
+    "Translation": " VAL. VE MEGACORP HAS BLESSED YOU WITH INCREDIBLE HACKING SKILLS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIME REDUCED BY 10 SECONDS ": {
+    "Translation": " TIME REDUCED BY 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator has been called, hold here!": {
+    "Translation": "Elevator has been called, hold here!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold the upper walkway, the door should open soon": {
+    "Translation": "Hold the upper walkway, the door should open soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Exit door opens soon, hold them off here": {
+    "Translation": "Exit door opens soon, hold them off here",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Some of you must split off into the vents, maybe we can open the door from there!": {
+    "Translation": "Some of you must split off into the vents, maybe we can open the door from there!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "It should regroup us after this door...": {
+    "Translation": "It should regroup us after this door...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We got it! Door should open soon": {
+    "Translation": "We got it! Door should open soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This should lead us into the parking lot, and into the greater downtown district!": {
+    "Translation": "This should lead us into the parking lot, and into the greater downtown district!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The sewers should be right behind this door": {
+    "Translation": "The sewers should be right behind this door",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Exit door ahead of us should open soon, resist!": {
+    "Translation": "Exit door ahead of us should open soon, resist!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This small side door should take us into a maintenance area": {
+    "Translation": "This small side door should take us into a maintenance area",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Another door? Hold a bit longer!": {
+    "Translation": "Another door? Hold a bit longer!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The next door seems to be jammed, perhaps we can open it faster?": {
+    "Translation": "The next door seems to be jammed, perhaps we can open it faster?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The canals! NeoKowloon should be close by": {
+    "Translation": "The canals! NeoKowloon should be close by",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The back entrance to NeoKowloon! Resist until it opens": {
+    "Translation": "The back entrance to NeoKowloon! Resist until it opens",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "There is a high concentration of toxicgas here, move quickly!": {
+    "Translation": "There is a high concentration of toxicgas here, move quickly!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The navigation algorithm is scrambled in here, we must keep moving": {
+    "Translation": "The navigation algorithm is scrambled in here, we must keep moving",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The exit should be on our left, climb through the wires!": {
+    "Translation": "The exit should be on our left, climb through the wires!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The bridge across the canals should open shortly": {
+    "Translation": "The bridge across the canals should open shortly",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The bridge's exit doors should be opening soon": {
+    "Translation": "The bridge's exit doors should be opening soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A maintenance door! Perhaps we can reach the Prey Plaza from here?": {
+    "Translation": "A maintenance door! Perhaps we can reach the Prey Plaza from here?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This long walkway should take us up to the side entrance of Prey Plaza": {
+    "Translation": "This long walkway should take us up to the side entrance of Prey Plaza",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold this wide walkway! The door will open soon": {
+    "Translation": "Hold this wide walkway! The door will open soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gate should open soon!": {
+    "Translation": "The gate should open soon!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The Bar should open shortly, resist!": {
+    "Translation": "The Bar should open shortly, resist!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We have to hold both entrances to the bar! We cannot let them it at any cost!": {
+    "Translation": "We have to hold both entrances to the bar! We cannot let them it at any cost!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Back room is opening soon": {
+    "Translation": "Back room is opening soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The bar's exit hatch should be opening shortly, this should lead us to the upper walkway!": {
+    "Translation": "The bar's exit hatch should be opening shortly, this should lead us to the upper walkway!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Be careful about these sidedoors, they look like shortcuts!": {
+    "Translation": "Be careful about these sidedoors, they look like shortcuts!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Aha! This vent! It should take us back outside": {
+    "Translation": "Aha! This vent! It should take us back outside",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The upper walkway door should open soon": {
+    "Translation": "The upper walkway door should open soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Watch out the for that vent! It's looking a bit suspicious": {
+    "Translation": "Watch out the for that vent! It's looking a bit suspicious",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The second upper walkway door should open soon": {
+    "Translation": "The second upper walkway door should open soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door should open shortly, this should take to the Apartment Complex": {
+    "Translation": "The door should open shortly, this should take to the Apartment Complex",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The Apartment Complex should be ahead, past this maintenance corridor!": {
+    "Translation": "The Apartment Complex should be ahead, past this maintenance corridor!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The elevator has been called, it should arrive shortly": {
+    "Translation": "The elevator has been called, it should arrive shortly",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This... isn't the correct floor?": {
+    "Translation": "This... isn't the correct floor?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WATCH OUT! HOLD THE ELEVATOR!": {
+    "Translation": "WATCH OUT! HOLD THE ELEVATOR!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This floor is the right floor, but be careful of more zombies from the same side!": {
+    "Translation": "This floor is the right floor, but be careful of more zombies from the same side!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The doors behind us are opening! Get out quickly!": {
+    "Translation": "The doors behind us are opening! Get out quickly!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We need to enter this apartment to reach the rooftop outside": {
+    "Translation": "We need to enter this apartment to reach the rooftop outside",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold this room! This should lead us directly into the Industrial Sector": {
+    "Translation": "Hold this room! This should lead us directly into the Industrial Sector",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We have no time to visit the lab, but we can use these corridors to reach the Industrial Sector": {
+    "Translation": "We have no time to visit the lab, but we can use these corridors to reach the Industrial Sector",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Crossing this walkway should help us, resist until the door opens!": {
+    "Translation": "Crossing this walkway should help us, resist until the door opens!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Keep holding them off! We're nearly at our destination": {
+    "Translation": "Keep holding them off! We're nearly at our destination",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "These doors will take a long time to open, hold 'em off!": {
+    "Translation": "These doors will take a long time to open, hold 'em off!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A skilled hacker may be able to reduce the timer using that console!": {
+    "Translation": "A skilled hacker may be able to reduce the timer using that console!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIME REDUCED BY 15 SECONDS ": {
+    "Translation": " TIME REDUCED BY 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The glass doors will open soon! Be careful of those big metal doors!": {
+    "Translation": "The glass doors will open soon! Be careful of those big metal doors!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Destroy the generator! It's hooked up to that locked glass door!": {
+    "Translation": "Destroy the generator! It's hooked up to that locked glass door!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Generator has exploded! The doors should open soon": {
+    "Translation": "Generator has exploded! The doors should open soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We are nearly at the Railway Control Room, keep it up!": {
+    "Translation": "We are nearly at the Railway Control Room, keep it up!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Maintenance corridoors should lead us to the control room!": {
+    "Translation": "Maintenance corridoors should lead us to the control room!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The control room! We need to hack the console to call the train! Defend the hacker!": {
+    "Translation": "The control room! We need to hack the console to call the train! Defend the hacker!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The last door before the tracks should open very soon! HOLD IT!": {
+    "Translation": "The last door before the tracks should open very soon! HOLD IT!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The trains are leaving for the UpperEchelon District! JUMP ON!!!": {
+    "Translation": "The trains are leaving for the UpperEchelon District! JUMP ON!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TO BE CONTINUED IN PART 2": {
+    "Translation": "TO BE CONTINUED IN PART 2",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

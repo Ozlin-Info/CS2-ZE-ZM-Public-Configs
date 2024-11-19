@@ -1,0 +1,99 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Hold 30 seconds": {
+    "Translation": "Hold 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 seconds": {
+    "Translation": "5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie shortcut #1 opened": {
+    "Translation": "Zombie shortcut #1 opened",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A way will open in 20 seconds": {
+    "Translation": "A way will open in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie shortcut #2 opened": {
+    "Translation": "Zombie shortcut #2 opened",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold for 30 seconds": {
+    "Translation": "Hold for 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 more seconds": {
+    "Translation": "5 more seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie shortcut #3 opened": {
+    "Translation": "Zombie shortcut #3 opened",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold for 40 seconds": {
+    "Translation": "Hold for 40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie shortcut #4 opened": {
+    "Translation": "Zombie shortcut #4 opened",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 50 seconds": {
+    "Translation": "Last 50 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final zombie shortcut opened": {
+    "Translation": "Final zombie shortcut opened",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks for playing": {
+    "Translation": "Thanks for playing",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by easter": {
+    "Translation": "Map by easter",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Assets from townescaper": {
+    "Translation": "Assets from townescaper",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Some zombies survived the nuke!": {
+    "Translation": "Some zombies survived the nuke!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Go hunt them down!": {
+    "Translation": "Go hunt them down!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Water is now deadly!": {
+    "Translation": "Water is now deadly!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ze_Forsaken_Temple ": {
+    "Translation": " ze_Forsaken_Temple ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by Brian ": {
+    "Translation": " Map by Brian ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARM UP  60 SEC ": {
+    "Translation": " WARM UP  60 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CS2 Port by @Seth ": {
+    "Translation": " CS2 Port by @Seth ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARM UP  50 SEC ": {
+    "Translation": " WARM UP  50 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARM UP  40 SEC ": {
+    "Translation": " WARM UP  40 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIP: one player must touch the closed door to trigger ": {
+    "Translation": " TIP: one player must touch the closed door to trigger ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARM UP  30 SEC ": {
+    "Translation": " WARM UP  30 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIP: most zombie teleports are quick so do not overdefend! ": {
+    "Translation": " TIP: most zombie teleports are quick so do not overdefend! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARM UP  20 SEC ": {
+    "Translation": " WARM UP  20 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIP: search for key items when the console tells you to do so ": {
+    "Translation": " TIP: search for key items when the console tells you to do so ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARM UP  10 SEC ": {
+    "Translation": " WARM UP  10 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Admin room is located behind the spawn ": {
+    "Translation": " Admin room is located behind the spawn ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Let's begin the adventure! ": {
+    "Translation": " Let's begin the adventure! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAGE 1: Underground ": {
+    "Translation": " STAGE 1: Underground ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Left fence is breaking in 30s ": {
+    "Translation": " Left fence is breaking in 30s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door is opening in 40s ": {
+    "Translation": " Door is opening in 40s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Find and press TWO buttons ": {
+    "Translation": " Find and press TWO buttons ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

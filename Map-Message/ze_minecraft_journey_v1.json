@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "= = = WARNING HUMANS 1/2 : You can't go never by water.  = = =": {
+    "Translation": "= = = WARNING HUMANS 1/2 : You can't go never by water.  = = =",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "= = = WARNING HUMANS 2/2 : Only zombies can enter.  = = =": {
+    "Translation": "= = = WARNING HUMANS 2/2 : Only zombies can enter.  = = =",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "= = = CURRENT ARENA 1 / 8  = = =": {
+    "Translation": "= = = CURRENT ARENA 1 / 8  = = =",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

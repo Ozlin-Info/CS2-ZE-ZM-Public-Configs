@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "STAGE 1: ITACHI": {
+    "Translation": "STAGE 1: ITACHI",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEFT DOOR OPENS IN 30 SECONDS": {
+    "Translation": "LEFT DOOR OPENS IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

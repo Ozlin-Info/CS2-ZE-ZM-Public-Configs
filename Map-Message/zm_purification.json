@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " 地图制作：气流 ": {
+    "Translation": " 地图制作：气流 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这是同名ZE地图的改编版本 ": {
+    "Translation": " 这是同名ZE地图的改编版本 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 欢迎体验ZE版本的游戏 ": {
+    "Translation": " 欢迎体验ZE版本的游戏 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 喜欢本图还请前往创意工坊点赞 ": {
+    "Translation": " 喜欢本图还请前往创意工坊点赞 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 警告：僵尸可以从背后进攻！！！ ": {
+    "Translation": " 警告：僵尸可以从背后进攻！！！ ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

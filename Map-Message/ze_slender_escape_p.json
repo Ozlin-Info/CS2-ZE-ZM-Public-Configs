@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " [STORY] STAGE 1  PRISON ": {
+    "Translation": " [STORY] STAGE 1  PRISON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " [STORY] We have met a nice guy in prison called slenderman  he wants to help us escape the prison! ": {
+    "Translation": " [STORY] We have met a nice guy in prison called slenderman  he wants to help us escape the prison! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " [STORY] The old prison lies under the big forest of slender world ": {
+    "Translation": " [STORY] The old prison lies under the big forest of slender world ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " [STORY] We will have to follow yellow lights that slenderman made for us to escape the prison ": {
+    "Translation": " [STORY] We will have to follow yellow lights that slenderman made for us to escape the prison ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " [STORY] Good luck and make sure the infected prisoners (aka zombies) dont leave the prison! ": {
+    "Translation": " [STORY] Good luck and make sure the infected prisoners (aka zombies) dont leave the prison! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleporting HUMANS in 5 secs ": {
+    "Translation": " Teleporting HUMANS in 5 secs ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleporting ZOMBIES in 5 secs ": {
+    "Translation": " Teleporting ZOMBIES in 5 secs ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Cover 20 seconds ": {
+    "Translation": " Cover 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Cover 5 seconds ": {
+    "Translation": " Cover 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

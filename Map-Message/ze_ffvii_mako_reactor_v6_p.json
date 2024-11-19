@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " EASY ": {
+    "Translation": " EASY ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BLAST DOORS OPEN IN 40 SECONDS ": {
+    "Translation": " BLAST DOORS OPEN IN 40 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BLAST DOORS OPEN IN 5 SECONDS ": {
+    "Translation": " BLAST DOORS OPEN IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ELECTRO Materia has been found. ": {
+    "Translation": " ELECTRO Materia has been found. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WIND Materia has been found. ": {
+    "Translation": " WIND Materia has been found. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR DOORS: 5 SECONDS": {
+    "Translation": "ELEVATOR DOORS: 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR LEAVING: 10 SECONDS": {
+    "Translation": "ELEVATOR LEAVING: 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MANUAL OVERRIDE: 5 SECONDS": {
+    "Translation": "MANUAL OVERRIDE: 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Congratulations! You have beaten [EASY] ": {
+    "Translation": " Congratulations! You have beaten [EASY] ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

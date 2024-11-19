@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " 最终幻想14:醴泉神社  Ver 1.0": {
+    "Translation": " 最终幻想14:醴泉神社  Ver 1.0",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FFXIV_Reisen_Temple  Ver 1.0": {
+    "Translation": " FFXIV_Reisen_Temple  Ver 1.0",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by @Seth.": {
+    "Translation": "Map by @Seth.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "该版本为部分流程前瞻,不代表最终品质.": {
+    "Translation": "该版本为部分流程前瞻,不代表最终品质.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hard Mode ": {
+    "Translation": " Hard Mode ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Objective : Light up the First Temple ": {
+    "Translation": " Objective : Light up the First Temple ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

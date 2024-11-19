@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map created by Cisneros": {
+    "Translation": "Map created by Cisneros",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 5 seconds": {
+    "Translation": "The door will open in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Objetive: survive escaping the castle": {
+    "Translation": "Objetive: survive escaping the castle",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

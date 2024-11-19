@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Byelomorye Dam, Arkangelsk, USSR": {
+    "Translation": "Byelomorye Dam, Arkangelsk, USSR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nine years ago": {
+    "Translation": "Nine years ago",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAP BY live action cow": {
+    "Translation": "MAP BY live action cow",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SPECIAL THANKS TO KURIMU": {
+    "Translation": "SPECIAL THANKS TO KURIMU",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SECURITY GATE A CLOSING": {
+    "Translation": "SECURITY GATE A CLOSING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLEASE WAIT...": {
+    "Translation": " PLEASE WAIT...",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

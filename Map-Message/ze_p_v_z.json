@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "连败计数：0": {
+    "Translation": "连败计数：0",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "连败计数：1": {
+    "Translation": "连败计数：1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "一名玩家获得了向日葵": {
+    "Translation": "一名玩家获得了向日葵",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "连败计数：2": {
+    "Translation": "连败计数：2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "出生区域的传送已启动": {
+    "Translation": "出生区域的传送已启动",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "关卡1：菜园": {
+    "Translation": "关卡1：菜园",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "豌豆射手：前面就是戴夫家的菜园了，好久没见他了今天来看看": {
+    "Translation": "豌豆射手：前面就是戴夫家的菜园了，好久没见他了今天来看看",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

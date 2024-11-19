@@ -1,0 +1,99 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "WeLcOmE ShIzO": {
+    "Translation": "WeLcOmE ShIzO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "After 10 seconds, the teleport will open.": {
+    "Translation": "After 10 seconds, the teleport will open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### LEVEL : SCHIZO ###": {
+    "Translation": "### LEVEL : SCHIZO ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Humans Teleported": {
+    "Translation": "Humans Teleported",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OH !! NOO MAP BROKEN": {
+    "Translation": "OH !! NOO MAP BROKEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SHIT MAP": {
+    "Translation": "SHIT MAP",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE TELEPORT SYSTEM IS BEING REINTRODUCED.": {
+    "Translation": "THE TELEPORT SYSTEM IS BEING REINTRODUCED.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YEAH WORKS !": {
+    "Translation": "YEAH WORKS !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE TP 7 SEC !": {
+    "Translation": "ZOMBIE TP 7 SEC !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WeLcOmE SchIzO": {
+    "Translation": "WeLcOmE SchIzO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "In 20 seconds, the doors will open.": {
+    "Translation": "In 20 seconds, the doors will open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPEN": {
+    "Translation": "DOOR OPEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "In 15 seconds, the doors will open.": {
+    "Translation": "In 15 seconds, the doors will open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE TP 7 SEC": {
+    "Translation": "ZOMBIE TP 7 SEC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DONT DEFEND! GO GO": {
+    "Translation": "DONT DEFEND! GO GO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE TP 10 SEC !": {
+    "Translation": "ZOMBIE TP 10 SEC !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE TP 5 SEC !": {
+    "Translation": "ZOMBIE TP 5 SEC !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BREAK THE WALLS AND MOVE ON": {
+    "Translation": "BREAK THE WALLS AND MOVE ON",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

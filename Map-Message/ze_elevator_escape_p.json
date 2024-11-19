@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " NUCLEAR CORE UNSTABLE ": {
+    "Translation": " NUCLEAR CORE UNSTABLE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP BY JB_GAMBLE ": {
+    "Translation": " MAP BY JB_GAMBLE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD HERE! ": {
+    "Translation": " HOLD HERE! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS ": {
+    "Translation": " 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FALL BACK ": {
+    "Translation": " FALL BACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WATER CART LEAVING IN 5 SECONDS": {
+    "Translation": " WATER CART LEAVING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " WARMUP ROUND ": {
+    "Translation": " WARMUP ROUND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP BY STK ": {
+    "Translation": " MAP BY STK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAGE 1 ": {
+    "Translation": " STAGE 1 ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

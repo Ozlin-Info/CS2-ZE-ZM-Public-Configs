@@ -1,0 +1,224 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " EASY MODE ": {
+    "Translation": " EASY MODE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZE_PALACE_OF_MINOLILA ": {
+    "Translation": " ZE_PALACE_OF_MINOLILA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The story after ze_ruin_of_black_stone ": {
+    "Translation": " The story after ze_ruin_of_black_stone ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by Misaka ": {
+    "Translation": " Map by Misaka ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map based on ze_sky_fantasy ": {
+    "Translation": " Map based on ze_sky_fantasy ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold for 10 seconds ": {
+    "Translation": " Hold for 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A zombie has picked up ice magic ": {
+    "Translation": " A zombie has picked up ice magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up earth magic ": {
+    "Translation": " A player has picked up earth magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up snow magic ": {
+    "Translation": " A player has picked up snow magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up electro magic ": {
+    "Translation": " A player has picked up electro magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door will open in 20 seconds ": {
+    "Translation": " Door will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up wind magic ": {
+    "Translation": " A player has picked up wind magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleporter will enable in 15 seconds ": {
+    "Translation": " Teleporter will enable in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door will open in 25 seconds ": {
+    "Translation": " Door will open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up heal magic ": {
+    "Translation": " A player has picked up heal magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door will open in 5 seconds ": {
+    "Translation": " Door will open in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door will Open in 15 seconds ": {
+    "Translation": " Door will Open in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### It seems that there is the laboratory of that mayor ###": {
+    "Translation": "### It seems that there is the laboratory of that mayor ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### I think we'd better destroy this laboratory ###": {
+    "Translation": "### I think we'd better destroy this laboratory ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### I will plant the bomb! Then we should leave there immediately! ###": {
+    "Translation": "### I will plant the bomb! Then we should leave there immediately! ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Wait for 30 seconds  ": {
+    "Translation": " Wait for 30 seconds  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend for 35 seconds, I will open the door ": {
+    "Translation": " Defend for 35 seconds, I will open the door ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door will close in 10 seconds! Do not let zomebies out!!! ": {
+    "Translation": " Door will close in 10 seconds! Do not let zomebies out!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EASY Mode Complete ": {
+    "Translation": " EASY Mode Complete ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " NORMAL MODE ": {
+    "Translation": " NORMAL MODE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Next door will open in 5 seconds ": {
+    "Translation": " Next door will open in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Admin select LUNATIC MODE ": {
+    "Translation": " Admin select LUNATIC MODE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "管理员按下重启本回合按钮 5秒后重启": {
+    "Translation": "管理员按下重启本回合按钮 5秒后重启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "管理员按下重启本回合按钮 4秒后重启": {
+    "Translation": "管理员按下重启本回合按钮 4秒后重启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "管理员按下重启本回合按钮 3秒后重启": {
+    "Translation": "管理员按下重启本回合按钮 3秒后重启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "管理员按下重启本回合按钮 2秒后重启": {
+    "Translation": "管理员按下重启本回合按钮 2秒后重启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "管理员按下重启本回合按钮 1秒后重启": {
+    "Translation": "管理员按下重启本回合按钮 1秒后重启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LUNATIC MODE ": {
+    "Translation": " LUNATIC MODE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold for 15 seconds ": {
+    "Translation": " Hold for 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up gravity magic ": {
+    "Translation": " A player has picked up gravity magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### Welcome to the world of re_creation!!! ###": {
+    "Translation": "### Welcome to the world of re_creation!!! ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### ...... ###": {
+    "Translation": "### ...... ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### It seems that I am in wrong set...... ###": {
+    "Translation": "### It seems that I am in wrong set...... ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### I'm sorry and I will get out of there _ ###": {
+    "Translation": "### I'm sorry and I will get out of there _ ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up Frostmourn ": {
+    "Translation": " A player has picked up Frostmourn ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A zombie has picked up heal magic ": {
+    "Translation": " A zombie has picked up heal magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A zombie has picked up gravity magic ": {
+    "Translation": " A zombie has picked up gravity magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Elevator will move in 15 seconds ": {
+    "Translation": " Elevator will move in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

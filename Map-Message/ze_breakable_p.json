@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE": {
+    "Translation": "BREAK CRATES AND GET ON IT TO ESCAPE FROM MOTHER ZOMBIE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAP BY LeGrem": {
+    "Translation": "MAP BY LeGrem",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN": {
+    "Translation": "RUN",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

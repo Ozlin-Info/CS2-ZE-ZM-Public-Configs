@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " STAGE 1 ": {
+    "Translation": " STAGE 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by Moray ": {
+    "Translation": " Map by Moray ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Thanks to nano (Help & Ideas) ": {
+    "Translation": " Thanks to nano (Help & Ideas) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CS2 port special thanks: 超帅气の叫兽, Kxnrl ": {
+    "Translation": " CS2 port special thanks: 超帅气の叫兽, Kxnrl ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

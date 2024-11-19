@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map by w6a7z99  ": {
+    "Translation": " Map by w6a7z99  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Spawn Prefab by Dawnter ": {
+    "Translation": " Spawn Prefab by Dawnter ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Helicopter Prefab by AuroraF ": {
+    "Translation": " Helicopter Prefab by AuroraF ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP: You should go to the roof in less than 30 seconds.": {
+    "Translation": "TIP: You should go to the roof in less than 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP: Roof entry is now open. Defend for 50 seconds!": {
+    "Translation": "TIP: Roof entry is now open. Defend for 50 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP: Prepare to fall back. Helicopter leaves in 20 seconds.": {
+    "Translation": "TIP: Prepare to fall back. Helicopter leaves in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP: Helicopter departs in 10 seconds!": {
+    "Translation": "TIP: Helicopter departs in 10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

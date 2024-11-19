@@ -1,0 +1,14 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "System  Welcome to Cyberspace! ": {
+    "Translation": "System  Welcome to Cyberspace! ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

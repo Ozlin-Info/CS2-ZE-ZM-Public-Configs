@@ -1,0 +1,69 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map by Limon.": {
+    "Translation": "Map by Limon.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GAME WILL START in 15 sec! GL HF": {
+    "Translation": "GAME WILL START in 15 sec! GL HF",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SPAWN ZONE": {
+    "Translation": "SPAWN ZONE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting zombies to Zombie Room in 7 sec": {
+    "Translation": "Teleporting zombies to Zombie Room in 7 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Go to middleearth map to start playing": {
+    "Translation": "Go to middleearth map to start playing",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LVL1 ROAD TO ISENGARD": {
+    "Translation": "LVL1 ROAD TO ISENGARD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting AFK's to cave in 30sec": {
+    "Translation": "Teleporting AFK's to cave in 30sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LOOK OUT FOR SPIDER TRAPS!!": {
+    "Translation": "LOOK OUT FOR SPIDER TRAPS!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Random": {
+    "Translation": "Random",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Resist 20s!": {
+    "Translation": "Resist 20s!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GO": {
+    "Translation": "GO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting Zombies to spawn in 15 sec": {
+    "Translation": "Teleporting Zombies to spawn in 15 sec",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

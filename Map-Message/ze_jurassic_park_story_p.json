@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "DAY": {
+    "Translation": "DAY",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WELCOME TO JURASSIC PARK": {
+    "Translation": "WELCOME TO JURASSIC PARK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GO INTO THE OFFICE AND PRESS THE BUTTON": {
+    "Translation": "GO INTO THE OFFICE AND PRESS THE BUTTON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAP BY LeGrem": {
+    "Translation": "MAP BY LeGrem",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HELIPAD ESCAPE": {
+    "Translation": "HELIPAD ESCAPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM USE THE MANUAL BUTTON TO OPEN THE DOOR": {
+    "Translation": "ZM USE THE MANUAL BUTTON TO OPEN THE DOOR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BUNKER ESCAPE": {
+    "Translation": "BUNKER ESCAPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOCK ESCAPE": {
+    "Translation": "DOCK ESCAPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NIGHT": {
+    "Translation": "NIGHT",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

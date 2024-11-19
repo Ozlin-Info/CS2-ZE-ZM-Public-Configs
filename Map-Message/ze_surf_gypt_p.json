@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " THIS MAP HAS BEEN CREATED BY   FuTuRe ": {
+    "Translation": " THIS MAP HAS BEEN CREATED BY   FuTuRe ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ": {
+    "Translation": " THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THERE IS ALSO A SPECIAL SKIN THANKS TO [Pompje] ": {
+    "Translation": " THERE IS ALSO A SPECIAL SKIN THANKS TO [Pompje] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ELEVATOR LEAVING IN 15 SECONDS ": {
+    "Translation": " ELEVATOR LEAVING IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ELEVATOR LEAVING IN 5 SECONDS ": {
+    "Translation": " ELEVATOR LEAVING IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO TO WHERE THE GREEN LIGHT IS SHINING! ": {
+    "Translation": " GO TO WHERE THE GREEN LIGHT IS SHINING! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIES WILL BE RELEASED SOON, SURF AWAY! ": {
+    "Translation": " ZOMBIES WILL BE RELEASED SOON, SURF AWAY! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ACTIVATE C4 ON THE DOOR TO CONTINUE ": {
+    "Translation": " ACTIVATE C4 ON THE DOOR TO CONTINUE ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

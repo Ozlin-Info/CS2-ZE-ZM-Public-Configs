@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map by (Marisa_Kirisame) ": {
+    "Translation": " Map by (Marisa_Kirisame) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Special Thanks : Bantu Shino Nostar Henry ": {
+    "Translation": " Special Thanks : Bantu Shino Nostar Henry ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The boat control room will open in 30 sec ": {
+    "Translation": " The boat control room will open in 30 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The boat control room is opening ": {
+    "Translation": " The boat control room is opening ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The boats leave in 30 sec": {
+    "Translation": "The boats leave in 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The boats leave in 10 sec": {
+    "Translation": "The boats leave in 10 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The boats are leaving": {
+    "Translation": "The boats are leaving",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nuke incoming": {
+    "Translation": "Nuke incoming",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Arcana Heart": {
+    "Translation": "Arcana Heart",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ver:1.6.12": {
+    "Translation": "Ver:1.6.12",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

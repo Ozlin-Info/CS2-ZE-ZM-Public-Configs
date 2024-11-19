@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ze_Illusory_World ": {
+    "Translation": " ze_Illusory_World ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by BlackRock. ": {
+    "Translation": " Map by BlackRock. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CS2 Port by @Seth. ": {
+    "Translation": " CS2 Port by @Seth. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie Speed Speed up zombie around you for 3 sec. 60 cd": {
+    "Translation": "Zombie Speed Speed up zombie around you for 3 sec. 60 cd",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Human Fire Freeze zombie 9 sec. 50 cd.": {
+    "Translation": "Human Fire Freeze zombie 9 sec. 50 cd.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Open the hole in 40 seconds": {
+    "Translation": "Open the hole in 40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Transfer AFK player in 10 seconds": {
+    "Translation": "Transfer AFK player in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Human Heal Heal 200 hp,speed up 3 sec and Immune infection 5 sec. 65 cd.": {
+    "Translation": "Human Heal Heal 200 hp,speed up 3 sec and Immune infection 5 sec. 65 cd.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie Snow Slow human around you for 3 sec. 30 cd": {
+    "Translation": "Zombie Snow Slow human around you for 3 sec. 30 cd",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

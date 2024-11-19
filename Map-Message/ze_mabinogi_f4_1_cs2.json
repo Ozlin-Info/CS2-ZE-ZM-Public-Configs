@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Side Path will be open in 15 seconds .": {
+    "Translation": "Side Path will be open in 15 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SIDE PATH WILL BE OPEN IN 5 SECONDS .": {
+    "Translation": "SIDE PATH WILL BE OPEN IN 5 SECONDS .",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

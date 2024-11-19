@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map By Batnik_Reference.smd and Microsoft Edge": {
+    "Translation": "Map By Batnik_Reference.smd and Microsoft Edge",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Level 1": {
+    "Translation": "Level 1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This is a map based on the game STALKER": {
+    "Translation": "This is a map based on the game STALKER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "models and textures Zombie": {
+    "Translation": "models and textures Zombie",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "defend 7 sec": {
+    "Translation": "defend 7 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Run Run": {
+    "Translation": "Run Run",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

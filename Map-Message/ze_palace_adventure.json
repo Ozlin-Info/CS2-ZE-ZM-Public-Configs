@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map By noob": {
+    "Translation": "Map By noob",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Stage1Easy": {
+    "Translation": "Stage1Easy",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15": {
+    "Translation": "15",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "天气:暴雨": {
+    "Translation": "天气:暴雨",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "天气:风和日丽": {
+    "Translation": "天气:风和日丽",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "天气:黑夜": {
+    "Translation": "天气:黑夜",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "天气:小雨": {
+    "Translation": "天气:小雨",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "天气:迷雾": {
+    "Translation": "天气:迷雾",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "天气:雾世界": {
+    "Translation": "天气:雾世界",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

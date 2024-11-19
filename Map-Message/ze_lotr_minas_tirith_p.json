@@ -1,0 +1,149 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " MAP BY Hannibal [SPA] (Rafuron) ": {
+    "Translation": " MAP BY Hannibal [SPA] (Rafuron) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Thanks to Kaemon ": {
+    "Translation": " Thanks to Kaemon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND ": {
+    "Translation": " WARMUP ROUND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " This is the first round. Wait for more players to restart round or suicide. ": {
+    "Translation": " This is the first round. Wait for more players to restart round or suicide. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 1 : press +use on pickable objects to build barricades  ": {
+    "Translation": " Tip 1 : press +use on pickable objects to build barricades  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 2 : reach and win the end of a stage to level up  ": {
+    "Translation": " Tip 2 : reach and win the end of a stage to level up  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 3 : take items at zombie and human shops in spawn  ": {
+    "Translation": " Tip 3 : take items at zombie and human shops in spawn  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately ": {
+    "Translation": " Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 5 : barricades health depends on the size and material ": {
+    "Translation": " Tip 5 : barricades health depends on the size and material ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 6 : hold spots tend to be long    hold as much as possible at previous positions ": {
+    "Translation": " Tip 6 : hold spots tend to be long    hold as much as possible at previous positions ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 7 : guards work as stoppers  but you can shoot throught them ": {
+    "Translation": " Tip 7 : guards work as stoppers  but you can shoot throught them ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 8 : the ladder and bomb items are powerful items  you must kill these zombies the first! ": {
+    "Translation": " Tip 8 : the ladder and bomb items are powerful items  you must kill these zombies the first! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy ": {
+    "Translation": " Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 10 : horse and armor (while shield is not broken) items can push zombies ": {
+    "Translation": " Tip 10 : horse and armor (while shield is not broken) items can push zombies ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND  ROUND RESTART IN 10 SECONDS  ": {
+    "Translation": " WARMUP ROUND  ROUND RESTART IN 10 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 11 : Balrog scream heals near zombies and increases speed temporally ": {
+    "Translation": " Tip 11 : Balrog scream heals near zombies and increases speed temporally ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) ": {
+    "Translation": " Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW ": {
+    "Translation": " Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND IS OVER! ": {
+    "Translation": " WARMUP ROUND IS OVER! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STARTING AT FIRST LEVEL! ": {
+    "Translation": " STARTING AT FIRST LEVEL! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CURRENT STAGE  PART 1  OSGILIATH ": {
+    "Translation": "CURRENT STAGE  PART 1  OSGILIATH ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE ROUND WILL START IN FEW SECONDS  CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM ": {
+    "Translation": " THE ROUND WILL START IN FEW SECONDS  CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE ROUND HAS STARTED  TAKE ONE OF THE PORTALS  MASSIVE TELEPORTATION IN 20 SECONDS ": {
+    "Translation": " THE ROUND HAS STARTED  TAKE ONE OF THE PORTALS  MASSIVE TELEPORTATION IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE BOATS ARE COMMING  PREPARE YOURSELVES ": {
+    "Translation": " THE BOATS ARE COMMING  PREPARE YOURSELVES ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RESIST 25 SECONDS! ": {
+    "Translation": " RESIST 25 SECONDS! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RETREAT !! RIVER ZONE IS LOST ": {
+    "Translation": " RETREAT !! RIVER ZONE IS LOST ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WATCH OUT! WE ARE UNDER SIEGE ": {
+    "Translation": " WATCH OUT! WE ARE UNDER SIEGE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND  ROUND RESTART IN 60 SECONDS  ": {
+    "Translation": " WARMUP ROUND  ROUND RESTART IN 60 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

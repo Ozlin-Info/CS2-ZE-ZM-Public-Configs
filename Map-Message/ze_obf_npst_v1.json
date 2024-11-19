@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map by Trazix": {
+    "Translation": "Map by Trazix",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CS2 by Nino": {
+    "Translation": "CS2 by Nino",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Welcome on Objective NPST": {
+    "Translation": "Welcome on Objective NPST",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Good Luck !": {
+    "Translation": "Good Luck !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE DOOR HAS OPENED ": {
+    "Translation": " THE DOOR HAS OPENED ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

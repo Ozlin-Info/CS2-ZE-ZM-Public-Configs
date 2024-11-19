@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Mapper: Nino": {
+    "Translation": "Mapper: Nino",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CS2 Port by @Seth": {
+    "Translation": "CS2 Port by @Seth",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Script: 7ychu5": {
+    "Translation": "Script: 7ychu5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Music: Trazix": {
+    "Translation": "Music: Trazix",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bad things happening in this area...": {
+    "Translation": "Bad things happening in this area...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We got the order from the higher level": {
+    "Translation": "We got the order from the higher level",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "move to the X13 facility and wait for the next command": {
+    "Translation": "move to the X13 facility and wait for the next command",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "find out the train under this tunnel": {
+    "Translation": "find out the train under this tunnel",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "goodluck": {
+    "Translation": "goodluck",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

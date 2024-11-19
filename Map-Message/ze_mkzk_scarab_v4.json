@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ze_MkZk_Scarab_v4": {
+    "Translation": "ze_MkZk_Scarab_v4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Enter the gates and follow the eye to find the ancient portal.": {
+    "Translation": "Enter the gates and follow the eye to find the ancient portal.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "But be vigilant...": {
+    "Translation": "But be vigilant...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "...death will come over those who dont see the scarab.": {
+    "Translation": "...death will come over those who dont see the scarab.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Sector 1 reached.": {
+    "Translation": "Sector 1 reached.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Sector 2 reached.": {
+    "Translation": "Sector 2 reached.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

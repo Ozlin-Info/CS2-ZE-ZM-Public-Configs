@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "++ DOORS WILL BE UNLOCKED IN 120 SECONDS ++": {
+    "Translation": "++ DOORS WILL BE UNLOCKED IN 120 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ DOORS WILL BE UNLOCKED IN 60 SECONDS ++": {
+    "Translation": "++ DOORS WILL BE UNLOCKED IN 60 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ DOORS WILL BE UNLOCKED IN 30 SECONDS ++": {
+    "Translation": "++ DOORS WILL BE UNLOCKED IN 30 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ FIRST FLOOR WILL BE UNLOCKED IN 10 SECONDS ++": {
+    "Translation": "++ FIRST FLOOR WILL BE UNLOCKED IN 10 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ SECOND FLOOR WILL BE UNLOCKED IN 10 SECONDS ++": {
+    "Translation": "++ SECOND FLOOR WILL BE UNLOCKED IN 10 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ THIRD FLOOR WILL BE UNLOCKED IN 10 SECONDS ++": {
+    "Translation": "++ THIRD FLOOR WILL BE UNLOCKED IN 10 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ ALL FLOORS ARE UNLOCKED ++": {
+    "Translation": "++ ALL FLOORS ARE UNLOCKED ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++": {
+    "Translation": "++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

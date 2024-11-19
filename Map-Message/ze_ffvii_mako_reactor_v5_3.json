@@ -1,0 +1,349 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " MAP BY: Hannibal[SPA] (Rafuron) ": {
+    "Translation": " MAP BY: Hannibal[SPA] (Rafuron) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Server settings initialized ": {
+    "Translation": " Server settings initialized ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tips and Adjustements: Maese Danielot ": {
+    "Translation": " Tips and Adjustements: Maese Danielot ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Optimization and Helping: Kaemon ": {
+    "Translation": " Optimization and Helping: Kaemon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CURRENT DIFFICULTY   NORMAL  ": {
+    "Translation": "CURRENT DIFFICULTY   NORMAL  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MATERIAS AT LVL 1 ": {
+    "Translation": " MATERIAS AT LVL 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door is opening in 7 seconds ": {
+    "Translation": " Door is opening in 7 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has adquired FIRE MATERIA ": {
+    "Translation": " A player has adquired FIRE MATERIA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has adquired ELECTRO MATERIA ": {
+    "Translation": " A player has adquired ELECTRO MATERIA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Superior door opening in 30 seconds": {
+    "Translation": "Superior door opening in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENS IN 5 s ": {
+    "Translation": " DOOR OPENS IN 5 s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has adquired ICE MATERIA ": {
+    "Translation": " A player has adquired ICE MATERIA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has adquired WIND MATERIA ": {
+    "Translation": " A player has adquired WIND MATERIA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opening in 10 seconds": {
+    "Translation": "Door opening in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has adquired GRAVITY MATERIA ": {
+    "Translation": " A player has adquired GRAVITY MATERIA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door is opening in 10 seconds": {
+    "Translation": "Door is opening in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door is opening in 5": {
+    "Translation": "Door is opening in 5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door is open": {
+    "Translation": "Door is open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator is leaving in 10s": {
+    "Translation": "Elevator is leaving in 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We have reached the core  ...": {
+    "Translation": " We have reached the core  ...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ... Cloud is planting the bomb  ": {
+    "Translation": " ... Cloud is planting the bomb  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bomb has been planted    Run ": {
+    "Translation": " Bomb has been planted    Run ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Keep shooting ! We dont know what it can do ": {
+    "Translation": "Keep shooting ! We dont know what it can do ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The monster is going to attack ! ": {
+    "Translation": " The monster is going to attack ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Its dead  Go go! Run upstairs ! ": {
+    "Translation": "Its dead  Go go! Run upstairs ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EXPLOSION IN 145 SECONDS ": {
+    "Translation": " EXPLOSION IN 145 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  110 SECONDS LEFT ": {
+    "Translation": "  110 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has adquired HEAL MATERIA ": {
+    "Translation": " A player has adquired HEAL MATERIA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  100 SECONDS LEFT ": {
+    "Translation": "  100 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  90 SECONDS LEFT ": {
+    "Translation": "  90 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  80 SECONDS LEFT ": {
+    "Translation": "  80 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENS IN 35 S ": {
+    "Translation": " DOOR OPENS IN 35 S ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Go to the control room and try to open it earlier ": {
+    "Translation": " Go to the control room and try to open it earlier ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  70 SECONDS LEFT ": {
+    "Translation": "  70 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Well done! Door is opening in 10 seconds ": {
+    "Translation": " Well done! Door is opening in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  60 SECONDS LEFT ": {
+    "Translation": "  60 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  50 SECONDS LEFT ": {
+    "Translation": "  50 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  40 SECONDS LEFT ": {
+    "Translation": "  40 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  30 SECONDS LEFT ": {
+    "Translation": "  30 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  20 SECONDS LEFT ": {
+    "Translation": "  20 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! ": {
+    "Translation": "Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CURRENT DIFFICULTY   HARD  ": {
+    "Translation": "CURRENT DIFFICULTY   HARD  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MATERIAS AT LVL 2 ": {
+    "Translation": " MATERIAS AT LVL 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIP: GRENADES MAKE A LOT OF DAMAGE  USE IT ": {
+    "Translation": " TIP: GRENADES MAKE A LOT OF DAMAGE  USE IT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Dont stop shooting ! Dont let him attack !": {
+    "Translation": " Dont stop shooting ! Dont let him attack !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bahamut is in attack position  Keep firing !! ": {
+    "Translation": " Bahamut is in attack position  Keep firing !! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bahamut is going to cast Mega Flare !! Shoot !! ": {
+    "Translation": " Bahamut is going to cast Mega Flare !! Shoot !! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING ": {
+    "Translation": " BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bahamut has been defeated !  Go go! Run upstairs ! ": {
+    "Translation": "Bahamut has been defeated !  Go go! Run upstairs ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EXPLOSION IN 120 SECONDS ": {
+    "Translation": " EXPLOSION IN 120 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RUN! ": {
+    "Translation": " RUN! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  10 SECONDS LEFT ": {
+    "Translation": "  10 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has adquired EARTH MATERIA ": {
+    "Translation": " A player has adquired EARTH MATERIA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has adquired ULTIMA MATERIA ": {
+    "Translation": " A player has adquired ULTIMA MATERIA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIES HAVE INFECTED THE BUNKER ": {
+    "Translation": " ZOMBIES HAVE INFECTED THE BUNKER ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CURRENT DIFFICULTY   EXTREME II  ": {
+    "Translation": "CURRENT DIFFICULTY   EXTREME II  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MATERIAS AT LVL 3 ": {
+    "Translation": " MATERIAS AT LVL 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " COLOR DUE TO EXTREME DIFFICULTY ": {
+    "Translation": " COLOR DUE TO EXTREME DIFFICULTY ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BAHAMUT IS CASTING  PREPARE YOURSELF ": {
+    "Translation": " BAHAMUT IS CASTING  PREPARE YOURSELF ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BAHAMUT HAS CAST WIND ": {
+    "Translation": " BAHAMUT HAS CAST WIND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EXPLOSION IN 130 SECONDS ": {
+    "Translation": " EXPLOSION IN 130 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  120 SECONDS LEFT ": {
+    "Translation": "  120 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30 SECONDS LEFT ": {
+    "Translation": " 30 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 SECONDS LEFT ": {
+    "Translation": " 20 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS LEFT ": {
+    "Translation": " 10 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BAHAMUT IS DEAD  KEEP RUNNING ": {
+    "Translation": " BAHAMUT IS DEAD  KEEP RUNNING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BAHAMUT HAS CAST GRAVITY ": {
+    "Translation": " BAHAMUT HAS CAST GRAVITY ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BAHAMUT HAS HEALED 300 HIT POINTS": {
+    "Translation": " BAHAMUT HAS HEALED 300 HIT POINTS",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

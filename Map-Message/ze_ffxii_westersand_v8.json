@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " [HARD MODE] ": {
+    "Translation": " [HARD MODE] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP BY SLAYERDRAGON & NOCTALI ": {
+    "Translation": " MAP BY SLAYERDRAGON & NOCTALI ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Be aware of fake donations  groups and profiles ! ": {
+    "Translation": " Be aware of fake donations  groups and profiles ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend until the guards open the airport. ": {
+    "Translation": " Defend until the guards open the airport. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Airport opened. ": {
+    "Translation": " Airport opened. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend 30 seconds until the guards open the hallway. ": {
+    "Translation": " Defend 30 seconds until the guards open the hallway. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 Seconds left ": {
+    "Translation": " 5 Seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend here so the guards will open the gates to the city ! ": {
+    "Translation": " Defend here so the guards will open the gates to the city ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Cover here till the boxes explode ": {
+    "Translation": " Cover here till the boxes explode ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

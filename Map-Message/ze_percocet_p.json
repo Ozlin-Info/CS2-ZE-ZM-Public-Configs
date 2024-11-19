@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map By HooKaSmoKa ": {
+    "Translation": " Map By HooKaSmoKa ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Survive for 40 seconds until teleport is active ": {
+    "Translation": " Survive for 40 seconds until teleport is active ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies teleporting in 10 seconds ": {
+    "Translation": " Zombies teleporting in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door Opens in 40 Seconds ": {
+    "Translation": " Door Opens in 40 Seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " teleporting all players in 20 seconds ": {
+    "Translation": " teleporting all players in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Choose a frog to open the path! ": {
+    "Translation": " Choose a frog to open the path! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door opens in 5 seconds ": {
+    "Translation": " Door opens in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door closes in 15 seconds! ": {
+    "Translation": " Door closes in 15 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

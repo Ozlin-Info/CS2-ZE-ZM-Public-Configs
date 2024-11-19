@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Door open in 45 seconds": {
+    "Translation": "Door open in 45 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleport activates in 25 seconds": {
+    "Translation": "Teleport activates in 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Afk teleport in 10 seconds": {
+    "Translation": "Afk teleport in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door open in 40 seconds ": {
+    "Translation": " Door open in 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Afk teleport in 20 seconds ": {
+    "Translation": " Afk teleport in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door open in 15 seconds ": {
+    "Translation": " Door open in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door open in 25 seconds ": {
+    "Translation": " Door open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Afk teleport in 15 seconds": {
+    "Translation": "Afk teleport in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

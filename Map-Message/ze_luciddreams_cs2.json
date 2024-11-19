@@ -1,0 +1,74 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " 25sec ": {
+    "Translation": " 25sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5sec ": {
+    "Translation": " 5sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Find the Trigger to break the door": {
+    "Translation": "Find the Trigger to break the door",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 sec ": {
+    "Translation": " 20 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 15sec ": {
+    "Translation": " 15sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 45sec ": {
+    "Translation": " 45sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20sec ": {
+    "Translation": "20sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5sec ": {
+    "Translation": "5sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10sec ": {
+    "Translation": " 10sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30sec ": {
+    "Translation": " 30sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20sec ": {
+    "Translation": " 20sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 35sec ": {
+    "Translation": " 35sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Shield has been picked up": {
+    "Translation": "Shield has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

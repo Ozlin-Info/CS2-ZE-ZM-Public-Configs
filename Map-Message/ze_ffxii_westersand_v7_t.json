@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "[HARD MODE]": {
+    "Translation": "[HARD MODE]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP BY SLAYERDRAGON ": {
+    "Translation": " MAP BY SLAYERDRAGON ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

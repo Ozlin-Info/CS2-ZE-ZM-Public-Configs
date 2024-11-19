@@ -1,0 +1,59 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Hi guys, I hope you are having a good day.": {
+    "Translation": "Hi guys, I hope you are having a good day.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Find the best defense and survive.": {
+    "Translation": "Find the best defense and survive.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map Creator : Platin": {
+    "Translation": "Map Creator : Platin",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "In 150 seconds, the doors will open.": {
+    "Translation": "In 150 seconds, the doors will open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Opening the Door RUN !!!": {
+    "Translation": "Opening the Door RUN !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The boat will leave in 60 seconds !!!": {
+    "Translation": "The boat will leave in 60 seconds !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE TELEPORT 10 SECONDS !!!": {
+    "Translation": "ZOMBIE TELEPORT 10 SECONDS !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HUMAN TELEPORT ACTIVATED !": {
+    "Translation": "HUMAN TELEPORT ACTIVATED !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "boat leave time 10 seconds": {
+    "Translation": "boat leave time 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE DIE TIME !!!": {
+    "Translation": "ZOMBIE DIE TIME !!!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

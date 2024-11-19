@@ -1,0 +1,99 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " MAP BY GEORGE ": {
+    "Translation": " MAP BY GEORGE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THANKS TO STRUPPI. JENZ. SOFT SERVE. MOLTARD. AND LUFFAREN ": {
+    "Translation": " THANKS TO STRUPPI. JENZ. SOFT SERVE. MOLTARD. AND LUFFAREN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TEMPLE OPENS IN 5 SECONDS ": {
+    "Translation": " TEMPLE OPENS IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WELL DONE! DOOR OPENS IN 20 SECONDS ": {
+    "Translation": " WELL DONE! DOOR OPENS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOORS OPEN IN 20 SECONDS ": {
+    "Translation": " DOORS OPEN IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENS IN 40 SECONDS ": {
+    "Translation": " DOOR OPENS IN 40 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENS IN 25 SECONDS ": {
+    "Translation": " DOOR OPENS IN 25 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " IT LOOKS LIKE THE LEVER HAS FROZEN SOLID ": {
+    "Translation": " IT LOOKS LIKE THE LEVER HAS FROZEN SOLID ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WE CAN LIGHT THIS BRAZIER TO HELP THAW IT OUT ": {
+    "Translation": " WE CAN LIGHT THIS BRAZIER TO HELP THAW IT OUT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WE HAVE TO HOLD OUT 1 MINUTE UNTIL IT THAWS. ": {
+    "Translation": " WE HAVE TO HOLD OUT 1 MINUTE UNTIL IT THAWS. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " IT SHOULD BE THAWED OUT BY NOW. LETS GO! ": {
+    "Translation": " IT SHOULD BE THAWED OUT BY NOW. LETS GO! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WHAT IS THIS PLACE? ": {
+    "Translation": " WHAT IS THIS PLACE? ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " IT SEEMS LIKE THERE IS NO WAY OUT ": {
+    "Translation": " IT SEEMS LIKE THERE IS NO WAY OUT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RESIST UNTIL SOMETHING HAPPENS ": {
+    "Translation": " RESIST UNTIL SOMETHING HAPPENS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CRYSTALLIZE ": {
+    "Translation": " CRYSTALLIZE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ICY WIND ": {
+    "Translation": " ICY WIND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CRYSTAL RAIN ": {
+    "Translation": " CRYSTAL RAIN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FROSTY BEAM ": {
+    "Translation": " FROSTY BEAM ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

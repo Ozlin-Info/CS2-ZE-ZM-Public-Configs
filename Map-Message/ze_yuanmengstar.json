@@ -1,0 +1,144 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Thank you to Creal and 爱莉希雅大护法 for their help": {
+    "Translation": "Thank you to Creal and 爱莉希雅大护法 for their help",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防御机关将在45秒后打开": {
+    "Translation": "防御机关将在45秒后打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防御机关将在35秒后打开": {
+    "Translation": "防御机关将在35秒后打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防御机关将在25秒后打开": {
+    "Translation": "防御机关将在25秒后打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防御机关将在15秒后打开": {
+    "Translation": "防御机关将在15秒后打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防御机关将在5秒后打开": {
+    "Translation": "防御机关将在5秒后打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The defense mechanism door has been opened, please retreat quickly": {
+    "Translation": "The defense mechanism door has been opened, please retreat quickly",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM will TP in 15 seconds": {
+    "Translation": "ZM will TP in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The defense mechanism will open in 40 seconds": {
+    "Translation": "The defense mechanism will open in 40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The defense mechanism will open in 30 seconds": {
+    "Translation": "The defense mechanism will open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The defense mechanism will open in 20 seconds": {
+    "Translation": "The defense mechanism will open in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The defense mechanism will open in 10 seconds": {
+    "Translation": "The defense mechanism will open in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The transportation agency will start in 30 seconds": {
+    "Translation": "The transportation agency will start in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The transportation agency will start in 20 seconds": {
+    "Translation": "The transportation agency will start in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The transportation agency will start in 10 seconds": {
+    "Translation": "The transportation agency will start in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The transportation agency will start in 5 seconds": {
+    "Translation": "The transportation agency will start in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The transportation agency has been activated, please remain vigilant": {
+    "Translation": "The transportation agency has been activated, please remain vigilant",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM will TP in 5 seconds": {
+    "Translation": "ZM will TP in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The defense mechanism will open in 25 seconds": {
+    "Translation": "The defense mechanism will open in 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The defense mechanism will open in 15 seconds": {
+    "Translation": "The defense mechanism will open in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The defense mechanism will open in 5 seconds": {
+    "Translation": "The defense mechanism will open in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM will TP in 10 seconds": {
+    "Translation": "ZM will TP in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The defense mechanism has been opened, please retreat quickly": {
+    "Translation": "The defense mechanism has been opened, please retreat quickly",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The escape channel will open in 60 seconds": {
+    "Translation": "The escape channel will open in 60 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The escape channel will open in 30 seconds": {
+    "Translation": "The escape channel will open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The escape passage has been opened, run!": {
+    "Translation": "The escape passage has been opened, run!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Someone has passed the finish line and will carry out a nuclear explosion in 20 seconds": {
+    "Translation": "Someone has passed the finish line and will carry out a nuclear explosion in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

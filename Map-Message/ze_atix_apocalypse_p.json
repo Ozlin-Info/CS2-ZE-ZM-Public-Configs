@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " BOAT EVACUATION ": {
+    "Translation": " BOAT EVACUATION ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TRUCK EVACUATION ": {
+    "Translation": " TRUCK EVACUATION ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TRAIN EVACUATION ": {
+    "Translation": " TRAIN EVACUATION ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HELICOPTER EVACUATION ": {
+    "Translation": " HELICOPTER EVACUATION ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

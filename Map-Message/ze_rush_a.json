@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map by R1cko27": {
+    "Translation": "Map by R1cko27",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold 15 seconds": {
+    "Translation": "Hold 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You didn't have time to pass the laser": {
+    "Translation": "You didn't have time to pass the laser",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lasers are disabled": {
+    "Translation": "Lasers are disabled",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie tp at 20 seconds": {
+    "Translation": "Zombie tp at 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

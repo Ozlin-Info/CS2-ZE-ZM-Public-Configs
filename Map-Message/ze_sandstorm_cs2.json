@@ -1,0 +1,69 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " WARMUP ROUND ": {
+    "Translation": " WARMUP ROUND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP BY STK ": {
+    "Translation": " MAP BY STK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAGE 1 ": {
+    "Translation": " STAGE 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up Fire Staff ": {
+    "Translation": " A player has picked up Fire Staff ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The doors will open in 20 seconds ": {
+    "Translation": " The doors will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds left ": {
+    "Translation": " 5 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FALL BACK ": {
+    "Translation": " FALL BACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up Tornado Staff ": {
+    "Translation": " A player has picked up Tornado Staff ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up Earth Staff ": {
+    "Translation": " A player has picked up Earth Staff ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The doors will open in 25 seconds ": {
+    "Translation": " The doors will open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up Quicksand Staff ": {
+    "Translation": " A player has picked up Quicksand Staff ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door will open in 30 seconds ": {
+    "Translation": " The door will open in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

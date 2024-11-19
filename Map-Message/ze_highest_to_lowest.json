@@ -1,0 +1,84 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ze_highest_to_lowest ": {
+    "Translation": " ze_highest_to_lowest ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map created by thas ": {
+    "Translation": " Map created by thas ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " You are in the highest building ": {
+    "Translation": " You are in the highest building ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Try to go to lowest building ! ": {
+    "Translation": " Try to go to lowest building ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend for 15 seconds ": {
+    "Translation": " Defend for 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Remaining buildings : 6 ": {
+    "Translation": " Remaining buildings : 6 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend for 30 seconds ": {
+    "Translation": " Defend for 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Remaining buildings : 5 ": {
+    "Translation": " Remaining buildings : 5 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Remaining buildings : 4 ": {
+    "Translation": " Remaining buildings : 4 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Remaining buildings : 3 ": {
+    "Translation": " Remaining buildings : 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend for 35 seconds ": {
+    "Translation": " Defend for 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Remaining buildings : 2 ": {
+    "Translation": " Remaining buildings : 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Remaining buildings : 1 ": {
+    "Translation": " Remaining buildings : 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Final Defend ! Defend for 45 seconds ! ": {
+    "Translation": " Final Defend ! Defend for 45 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Humans Win ! ": {
+    "Translation": " Humans Win ! ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

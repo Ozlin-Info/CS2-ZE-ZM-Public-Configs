@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Level1": {
+    "Translation": "Level1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A LOTR Map By hotEvercLear": {
+    "Translation": "A LOTR Map By hotEvercLear",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gandalf: This is the forest of Mirkwood.... Be sure to stick to the path... ": {
+    "Translation": "Gandalf: This is the forest of Mirkwood.... Be sure to stick to the path... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gandalf: There are plants that grow off the path that will kill you!!!!.": {
+    "Translation": "Gandalf: There are plants that grow off the path that will kill you!!!!.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gandalf: Orcs are coming... RUN!!!!!": {
+    "Translation": "Gandalf: Orcs are coming... RUN!!!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thorin: The Path Is Overgrown... We must break our way through before it is too late": {
+    "Translation": "Thorin: The Path Is Overgrown... We must break our way through before it is too late",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

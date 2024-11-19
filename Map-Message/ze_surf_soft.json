@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ze_surf_soft ": {
+    "Translation": " ze_surf_soft ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by Entry_field ": {
+    "Translation": " Map by Entry_field ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend for 30 seconds ": {
+    "Translation": " Defend for 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds ": {
+    "Translation": " 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Go! ": {
+    "Translation": " Go! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " zombies coming! ": {
+    "Translation": " zombies coming! ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

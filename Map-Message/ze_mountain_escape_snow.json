@@ -1,0 +1,64 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Modified by Reflelia": {
+    "Translation": "Modified by Reflelia",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special Thanks to Mentalspin": {
+    "Translation": "Special Thanks to Mentalspin",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "50 SECONDS LEFT": {
+    "Translation": "50 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARM UP ROUIND": {
+    "Translation": "WARM UP ROUIND",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "40 SECONDS LEFT": {
+    "Translation": "40 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 SECONDS LEFT": {
+    "Translation": "30 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 SECONDS LEFT": {
+    "Translation": "20 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 SECONDS LEFT": {
+    "Translation": "10 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARM UP ROUND END": {
+    "Translation": "WARM UP ROUND END",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CURRENT MODE NORMAL": {
+    "Translation": "CURRENT MODE NORMAL",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CURRENT MODE CUSTOM": {
+    "Translation": "CURRENT MODE CUSTOM",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

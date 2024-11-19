@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "This has been overrun by zombies! Nuclear strike is in 4 minutes!": {
+    "Translation": "This has been overrun by zombies! Nuclear strike is in 4 minutes!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Head over to one of the safe spots to escape from the nuclear blast!": {
+    "Translation": "Head over to one of the safe spots to escape from the nuclear blast!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Do whatever it takes to survive at all cost": {
+    "Translation": "Do whatever it takes to survive at all cost",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARNING! PINK BOXES ARE LANDMINES! YOU HAVE BEEN WARNED!": {
+    "Translation": "WARNING! PINK BOXES ARE LANDMINES! YOU HAVE BEEN WARNED!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 seconds left!": {
+    "Translation": "30 seconds left!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds left!": {
+    "Translation": "10 seconds left!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3...": {
+    "Translation": "3...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2...": {
+    "Translation": "2...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1...": {
+    "Translation": "1...",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

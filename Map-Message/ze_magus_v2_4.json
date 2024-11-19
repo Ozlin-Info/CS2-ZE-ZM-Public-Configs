@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "20 seconds until the gate opens": {
+    "Translation": "20 seconds until the gate opens",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Open": {
+    "Translation": "Open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "55 seconds until the gate opens": {
+    "Translation": "55 seconds until the gate opens",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds until the gate opens": {
+    "Translation": "10 seconds until the gate opens",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 seconds until the wall breaks": {
+    "Translation": "30 seconds until the wall breaks",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "break!!": {
+    "Translation": "break!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "13 seconds until the boat leaves": {
+    "Translation": "13 seconds until the boat leaves",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

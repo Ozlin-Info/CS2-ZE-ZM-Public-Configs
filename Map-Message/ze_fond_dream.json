@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " level 1 ": {
+    "Translation": " level 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds": {
+    "Translation": "10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " level 2 ": {
+    "Translation": " level 2 ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "################": {
+    "Translation": "################",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WELCOME TO STARK ESCAPE": {
+    "Translation": "WELCOME TO STARK ESCAPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map Creator Platin": {
+    "Translation": "Map Creator Platin",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Test Server :  Mapeadores  GFL": {
+    "Translation": "Test Server :  Mapeadores  GFL",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Catch the elevator before it leaves. RUN": {
+    "Translation": "Catch the elevator before it leaves. RUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The elevator door is opening. It will close in 15 seconds!!!": {
+    "Translation": "The elevator door is opening. It will close in 15 seconds!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "It will close in 5 seconds!!!": {
+    "Translation": "It will close in 5 seconds!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The elevator door is closing.": {
+    "Translation": "The elevator door is closing.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The elevator door is opening.": {
+    "Translation": "The elevator door is opening.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie tp 5 sec !": {
+    "Translation": "Zombie tp 5 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Run Run": {
+    "Translation": "Run Run",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

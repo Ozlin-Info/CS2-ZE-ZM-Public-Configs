@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ZE_SURF_SKY_ISLANDS": {
+    "Translation": "ZE_SURF_SKY_ISLANDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Version:test8_4": {
+    "Translation": "Version:test8_4",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

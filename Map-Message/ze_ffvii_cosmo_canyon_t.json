@@ -1,0 +1,344 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ZE_FFVII_COSMO_CANYON": {
+    "Translation": "ZE_FFVII_COSMO_CANYON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by Headshooter.SC & HaRyDe": {
+    "Translation": "Map by Headshooter.SC & HaRyDe",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP ROUND": {
+    "Translation": "WARMUP ROUND",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Cover here for 5 seconds before we clear this obstacle": {
+    "Translation": "Cover here for 5 seconds before we clear this obstacle",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NORMAL MODE": {
+    "Translation": "NORMAL MODE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!": {
+    "Translation": "[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] Do not worry. I know this place.. I was born in here..": {
+    "Translation": "[RedXIII] Do not worry. I know this place.. I was born in here..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?": {
+    "Translation": "[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] Of course. But I need to do something first.. I will see you in the Gi Cave. ": {
+    "Translation": "[RedXIII] Of course. But I need to do something first.. I will see you in the Gi Cave. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] There I will give you all the stuff you need. ": {
+    "Translation": "[RedXIII] There I will give you all the stuff you need. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Cloud] No problem. I will wait for you in there..": {
+    "Translation": "[Cloud] No problem. I will wait for you in there..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We are almost at Cosmo Canyon": {
+    "Translation": "We are almost at Cosmo Canyon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend here for 25 seconds until the gates open": {
+    "Translation": "Defend here for 25 seconds until the gates open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gates are open. Welcome to Cosmo Canyon": {
+    "Translation": "Gates are open. Welcome to Cosmo Canyon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up HEAL materia": {
+    "Translation": "A player has picked up HEAL materia",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up EARTH materia": {
+    "Translation": "A player has picked up EARTH materia",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The barman will open the door in 5 seconds": {
+    "Translation": "The barman will open the door in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door ": {
+    "Translation": "Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS LEFT": {
+    "Translation": "5 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FALL BACK": {
+    "Translation": "FALL BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up BIO materia": {
+    "Translation": "A player has picked up BIO materia",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up WIND materia": {
+    "Translation": "A player has picked up WIND materia",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS": {
+    "Translation": "THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gates will open in 25 seconds": {
+    "Translation": "The gates will open in 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gates of gi cave will open in 15 seconds": {
+    "Translation": "The gates of gi cave will open in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up ELECTRO materia": {
+    "Translation": "A player has picked up ELECTRO materia",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait until something happens": {
+    "Translation": "Wait until something happens",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gi gate will open in 35 seconds": {
+    "Translation": "The gi gate will open in 35 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Cloud] Ay.. There you are!": {
+    "Translation": "[Cloud] Ay.. There you are!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] Yes. They helped me a lot. Did you ask for that? This is for you..": {
+    "Translation": "[RedXIII] Yes. They helped me a lot. Did you ask for that? This is for you..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Cloud] Thanks. But one question.. What did we forget here?": {
+    "Translation": "[Cloud] Thanks. But one question.. What did we forget here?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak..": {
+    "Translation": "[RedXIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] And he sacrificed himself in order to save the Cosmo Canyon..": {
+    "Translation": "[RedXIII] And he sacrificed himself in order to save the Cosmo Canyon..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Cloud] Oh what a pity.. ": {
+    "Translation": "[Cloud] Oh what a pity.. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him..": {
+    "Translation": "[RedXIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Cloud] Yea I wish you good luck. When you end with him I go repair our airship.. ": {
+    "Translation": "[Cloud] Yea I wish you good luck. When you end with him I go repair our airship.. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GRENADES DO A LOT OF DAMAGE. USE THEM!": {
+    "Translation": "GRENADES DO A LOT OF DAMAGE. USE THEM!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SOME OF YOUR ITEMS CAN DAMAGE THE BOSS": {
+    "Translation": "SOME OF YOUR ITEMS CAN DAMAGE THE BOSS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattak is using wind": {
+    "Translation": "Gi Nattak is using wind",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattak is using shield": {
+    "Translation": "Gi Nattak is using shield",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattak is spawning minions. Watch out for them": {
+    "Translation": "Gi Nattak is spawning minions. Watch out for them",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattak is using teleport": {
+    "Translation": "Gi Nattak is using teleport",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattak has healed 300 hp": {
+    "Translation": "Gi Nattak has healed 300 hp",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattak is using silence": {
+    "Translation": "Gi Nattak is using silence",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattak is using Fire Nova!!! Get out of middle": {
+    "Translation": "Gi Nattak is using Fire Nova!!! Get out of middle",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!": {
+    "Translation": "GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattack is escaped": {
+    "Translation": "Gi Nattack is escaped",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Now you can get out of Cave of Gi": {
+    "Translation": "Now you can get out of Cave of Gi",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattak is using fire": {
+    "Translation": "Gi Nattak is using fire",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattak is using gravity": {
+    "Translation": "Gi Nattak is using gravity",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattak is using poison": {
+    "Translation": "Gi Nattak is using poison",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up FIRE materia": {
+    "Translation": "A player has picked up FIRE materia",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up GRAVITY materia": {
+    "Translation": "A player has picked up GRAVITY materia",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gi Nattak is using aspil": {
+    "Translation": "Gi Nattak is using aspil",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENS IN 40 SECONDS": {
+    "Translation": "DOOR OPENS IN 40 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 SECONDS LEFT": {
+    "Translation": "10 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This is your last hold point": {
+    "Translation": "This is your last hold point",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Get on the rocks and hold 25 seconds": {
+    "Translation": "Get on the rocks and hold 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time..": {
+    "Translation": "[RedXIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NORMAL mode was beaten. Unlocking HARD mode ": {
+    "Translation": "NORMAL mode was beaten. Unlocking HARD mode ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HARD MODE": {
+    "Translation": "HARD MODE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CHEST SIDEQUEST STARTED": {
+    "Translation": "CHEST SIDEQUEST STARTED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL  ITEM THAT WILL HELP YOU ON GI NATTAK": {
+    "Translation": "FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL  ITEM THAT WILL HELP YOU ON GI NATTAK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The rock will explode in 25 seconds": {
+    "Translation": "The rock will explode in 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The detonator seems to be brokenGo another way": {
+    "Translation": "The detonator seems to be brokenGo another way",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] Hope he will not escape this time? I afraid that we could attract extra attention..": {
+    "Translation": "[RedXIII] Hope he will not escape this time? I afraid that we could attract extra attention..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away..": {
+    "Translation": "[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away..",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

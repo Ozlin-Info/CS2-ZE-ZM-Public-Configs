@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "map by Captain": {
+    "Translation": "map by Captain",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This is my first map,hope you like it.": {
+    "Translation": "This is my first map,hope you like it.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CS2 Port by gan and lingdu": {
+    "Translation": "CS2 Port by gan and lingdu",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

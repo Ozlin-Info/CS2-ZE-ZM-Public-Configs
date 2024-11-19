@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map by Kim and P'a'ss ": {
+    "Translation": " Map by Kim and P'a'ss ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Turning music on ": {
+    "Translation": " Turning music on ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Boat leaving in 5 seconds ": {
+    "Translation": " Boat leaving in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door opens in 25 seconds ": {
+    "Translation": " Door opens in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door Opening in 20 seconds! ": {
+    "Translation": " Door Opening in 20 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Noob Cleaned ": {
+    "Translation": " Noob Cleaned ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

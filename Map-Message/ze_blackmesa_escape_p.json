@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map By: Bill Smauz": {
+    "Translation": "Map By: Bill Smauz",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map For: www.zombiemurder.com": {
+    "Translation": "Map For: www.zombiemurder.com",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bridge Activated ": {
+    "Translation": " Bridge Activated ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Airlock Opens in 5 Seconds ": {
+    "Translation": " Airlock Opens in 5 Seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

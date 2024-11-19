@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "+= Stage 0 : Warmup Round =+": {
+    "Translation": "+= Stage 0 : Warmup Round =+",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Warm up Round ": {
+    "Translation": " Warm up Round ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+= Map Created By Rio =+": {
+    "Translation": "+= Map Created By Rio =+",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+= Map ported by Kuroki =+": {
+    "Translation": "+= Map ported by Kuroki =+",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+= Special thanks for the help in testing the Kotya Way =+": {
+    "Translation": "+= Special thanks for the help in testing the Kotya Way =+",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+= Stage 1 : Snow Shelter =+": {
+    "Translation": "+= Stage 1 : Snow Shelter =+",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " [MISSON] CHEAK THE AREA WHERE THE ULTRA UNGENT IS LOCATED AND ESCAPE SAFELY ": {
+    "Translation": " [MISSON] CHEAK THE AREA WHERE THE ULTRA UNGENT IS LOCATED AND ESCAPE SAFELY ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP STARTING... ": {
+    "Translation": " MAP STARTING... ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "[GTA 3] MAP MADE BY: ODM": {
+    "Translation": "[GTA 3] MAP MADE BY: ODM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[GTA 3] 5 SECONDS FOR BARRICADE OPENING...": {
+    "Translation": "[GTA 3] 5 SECONDS FOR BARRICADE OPENING...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[GTA 3] GO! GO! GO!  BRIDGE": {
+    "Translation": "[GTA 3] GO! GO! GO!  BRIDGE",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

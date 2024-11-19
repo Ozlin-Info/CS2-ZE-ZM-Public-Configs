@@ -1,0 +1,64 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "MAP BY TORMACOY": {
+    "Translation": "MAP BY TORMACOY",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THIS THE LOCATION OUR AGENTS REPORTED. THERE SHOULD BE AN ENEMY FACILITY SOMEWHERE INSIDE THIS TEMPLE": {
+    "Translation": "THIS THE LOCATION OUR AGENTS REPORTED. THERE SHOULD BE AN ENEMY FACILITY SOMEWHERE INSIDE THIS TEMPLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WE MUST FIND AND DESTROY IT. WATCH OUT FOR ZOMBIES, THIS PLACE IS INFESTED WITH THEM": {
+    "Translation": " WE MUST FIND AND DESTROY IT. WATCH OUT FOR ZOMBIES, THIS PLACE IS INFESTED WITH THEM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NOW LET'S MOVE ON": {
+    "Translation": "NOW LET'S MOVE ON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THIS PLATFORM SEEM LIKE AN ELEVATOR...": {
+    "Translation": "THIS PLATFORM SEEM LIKE AN ELEVATOR...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "UNLOCKING THE FRONT DOOR...": {
+    "Translation": "UNLOCKING THE FRONT DOOR...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THIS IS THE ENTRANCE TO THE TEMPLE...": {
+    "Translation": " THIS IS THE ENTRANCE TO THE TEMPLE...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD THEM OFF WHILE WE FIGURE OUT HOW TO OPEN IT": {
+    "Translation": "HOLD THEM OFF WHILE WE FIGURE OUT HOW TO OPEN IT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ALMOST THERE...": {
+    "Translation": "ALMOST THERE...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DONE. ITS OPENING. RUN ": {
+    "Translation": " DONE. ITS OPENING. RUN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD THE LINE WHILE THE OTHERS INVESTIGATE THE AREA": {
+    "Translation": "HOLD THE LINE WHILE THE OTHERS INVESTIGATE THE AREA",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

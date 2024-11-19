@@ -1,0 +1,64 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "TELEPORTING IN 30 SECONDS": {
+    "Translation": "TELEPORTING IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TP AFTER 5 SECONDS": {
+    "Translation": "AFK TP AFTER 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BREAK THE CUBE": {
+    "Translation": "BREAK THE CUBE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TELEPORTING IN 30 SECONDS ": {
+    "Translation": "TELEPORTING IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TP IN 5 SECONDS": {
+    "Translation": "AFK TP IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD 10 SECONDS": {
+    "Translation": "HOLD 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD ONE MORE 10 SECONDS ": {
+    "Translation": "HOLD ONE MORE 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND 30 SECONDS ": {
+    "Translation": "DEFEND 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TP IN 10 SECONDS ": {
+    "Translation": "AFK TP IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SURVIVE 50 SECONDS ": {
+    "Translation": "SURVIVE 50 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TELEPORT AFTER 5 SECONDS ": {
+    "Translation": "AFK TELEPORT AFTER 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

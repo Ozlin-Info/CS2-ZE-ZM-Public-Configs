@@ -1,0 +1,89 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Welcome To Take Our Test": {
+    "Translation": "Welcome To Take Our Test",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map By Linyan": {
+    "Translation": "Map By Linyan",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thank: 7ychu5, Hez, Nisa": {
+    "Translation": "Thank: 7ychu5, Hez, Nisa",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Have A Good Time": {
+    "Translation": "Have A Good Time",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Casual Level": {
+    "Translation": "Casual Level",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend 30 Seconds": {
+    "Translation": "Defend 30 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Serious Level": {
+    "Translation": "Serious Level",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie Teleport": {
+    "Translation": "Zombie Teleport",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend 50 Seconds": {
+    "Translation": "Defend 50 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Decisive Level": {
+    "Translation": "Decisive Level",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend 60 Seconds": {
+    "Translation": "Defend 60 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lethality Level": {
+    "Translation": "Lethality Level",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend Until We Finish The Test": {
+    "Translation": "Defend Until We Finish The Test",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

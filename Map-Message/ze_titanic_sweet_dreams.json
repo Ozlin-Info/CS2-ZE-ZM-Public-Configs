@@ -1,0 +1,79 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "# 30 SECONDS GREEN GLOW IN DEFEND #": {
+    "Translation": "# 30 SECONDS GREEN GLOW IN DEFEND #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# 5 SECONDS HUMANS TELEPORTING... #": {
+    "Translation": "# 5 SECONDS HUMANS TELEPORTING... #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# (1/5) Map Tip: Jump after the door opens, don't jump too early. #": {
+    "Translation": "# (1/5) Map Tip: Jump after the door opens, don't jump too early. #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# (2/5) Map Tip: Defend in the area surrounded by white neon light, so, defend in the bright area.. #": {
+    "Translation": "# (2/5) Map Tip: Defend in the area surrounded by white neon light, so, defend in the bright area.. #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# (3/5) Map Tip: Humans have to stand in the bright area, if you stand in the dark place, you cannot teleport. #": {
+    "Translation": "# (3/5) Map Tip: Humans have to stand in the bright area, if you stand in the dark place, you cannot teleport. #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# (4/5) Map Tip: If you are next to the defensive area, gravity becomes normal. If you are farther away, gravity decreases. #": {
+    "Translation": "# (4/5) Map Tip: If you are next to the defensive area, gravity becomes normal. If you are farther away, gravity decreases. #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# (5/5) Map Tip: Good Lucks! #": {
+    "Translation": "# (5/5) Map Tip: Good Lucks! #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# ZOMBIES TELEPORTED! #": {
+    "Translation": "# ZOMBIES TELEPORTED! #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# LAST 20 SECONDS #": {
+    "Translation": "# LAST 20 SECONDS #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# 30 SECONDS DEFEND #": {
+    "Translation": "# 30 SECONDS DEFEND #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# MAP: zombies are being helped. #": {
+    "Translation": "# MAP: zombies are being helped. #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# HUMANS FALL BACK  DOOR OPENING FOR 10 SECONDS #": {
+    "Translation": "# HUMANS FALL BACK  DOOR OPENING FOR 10 SECONDS #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# TOUCH THE WHITE NEON LIGHT WALL #": {
+    "Translation": "# TOUCH THE WHITE NEON LIGHT WALL #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# ZOMBIES TELEPORTED!!! #": {
+    "Translation": "# ZOMBIES TELEPORTED!!! #",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

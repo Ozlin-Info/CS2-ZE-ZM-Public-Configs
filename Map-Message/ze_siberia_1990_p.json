@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Warping all players to Siberia in 15 seconds.": {
+    "Translation": "Warping all players to Siberia in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Objective. Find and destroy the source of the outbreak.": {
+    "Translation": "Objective. Find and destroy the source of the outbreak.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "MAP CREATED BY: Hannibal[SPA] (Rafuron) ": {
+    "Translation": "MAP CREATED BY: Hannibal[SPA] (Rafuron) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Random objective:": {
+    "Translation": "Random objective:",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Destroy the Ring": {
+    "Translation": "Destroy the Ring",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK Teleport in 15 s": {
+    "Translation": "AFK Teleport in 15 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Reach the Mount Doom": {
+    "Translation": "Reach the Mount Doom",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Humans have reached the Cirith Ungol tower": {
+    "Translation": "Humans have reached the Cirith Ungol tower",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A human MUST pick up the RING while the others defend the entrance.": {
+    "Translation": "A human MUST pick up the RING while the others defend the entrance.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nazguls coming to Minas Morgul in 15 s": {
+    "Translation": "Nazguls coming to Minas Morgul in 15 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The ring has been picked!": {
+    "Translation": "The ring has been picked!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The bearer feels the weight of the Ring  Protect him! ": {
+    "Translation": " The bearer feels the weight of the Ring  Protect him! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The ring carrier must go down to open the door.": {
+    "Translation": "The ring carrier must go down to open the door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The Ring bearer has been corrupted! All hope is lost!": {
+    "Translation": " The Ring bearer has been corrupted! All hope is lost!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

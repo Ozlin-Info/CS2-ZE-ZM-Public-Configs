@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " 30 seconds left ": {
+    "Translation": " 30 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 15 seconds left ": {
+    "Translation": " 15 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds left ": {
+    "Translation": " 5 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 25 seconds left ": {
+    "Translation": " 25 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 35 seconds left ": {
+    "Translation": " 35 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold 30 seconds ": {
+    "Translation": " Hold 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

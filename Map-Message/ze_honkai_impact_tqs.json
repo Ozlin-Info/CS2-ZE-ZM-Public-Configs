@@ -1,0 +1,69 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Hold For 25seconds": {
+    "Translation": "Hold For 25seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold For 30seconds": {
+    "Translation": "Hold For 30seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up Ammo": {
+    "Translation": "A player has picked up Ammo",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "infinite Ammo Remaining: 10seconds": {
+    "Translation": "infinite Ammo Remaining: 10seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold For 35seconds": {
+    "Translation": "Hold For 35seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door is closing in 20seconds": {
+    "Translation": "Door is closing in 20seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleport all players outside the door in 5seconds": {
+    "Translation": "Teleport all players outside the door in 5seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold For 20seconds": {
+    "Translation": "Hold For 20seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The Door is closing in 10seconds": {
+    "Translation": "The Door is closing in 10seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boss approaching": {
+    "Translation": "Boss approaching",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boss is dead,Fall Back!!!": {
+    "Translation": "Boss is dead,Fall Back!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold For 25seconds,Teleport all players not in the glowing range in 5seconds": {
+    "Translation": "Hold For 25seconds,Teleport all players not in the glowing range in 5seconds",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "60 seconds until the news starts": {
+    "Translation": "60 seconds until the news starts",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds until the news starts": {
+    "Translation": "10 seconds until the news starts",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 seconds until the news starts": {
+    "Translation": "5 seconds until the news starts",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Bitcoin value nosedived...": {
+    "Translation": "[NEWS] Bitcoin value nosedived...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Dogecoin delisted...": {
+    "Translation": "[NEWS] Dogecoin delisted...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Ethereum value nosedived...": {
+    "Translation": "[NEWS] Ethereum value nosedived...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Ripple value skyrocketed!!!": {
+    "Translation": "[NEWS] Ripple value skyrocketed!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "survive for 60 seconds": {
+    "Translation": "survive for 60 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Ripple delisted...": {
+    "Translation": "[NEWS] Ripple delisted...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Bitcoin value skyrocketed!!": {
+    "Translation": "[NEWS] Bitcoin value skyrocketed!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "nuke in 10 seconds": {
+    "Translation": "nuke in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "nuke in 5 seconds": {
+    "Translation": "nuke in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Kill all zombies": {
+    "Translation": "Kill all zombies",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Dogecoin value nosedived...": {
+    "Translation": "[NEWS] Dogecoin value nosedived...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Ripple value nosedived...": {
+    "Translation": "[NEWS] Ripple value nosedived...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Ethereum delisting...": {
+    "Translation": "[NEWS] Ethereum delisting...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Bitcoin delisted...": {
+    "Translation": "[NEWS] Bitcoin delisted...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Dogecoin value skyrocketed!!": {
+    "Translation": "[NEWS] Dogecoin value skyrocketed!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Ethereum value skyrocketed!!": {
+    "Translation": "[NEWS] Ethereum value skyrocketed!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NEWS] Bitcoin delisting...": {
+    "Translation": "[NEWS] Bitcoin delisting...",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "warmup": {
+    "Translation": "warmup",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "warmup 50s": {
+    "Translation": "warmup 50s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "warmup 40s": {
+    "Translation": "warmup 40s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "warmup 30s": {
+    "Translation": "warmup 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "warmup 10s": {
+    "Translation": "warmup 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "warmup done": {
+    "Translation": "warmup done",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OPENING IN 25s": {
+    "Translation": "OPENING IN 25s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OPENING": {
+    "Translation": "OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OPENING IN 20s": {
+    "Translation": "OPENING IN 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OPENING IN 5s": {
+    "Translation": "OPENING IN 5s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "looks like these tubes can be broken": {
+    "Translation": "looks like these tubes can be broken",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

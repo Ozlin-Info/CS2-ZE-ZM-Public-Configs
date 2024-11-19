@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Respawn wall break in 20 sec": {
+    "Translation": "Respawn wall break in 20 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by Explay": {
+    "Translation": "Map by Explay",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Visit www.nextwin.ru": {
+    "Translation": "Visit www.nextwin.ru",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

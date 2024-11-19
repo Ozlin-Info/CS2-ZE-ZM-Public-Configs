@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Chapter I: Ascension ": {
+    "Translation": " Chapter I: Ascension ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We've reached the southwest dock... ": {
+    "Translation": " We've reached the southwest dock... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We must find our way into the facility. ": {
+    "Translation": " We must find our way into the facility. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " This path should lead us to one of the several supply warehouses... ": {
+    "Translation": " This path should lead us to one of the several supply warehouses... ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

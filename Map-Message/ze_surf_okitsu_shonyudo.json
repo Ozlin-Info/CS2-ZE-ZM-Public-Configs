@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "! ワイヤーを取り壊すまで 30 秒 !": {
+    "Translation": "! ワイヤーを取り壊すまで 30 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ワイヤーを取り壊すまで 10 秒 !": {
+    "Translation": "! ワイヤーを取り壊すまで 10 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!まもなくゾンビが開放されます !": {
+    "Translation": "!まもなくゾンビが開放されます !",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " IDEA: Sienestaja ": {
+    "Translation": " IDEA: Sienestaja ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by TaskuVaras ": {
+    "Translation": " Map by TaskuVaras ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Fixed by Moltard ": {
+    "Translation": " Fixed by Moltard ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Special Thanks to: Muro#[A] FT]": {
+    "Translation": "[Special Thanks to: Muro#[A] FT]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND ": {
+    "Translation": " WARMUP ROUND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LEVEL: FLAT GRASS ": {
+    "Translation": " LEVEL: FLAT GRASS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WAIT TILL THAT WALL BREAKS ": {
+    "Translation": " WAIT TILL THAT WALL BREAKS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WALL IS BROKEN RUUUUUUN!! ": {
+    "Translation": " WALL IS BROKEN RUUUUUUN!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WAIT TILL BOMB BREAKS THOSE BOARDS ": {
+    "Translation": " WAIT TILL BOMB BREAKS THOSE BOARDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BOARDS ARE BROKEN RUUUUUUN!! ": {
+    "Translation": " BOARDS ARE BROKEN RUUUUUUN!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Leaf 1 leaving in 7 seconds ": {
+    "Translation": " Leaf 1 leaving in 7 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD FOR 30 seconds ": {
+    "Translation": " HOLD FOR 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 more seconds ": {
+    "Translation": " 5 more seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO! GO! GO! ": {
+    "Translation": " GO! GO! GO! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " OH NO Its an EVIL BUTTERFLY ": {
+    "Translation": " OH NO Its an EVIL BUTTERFLY ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SHOOT IT BEFORE ITS TOO LATE!! ": {
+    "Translation": " SHOOT IT BEFORE ITS TOO LATE!! ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

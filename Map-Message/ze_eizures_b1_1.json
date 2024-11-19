@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map created by BlueGlue": {
+    "Translation": "Map created by BlueGlue",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This is my first map, there'll be bugs": {
+    "Translation": "This is my first map, there'll be bugs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special thanks to Keon, Lowmeng and Naraka for advices": {
+    "Translation": "Special thanks to Keon, Lowmeng and Naraka for advices",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This map is still incomplete": {
+    "Translation": "This map is still incomplete",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Opening the door": {
+    "Translation": "Opening the door",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ah shit, it's stuck": {
+    "Translation": "Ah shit, it's stuck",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "[LEVEL 1]  Go to the Police car park next to the Police Station. ": {
+    "Translation": "[LEVEL 1]  Go to the Police car park next to the Police Station. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 1]  Enter the Police Lower Tunnel Car Park. ": {
+    "Translation": "[LEVEL 1]  Enter the Police Lower Tunnel Car Park. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 1]  FALL BACK! ": {
+    "Translation": "[LEVEL 1]  FALL BACK! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 1]  Defend at door 2 for another 10 seconds. ": {
+    "Translation": "[LEVEL 1]  Defend at door 2 for another 10 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 2]  Enter through the window on the 3 wooden boxes on the left (for zombies). ": {
+    "Translation": "[LEVEL 2]  Enter through the window on the 3 wooden boxes on the left (for zombies). ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 2]  Go to the STAFF ROOM, door will open in 20 seconds.": {
+    "Translation": "[LEVEL 2]  Go to the STAFF ROOM, door will open in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 2]  FALL BACK! ": {
+    "Translation": "[LEVEL 2]  FALL BACK! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 2]  Prepare to Enter the Secret Library Room. ": {
+    "Translation": "[LEVEL 2]  Prepare to Enter the Secret Library Room. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 3]  Turn right and defend for another 20 seconds. ": {
+    "Translation": "[LEVEL 3]  Turn right and defend for another 20 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 3]  FALL BACK! ": {
+    "Translation": "[LEVEL 3]  FALL BACK! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 3]  Stick to the Door and defend for another 10 seconds. ": {
+    "Translation": "[LEVEL 3]  Stick to the Door and defend for another 10 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 3]  Turn on your flashlights because it can be scary, hold on for 10 seconds. ": {
+    "Translation": "[LEVEL 3]  Turn on your flashlights because it can be scary, hold on for 10 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 3]  Go to the CHIEF CONSTABLE for 5 seconds. ": {
+    "Translation": "[LEVEL 3]  Go to the CHIEF CONSTABLE for 5 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 3]  20 Seconds Strong Defend. ": {
+    "Translation": "[LEVEL 3]  20 Seconds Strong Defend. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 3]  The zombies have teleported away, go back and use the upper stairs. ": {
+    "Translation": "[LEVEL 3]  The zombies have teleported away, go back and use the upper stairs. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 4]  Defend the report room for 20 seconds. ": {
+    "Translation": "[LEVEL 4]  Defend the report room for 20 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 4]  FALL BACK! ": {
+    "Translation": "[LEVEL 4]  FALL BACK! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 4]  Without touching the fire, continue from the boss room, there is no stopping. ": {
+    "Translation": "[LEVEL 4]  Without touching the fire, continue from the boss room, there is no stopping. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 4]  The door will open soon. ": {
+    "Translation": "[LEVEL 4]  The door will open soon. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 4]  Go to the QUESTIONING. Zombies Teleporting in SECRETARY Room. ": {
+    "Translation": "[LEVEL 4]  Go to the QUESTIONING. Zombies Teleporting in SECRETARY Room. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 5]  20 Second Defend in room. ": {
+    "Translation": "[LEVEL 5]  20 Second Defend in room. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 5]  FALL BACK! ": {
+    "Translation": "[LEVEL 5]  FALL BACK! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 5] +10 Seconds. :ujel: ": {
+    "Translation": "[LEVEL 5] +10 Seconds. :ujel: ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 5]  30 Second Defend in room. ": {
+    "Translation": "[LEVEL 5]  30 Second Defend in room. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 5]  From the fire escape, go left.. ": {
+    "Translation": "[LEVEL 5]  From the fire escape, go left.. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL 5]  20 Seconds... ": {
+    "Translation": "[LEVEL 5]  20 Seconds... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL FINAL]  Stay in the green and defend. 30 Seconds ": {
+    "Translation": "[LEVEL FINAL]  Stay in the green and defend. 30 Seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[LEVEL FINAL]  GG! Everyone RTV! for ze_mars_escape 3 ": {
+    "Translation": "[LEVEL FINAL]  GG! Everyone RTV! for ze_mars_escape 3 ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

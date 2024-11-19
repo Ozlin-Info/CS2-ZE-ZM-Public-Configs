@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Backbgm:ButterCupJack Stauber": {
+    "Translation": "Backbgm:ButterCupJack Stauber",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map Made By:Rhyless": {
+    "Translation": "Map Made By:Rhyless",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special Thanks:Luo2Danger and HT": {
+    "Translation": "Special Thanks:Luo2Danger and HT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special Thanks:Unscientific and Pozeddd": {
+    "Translation": "Special Thanks:Unscientific and Pozeddd",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map Test:Wenren WuBei": {
+    "Translation": "Map Test:Wenren WuBei",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map Test:SakuyaWind and Whitecat": {
+    "Translation": "Map Test:SakuyaWind and Whitecat",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

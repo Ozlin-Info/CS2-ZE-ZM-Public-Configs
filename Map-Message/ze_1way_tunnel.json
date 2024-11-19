@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ALRIGHT, THE TUNNEL TO ESCAPE THE CITY IS JUST ABOVE OUR HEADS ": {
+    "Translation": " ALRIGHT, THE TUNNEL TO ESCAPE THE CITY IS JUST ABOVE OUR HEADS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WE HAVE TO MAKE IT FAST, THEY'RE ABOUT TO NUKE IT TO CONTAIN THE INFECTION ": {
+    "Translation": " WE HAVE TO MAKE IT FAST, THEY'RE ABOUT TO NUKE IT TO CONTAIN THE INFECTION ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

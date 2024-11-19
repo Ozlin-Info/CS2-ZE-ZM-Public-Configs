@@ -1,0 +1,69 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map by Taskuvaras": {
+    "Translation": "Map by Taskuvaras",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Human door opening in 15s": {
+    "Translation": "Human door opening in 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Survive for 1 min": {
+    "Translation": "Survive for 1 min",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie door opening in 6 sec": {
+    "Translation": "Zombie door opening in 6 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Survive for 30 sec": {
+    "Translation": "Survive for 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Survive for 10 sec": {
+    "Translation": "Survive for 10 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator leaving in 15 sec": {
+    "Translation": "Elevator leaving in 15 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator door opening!!!": {
+    "Translation": "Elevator door opening!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies locked to cage": {
+    "Translation": "Zombies locked to cage",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Break all red block to continue": {
+    "Translation": "Break all red block to continue",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Great job... hold for 15 sec": {
+    "Translation": "Great job... hold for 15 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GOGOGO!!!": {
+    "Translation": "GOGOGO!!!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

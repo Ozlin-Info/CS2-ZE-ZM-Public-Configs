@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Avoid black ": {
+    "Translation": " Avoid black ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wall will break in 15sec": {
+    "Translation": "Wall will break in 15sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "StageWhite": {
+    "Translation": "StageWhite",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Port by Creal ": {
+    "Translation": "Port by Creal ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP by NK ": {
+    "Translation": " MAP by NK ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

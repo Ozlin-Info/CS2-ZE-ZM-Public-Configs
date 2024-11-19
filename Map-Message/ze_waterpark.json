@@ -1,0 +1,294 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "bgm: feel it": {
+    "Translation": "bgm: feel it",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "map by 熵": {
+    "Translation": "map by 熵",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这是我第一次尝试制作ze图，还有很多需要改进的地方，如果你有什么好的意见，欢迎在创意工坊给我留言OwO": {
+    "Translation": "This is my first attempt at making a ze map, and there are many areas that need improvement. If you have any good suggestions, feel free to leave me a message in the workshop OwO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "祝你玩的开心！~": {
+    "Translation": "Have fun! ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "感谢exg的各位帮助指出地图的各个bug，玩得愉快~": {
+    "Translation": "Thanks to everyone from exg for helping point out the bugs in the map, enjoy your time~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "真倒霉！巴士抛锚了，我们必须在这个废弃的景区找到逃出去的道路！......或许我们能想办法把入口堵上，这样就能够拖延一下僵尸的进攻......": {
+    "Translation": "What bad luck! The bus broke down, and we must find a way to escape this abandoned tourist spot! ... Maybe we can find a way to block the entrance to delay the zombies' attack...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "保安室里的这个按钮似乎能让控制室的门打开，或许我们能在控制室找到什么线索让我们离开这个鬼地方！": {
+    "Translation": "This button in the security room seems to open the control room door; maybe we can find some clues in the control room to help us leave this cursed place!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到了！这个应该是打开停车场大门的钥匙！不过这么老旧的设备至少要耗费我们30秒的时间打开！坚持住！": {
+    "Translation": "Found it! This should be the key to open the parking lot gate! But this old equipment will take us at least 30 seconds to open! Hang in there!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这里貌似没什么路可走了！没办法，我们只能另辟蹊径！看到那辆巴士了么？我们把他移动到码头入口的雨棚上！从上面跳过去！": {
+    "Translation": "It seems there's no way forward! We have no choice but to find another way! Do you see that bus? Let's move it to the awning at the dock entrance! Jump over from there!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这个按钮能把码头的安全门关上！但愿不要把活着的人挡在外面！小心！码头的货运闸门打开了！僵尸会从另一边过来的！注意防守！": {
+    "Translation": "This button can close the dock's security door! Hope it doesn't block the living outside! Watch out! The cargo gate at the dock has opened! Zombies will come from the other side! Stay vigilant!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这艘船已经很旧了！给我10秒！我应该能把他发动起来！坚持住！": {
+    "Translation": "This boat is very old! Give me 10 seconds! I should be able to get it started! Hang in there!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "还有五秒船就走了！": {
+    "Translation": "The boat will leave in five seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门开了！": {
+    "Translation": "The door is open!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这里看起来已经荒废了一段时间了.....看样子我们需要找到三个机关来把通往吊桥的门打开！现在先守住门！让一部分人去触发开关！": {
+    "Translation": "This place seems to have been abandoned for some time... It looks like we need to find three mechanisms to open the door to the suspension bridge! For now, guard the door! Let some people trigger the switches!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第一个按钮已经按下！坚持住！": {
+    "Translation": "The first button has been pressed! Hang in there!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第三个按钮按下了！坚持住！": {
+    "Translation": "The third button has been pressed! Hang in there!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第二个按钮按下了！很快门就能打开了！": {
+    "Translation": "The second button has been pressed! The door will open soon!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将在十秒后开启！注意一下右边的道路！别被僵尸追上了！": {
+    "Translation": "The door will open in ten seconds! Watch the road to the right! Don't get caught by the zombies!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这里有一个迷宫，看来我们要穿过它！找找打开迷宫的开关吧！": {
+    "Translation": "There's a maze here; it looks like we need to get through it! Let's find the switch to open the maze!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "坚持住！还有15秒打开迷宫门！": {
+    "Translation": "Hang in there! The maze door will open in 15 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "看起来这个就是迷宫的开关了！简介上说“灯光会指引一切”我想那就是找到正确道路的关键！": {
+    "Translation": "It looks like this is the switch for the maze! The description says 'the light will guide everything'; I think that's the key to finding the right path!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "迷宫门还有15秒打开！打起精神！僵尸随时可能从树篱后面出现！": {
+    "Translation": "The maze door will open in 15 seconds! Stay alert! Zombies may appear from behind the hedges at any moment!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "坚持住！下一个迷宫的入口还有20秒打开！": {
+    "Translation": "Hang in there! The entrance to the next maze will open in 20 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门开了！准备丢道具撤退！": {
+    "Translation": "The door is open! Get ready to throw items and retreat!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门还需要15秒打开！小心僵尸追尾！": {
+    "Translation": "The door needs another 15 seconds to open! Watch out for zombies behind you!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门开了！我们退到门外防守！小心！再过五秒僵尸侧路开启！": {
+    "Translation": "The door is open! Let's retreat outside to defend! Be careful! In five seconds, zombies will come from the side!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "通往缆车的门还有15秒打开！注意防守！": {
+    "Translation": "The door to the cable car will open in 15 seconds! Stay vigilant!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "缆车将在10秒后启动！快上缆车！": {
+    "Translation": "The cable car will start in 10 seconds! Get on the cable car quickly!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "9秒！": {
+    "Translation": "9 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "8秒！": {
+    "Translation": "8 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "7秒！": {
+    "Translation": "7 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "6秒！": {
+    "Translation": "6 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5秒！": {
+    "Translation": "5 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4秒！": {
+    "Translation": "4 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3秒！": {
+    "Translation": "3 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2秒！": {
+    "Translation": "2 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1秒！": {
+    "Translation": "1 second!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "缆车启动了！": {
+    "Translation": "The cable car has started!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将在15秒后开启！注意防守！小心厕所！里面可能会有僵尸出来！": {
+    "Translation": "The door will open in 15 seconds! Stay vigilant! Be careful of the restroom! Zombies may come out from there!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "该死！这扇窗是用防弹玻璃做的！给我30秒！我应该能把它撬开！": {
+    "Translation": "Damn! This window is made of bulletproof glass! Give me 30 seconds! I should be able to pry it open!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "好了！窗户打开了！撤退！": {
+    "Translation": "Alright! The window is open! Retreat!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "咖啡馆的后门将在30秒后打开！坚持住！": {
+    "Translation": "The back door of the café will open in 30 seconds! Hang in there!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门开了！坚持住！胜利就在前方！": {
+    "Translation": "The door is open! Hang in there! Victory is just ahead!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "码头的门将在20秒后打开！": {
+    "Translation": "The dock's door will open in 20 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "船只引擎已开启！10秒后我们就离开这个鬼地方！尽量不要在船上移动！免得出事！": {
+    "Translation": "The boat's engine is on! In 10 seconds, we will leave this cursed place! Try not to move on the boat to avoid accidents!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "9！": {
+    "Translation": "9!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "8！": {
+    "Translation": "8!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "7！": {
+    "Translation": "7!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "6！": {
+    "Translation": "6!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5！": {
+    "Translation": "5!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4！": {
+    "Translation": "4!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3！": {
+    "Translation": "3!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2！": {
+    "Translation": "2!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1！": {
+    "Translation": "1!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "走咯！": {
+    "Translation": "Let's go!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "核爆启动！还有5秒！": {
+    "Translation": "Nuclear explosion initiated! 5 seconds remaining!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "核爆！": {
+    "Translation": "Nuclear explosion!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

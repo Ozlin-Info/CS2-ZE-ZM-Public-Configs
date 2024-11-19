@@ -1,0 +1,389 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "### WELCOME TO CRAZY ESCAPE ###": {
+    "Translation": "### WELCOME TO CRAZY ESCAPE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### MAP CREATED BY NARAKA  ###": {
+    "Translation": "### MAP CREATED BY NARAKA  ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### SPECIAL THANKS : Moltard ###": {
+    "Translation": "### SPECIAL THANKS : Moltard ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### GRAMMAR CORRECTION BY: ###": {
+    "Translation": "### GRAMMAR CORRECTION BY: ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### [GFL] : reduct [SMALL LOAN] ###": {
+    "Translation": "### [GFL] : reduct [SMALL LOAN] ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HUMANS WILL BE TELEPORTED IN 20 SECONDS ###": {
+    "Translation": "### HUMANS WILL BE TELEPORTED IN 20 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### 10 SECONDS REMAINING ###": {
+    "Translation": "### 10 SECONDS REMAINING ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HIDE AND HOLD FOR 75 SECONDS ###": {
+    "Translation": "### HIDE AND HOLD FOR 75 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### ZOMBIES WILL BE TELEPORTED SOON ### ": {
+    "Translation": "### ZOMBIES WILL BE TELEPORTED SOON ### ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### ZOMBIES ARE HERE !! ###": {
+    "Translation": "### ZOMBIES ARE HERE !! ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### 30 SECONDS REMAINING ###": {
+    "Translation": "### 30 SECONDS REMAINING ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### TELEPORT INCOMING IN 5 SECONDS ###": {
+    "Translation": "### TELEPORT INCOMING IN 5 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### GET TO THE TOP OF THE TOWER ###": {
+    "Translation": "### GET TO THE TOP OF THE TOWER ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### ZOMBIES WILL BE TELEPORTED IN 30 SECONDS ###": {
+    "Translation": "### ZOMBIES WILL BE TELEPORTED IN 30 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### THE TOWER IS GONNA EXPLODE !! ###": {
+    "Translation": "### THE TOWER IS GONNA EXPLODE !! ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARNING  TOWER WILL EXPLODE IN 30 SECONDS ###": {
+    "Translation": "### WARNING  TOWER WILL EXPLODE IN 30 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HOLD HERE AND SHOOT MADAFAKA ###": {
+    "Translation": "### HOLD HERE AND SHOOT MADAFAKA ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### 50 SECONDS REMAINING ###": {
+    "Translation": "### 50 SECONDS REMAINING ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### TOWER WILL EXPLODE IN 10 SECONDS ###": {
+    "Translation": "### TOWER WILL EXPLODE IN 10 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### KAABOOOMMMMM ###": {
+    "Translation": "### KAABOOOMMMMM ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### STAY IN THE GREEN LIGHT FOR TELEPORT ###": {
+    "Translation": "### STAY IN THE GREEN LIGHT FOR TELEPORT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### OTHERWISE YOU WILL BE TELEPORTED TO JAIL ###": {
+    "Translation": "### OTHERWISE YOU WILL BE TELEPORTED TO JAIL ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WAIT HERE TO RACE AGAINST ZOMBIES IN 5 SECONDS ###": {
+    "Translation": "### WAIT HERE TO RACE AGAINST ZOMBIES IN 5 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### REACH THE OTHER SIDE BEFORE ZOMBIES !!! ###": {
+    "Translation": "### REACH THE OTHER SIDE BEFORE ZOMBIES !!! ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HOLD FOR 40 SECONDS ###": {
+    "Translation": "### HOLD FOR 40 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### DONT DELAY OR BE PUNISHED ###": {
+    "Translation": "### DONT DELAY OR BE PUNISHED ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### 20 SECONDS REMAINING ###": {
+    "Translation": "### 20 SECONDS REMAINING ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HUMANS AND ZOMBIES NOT IN GREEN LIGHT ZONE ###": {
+    "Translation": "### HUMANS AND ZOMBIES NOT IN GREEN LIGHT ZONE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WILL BE TELEPORTED TO BOSS JAIL ###": {
+    "Translation": "### WILL BE TELEPORTED TO BOSS JAIL ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### 5 SECONDS UNTL THE NEXT TELEPORT ###": {
+    "Translation": "### 5 SECONDS UNTL THE NEXT TELEPORT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WHEN SINNER APPEARS ON THE CROSS, SHOOT IT ###": {
+    "Translation": "### WHEN SINNER APPEARS ON THE CROSS, SHOOT IT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### SINNER INCOMING IN 10 SECONDS ###": {
+    "Translation": "### SINNER INCOMING IN 10 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### DON'T CROSS THE RED LINE, IT IS NOT A HOLY AREA ###": {
+    "Translation": "### DON'T CROSS THE RED LINE, IT IS NOT A HOLY AREA ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### THAT IS A SINNER KILL HIM ###": {
+    "Translation": "### THAT IS A SINNER KILL HIM ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### BEFORE HE RELEASES THE ZOMBIES IN 90 SECONDS ###": {
+    "Translation": "### BEFORE HE RELEASES THE ZOMBIES IN 90 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### SINNER: YOUR SINS ARE GONNA HURT YOU!! FACE IT ###": {
+    "Translation": "### SINNER: YOUR SINS ARE GONNA HURT YOU!! FACE IT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### DEFEND THE 2 DUCTS!! ZOMBIES CAN COME FROM THERE ###": {
+    "Translation": "### DEFEND THE 2 DUCTS!! ZOMBIES CAN COME FROM THERE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### THE SINNER WILL UNLEASH THE ZOMBIES IN 60 SECONDS ###": {
+    "Translation": "### THE SINNER WILL UNLEASH THE ZOMBIES IN 60 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### SINNER IS DEAD ###": {
+    "Translation": "### SINNER IS DEAD ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HUMANS WILL BE TELEPORTED TO THE FINAL DESTINATION IN 10 SECONDS ##": {
+    "Translation": "### HUMANS WILL BE TELEPORTED TO THE FINAL DESTINATION IN 10 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HOLD THIS LAST PLACE FOR 1 MINUTE ###": {
+    "Translation": "### HOLD THIS LAST PLACE FOR 1 MINUTE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### BRIDGES WILL BREAK BEFORE ZOMBIES ARE TELEPORTED ###": {
+    "Translation": "### BRIDGES WILL BREAK BEFORE ZOMBIES ARE TELEPORTED ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### ZOMBIES INCOMING IN 10 SECONDS ###": {
+    "Translation": "### ZOMBIES INCOMING IN 10 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### DON'T LET ZOMBIES TOUCH THE TV OR YOU WILL LOSE ###": {
+    "Translation": "### DON'T LET ZOMBIES TOUCH THE TV OR YOU WILL LOSE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### ZOMBIES HAVE ARRIVED ###": {
+    "Translation": "### ZOMBIES HAVE ARRIVED ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### Thanks to ACME who found the bug here! ###": {
+    "Translation": "### Thanks to ACME who found the bug here! ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### TELEPORT IN 10 SECONDS ###": {
+    "Translation": "### TELEPORT IN 10 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### RUN TO THE OTHER SIDE  ###": {
+    "Translation": "### RUN TO THE OTHER SIDE  ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### AND SHOOT THOSE ZOMBIES  ### ": {
+    "Translation": "### AND SHOOT THOSE ZOMBIES  ### ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### MAKE YOUR WAY TO THE OTHER SIDE ###": {
+    "Translation": "### MAKE YOUR WAY TO THE OTHER SIDE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WHILE DEFENDING AGAINST ZOMBIES ###": {
+    "Translation": "### WHILE DEFENDING AGAINST ZOMBIES ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HUMANS, DO NOT DELAY ###": {
+    "Translation": "### HUMANS, DO NOT DELAY ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### PRESS THE BUTTON ON THE OTHER SIDE ###": {
+    "Translation": "### PRESS THE BUTTON ON THE OTHER SIDE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### YOU HAVE 90 SECONDS BEFORE ###": {
+    "Translation": "### YOU HAVE 90 SECONDS BEFORE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HUMANS GET TELEPORTED WITH ZOMBIES AUTOMATICALLY ###": {
+    "Translation": "### HUMANS GET TELEPORTED WITH ZOMBIES AUTOMATICALLY ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HOLD AND DEFEND FOR 30 SECONDS ###": {
+    "Translation": "### HOLD AND DEFEND FOR 30 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WAIT UNTIL THE DOOR OPENS ###": {
+    "Translation": "### WAIT UNTIL THE DOOR OPENS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### 10 SECONDS REMAININGS ###": {
+    "Translation": "### 10 SECONDS REMAININGS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### TELEPORTING THE REST IN 5 SECONDS ###": {
+    "Translation": "### TELEPORTING THE REST IN 5 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### TIP: DON'T TOUCH THE CAUTION PILLARS ###": {
+    "Translation": "### TIP: DON'T TOUCH THE CAUTION PILLARS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### THEY WILL TELEPORT YOU BACKK LOL ###": {
+    "Translation": "### THEY WILL TELEPORT YOU BACKK LOL ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### ZOMBIES WAIT FOR 10 SECONDS ###": {
+    "Translation": "### ZOMBIES WAIT FOR 10 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### STAY IN THE GREEN LIGHT ZONE ###": {
+    "Translation": "### STAY IN THE GREEN LIGHT ZONE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### TELEPORT INCOMING IN 30 SECONDS ###": {
+    "Translation": "### TELEPORT INCOMING IN 30 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HUMANS NOT IN THE GREEN LIGHT ZONE ###": {
+    "Translation": "### HUMANS NOT IN THE GREEN LIGHT ZONE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WILL BE TELEPORTED WITH ZOMBIES ###": {
+    "Translation": "### WILL BE TELEPORTED WITH ZOMBIES ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WAIT HERE FOR A BIT ###": {
+    "Translation": "### WAIT HERE FOR A BIT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### BE READY IN 5 SECONDS ###": {
+    "Translation": "### BE READY IN 5 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### HOLD HERE AND SHOOT FOR 30 SECONDS ###": {
+    "Translation": "### HOLD HERE AND SHOOT FOR 30 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### DONT DELAY OR YOU WILL TELEPORT WITH ZOMBIES ###": {
+    "Translation": "### DONT DELAY OR YOU WILL TELEPORT WITH ZOMBIES ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WHEN EVERYONE IS HERE, NARAKA WILL SPAWN ###": {
+    "Translation": "### WHEN EVERYONE IS HERE, NARAKA WILL SPAWN ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### IN 10 SECONDS ###": {
+    "Translation": "### IN 10 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### MADUDU FAKA MADAFAKAA HUEHUE ###": {
+    "Translation": "### MADUDU FAKA MADAFAKAA HUEHUE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### THE WALL WILL DISAPPEAR AND NARAKA WILL COME ###": {
+    "Translation": "### THE WALL WILL DISAPPEAR AND NARAKA WILL COME ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### YOU ALL HAVE 2 MINUTES BEFORE ###": {
+    "Translation": "### YOU ALL HAVE 2 MINUTES BEFORE ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###": {
+    "Translation": "### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

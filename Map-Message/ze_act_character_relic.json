@@ -1,0 +1,184 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ZE_ACT_CHARACTER_RELIC": {
+    "Translation": "ZE_ACT_CHARACTER_RELIC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZE_ACT_CHARACTER_RELIC ": {
+    "Translation": " ZE_ACT_CHARACTER_RELIC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] AFK teleport open in 50 seconds": {
+    "Translation": "[Map] AFK teleport open in 50 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] Zombie teleport open in 40 seconds": {
+    "Translation": "[Map] Zombie teleport open in 40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] Human teleport open in 10 seconds": {
+    "Translation": "[Map] Human teleport open in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[story] An unidentified virus strain is rapidly spreading across the world.": {
+    "Translation": "[story] An unidentified virus strain is rapidly spreading across the world.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map By Ts ": {
+    "Translation": " Map By Ts ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Because some reason,map just use 2k compile. ": {
+    "Translation": " Because some reason,map just use 2k compile. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Sorry to all player ": {
+    "Translation": " Sorry to all player ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " This maybe let you get a bad experience. ": {
+    "Translation": " This maybe let you get a bad experience. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[story] Infectors will attack all alive and laughing uncontrollably.": {
+    "Translation": "[story] Infectors will attack all alive and laughing uncontrollably.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " I will do my best to fix it. ": {
+    "Translation": " I will do my best to fix it. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[story] After disaster outbreak one week,almost all of the countries are in a state of anarchy.": {
+    "Translation": "[story] After disaster outbreak one week,almost all of the countries are in a state of anarchy.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[story] Survivor named it 'Crazy Disease'.": {
+    "Translation": "[story] Survivor named it 'Crazy Disease'.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] Human have 30 seconds to ready": {
+    "Translation": "[Map] Human have 30 seconds to ready",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[story] 3:36 PM Forgotten Forest": {
+    "Translation": "[story] 3:36 PM Forgotten Forest",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Radio] ...(hiss)...This is Command Center...come in,over.": {
+    "Translation": "[Radio] ...(hiss)...This is Command Center...come in,over.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Captain.Li] This is Alpha,we have arrived location nearly and we have contacted with part of Delta,over.": {
+    "Translation": "[Captain.Li] This is Alpha,we have arrived location nearly and we have contacted with part of Delta,over.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Radio] More survivors have lost contact with us.It doesn't well.How about Dr.He and others.": {
+    "Translation": "[Radio] More survivors have lost contact with us.It doesn't well.How about Dr.He and others.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Captain.Li] Dr.He is ok.Team Alpha can still finish mission.": {
+    "Translation": "[Captain.Li] Dr.He is ok.Team Alpha can still finish mission.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Radio] Ok,Good luck to you...(hiss)...Detected infectors move to you...": {
+    "Translation": "[Radio] Ok,Good luck to you...(hiss)...Detected infectors move to you...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] Game and Zombie start in 10 seconds": {
+    "Translation": "[Map] Game and Zombie start in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Dr.He] They are coming.It seems that this is the origin of the disaster.": {
+    "Translation": "[Dr.He] They are coming.It seems that this is the origin of the disaster.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Captain.Li] Let's go,we must find that crystal to finish all of this.": {
+    "Translation": "[Captain.Li] Let's go,we must find that crystal to finish all of this.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] Game start": {
+    "Translation": "[Map] Game start",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Captain.Li] Doctor,you think that meteor is important of this?": {
+    "Translation": "[Captain.Li] Doctor,you think that meteor is important of this?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] Be careful! ZM can across fire area but HM can not!": {
+    "Translation": "[Map] Be careful! ZM can across fire area but HM can not!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] Shoot barries to open road": {
+    "Translation": "[Map] Shoot barries to open road",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Dr.He] Not sure,but in all probability.Before disaster outbreak we have received many messages.": {
+    "Translation": "[Dr.He] Not sure,but in all probability.Before disaster outbreak we have received many messages.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Dr.He] In start of this we all ignore it and just think it is a riot.But soon almost all of area is out of control.": {
+    "Translation": "[Dr.He] In start of this we all ignore it and just think it is a riot.But soon almost all of area is out of control.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Dr.He] Here is where the meteorite landed and disaster outbreak from here and in same time Crnobog go this relic build some facilities.": {
+    "Translation": "[Dr.He] Here is where the meteorite landed and disaster outbreak from here and in same time Crnobog go this relic build some facilities.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Dr.He] So I think they Caused this.": {
+    "Translation": "[Dr.He] So I think they Caused this.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Captain.Li] Ok,we have arrived relic,let's go to find truth!Damn,why these infectors can't killed?": {
+    "Translation": "[Captain.Li] Ok,we have arrived relic,let's go to find truth!Damn,why these infectors can't killed?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Dr.He] Maybe he has known we arrive and these infectors are all reformed.": {
+    "Translation": "[Dr.He] Maybe he has known we arrive and these infectors are all reformed.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] Detected ZM you have failed": {
+    "Translation": "[Map] Detected ZM you have failed",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

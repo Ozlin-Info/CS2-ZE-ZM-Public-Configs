@@ -1,0 +1,64 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "v0.6  update  2024.4.26": {
+    "Translation": "v0.6  update  2024.4.26",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Welcome.Welcome to the ROOMs testing lab.Turn right and open the first test room": {
+    "Translation": "Welcome.Welcome to the ROOMs testing lab.Turn right and open the first test room",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Today's task : follow the prompts of the lights to enter the room, turn on the machine, collect energy balls through the portal, and then return": {
+    "Translation": "Today's task : follow the prompts of the lights to enter the room, turn on the machine, collect energy balls through the portal, and then return",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Before starting the test, we would like to remind you of the following points:": {
+    "Translation": "Before starting the test, we would like to remind you of the following points:",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Firstly, pay attention to natural disasters caused by rainy and snowy weather": {
+    "Translation": "Firstly, pay attention to natural disasters caused by rainy and snowy weather",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Secondly, our former experimenters dropped some equipment across from the portal.They can use ONLY ONE TIME .We encourage you to use them to get out of trouble, but some equipment can also be harmful to you. Please be careful to distinguish between them": {
+    "Translation": "Secondly, our former experimenters dropped some equipment across from the portal.They can use ONLY ONE TIME .We encourage you to use them to get out of trouble, but some equipment can also be harmful to you. Please be careful to distinguish between them",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thirdly, we understand that you may feel fearful of the unknown and refuse to pass through the portal, but please be prepared to face even more terrifying unknowns": {
+    "Translation": "Thirdly, we understand that you may feel fearful of the unknown and refuse to pass through the portal, but please be prepared to face even more terrifying unknowns",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Fourthly, we do not object to you deceiving the portal with your cleverness, but please be Prepare for unforeseen consequences.": {
+    "Translation": "Fourthly, we do not object to you deceiving the portal with your cleverness, but please be Prepare for unforeseen consequences.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 room is ready!": {
+    "Translation": "3 room is ready!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "After collecting enough energy balls and completing the mission, we will use the portal to send you safely out of here. Have a nice,safe day.": {
+    "Translation": "After collecting enough energy balls and completing the mission, we will use the portal to send you safely out of here. Have a nice,safe day.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2 room is ready!": {
+    "Translation": "2 room is ready!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

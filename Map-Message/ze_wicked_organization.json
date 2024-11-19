@@ -1,0 +1,69 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "MAP BY MIDRAN KIDRAN": {
+    "Translation": "MAP BY MIDRAN KIDRAN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SPECIAL THANKS TO MAPEADORES FOR TESTING": {
+    "Translation": "SPECIAL THANKS TO MAPEADORES FOR TESTING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR BREAKS IN 10 SECONDS ": {
+    "Translation": " DOOR BREAKS IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR BREAKS IN 20 SECONDS ": {
+    "Translation": " DOOR BREAKS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GATE BREAKS IN 30 SECONDS ": {
+    "Translation": " GATE BREAKS IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! ZOMBIES TELEPORT IN 5 SECONDS !!!": {
+    "Translation": "!!! ZOMBIES TELEPORT IN 5 SECONDS !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SEWER COVER BREAKS IN 15 SECONDS ": {
+    "Translation": " SEWER COVER BREAKS IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! ZOMBIES TELEPORT IN 10 SECONDS !!!": {
+    "Translation": "!!! ZOMBIES TELEPORT IN 10 SECONDS !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GATE OPENS IN 20 SECONDS ": {
+    "Translation": " GATE OPENS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CRATES BREAK IN 15 SECONDS ": {
+    "Translation": " CRATES BREAK IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FINAL DOOR OPENS IN 20 SECONDS ": {
+    "Translation": " FINAL DOOR OPENS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FINAL DOOR CLOSES IN 15 SECONDS ": {
+    "Translation": " FINAL DOOR CLOSES IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

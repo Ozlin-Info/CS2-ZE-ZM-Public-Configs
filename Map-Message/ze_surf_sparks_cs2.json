@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map by ApeXe & Bushido": {
+    "Translation": "Map by ApeXe & Bushido",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Based on the map surf_aura": {
+    "Translation": "Based on the map surf_aura",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Activating teleport in 20 seconds": {
+    "Translation": "Activating teleport in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleport activated": {
+    "Translation": "Teleport activated",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

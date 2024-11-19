@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " This is the southwest outpost in Lordaeron,Stormwind Keep ": {
+    "Translation": " This is the southwest outpost in Lordaeron,Stormwind Keep ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The Ministry has completely collapsed and needs to be reported to Lordaeron urgently ": {
+    "Translation": " The Ministry has completely collapsed and needs to be reported to Lordaeron urgently ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

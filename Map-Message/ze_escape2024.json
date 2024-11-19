@@ -1,0 +1,124 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "地图作者：ze探险家": {
+    "Translation": "地图作者：ze探险家",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "祝你游玩愉快": {
+    "Translation": "祝你游玩愉快",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 seconds": {
+    "Translation": "30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "tp in 20 seconds": {
+    "Translation": "tp in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 seconds left": {
+    "Translation": "30 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸被阻挡 10 seconds": {
+    "Translation": "僵尸被阻挡 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "一楼梯子即将打开 5 seconds left": {
+    "Translation": "一楼梯子即将打开 5 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "二楼梯子即将打开 5 seconds left": {
+    "Translation": "二楼梯子即将打开 5 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "三楼梯子即将打开 5 seconds left": {
+    "Translation": "三楼梯子即将打开 5 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 seconds": {
+    "Translation": "20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "tp in 10 seconds": {
+    "Translation": "tp in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 seconds left": {
+    "Translation": "20 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zombie tp in 10 seconds left": {
+    "Translation": "zombie tp in 10 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快跑，否则要进入二次元了 !": {
+    "Translation": "快跑，否则要进入二次元了 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "tp in 15 seconds left": {
+    "Translation": "tp in 15 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "tp in 25 seconds": {
+    "Translation": "tp in 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zombie tp in 10 seconds": {
+    "Translation": "zombie tp in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "tp in 15 seconds": {
+    "Translation": "tp in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸被困住了 10 seconds": {
+    "Translation": "僵尸被困住了 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸被阻挡 20 seconds": {
+    "Translation": "僵尸被阻挡 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸被阻挡 20 seconds left": {
+    "Translation": "僵尸被阻挡 20 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "无限弹药已启动": {
+    "Translation": "无限弹药已启动",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "无限弹药结束": {
+    "Translation": "无限弹药结束",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

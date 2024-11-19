@@ -1,0 +1,69 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "MAP BY MIDRAN KIDRAN": {
+    "Translation": "MAP BY MIDRAN KIDRAN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SPECIAL THANKS TO MAPEADORES FOR TESTING": {
+    "Translation": "SPECIAL THANKS TO MAPEADORES FOR TESTING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ONE PERSON HAS TO TRIGGER IN THE VENT": {
+    "Translation": "ONE PERSON HAS TO TRIGGER IN THE VENT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR BREAKS IN 20 SECONDS ": {
+    "Translation": " DOOR BREAKS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! ZOMBIES TELEPORT IN 15 SECONDS !!!": {
+    "Translation": "!!! ZOMBIES TELEPORT IN 15 SECONDS !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SHOOT THE GATE ": {
+    "Translation": " SHOOT THE GATE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SECOND GATE BREAKS IN 20 SECONDS ": {
+    "Translation": " SECOND GATE BREAKS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR BREAKS IN 15 SECONDS ": {
+    "Translation": " DOOR BREAKS IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR BREAKS IN 25 SECONDS": {
+    "Translation": "DOOR BREAKS IN 25 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! ZOMBIES TELEPORT IN 20 SECONDS !!!": {
+    "Translation": "!!! ZOMBIES TELEPORT IN 20 SECONDS !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GATE OPENS IN 20 SECONDS ": {
+    "Translation": " GATE OPENS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! ZOMBIES TELEPORT IN 30 SECONDS !!!": {
+    "Translation": "!!! ZOMBIES TELEPORT IN 30 SECONDS !!!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

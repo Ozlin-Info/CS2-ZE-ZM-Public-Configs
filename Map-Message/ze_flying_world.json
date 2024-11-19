@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "RUN TO THE CT FLIGHING BOAT": {
+    "Translation": "RUN TO THE CT FLIGHING BOAT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FOLLOW THE BLUE LIGHT": {
+    "Translation": "FOLLOW THE BLUE LIGHT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAP BY LeGrem": {
+    "Translation": "MAP BY LeGrem",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CT FLIGHING BOAT LEAVING IN 15 SECONDS": {
+    "Translation": "CT FLIGHING BOAT LEAVING IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES FLIGHING BOAT LEAVING IN 10 SECONDS": {
+    "Translation": "ZOMBIES FLIGHING BOAT LEAVING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CT FLIGHING BOAT LEAVING": {
+    "Translation": "CT FLIGHING BOAT LEAVING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES FLIGHING BOAT LEAVING": {
+    "Translation": "ZOMBIES FLIGHING BOAT LEAVING",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

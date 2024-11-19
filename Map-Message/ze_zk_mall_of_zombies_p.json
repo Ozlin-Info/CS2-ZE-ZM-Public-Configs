@@ -1,0 +1,99 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map created by dAllas ": {
+    "Translation": " Map created by dAllas ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIPS and HELP from Kim [pF] and MikeyMuse  ": {
+    "Translation": " TIPS and HELP from Kim [pF] and MikeyMuse  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The backend door will open in 30 seconds ": {
+    "Translation": " The backend door will open in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Elevator is activated ": {
+    "Translation": " Elevator is activated ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Elevator doors opens in 30 sec ": {
+    "Translation": " Elevator doors opens in 30 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Elevator doors closes in 15 seconds ": {
+    "Translation": " Elevator doors closes in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stair grid is now accessible ": {
+    "Translation": " Stair grid is now accessible ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The blast door will close after 30 seconds ": {
+    "Translation": " The blast door will close after 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The fence will break when the door is fully closed! ": {
+    "Translation": " The fence will break when the door is fully closed! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The TNT will blow in 40 seconds ": {
+    "Translation": " The TNT will blow in 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 3 ": {
+    "Translation": " 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 2 ": {
+    "Translation": " 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 1 ": {
+    "Translation": " 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BOOM ": {
+    "Translation": " BOOM ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO GO GO ": {
+    "Translation": " GO GO GO ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Last elevator is leaving in 20 seconds ": {
+    "Translation": " Last elevator is leaving in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Ladder grid will break in 10 seconds ": {
+    "Translation": " Ladder grid will break in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The Train will leave in 30 seconds ": {
+    "Translation": " The Train will leave in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

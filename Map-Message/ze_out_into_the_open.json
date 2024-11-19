@@ -1,0 +1,69 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "We have planted enough TNT to collapse this whole mine": {
+    "Translation": "We have planted enough TNT to collapse this whole mine",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Now we have to run from this place and into the extraction point": {
+    "Translation": "Now we have to run from this place and into the extraction point",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We cannot let the zombies reach the outside world or there will be chaos": {
+    "Translation": "We cannot let the zombies reach the outside world or there will be chaos",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "   D U C K   ": {
+    "Translation": "   D U C K   ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend for 15 seconds until the wall is destroyed!": {
+    "Translation": "Defend for 15 seconds until the wall is destroyed!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special thanks to everyone who helped and supported me making this map!": {
+    "Translation": "Special thanks to everyone who helped and supported me making this map!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PauseChamp Ujel2": {
+    "Translation": "PauseChamp Ujel2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Damn, looks like the electricity flow has been disrupted from the explosions occuring from other tunnel systems": {
+    "Translation": "Damn, looks like the electricity flow has been disrupted from the explosions occuring from other tunnel systems",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The lights are flickering, not a good sign": {
+    "Translation": "The lights are flickering, not a good sign",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We'll have to rely on our flashlight more": {
+    "Translation": "We'll have to rely on our flashlight more",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Damn! Looks like part of the mine's already collapsing": {
+    "Translation": "Damn! Looks like part of the mine's already collapsing",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Get some men to shoot these damn rocks to destroy it!": {
+    "Translation": "Get some men to shoot these damn rocks to destroy it!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

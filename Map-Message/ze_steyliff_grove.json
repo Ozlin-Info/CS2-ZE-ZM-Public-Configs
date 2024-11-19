@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " A zombie has learned [ Impact ] magic, ": {
+    "Translation": " A zombie has learned [ Impact ] magic, ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AraneaHighwind  Night falls, ": {
+    "Translation": "AraneaHighwind  Night falls, ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AraneaHighwind  Wait quietly for the maze gate to open. ": {
+    "Translation": "AraneaHighwind  Wait quietly for the maze gate to open. ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

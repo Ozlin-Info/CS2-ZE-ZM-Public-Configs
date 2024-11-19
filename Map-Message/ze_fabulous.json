@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "我们到达了他的城堡": {
+    "Translation": "我们到达了他的城堡",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将会在15秒后开启": {
+    "Translation": "门将会在15秒后开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "他不在这里": {
+    "Translation": "他不在这里",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将会在30秒后开启": {
+    "Translation": "门将会在30秒后开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "去寻找他": {
+    "Translation": "去寻找他",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ze_sky_bridge_a01_fix3 ": {
+    "Translation": " ze_sky_bridge_a01_fix3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by kur4yam1 ": {
+    "Translation": " Map by kur4yam1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend for 20 seconds ": {
+    "Translation": " Defend for 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds left ": {
+    "Translation": " 10 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend for 40 seconds ": {
+    "Translation": " Defend for 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " zm teleport in 10 seconds ": {
+    "Translation": " zm teleport in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend for 30 seconds ": {
+    "Translation": " Defend for 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Lift move in 10 seconds ": {
+    "Translation": " Lift move in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " zm teleport in 5 seconds ": {
+    "Translation": " zm teleport in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Press all buttons ": {
+    "Translation": " Press all buttons ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button 3 Pressed ": {
+    "Translation": " Button 3 Pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button 4 Pressed ": {
+    "Translation": " Button 4 Pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button 2 Pressed ": {
+    "Translation": " Button 2 Pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button 1 Pressed ": {
+    "Translation": " Button 1 Pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " All button pressed ": {
+    "Translation": " All button pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend for 10 seconds ": {
+    "Translation": " Defend for 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Shoot the cube or Cross the bridge! ": {
+    "Translation": " Shoot the cube or Cross the bridge! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Laser coming! ": {
+    "Translation": " Laser coming! ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

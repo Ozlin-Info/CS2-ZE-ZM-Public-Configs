@@ -1,0 +1,59 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "The door will open in 45 seconds. Cover!!": {
+    "Translation": "The door will open in 45 seconds. Cover!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door is open 10 sec": {
+    "Translation": "Door is open 10 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator is leaving in 35s": {
+    "Translation": "Elevator is leaving in 35s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator is leaving in 5s": {
+    "Translation": "Elevator is leaving in 5s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boat will arrive in 30 seconds": {
+    "Translation": "Boat will arrive in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Boss Fight in 10s ": {
+    "Translation": " Boss Fight in 10s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Boss Fight in 5s ": {
+    "Translation": " Boss Fight in 5s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nades do more damage ": {
+    "Translation": " Nades do more damage ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Boss is dead  Escape ! ": {
+    "Translation": " Boss is dead  Escape ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 30 seconds. Cover!!": {
+    "Translation": "The door will open in 30 seconds. Cover!!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

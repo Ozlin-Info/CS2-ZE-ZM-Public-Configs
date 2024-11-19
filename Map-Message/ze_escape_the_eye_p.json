@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "+++  MAP MADE BY GARGANTUA +++": {
+    "Translation": "+++  MAP MADE BY GARGANTUA +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ FIXED BY CISNEROS +++": {
+    "Translation": "+++ FIXED BY CISNEROS +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ THE DOOR IS OPENING IN 45 SECONDS+++": {
+    "Translation": "+++ THE DOOR IS OPENING IN 45 SECONDS+++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ RESIST IN THIS ZONE +++": {
+    "Translation": "+++ RESIST IN THIS ZONE +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ THE DOOR IS OPENING IN 25 SECONDS +++": {
+    "Translation": "+++ THE DOOR IS OPENING IN 25 SECONDS +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ THE DOOR IS OPENING IN 5 SECONDS +++": {
+    "Translation": "+++ THE DOOR IS OPENING IN 5 SECONDS +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ THE DOOR IS OPEN +++": {
+    "Translation": "+++ THE DOOR IS OPEN +++",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

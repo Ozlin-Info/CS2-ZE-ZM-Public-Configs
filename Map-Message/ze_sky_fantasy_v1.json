@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Easy Mode ": {
+    "Translation": " Easy Mode ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleport will be ready in 15 seconds ": {
+    "Translation": " Teleport will be ready in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by Misaka ": {
+    "Translation": " Map by Misaka ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Special Thanks to Excarliber & Koyomaple ": {
+    "Translation": " Special Thanks to Excarliber & Koyomaple ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 25 more seconds ": {
+    "Translation": " 25 more seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 more seconds ": {
+    "Translation": " 10 more seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

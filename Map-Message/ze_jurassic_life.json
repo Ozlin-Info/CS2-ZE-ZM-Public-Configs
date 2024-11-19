@@ -1,0 +1,79 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "HOLD 20 SECONDS": {
+    "Translation": "HOLD 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE OPENS IN 10 SECONDS": {
+    "Translation": "GATE OPENS IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE OPENS IN 5 SECONDS": {
+    "Translation": "GATE OPENS IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FALL BACK TO THE KITCHEN!": {
+    "Translation": "FALL BACK TO THE KITCHEN!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD HERE, KITCHEN DOORS OPEN SOON": {
+    "Translation": "HOLD HERE, KITCHEN DOORS OPEN SOON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 SECONDS LEFT": {
+    "Translation": "10 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS LEFT": {
+    "Translation": "5 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GO GO GO FALL BACK": {
+    "Translation": "GO GO GO FALL BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Find your way through the visitors center to the roof top!": {
+    "Translation": "Find your way through the visitors center to the roof top!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD HERE, DOOR OPEN 10 SEONDS": {
+    "Translation": "HOLD HERE, DOOR OPEN 10 SEONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD HERE, DOOR OPENS SOON": {
+    "Translation": "HOLD HERE, DOOR OPENS SOON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD HERE, GATE OPENS SOON": {
+    "Translation": "HOLD HERE, GATE OPENS SOON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PHONE USED, HOLD AND GET READY FOR THE ROOF TOP": {
+    "Translation": "PHONE USED, HOLD AND GET READY FOR THE ROOF TOP",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE OPEN": {
+    "Translation": "GATE OPEN",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

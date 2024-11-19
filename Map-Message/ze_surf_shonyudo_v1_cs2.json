@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map : ze_surf_shonyudo": {
+    "Translation": "Map : ze_surf_shonyudo",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Who : Hmn": {
+    "Translation": "Who : Hmn",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Port: 咸自矜持": {
+    "Translation": "Port: 咸自矜持",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Laser_Lv  ???  ": {
+    "Translation": " Laser_Lv  ???  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Destroy the rock 30 SECONDS ": {
+    "Translation": " Destroy the rock 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Destroy the rock 10 SECONDS ": {
+    "Translation": " Destroy the rock 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

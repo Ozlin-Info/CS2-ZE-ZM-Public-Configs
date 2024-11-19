@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map By TaskuVaras": {
+    "Translation": "Map By TaskuVaras",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Watch out for traps!!!": {
+    "Translation": "Watch out for traps!!!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

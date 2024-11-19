@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "地图: 热血物语": {
+    "Translation": "地图: 热血物语",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "版本: Beta 1.0": {
+    "Translation": "版本: Beta 1.0",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "作者: CD意识.": {
+    "Translation": "作者: CD意识.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

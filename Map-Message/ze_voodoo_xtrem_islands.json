@@ -1,0 +1,84 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " WARMUP ROUND ": {
+    "Translation": " WARMUP ROUND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STARTING GAME.. GOOD LUCK & HAVE FUN ": {
+    "Translation": " STARTING GAME.. GOOD LUCK & HAVE FUN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " READ THE CONSOLE COMMANDS ": {
+    "Translation": " READ THE CONSOLE COMMANDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Welcome to ze_voodoo_islands ": {
+    "Translation": " Welcome to ze_voodoo_islands ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The voodoo master has challenged you to survive on 3 different islands ": {
+    "Translation": " The voodoo master has challenged you to survive on 3 different islands ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " If you succeed you will enter heaven ": {
+    "Translation": " If you succeed you will enter heaven ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " In 10 seconds you will be teleported to the first island ": {
+    "Translation": " In 10 seconds you will be teleported to the first island ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Good luck puny mortals... ": {
+    "Translation": " Good luck puny mortals... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Muahahaha... ": {
+    "Translation": " Muahahaha... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds till zombies are unleashed ": {
+    "Translation": " 10 seconds till zombies are unleashed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Survive there for 90 secs ": {
+    "Translation": " Survive there for 90 secs ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies have been unleashed. Defend against the zombies ": {
+    "Translation": " Zombies have been unleashed. Defend against the zombies ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds till gates will open. Prepare to run ": {
+    "Translation": " 10 seconds till gates will open. Prepare to run ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The gates are open and the zombies have been trapped. GOGOGO ": {
+    "Translation": " The gates are open and the zombies have been trapped. GOGOGO ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies have been unleashed from the cage ": {
+    "Translation": " Zombies have been unleashed from the cage ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Door Open in 30secs.": {
+    "Translation": "Door Open in 30secs.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

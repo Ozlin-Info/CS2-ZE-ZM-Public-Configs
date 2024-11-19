@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map Creator : Platin": {
+    "Translation": "Map Creator : Platin",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TEST SERVER : MAPEADORES": {
+    "Translation": "TEST SERVER : MAPEADORES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BLUE LIGHTS WILL SHOW YOU THE WAY ": {
+    "Translation": " BLUE LIGHTS WILL SHOW YOU THE WAY ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFENSE AREAS WILL APPEAR AS BLUE PROTECTION ": {
+    "Translation": " DEFENSE AREAS WILL APPEAR AS BLUE PROTECTION ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

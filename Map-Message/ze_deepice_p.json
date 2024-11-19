@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " STEAMGAMERS.COM ": {
+    "Translation": " STEAMGAMERS.COM ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Mapper: yardy ": {
+    "Translation": " Mapper: yardy ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CoMapper: starbucks ": {
+    "Translation": " CoMapper: starbucks ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Alien Reactor Overload 100%  ": {
+    "Translation": " Alien Reactor Overload 100%  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TO BE CONTINUED ": {
+    "Translation": " TO BE CONTINUED ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

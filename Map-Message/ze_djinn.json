@@ -1,0 +1,119 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ENTRANCE OPENS IN 25 SECONDS ": {
+    "Translation": " ENTRANCE OPENS IN 25 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLAYER HAS PICKED UP HEAL ": {
+    "Translation": " PLAYER HAS PICKED UP HEAL ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS LEFT ": {
+    "Translation": " 5 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GRATE OPENS IN 15 SECONDS ": {
+    "Translation": " GRATE OPENS IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LIFT MOVING IN 20 SECONDS ": {
+    "Translation": " LIFT MOVING IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 15 SECONDS LEFT ": {
+    "Translation": " 15 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 SECONDS LEFT ": {
+    "Translation": " 20 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GRATE OPENS IN 30 SECONDS ": {
+    "Translation": " GRATE OPENS IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLAYER HAS PICKED UP PYRAMID ": {
+    "Translation": " PLAYER HAS PICKED UP PYRAMID ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS LEFT ": {
+    "Translation": " 10 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " OBELISK ENTRANCE OPENS IN 25 SECONDS  ": {
+    "Translation": " OBELISK ENTRANCE OPENS IN 25 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " NOT BAD ": {
+    "Translation": " NOT BAD ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND UNTIL SOMETHING HAPPEN ": {
+    "Translation": " DEFEND UNTIL SOMETHING HAPPEN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " JUMP NOW ": {
+    "Translation": " JUMP NOW ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SURVIVE FOR 60 SECONDS ": {
+    "Translation": " SURVIVE FOR 60 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30 SECONDS LEFT ": {
+    "Translation": " 30 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HEAL MODIFIED ": {
+    "Translation": " HEAL MODIFIED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STACK ": {
+    "Translation": " STACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " JUMP DOWN NOW AND ESCAPE THE OBELISK ": {
+    "Translation": " JUMP DOWN NOW AND ESCAPE THE OBELISK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " KILL HIM NOW ": {
+    "Translation": " KILL HIM NOW ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " YOU GOT HIM ": {
+    "Translation": " YOU GOT HIM ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLAYER HAS PICKED UP AMMO ": {
+    "Translation": " PLAYER HAS PICKED UP AMMO ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

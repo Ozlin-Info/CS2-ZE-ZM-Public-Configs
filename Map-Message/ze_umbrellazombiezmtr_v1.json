@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map Created By : Platin": {
+    "Translation": "Map Created By : Platin",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Test Servers : Mapeadores  GFL  ZMTR": {
+    "Translation": "Test Servers : Mapeadores  GFL  ZMTR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Press the button in the security room": {
+    "Translation": "Press the button in the security room",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

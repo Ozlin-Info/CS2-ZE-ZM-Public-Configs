@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "DOOR OPENING IN 20 SECONDS": {
+    "Translation": "DOOR OPENING IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENING IN 10 SECONDS": {
+    "Translation": "DOOR OPENING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TP IN 10 SECONDS": {
+    "Translation": "AFK TP IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE CLOSING IN 30 SECONDS": {
+    "Translation": "GATE CLOSING IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

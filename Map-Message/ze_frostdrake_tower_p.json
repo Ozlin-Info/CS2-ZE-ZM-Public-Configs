@@ -1,0 +1,59 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "PRESS ALL 3 LEVERS TO OPEN THE GATES UP AHEAD": {
+    "Translation": "PRESS ALL 3 LEVERS TO OPEN THE GATES UP AHEAD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE FIRST LEVER HAS BEEN PRESSED": {
+    "Translation": "THE FIRST LEVER HAS BEEN PRESSED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE SECOND LEVER HAS BEEN PRESSED": {
+    "Translation": "THE SECOND LEVER HAS BEEN PRESSED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ONE MORE TO GO...": {
+    "Translation": "ONE MORE TO GO...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ALL LEVERS HAVE BEEN PRESSED": {
+    "Translation": "ALL LEVERS HAVE BEEN PRESSED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATES ARE OPENING IN 30 SECONDS": {
+    "Translation": "THE GATES ARE OPENING IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATES ARE OPENING": {
+    "Translation": "THE GATES ARE OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FALL BACK TOWARDS THE TOWER": {
+    "Translation": "FALL BACK TOWARDS THE TOWER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ONE LEVER HAS BEEN PRESSED": {
+    "Translation": "ONE LEVER HAS BEEN PRESSED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NOW FIND THE FINAL LEVER": {
+    "Translation": "NOW FIND THE FINAL LEVER",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

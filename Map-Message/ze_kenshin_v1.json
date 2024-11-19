@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "地图原形:Crystar": {
+    "Translation": "地图原形:Crystar",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸5s后传送": {
+    "Translation": "僵尸5s后传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "等待20s": {
+    "Translation": "等待20s",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

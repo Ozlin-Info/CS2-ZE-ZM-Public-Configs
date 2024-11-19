@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ZE Journey": {
+    "Translation": "ZE Journey",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Created by Soft Serve": {
+    "Translation": "Created by Soft Serve",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door opening in 20 seconds ": {
+    "Translation": " Door opening in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door opening in 5 seconds ": {
+    "Translation": " Door opening in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Boats departing in 20 seconds ": {
+    "Translation": " Boats departing in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Boats departing in 5 seconds ": {
+    "Translation": " Boats departing in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Gust Orb has been acquired ": {
+    "Translation": " Gust Orb has been acquired ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Gate opening in 10 seconds ": {
+    "Translation": " Gate opening in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds left ": {
+    "Translation": " 5 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

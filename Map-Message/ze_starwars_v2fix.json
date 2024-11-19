@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "MAP BY MAKVI_ANKOM": {
+    "Translation": "MAP BY MAKVI_ANKOM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ze_Star_wars": {
+    "Translation": "Ze_Star_wars",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The bridge will open in 15 seconds": {
+    "Translation": "The bridge will open in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The bridge will open in 5 seconds": {
+    "Translation": "The bridge will open in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Fall back! The bridge open": {
+    "Translation": "Fall back! The bridge open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player picked up Force Push": {
+    "Translation": "A player picked up Force Push",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player picked up Force Grip": {
+    "Translation": "A player picked up Force Grip",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

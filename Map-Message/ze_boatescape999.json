@@ -1,0 +1,114 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ze_Boatescape999": {
+    "Translation": "ze_Boatescape999",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ver:5.0.6": {
+    "Translation": "Ver:5.0.6",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by Tsumugi": {
+    "Translation": "Map by Tsumugi",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait 10 seconds": {
+    "Translation": "Wait 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Scooter will leave in 5 seconds": {
+    "Translation": "Scooter will leave in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door will close in 15 seconds": {
+    "Translation": "Door will close in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boat leave in 30 seconds": {
+    "Translation": "Boat leave in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Airboat leave in 32 seconds": {
+    "Translation": "Airboat leave in 32 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door will close in 10 seconds": {
+    "Translation": "Door will close in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boat will leave in 30 seconds": {
+    "Translation": "Boat will leave in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Airboat will leave in 30 seconds": {
+    "Translation": "Airboat will leave in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nuke in 10 seconds": {
+    "Translation": "Nuke in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Baka!!!": {
+    "Translation": "Baka!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Laser Mode : On": {
+    "Translation": "Laser Mode : On",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Laser Mode has turned on": {
+    "Translation": "Laser Mode has turned on",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Mode : Final Laser and Laser": {
+    "Translation": "Mode : Final Laser and Laser",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "All grenades will kill in 20 seconds": {
+    "Translation": "All grenades will kill in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final Laser coming in 5 seconds": {
+    "Translation": "Final Laser coming in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bahamut Casted Ultima": {
+    "Translation": "Bahamut Casted Ultima",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Mode : Final Laser": {
+    "Translation": "Mode : Final Laser",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Mode : Laser or Beam": {
+    "Translation": "Mode : Laser or Beam",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

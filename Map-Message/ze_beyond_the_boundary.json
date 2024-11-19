@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Current difficulty Hard! ": {
+    "Translation": "Current difficulty Hard! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Break the seal in 20 seconds": {
+    "Translation": "Break the seal in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "After 10 seconds, the left and right sides open randomly": {
+    "Translation": "After 10 seconds, the left and right sides open randomly",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15 seconds later, the magic circle is disappearing": {
+    "Translation": "15 seconds later, the magic circle is disappearing",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

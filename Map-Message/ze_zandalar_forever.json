@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "赞达拉万古长存！": {
+    "Translation": "赞达拉万古长存！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "mapper: ze探险家": {
+    "Translation": "mapper: ze探险家",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们需要找到并击碎12个面具，才能通向祖达萨": {
+    "Translation": "我们需要找到并击碎12个面具，才能通向祖达萨",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 seconds left": {
+    "Translation": "20 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1/12": {
+    "Translation": "1/12",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

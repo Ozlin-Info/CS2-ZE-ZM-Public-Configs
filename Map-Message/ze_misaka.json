@@ -1,0 +1,224 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Stage 1 ": {
+    "Translation": " Stage 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " map by Misaka ": {
+    "Translation": " map by Misaka ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " special thanks to koyomaple, Excarliber and gneL ": {
+    "Translation": " special thanks to koyomaple, Excarliber and gneL ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " teleport will be enabled in 20 seconds ": {
+    "Translation": " teleport will be enabled in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " teleport will be enabled in 10 seconds ": {
+    "Translation": " teleport will be enabled in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " human teleported ": {
+    "Translation": " human teleported ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " zombie will be teleported soon ": {
+    "Translation": " zombie will be teleported soon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " zombie teleported ": {
+    "Translation": " zombie teleported ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A zombie has picked up speed ": {
+    "Translation": " A zombie has picked up speed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the way will be able to pass in 25 seconds ": {
+    "Translation": " the way will be able to pass in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 more seconds ": {
+    "Translation": " 5 more seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " we need to wait the platform for 25 seconds ": {
+    "Translation": " we need to wait the platform for 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the platform will rise in 15 seconds ": {
+    "Translation": " the platform will rise in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the wall will disappear in 30 seconds ": {
+    "Translation": " the wall will disappear in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " we need to find a way to go on ": {
+    "Translation": " we need to find a way to go on ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the front wall will disappear in 15 seconds ": {
+    "Translation": " the front wall will disappear in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " we can go inside the room in 20 seconds ": {
+    "Translation": " we can go inside the room in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " defend for 10 seconds ": {
+    "Translation": " defend for 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " defend for 15 seconds ": {
+    "Translation": " defend for 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the platform will move in 15 seconds ": {
+    "Translation": " the platform will move in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds to move ": {
+    "Translation": " 5 seconds to move ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the platform will move again in 10 seconds ": {
+    "Translation": " the platform will move again in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " boss fight will begin in 10 seconds ": {
+    "Translation": " boss fight will begin in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " defeat the boss ": {
+    "Translation": " defeat the boss ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Be Careful! You only have 120 seconds to defeat the boss ": {
+    "Translation": " Be Careful! You only have 120 seconds to defeat the boss ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Giga Drain ": {
+    "Translation": " Giga Drain ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Fallen Sky ": {
+    "Translation": " Fallen Sky ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Trials of Sword ": {
+    "Translation": " Trials of Sword ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " boss is defeated ": {
+    "Translation": " boss is defeated ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " a bridge appears ": {
+    "Translation": " a bridge appears ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " zombie will release soon ": {
+    "Translation": " zombie will release soon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the glass wall will break in 15 seconds ": {
+    "Translation": " the glass wall will break in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " we can reach the top in 50 seconds ": {
+    "Translation": " we can reach the top in 50 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the final platform will move in 3 seconds ": {
+    "Translation": " the final platform will move in 3 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " wait ...... something may happen ...... ": {
+    "Translation": " wait ...... something may happen ...... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It's Misaka !!! ": {
+    "Translation": " It's Misaka !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " dodge the laser !!! ": {
+    "Translation": " dodge the laser !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " more laser is coming !!! ": {
+    "Translation": " more laser is coming !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " up and down !!! ": {
+    "Translation": " up and down !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage 1 Complete ": {
+    "Translation": " Stage 1 Complete ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage 2 ": {
+    "Translation": " Stage 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up heal ": {
+    "Translation": " A player has picked up heal ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " a player has picked up wind ": {
+    "Translation": " a player has picked up wind ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Defend this island for 1.5 minutes": {
+    "Translation": "Defend this island for 1.5 minutes",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds till gates will open. prepare to run": {
+    "Translation": "10 seconds till gates will open. prepare to run",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "the gates are open and the zombies have been trapped for 25 seconds. GOGOGO": {
+    "Translation": "the gates are open and the zombies have been trapped for 25 seconds. GOGOGO",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

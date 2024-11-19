@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Testers: Fuu Belafarinrod Senne Teddy": {
+    "Translation": "Testers: Fuu Belafarinrod Senne Teddy",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies detected ! Try to escape from DeathStar": {
+    "Translation": "Zombies detected ! Try to escape from DeathStar",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map created by FreeZe": {
+    "Translation": "Map created by FreeZe",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "60 seconds until vacuum in Spawn Sections": {
+    "Translation": "60 seconds until vacuum in Spawn Sections",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 seconds until vacuum": {
+    "Translation": "30 seconds until vacuum",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Spawn Sections losing air...vacuum in 10 seconds": {
+    "Translation": "Spawn Sections losing air...vacuum in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

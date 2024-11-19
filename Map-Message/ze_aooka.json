@@ -1,0 +1,64 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ZE_Aooka3": {
+    "Translation": "ZE_Aooka3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by vueru": {
+    "Translation": "Map by vueru",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Port by Hephasfos   Support by BiliBili ELaiNa娜娜桑": {
+    "Translation": "Port by Hephasfos   Support by BiliBili ELaiNa娜娜桑",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks:冰雪葬泪Eugen  FongLishang  Spxctator": {
+    "Translation": "Thanks:冰雪葬泪Eugen  FongLishang  Spxctator",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZE_Aooka": {
+    "Translation": "ZE_Aooka",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Start in 5 seconds": {
+    "Translation": "Start in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage I ": {
+    "Translation": " Stage I ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A zombie has acquired Shackles Magick ": {
+    "Translation": " A zombie has acquired Shackles Magick ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold here": {
+    "Translation": "Hold here",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gate will open in 35 seconds": {
+    "Translation": "The gate will open in 35 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has acquired Fire Magick ": {
+    "Translation": " A player has acquired Fire Magick ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

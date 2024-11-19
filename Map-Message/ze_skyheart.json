@@ -1,0 +1,84 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "地图由爱莉希雅的大护法所制作，地图是我第一张地图，主要作为技术积累，可能存在很多问题请反馈让我知道。特别感谢7ychu5，seth特效支持，并且感谢CSZEMAPPER的各位大佬的指导！": {
+    "Translation": "地图由爱莉希雅的大护法所制作，地图是我第一张地图，主要作为技术积累，可能存在很多问题请反馈让我知道。特别感谢7ychu5，seth特效支持，并且感谢CSZEMAPPER的各位大佬的指导！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door open in 10S": {
+    "Translation": "Door open in 10S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zomvbieway open in 10S": {
+    "Translation": "zomvbieway open in 10S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door open in 20S": {
+    "Translation": "door open in 20S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door op in 15S": {
+    "Translation": "Door op in 15S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zmobie will TP in here in 20S": {
+    "Translation": "zmobie will TP in here in 20S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zmobie  TP enable in 10S": {
+    "Translation": "zmobie  TP enable in 10S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The other wall has disappeared": {
+    "Translation": "The other wall has disappeared",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The wall has disappeared": {
+    "Translation": "The wall has disappeared",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TP in 30S": {
+    "Translation": "TP in 30S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "“BOSS enable in 30S”": {
+    "Translation": "“BOSS enable in 30S”",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "“Teleport in 5S”": {
+    "Translation": "“Teleport in 5S”",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The way to the BOSS area will be destroyed in 30 seconds": {
+    "Translation": "The way to the BOSS area will be destroyed in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "used push": {
+    "Translation": "used push",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "laser in comming": {
+    "Translation": "laser in comming",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

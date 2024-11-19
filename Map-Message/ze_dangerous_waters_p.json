@@ -1,0 +1,174 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "[Map made by AttenseFX]": {
+    "Translation": "[Map made by AttenseFX]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special Thanks to Sleepy and Neuro Toxin": {
+    "Translation": "Special Thanks to Sleepy and Neuro Toxin",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The boat must reach the walls in order to continue": {
+    "Translation": "The boat must reach the walls in order to continue",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Main Boat has left": {
+    "Translation": "Main Boat has left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wall has collapsed": {
+    "Translation": "Wall has collapsed",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies are blocked for 7 seconds": {
+    "Translation": "Zombies are blocked for 7 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boat is almost here begin to FALL BACK": {
+    "Translation": "Boat is almost here begin to FALL BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Water after waterfall is very hazardous Instantdeath": {
+    "Translation": "Water after waterfall is very hazardous Instantdeath",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Oh god, get out. GET OUT OF THE BOAT NOW!": {
+    "Translation": " Oh god, get out. GET OUT OF THE BOAT NOW!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Second wall has collapsed": {
+    "Translation": "Second wall has collapsed",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies are held for 10 seconds": {
+    "Translation": "Zombies are held for 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Shoot at the tree or we will crash!": {
+    "Translation": "Shoot at the tree or we will crash!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Washtub 3 will leave in 5 seconds": {
+    "Translation": "Washtub 3 will leave in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Main Lift is leaving in 15 seconds": {
+    "Translation": "Main Lift is leaving in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Main Lift has left": {
+    "Translation": "Main Lift has left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Second Main Lift is leaving in 10 seconds": {
+    "Translation": "Second Main Lift is leaving in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Second Main Lift has left": {
+    "Translation": "Second Main Lift has left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleport to other island available in 20 seconds": {
+    "Translation": "Teleport to other island available in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleport to other island is now available": {
+    "Translation": "Teleport to other island is now available",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold here for 35 seconds while the boats refuel": {
+    "Translation": "Hold here for 35 seconds while the boats refuel",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies are blocked for 10 seconds. get on the boats!": {
+    "Translation": "Zombies are blocked for 10 seconds. get on the boats!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Speed Boats are leaving in 8 seconds": {
+    "Translation": "Speed Boats are leaving in 8 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Speed Boats have left": {
+    "Translation": "Speed Boats have left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold here for 45 seconds": {
+    "Translation": "Hold here for 45 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Drawbridge is down": {
+    "Translation": "Drawbridge is down",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait for the exterior doors to open, 20 seconds": {
+    "Translation": "Wait for the exterior doors to open, 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Exterior doors are opening, 8 seconds till bunker door opens": {
+    "Translation": "Exterior doors are opening, 8 seconds till bunker door opens",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bunker doors are opening": {
+    "Translation": "Bunker doors are opening",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nuclear bomb on it's way doors closing in 20 seconds": {
+    "Translation": "Nuclear bomb on it's way doors closing in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nuclear bomb has been sent": {
+    "Translation": "Nuclear bomb has been sent",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Detonation in 3": {
+    "Translation": "Detonation in 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

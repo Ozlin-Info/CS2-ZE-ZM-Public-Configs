@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map by Struppi ": {
+    "Translation": " Map by Struppi ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Gate opens in 20 seconds ": {
+    "Translation": " Gate opens in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Crate explodes in 35 seconds ": {
+    "Translation": " Crate explodes in 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

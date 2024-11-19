@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " We're stranded in Nowhere... ": {
+    "Translation": " We're stranded in Nowhere... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Wait until something happens! ": {
+    "Translation": " Wait until something happens! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " What journey will this binary+1 entscheidungsproblem lead us to..? ": {
+    "Translation": " What journey will this binary+1 entscheidungsproblem lead us to..? ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

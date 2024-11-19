@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "アルビオンだったもの :": {
+    "Translation": "アルビオンだったもの :",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「ここがセレスティアルの深層...」": {
+    "Translation": "「ここがセレスティアルの深層...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「私の仮説通り、ここにも生態系が存在している...」": {
+    "Translation": "「私の仮説通り、ここにも生態系が存在している...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「いつまでこの殻が耐えるかわからないけど...」": {
+    "Translation": "「いつまでこの殻が耐えるかわからないけど...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「とにかく前に進まなくては...」": {
+    "Translation": "「とにかく前に進まなくては...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「これよりフラグメント作戦を開始...」": {
+    "Translation": "「これよりフラグメント作戦を開始...」",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
