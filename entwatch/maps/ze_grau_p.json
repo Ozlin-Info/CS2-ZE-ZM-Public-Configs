@@ -1,0 +1,110 @@
+[
+    {
+        "Name": "Outline",    
+        "ShortName": "Outline",
+        "Color": "{default}",
+        "HammerID": 679,
+        "GlowColor": [250,2,246,255],
+        "FilterID": 0,
+        "FilterValue": "",
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [    
+            {
+                "Name": "Outline",
+                "ButtonID": 0,
+                "ButtonClass": "",
+                "Chat_Uses": true,
+                "Mode": 0,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "ZM Slow 1",    
+        "ShortName": "ZM Slow 1",
+        "Color": "{default}",
+        "HammerID": 11685,
+        "GlowColor": [250,2,246,255],
+        "FilterID": 0,
+        "FilterValue": "",
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [    
+            {
+                "Name": "ZM Slow 1",
+                "ButtonID": 11689,
+                "ButtonClass": "game_ui::PressedAttack2",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "ZM Slow 2",    
+        "ShortName": "ZM Slow 2",
+        "Color": "{default}",
+        "HammerID": 11688,
+        "GlowColor": [250,2,246,255],
+        "FilterID": 0,
+        "FilterValue": "",
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [    
+            {
+                "Name": "ZM Slow 2",
+                "ButtonID": 11683,
+                "ButtonClass": "game_ui::PressedAttack2",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    },
+    {
+        "Name": "ZM Speed",    
+        "ShortName": "ZM Speed",
+        "Color": "{default}",
+        "HammerID": 11690,
+        "GlowColor": [250,2,246,255],
+        "FilterID": 0,
+        "FilterValue": "",
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [    
+            {
+                "Name": "ZM Speed",
+                "ButtonID": 11691,
+                "ButtonClass": "game_ui::PressedAttack2",
+                "Chat_Uses": true,
+                "Mode": 1,
+                "MaxUses": 0,
+                "CoolDown": 0
+            }
+        ]
+    }
+]
