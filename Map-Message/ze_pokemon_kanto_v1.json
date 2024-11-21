@@ -10,5 +10,10 @@
     "Translation": "Map created by Bart",
     "M-Bool": false,
     "Value": 0
+  },
+  "Door will open in 15 seconds": {
+    "Translation": "Door will open in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

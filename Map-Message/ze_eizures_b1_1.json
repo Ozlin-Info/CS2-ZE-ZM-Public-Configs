@@ -35,5 +35,120 @@
     "Translation": "Ah shit, it's stuck",
     "M-Bool": false,
     "Value": 0
+  },
+  "Door open in 25s": {
+    "Translation": "Door open in 25s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend for 25s": {
+    "Translation": "Defend for 25s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Keep defend 40s": {
+    "Translation": "Keep defend 40s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate open in 40s": {
+    "Translation": "Gate open in 40s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Breaking the vent 15s": {
+    "Translation": "Breaking the vent 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM shortcut in 4 seconds": {
+    "Translation": "ZM shortcut in 4 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Keep hold 15s": {
+    "Translation": "Keep hold 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Breaking the door 15s": {
+    "Translation": "Breaking the door 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold the defense 30s": {
+    "Translation": "Hold the defense 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM shortcut in 5 seconds": {
+    "Translation": "ZM shortcut in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend 20s": {
+    "Translation": "Defend 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM shortcut in 6 seconds": {
+    "Translation": "ZM shortcut in 6 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door open in 20s": {
+    "Translation": "Door open in 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Keep hold 45s": {
+    "Translation": "Keep hold 45s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM shortcut  in 5 seconds": {
+    "Translation": "ZM shortcut  in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door open 30s": {
+    "Translation": "Door open 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Watch out for the zm in the windows and stairs!": {
+    "Translation": "Watch out for the zm in the windows and stairs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30s untill door open": {
+    "Translation": "30s untill door open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM tp in 5 seconds": {
+    "Translation": "ZM tp in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend for 15 seconds": {
+    "Translation": "Defend for 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM tp in 4 seconds": {
+    "Translation": "ZM tp in 4 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door open in 15s": {
+    "Translation": "Door open in 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Breaking the door 20s": {
+    "Translation": "Breaking the door 20s",
+    "M-Bool": false,
+    "Value": 0
   }
 }

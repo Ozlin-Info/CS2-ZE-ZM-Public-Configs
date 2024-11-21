@@ -15,5 +15,10 @@
     "Translation": " TEMPLE OPENS IN 5 SECONDS ",
     "M-Bool": false,
     "Value": 0
+  },
+  " WELL DONE! DOOR OPENS IN 20 SECONDS ": {
+    "Translation": " WELL DONE! DOOR OPENS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

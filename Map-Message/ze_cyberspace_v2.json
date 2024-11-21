@@ -10,5 +10,15 @@
     "Translation": "System  Welcome to Cyberspace! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Defend for 30 seconds ": {
+    "Translation": " Defend for 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds left ": {
+    "Translation": " 5 seconds left ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

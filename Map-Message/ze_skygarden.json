@@ -25,5 +25,15 @@
     "Translation": " We need to go to the temple to get the core of energy ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Hold 30 second to clear the rock": {
+    "Translation": " Hold 30 second to clear the rock",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold 30 second to destroy the fence": {
+    "Translation": " Hold 30 second to destroy the fence",
+    "M-Bool": false,
+    "Value": 0
   }
 }

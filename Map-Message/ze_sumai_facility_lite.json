@@ -15,5 +15,220 @@
     "Translation": "[Comms]: Seems like the power is out, try looking for a switch.",
     "M-Bool": false,
     "Value": 0
+  },
+  "[Comms]: Ok, the power should be on, the gate button should be active.": {
+    "Translation": "[Comms]: Ok, the power should be on, the gate button should be active.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Gate will open in 15 seconds.": {
+    "Translation": "[Comms]: Gate will open in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Gate will open in 10 seconds.": {
+    "Translation": "[Comms]: Gate will open in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Gate will open in 5 seconds.": {
+    "Translation": "[Comms]: Gate will open in 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Gate is opening.": {
+    "Translation": "[Comms]: Gate is opening.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Item]: Human picked up Bear Trap. (30s CD)": {
+    "Translation": "[Item]: Human picked up Bear Trap. (30s CD)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: C4 has been armed.": {
+    "Translation": "[Comms]: C4 has been armed.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: C4 will explode in 25 seconds.": {
+    "Translation": "[Comms]: C4 will explode in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: C4 will explode in 15 seconds.": {
+    "Translation": "[Comms]: C4 will explode in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: C4 will explode in 5 seconds.": {
+    "Translation": "[Comms]: C4 will explode in 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: C4 is about to explode.": {
+    "Translation": "[Comms]: C4 is about to explode.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Gate will open in 35 seconds.": {
+    "Translation": "[Comms]: Gate will open in 35 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Gate will open in 25 seconds.": {
+    "Translation": "[Comms]: Gate will open in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Breach Charge has been armed.": {
+    "Translation": "[Comms]: Breach Charge has been armed.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Breach Charge will explode in 40 seconds.": {
+    "Translation": "[Comms]: Breach Charge will explode in 40 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Breach Charge will explode in 30 seconds.": {
+    "Translation": "[Comms]: Breach Charge will explode in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Breach Charge will explode in 20 seconds.": {
+    "Translation": "[Comms]: Breach Charge will explode in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Breach Charge will explode in 10 seconds.": {
+    "Translation": "[Comms]: Breach Charge will explode in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Breach Charge will explode in 5 seconds.": {
+    "Translation": "[Comms]: Breach Charge will explode in 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Breach Charge is about to explode.": {
+    "Translation": "[Comms]: Breach Charge is about to explode.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Find the keycard to get access to the elevator.": {
+    "Translation": "[Comms]: Find the keycard to get access to the elevator.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: I've located the keycard, retrieve it.": {
+    "Translation": "[Comms]: I've located the keycard, retrieve it.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: You've got the keycard, now call the elevator asap.": {
+    "Translation": "[Comms]: You've got the keycard, now call the elevator asap.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Elevator should arrive soon.": {
+    "Translation": "[Comms]: Elevator should arrive soon.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Elevator is leaving in 20 seconds.": {
+    "Translation": "[Comms]: Elevator is leaving in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Elevator is leaving in 10 seconds.": {
+    "Translation": "[Comms]: Elevator is leaving in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Elevator is leaving in 5 seconds.": {
+    "Translation": "[Comms]: Elevator is leaving in 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Find a control panel to move the platform.": {
+    "Translation": "[Comms]: Find a control panel to move the platform.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Platform will start moving in 30 seconds.": {
+    "Translation": "[Comms]: Platform will start moving in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Platform will start moving in 20 seconds.": {
+    "Translation": "[Comms]: Platform will start moving in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Platform will start moving in 10 seconds.": {
+    "Translation": "[Comms]: Platform will start moving in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Platform will start moving in 5 seconds.": {
+    "Translation": "[Comms]: Platform will start moving in 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Platform is on its way.": {
+    "Translation": "[Comms]: Platform is on its way.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Platform has arrived.": {
+    "Translation": "[Comms]: Platform has arrived.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Gate will open in 40 seconds.": {
+    "Translation": "[Comms]: Gate will open in 40 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Item]: Human picked up Medic Bag. (150s cd)": {
+    "Translation": "[Item]: Human picked up Medic Bag. (150s cd)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Gate will open in 30 seconds.": {
+    "Translation": "[Comms]: Gate will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Gate will open in 20 seconds.": {
+    "Translation": "[Comms]: Gate will open in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Elevator is leaving in 45 seconds.": {
+    "Translation": "[Comms]: Elevator is leaving in 45 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Elevator is leaving in 35 seconds.": {
+    "Translation": "[Comms]: Elevator is leaving in 35 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Elevator is leaving in 25 seconds.": {
+    "Translation": "[Comms]: Elevator is leaving in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Elevator is leaving in 15 seconds.": {
+    "Translation": "[Comms]: Elevator is leaving in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Comms]: Infiltration squad has successfully escaped.": {
+    "Translation": "[Comms]: Infiltration squad has successfully escaped.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

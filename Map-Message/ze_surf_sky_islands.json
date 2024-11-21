@@ -15,5 +15,65 @@
     "Translation": "Version:test8_4",
     "M-Bool": false,
     "Value": 0
+  },
+  "Defend for 15 seconds": {
+    "Translation": "Defend for 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SKY": {
+    "Translation": "SKY",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player picked up ice": {
+    "Translation": "A player picked up ice",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player used ice magic": {
+    "Translation": "A player used ice magic",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Fly": {
+    "Translation": "Fly",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleport in 30 seconds": {
+    "Translation": "Teleport in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies come": {
+    "Translation": "Zombies come",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleport in 5 seconds": {
+    "Translation": "Teleport in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wall break in 5 seconds": {
+    "Translation": "Wall break in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FLAME": {
+    "Translation": "FLAME",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend for another 20 seconds": {
+    "Translation": "Defend for another 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 seconds": {
+    "Translation": "5 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

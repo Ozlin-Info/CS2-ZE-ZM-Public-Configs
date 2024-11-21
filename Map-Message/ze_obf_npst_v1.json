@@ -30,5 +30,30 @@
     "Translation": " THE DOOR HAS OPENED ",
     "M-Bool": false,
     "Value": 0
+  },
+  " The yellow door leading to the HUB will open soon ": {
+    "Translation": " The yellow door leading to the HUB will open soon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The yellow door Area 9 will open in 10 seconds ": {
+    "Translation": " The yellow door Area 9 will open in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Get out of here !!! ": {
+    "Translation": " Get out of here !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door is about to open.. ": {
+    "Translation": " The door is about to open.. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door is opening get inside !": {
+    "Translation": " The door is opening get inside !",
+    "M-Bool": false,
+    "Value": 0
   }
 }
