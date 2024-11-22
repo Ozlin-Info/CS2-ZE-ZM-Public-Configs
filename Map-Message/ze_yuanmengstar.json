@@ -12,27 +12,27 @@
     "Value": 0
   },
   "防御机关将在45秒后打开": {
-    "Translation": "防御机关将在45秒后打开",
+    "Translation": "The defense mechanism will open in 45 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "防御机关将在35秒后打开": {
-    "Translation": "防御机关将在35秒后打开",
+    "Translation": "The defense mechanism will open in 35 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "防御机关将在25秒后打开": {
-    "Translation": "防御机关将在25秒后打开",
+    "Translation": "The defense mechanism will open in 25 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "防御机关将在15秒后打开": {
-    "Translation": "防御机关将在15秒后打开",
+    "Translation": "The defense mechanism will open in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "防御机关将在5秒后打开": {
-    "Translation": "防御机关将在5秒后打开",
+    "Translation": "The defense mechanism will open in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },

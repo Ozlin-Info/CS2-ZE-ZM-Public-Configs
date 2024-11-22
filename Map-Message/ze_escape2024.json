@@ -7,12 +7,12 @@
     }
   },
   "地图作者：ze探险家": {
-    "Translation": "地图作者：ze探险家",
+    "Translation": "Mapper：ze探险家, EN translation: AllenW @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   },
   "祝你游玩愉快": {
-    "Translation": "祝你游玩愉快",
+    "Translation": "Good luck and have fun",
     "M-Bool": false,
     "Value": 0
   },
@@ -32,22 +32,22 @@
     "Value": 0
   },
   "僵尸被阻挡 10 seconds": {
-    "Translation": "僵尸被阻挡 10 seconds",
+    "Translation": "Zombie blocked 10 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "一楼梯子即将打开 5 seconds left": {
-    "Translation": "一楼梯子即将打开 5 seconds left",
+    "Translation": "First floor ladder will open in 5 seconds left",
     "M-Bool": false,
     "Value": 0
   },
   "二楼梯子即将打开 5 seconds left": {
-    "Translation": "二楼梯子即将打开 5 seconds left",
+    "Translation": "Second floor ladder will open in 5 seconds left",
     "M-Bool": false,
     "Value": 0
   },
   "三楼梯子即将打开 5 seconds left": {
-    "Translation": "三楼梯子即将打开 5 seconds left",
+    "Translation": "Third floor ladder will open in 5 seconds left",
     "M-Bool": false,
     "Value": 0
   },
@@ -67,12 +67,12 @@
     "Value": 0
   },
   "zombie tp in 10 seconds left": {
-    "Translation": "zombie tp in 10 seconds left",
+    "Translation": "Zombie tp in 10 seconds left",
     "M-Bool": false,
     "Value": 0
   },
   "快跑，否则要进入二次元了 !": {
-    "Translation": "快跑，否则要进入二次元了 !",
+    "Translation": "Run fast, or you will squashed into 2D!",
     "M-Bool": false,
     "Value": 0
   },
@@ -87,7 +87,7 @@
     "Value": 0
   },
   "zombie tp in 10 seconds": {
-    "Translation": "zombie tp in 10 seconds",
+    "Translation": "Zombie tp in 10 seconds",
     "M-Bool": false,
     "Value": 0
   },
@@ -97,27 +97,27 @@
     "Value": 0
   },
   "僵尸被困住了 10 seconds": {
-    "Translation": "僵尸被困住了 10 seconds",
+    "Translation": "Zombie is trapped 10 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸被阻挡 20 seconds": {
-    "Translation": "僵尸被阻挡 20 seconds",
+    "Translation": "Zombie blocked 20 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸被阻挡 20 seconds left": {
-    "Translation": "僵尸被阻挡 20 seconds left",
+    "Translation": "Zombie blocked 20 seconds left",
     "M-Bool": false,
     "Value": 0
   },
   "无限弹药已启动": {
-    "Translation": "无限弹药已启动",
+    "Translation": "Unlimited ammo activated",
     "M-Bool": false,
     "Value": 0
   },
   "无限弹药结束": {
-    "Translation": "无限弹药结束",
+    "Translation": "Unlimited ammo ended",
     "M-Bool": false,
     "Value": 0
   }

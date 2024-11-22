@@ -7,17 +7,17 @@
     }
   },
   "赞达拉万古长存！": {
-    "Translation": "赞达拉万古长存！",
+    "Translation": "ze_zandalar_forever!",
     "M-Bool": false,
     "Value": 0
   },
   "mapper: ze探险家": {
-    "Translation": "mapper: ze探险家",
+    "Translation": "mapper: ze探险家, EN translation: AllenW @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   },
   "我们需要找到并击碎12个面具，才能通向祖达萨": {
-    "Translation": "我们需要找到并击碎12个面具，才能通向祖达萨",
+    "Translation": "We need to find and destroy 12 masks to access Zuldazar.",
     "M-Bool": false,
     "Value": 0
   },
@@ -82,17 +82,17 @@
     "Value": 0
   },
   "12/12, 10 seconds 魔像即将倒下": {
-    "Translation": "12/12, 10 seconds 魔像即将倒下",
+    "Translation": "12/12, 10 seconds, the golem is about to fall.",
     "M-Bool": false,
     "Value": 0
   },
   "有一个面具藏在广场最高的柱子上": {
-    "Translation": "有一个面具藏在广场最高的柱子上",
+    "Translation": "There is a mask hidden on the highest pillar of the square.",
     "M-Bool": false,
     "Value": 0
   },
   "我们需要找到左右两边的3个按钮才能继续前进": {
-    "Translation": "我们需要找到左右两边的3个按钮才能继续前进",
+    "Translation": "We need to find 3 buttons on both the left and right sides to proceed.",
     "M-Bool": false,
     "Value": 0
   },
@@ -102,7 +102,7 @@
     "Value": 0
   },
   "有一个开关藏在希尔瓦娜斯雕像的后边": {
-    "Translation": "有一个开关藏在希尔瓦娜斯雕像的后边",
+    "Translation": "There is a switch hidden behind the Sylvanas statue.",
     "M-Bool": false,
     "Value": 0
   },
@@ -112,7 +112,7 @@
     "Value": 0
   },
   "3/3, 20seconds left": {
-    "Translation": "3/3, 20seconds left",
+    "Translation": "3/3, 20 seconds left.",
     "M-Bool": false,
     "Value": 0
   },
@@ -122,7 +122,7 @@
     "Value": 0
   },
   "击碎面具我们才能通行": {
-    "Translation": "击碎面具我们才能通行",
+    "Translation": "We can only pass by smashing the masks.",
     "M-Bool": false,
     "Value": 0
   },
@@ -137,17 +137,17 @@
     "Value": 0
   },
   "门后边的按钮能帮我们提前打开": {
-    "Translation": "门后边的按钮能帮我们提前打开",
+    "Translation": "The button behind the door can help us open it sooner.",
     "M-Bool": false,
     "Value": 0
   },
   "需要找到3个按钮才能打开巨擘封印的大门": {
-    "Translation": "需要找到3个按钮才能打开巨擘封印的大门",
+    "Translation": "We need to find 3 buttons to open the gate of the Titan seal.",
     "M-Bool": false,
     "Value": 0
   },
   "墙已拾取,我们要利用这个爬上巨擘封印": {
-    "Translation": "墙已拾取,我们要利用这个爬上巨擘封印",
+    "Translation": "The wall has been picked up; we will use this to climb up the Titan seal.",
     "M-Bool": false,
     "Value": 0
   },
@@ -157,37 +157,37 @@
     "Value": 0
   },
   "吉安娜正在使用大海的力量淹没整个祖达萨！": {
-    "Translation": "吉安娜正在使用大海的力量淹没整个祖达萨！",
+    "Translation": "Jaina is using the power of the sea to flood all of Zuldazar!",
     "M-Bool": false,
     "Value": 0
   },
   "我们必须赶在巨擘封印被淹没之前逃出去": {
-    "Translation": "我们必须赶在巨擘封印被淹没之前逃出去",
+    "Translation": "We must escape before the Titan seal is submerged.",
     "M-Bool": false,
     "Value": 0
   },
   "打败封印的三角龙，我们要用墙搭上去": {
-    "Translation": "打败封印的三角龙，我们要用墙搭上去",
+    "Translation": "Defeat the Trihorn that guards the seal; we will use the wall to get up.",
     "M-Bool": false,
     "Value": 0
   },
   "小心！": {
-    "Translation": "小心！",
+    "Translation": "Be careful!",
     "M-Bool": false,
     "Value": 0
   },
   "打死王座的三角龙，部落的飞艇会来接我们": {
-    "Translation": "打死王座的三角龙，部落的飞艇会来接我们",
+    "Translation": "Kill the Trihorn at the throne; the Horde's airship will come to pick us up.",
     "M-Bool": false,
     "Value": 0
   },
   "飞艇来了！": {
-    "Translation": "飞艇来了！",
+    "Translation": "The airship is coming!",
     "M-Bool": false,
     "Value": 0
   },
   "海水已经快涨上来了": {
-    "Translation": "海水已经快涨上来了",
+    "Translation": "The seawater is about to rise.",
     "M-Bool": false,
     "Value": 0
   }
