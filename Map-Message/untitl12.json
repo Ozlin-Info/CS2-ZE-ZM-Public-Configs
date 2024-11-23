@@ -5,5 +5,30 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "15min open seconds": {
+    "Translation": "15min open seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20min open": {
+    "Translation": "20min open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "25min open": {
+    "Translation": "25min open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10min open": {
+    "Translation": "10min open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "16min open": {
+    "Translation": "16min open",
+    "M-Bool": false,
+    "Value": 0
   }
 }

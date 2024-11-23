@@ -25,5 +25,245 @@
     "Translation": "Good Luck !",
     "M-Bool": false,
     "Value": 0
+  },
+  " The door has opened ": {
+    "Translation": " The door has opened ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The yellow door leading to the HUB will open soon ": {
+    "Translation": " The yellow door leading to the HUB will open soon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The yellow door Area 9 will open in 10 seconds ": {
+    "Translation": " The yellow door Area 9 will open in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Get out of here !!! ": {
+    "Translation": " Get out of here !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door is about to open.. ": {
+    "Translation": " The door is about to open.. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door is opening get inside !": {
+    "Translation": " The door is opening get inside !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The blue door opened !": {
+    "Translation": "The blue door opened !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The electricity should be cut off in a few seconds ": {
+    "Translation": " The electricity should be cut off in a few seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Electricity is OFF ": {
+    "Translation": " Electricity is OFF ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lasers are blocking the way": {
+    "Translation": "Lasers are blocking the way",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DON'T TOUCH THE LASERS": {
+    "Translation": "DON'T TOUCH THE LASERS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The vent is going to explode... ": {
+    "Translation": " The vent is going to explode... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door is going to open in 10 sec ": {
+    "Translation": " The door is going to open in 10 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 10 seconds": {
+    "Translation": "The door will open in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door opened": {
+    "Translation": "The door opened",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN": {
+    "Translation": "RUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door leading to the elevator are open! ": {
+    "Translation": " The door leading to the elevator are open! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The Sewer is going to open in 10 sec ": {
+    "Translation": " The Sewer is going to open in 10 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The fence has broken ": {
+    "Translation": " The fence has broken ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The fire will burn out in a few seconds": {
+    "Translation": "The fire will burn out in a few seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The Flames is going to burn out in 10 sec ": {
+    "Translation": " The Flames is going to burn out in 10 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUNNNNN !!!!": {
+    "Translation": "RUNNNNN !!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The vent is going to open in 10 sec ": {
+    "Translation": " The vent is going to open in 10 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Climb up the ladder": {
+    "Translation": "Climb up the ladder",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Call the elevator ": {
+    "Translation": " Call the elevator ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator door opened": {
+    "Translation": "Elevator door opened",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "They are coming": {
+    "Translation": "They are coming",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Prepare to run. ": {
+    "Translation": " Prepare to run. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door is going to open ": {
+    "Translation": " The door is going to open ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Prepare to shoot ": {
+    "Translation": " Prepare to shoot ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE DOOR OPENED RIGHT SIDE": {
+    "Translation": "THE DOOR OPENED RIGHT SIDE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE DOOR IS OPENING": {
+    "Translation": "THE DOOR IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We are not giving thanks to Waffel for hepling ": {
+    "Translation": " We are not giving thanks to Waffel for hepling ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The water level is increasing ": {
+    "Translation": " The water level is increasing ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE DOOR HAS OPENED": {
+    "Translation": "THE DOOR HAS OPENED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Prepare to fight for your life!!! ": {
+    "Translation": " Prepare to fight for your life!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Prepare for the Battle of Your Life ": {
+    "Translation": " Prepare for the Battle of Your Life ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " They are coming... ": {
+    "Translation": " They are coming... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR IS OPEN": {
+    "Translation": "DOOR IS OPEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR HAS OPENED": {
+    "Translation": "DOOR HAS OPENED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR IS OPEN ": {
+    "Translation": " DOOR IS OPEN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It's not finished ": {
+    "Translation": " It's not finished ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5": {
+    "Translation": "5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4": {
+    "Translation": "4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO GO GOOOO ": {
+    "Translation": " GO GO GOOOO ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

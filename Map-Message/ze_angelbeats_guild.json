@@ -275,5 +275,95 @@
     "Translation": "由理子:加油！我们很快到终点了！！！",
     "M-Bool": false,
     "Value": 0
+  },
+  "查理:果然不愧是由理子，居然能通过这么多陷阱来到Guild最深处": {
+    "Translation": "查理:果然不愧是由理子，居然能通过这么多陷阱来到Guild最深处",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "查理:我是查理,Guild的负责人,守住最后的30S": {
+    "Translation": "查理:我是查理,Guild的负责人,守住最后的30S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "查理:剩下的就交给我了！让这帮僵尸尝尝我的大杀器！": {
+    "Translation": "查理:剩下的就交给我了！让这帮僵尸尝尝我的大杀器！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:大杀器？你们又做出了什么东西？": {
+    "Translation": "由理子:大杀器？你们又做出了什么东西？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "查理:我们把坦克造出来了，厉害吧？！": {
+    "Translation": "查理:我们把坦克造出来了，厉害吧？！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:坦克？！你们居然能造出这种级别的武器？！真厉害！！": {
+    "Translation": "由理子:坦克？！你们居然能造出这种级别的武器？！真厉害！！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "查理:那当然！也不看看我们是谁": {
+    "Translation": "查理:那当然！也不看看我们是谁",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "查理:准备看好戏吧！": {
+    "Translation": "查理:准备看好戏吧！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "查理:全体进入掩体，准备炮击！": {
+    "Translation": "查理:全体进入掩体，准备炮击！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "查理:3,2,1！什么？居然炸膛了？果然不了解结构的话造不出来啊": {
+    "Translation": "查理:3,2,1！什么？居然炸膛了？果然不了解结构的话造不出来啊",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BOOM": {
+    "Translation": "BOOM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:笨蛋！不会造的东西不要乱造啊！会死人的！": {
+    "Translation": "由理子:笨蛋！不会造的东西不要乱造啊！会死人的！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:全体进入电梯，准备引爆Guild基地": {
+    "Translation": "由理子:全体进入电梯，准备引爆Guild基地",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由理子:让这些僵尸沉睡于此吧！": {
+    "Translation": "由理子:让这些僵尸沉睡于此吧！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BOOM!": {
+    "Translation": "BOOM!",
+    "M-Bool": false,
+    "Value": 0
   }
 }
