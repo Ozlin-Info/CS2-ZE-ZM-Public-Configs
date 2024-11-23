@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Escape Ski Lift 2 Is Leaving In 20 Seconds ": {
+    "Translation": " Escape Ski Lift 2 Is Leaving In 20 Seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Escape Boat 1 Is Leaving In 10 Seconds ": {
+    "Translation": " Escape Boat 1 Is Leaving In 10 Seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Escape Boat 4 Is Leaving in 25 Seconds ": {
+    "Translation": " Escape Boat 4 Is Leaving in 25 Seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The Oil Rig Has Been Reached ": {
+    "Translation": " The Oil Rig Has Been Reached ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nuke Squad Will Arrive in 90 Seconds ": {
+    "Translation": " Nuke Squad Will Arrive in 90 Seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nuke Squad Is Here ": {
+    "Translation": " Nuke Squad Is Here ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

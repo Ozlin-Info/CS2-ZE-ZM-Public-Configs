@@ -20,5 +20,15 @@
     "Translation": " Special thanks to hobbit ",
     "M-Bool": false,
     "Value": 0
+  },
+  " HOLD 20 SECONDS ": {
+    "Translation": " HOLD 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLAYER HAS PICKED UP ZOMBIE GRAVITY ": {
+    "Translation": " PLAYER HAS PICKED UP ZOMBIE GRAVITY ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

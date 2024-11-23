@@ -6,8 +6,8 @@
       "Value": 0
     }
   },
-  "10秒后将会传送": {
-    "Translation": "10秒后将会传送",
+  "Pause for 20 seconds": {
+    "Translation": "Pause for 20 seconds",
     "M-Bool": false,
     "Value": 0
   }

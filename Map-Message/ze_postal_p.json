@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Welcome everyone. this is my first map (don't be harsh please)": {
+    "Translation": "Welcome everyone. this is my first map (don't be harsh please)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "If you find any bugs or whatsoever that makes this map unplayable, do not hesitate to contact me.": {
+    "Translation": "If you find any bugs or whatsoever that makes this map unplayable, do not hesitate to contact me.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You can find my info on the left side at spawn.": {
+    "Translation": "You can find my info on the left side at spawn.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks to Champagne, NiceShot and memories for helping me": {
+    "Translation": "Thanks to Champagne, NiceShot and memories for helping me",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special thanks to Kotya for helping me with the most parts.": {
+    "Translation": "Special thanks to Kotya for helping me with the most parts.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "What the fuck happened? How did I even get here?": {
+    "Translation": "What the fuck happened? How did I even get here?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Anyway I need to get out of here.": {
+    "Translation": "Anyway I need to get out of here.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

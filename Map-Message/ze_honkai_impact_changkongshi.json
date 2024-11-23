@@ -20,5 +20,160 @@
     "Translation": "水面暂时安全了，我们先暂时躲在房间里面!",
     "M-Bool": false,
     "Value": 0
+  },
+  "守住这里": {
+    "Translation": "守住这里",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10秒后传送房间外面的所有玩家": {
+    "Translation": "10秒后传送房间外面的所有玩家",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "在这里守住一会!!!": {
+    "Translation": "在这里守住一会!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Fall Back": {
+    "Translation": "Fall Back",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住这里直到桥被炸毁!!!": {
+    "Translation": "守住这里直到桥被炸毁!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5秒后传送不在桥上的玩家": {
+    "Translation": "5秒后传送不在桥上的玩家",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住这里直到车子移动": {
+    "Translation": "守住这里直到车子移动",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "在德丽莎附近守住30秒，注意不要让僵尸靠近!!!": {
+    "Translation": "在德丽莎附近守住30秒，注意不要让僵尸靠近!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "有玩家拾取了神器(在这一回合中只允许第一个拾取手枪的人使用)": {
+    "Translation": "有玩家拾取了神器(在这一回合中只允许第一个拾取手枪的人使用)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "注意，10秒后传送光圈外的所有玩家": {
+    "Translation": "注意，10秒后传送光圈外的所有玩家",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "最后的60秒": {
+    "Translation": "最后的60秒",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "最后的10秒": {
+    "Translation": "最后的10秒",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "安全屋里面没有人类，任务失败!!!": {
+    "Translation": "安全屋里面没有人类，任务失败!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第一关完成!!!": {
+    "Translation": "第一关完成!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30秒后传送(不在桥上的都会被传送)": {
+    "Translation": "30秒后传送(不在桥上的都会被传送)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "前面的车挡住我们了，先守住这里!!!": {
+    "Translation": "前面的车挡住我们了，先守住这里!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住这里，楼梯马上会下降": {
+    "Translation": "守住这里，楼梯马上会下降",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这里没有路了，我们先想办法修好梯子，在这里守一会": {
+    "Translation": "这里没有路了，我们先想办法修好梯子，在这里守一会",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "梯子修好了,快上楼梯": {
+    "Translation": "梯子修好了,快上楼梯",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯门正在打开，在这里守一会": {
+    "Translation": "电梯门正在打开，在这里守一会",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "传送在10秒后": {
+    "Translation": "传送在10秒后",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防守20秒": {
+    "Translation": "防守20秒",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10秒后传送房间外的所有玩家": {
+    "Translation": "10秒后传送房间外的所有玩家",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20秒后打破玻璃": {
+    "Translation": "20秒后打破玻璃",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快跳在桥上!!!": {
+    "Translation": "快跳在桥上!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10秒后传送顶层玩家": {
+    "Translation": "10秒后传送顶层玩家",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "最后20秒,坚持住": {
+    "Translation": "最后20秒,坚持住",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "直升机离开还剩20秒": {
+    "Translation": "直升机离开还剩20秒",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第二关完成!!!": {
+    "Translation": "第二关完成!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "自由模式,300秒后核爆，等待rtv换图(Survive for 300seconds)": {
+    "Translation": "自由模式,300秒后核爆，等待rtv换图(Survive for 300seconds)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯门被禁用，一些道路将开放(the elevator door button has been Disable)": {
+    "Translation": "电梯门被禁用，一些道路将开放(the elevator door button has been Disable)",
+    "M-Bool": false,
+    "Value": 0
   }
 }

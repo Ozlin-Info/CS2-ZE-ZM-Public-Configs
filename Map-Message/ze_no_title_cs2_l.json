@@ -1,0 +1,94 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "STAGE 1": {
+    "Translation": "STAGE 1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "White is Door and Wall": {
+    "Translation": "White is Door and Wall",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map made by Kizan Flandre": {
+    "Translation": "Map made by Kizan Flandre",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Port by Linyan, Sudi": {
+    "Translation": "Port by Linyan, Sudi",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks to Hestia, reflelia, DJ_tusla, Aoba, Dus?K, P0P": {
+    "Translation": "Thanks to Hestia, reflelia, DJ_tusla, Aoba, Dus?K, P0P",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "And all RSS server user": {
+    "Translation": "And all RSS server user",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Black is Door or teleport": {
+    "Translation": "Black is Door or teleport",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15 seconds": {
+    "Translation": "15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 seconds": {
+    "Translation": "5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 seconds": {
+    "Translation": "20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "And black is the elevator": {
+    "Translation": "And black is the elevator",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Marble is button": {
+    "Translation": "Marble is button",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds": {
+    "Translation": "10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "pink is a ladder": {
+    "Translation": "pink is a ladder",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 seconds": {
+    "Translation": "30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "40 seconds": {
+    "Translation": "40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wood is a Trap": {
+    "Translation": "Wood is a Trap",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

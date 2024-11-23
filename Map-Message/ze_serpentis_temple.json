@@ -1,0 +1,134 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " WARMUP ROUND (60 sec) ": {
+    "Translation": " WARMUP ROUND (60 sec) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map By Nostar & Moltard ": {
+    "Translation": " Map By Nostar & Moltard ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ": {
+    "Translation": " This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Many assets from the original map were used ": {
+    "Translation": " Many assets from the original map were used ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND (50 sec) ": {
+    "Translation": " WARMUP ROUND (50 sec) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND (40 sec) ": {
+    "Translation": " WARMUP ROUND (40 sec) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND (30 sec) ": {
+    "Translation": " WARMUP ROUND (30 sec) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND (20 sec) ": {
+    "Translation": " WARMUP ROUND (20 sec) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND (10 sec) ": {
+    "Translation": " WARMUP ROUND (10 sec) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage 1 loaded ": {
+    "Translation": " Stage 1 loaded ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAGE 1 ": {
+    "Translation": " STAGE 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Find a way to reach the temple ": {
+    "Translation": " Find a way to reach the temple ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Poison Snake has been picked ": {
+    "Translation": " Poison Snake has been picked ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPEN IN 25 SECONDS ": {
+    "Translation": " DOOR OPEN IN 25 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPEN IN 20 SECONDS ": {
+    "Translation": " DOOR OPEN IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " AFK TELEPORT IN 5 SECONDS ": {
+    "Translation": " AFK TELEPORT IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Fire Snake has been picked ": {
+    "Translation": " Fire Snake has been picked ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " AFK TELEPORT IN 15 SECONDS ": {
+    "Translation": " AFK TELEPORT IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Heal/Ammo Snake has been picked ": {
+    "Translation": " Heal/Ammo Snake has been picked ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOORS OPEN IN 30 SECONDS ": {
+    "Translation": " DOORS OPEN IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TELEPORT IN 30 SECONDS ": {
+    "Translation": " TELEPORT IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZM TELEPORT IN 10 SECONDS ": {
+    "Translation": " ZM TELEPORT IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A sacrifice is necessary to open this passage ": {
+    "Translation": " A sacrifice is necessary to open this passage ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The passage will be open in 10 seconds ": {
+    "Translation": " The passage will be open in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZM TELEPORT IN 5 SECONDS ": {
+    "Translation": " ZM TELEPORT IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
