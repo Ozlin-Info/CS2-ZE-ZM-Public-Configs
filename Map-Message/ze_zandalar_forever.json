@@ -7,7 +7,7 @@
     }
   },
   "赞达拉万古长存！": {
-    "Translation": "ze_zandalar_forever!",
+    "Translation": "Zandalar forever!",
     "M-Bool": false,
     "Value": 0
   },
@@ -102,7 +102,7 @@
     "Value": 0
   },
   "有一个开关藏在希尔瓦娜斯雕像的后边": {
-    "Translation": "There is a switch hidden behind the Sylvanas statue.",
+    "Translation": "There is a button hidden behind the Sylvanas statue.",
     "M-Bool": false,
     "Value": 0
   },
@@ -142,12 +142,12 @@
     "Value": 0
   },
   "需要找到3个按钮才能打开巨擘封印的大门": {
-    "Translation": "We need to find 3 buttons to open the gate of the Titan seal.",
+    "Translation": "We need to find 3 buttons to open the gate of the Great Seal.",
     "M-Bool": false,
     "Value": 0
   },
   "墙已拾取,我们要利用这个爬上巨擘封印": {
-    "Translation": "The wall has been picked up; we will use this to climb up the Titan seal.",
+    "Translation": "The wall has been picked up; we will use this to climb up the Great Seal.",
     "M-Bool": false,
     "Value": 0
   },
@@ -157,12 +157,12 @@
     "Value": 0
   },
   "吉安娜正在使用大海的力量淹没整个祖达萨！": {
-    "Translation": "Jaina is using the power of the sea to flood all of Zuldazar!",
+    "Translation": "Be ware the daughter of the sea! Jaina is using the power of the sea to flood all of Zuldazar!",
     "M-Bool": false,
     "Value": 0
   },
   "我们必须赶在巨擘封印被淹没之前逃出去": {
-    "Translation": "We must escape before the Titan seal is submerged.",
+    "Translation": "We must escape before the Great Seal is submerged.",
     "M-Bool": false,
     "Value": 0
   },
