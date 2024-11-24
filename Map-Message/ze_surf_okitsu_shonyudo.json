@@ -7,17 +7,17 @@
     }
   },
   "! ワイヤーを取り壊すまで 30 秒 !": {
-    "Translation": "! ワイヤーを取り壊すまで 30 秒 !",
+    "Translation": "! 30 seconds until the wire is destroyed !",
     "M-Bool": false,
     "Value": 0
   },
   "! ワイヤーを取り壊すまで 10 秒 !": {
-    "Translation": "! ワイヤーを取り壊すまで 10 秒 !",
+    "Translation": "! 10 seconds until the wire is destroyed !",
     "M-Bool": false,
     "Value": 0
   },
   "!まもなくゾンビが開放されます !": {
-    "Translation": "!まもなくゾンビが開放されます !",
+    "Translation": "! Zombies will be released soon !",
     "M-Bool": false,
     "Value": 0
   }
