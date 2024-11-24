@@ -7,7 +7,7 @@
     }
   },
   "第一关": {
-    "Translation": "第一关",
+    "Translation": "Level 1, EN Translation: Allenw @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   },
@@ -17,12 +17,12 @@
     "Value": 0
   },
   "僵尸获得了《毒球》": {
-    "Translation": "僵尸获得了《毒球》",
+    "Translation": "The zombie has obtained 'Poison Ball'.",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸获得了《消除》": {
-    "Translation": "僵尸获得了《消除》",
+    "Translation": "The zombie has obtained 'Erasure'.",
     "M-Bool": false,
     "Value": 0
   }
