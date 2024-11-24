@@ -7,12 +7,12 @@
     }
   },
   "Special thanks to MOEUB server for testing and people who guided me on anything": {
-    "Translation": "Special thanks to MOEUB server for testing and people who guided me on anything",
+    "Translation": "Special thanks to MOEUB server for testing and people who guided me on anything. EN Translation: Allenw @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   },
   "正在加载未知作战记录v0.24": {
-    "Translation": "正在加载未知作战记录v0.24",
+    "Translation": "Loading unknown combat record v0.24",
     "M-Bool": false,
     "Value": 0
   },
@@ -32,137 +32,137 @@
     "Value": 0
   },
   "行动代号：Encounter": {
-    "Translation": "行动代号：Encounter",
+    "Translation": "Codename: Encounter",
     "M-Bool": false,
     "Value": 0
   },
   "正在加载任务数据": {
-    "Translation": "正在加载任务数据",
+    "Translation": "Loading mission data",
     "M-Bool": false,
     "Value": 0
   },
   "加载成功": {
-    "Translation": "加载成功",
+    "Translation": "Load successful",
     "M-Bool": false,
     "Value": 0
   },
   "位置：[数据删除]基地": {
-    "Translation": "位置：[数据删除]基地",
+    "Translation": "Location: [Data Deleted] Base",
     "M-Bool": false,
     "Value": 0
   },
   "当地时间：[数据删除]": {
-    "Translation": "当地时间：[数据删除]",
+    "Translation": "Local time: [Data Deleted]",
     "M-Bool": false,
     "Value": 0
   },
   "距离不明类型灾害发生的时间：01:23": {
-    "Translation": "距离不明类型灾害发生的时间：01:23",
+    "Translation": "Time until an unknown type of disaster occurs: 01:23",
     "M-Bool": false,
     "Value": 0
   },
   "正在加载语音....成功": {
-    "Translation": "正在加载语音....成功",
+    "Translation": "Loading voice.... Success",
     "M-Bool": false,
     "Value": 0
   },
   "咳咳，该死的": {
-    "Translation": "咳咳，该死的",
+    "Translation": "Cough, damn it",
     "M-Bool": false,
     "Value": 0
   },
   "地图显示我们从这里坐电梯可以撤离": {
-    "Translation": "地图显示我们从这里坐电梯可以撤离",
+    "Translation": "The map shows we can evacuate by taking the elevator from here.",
     "M-Bool": false,
     "Value": 0
   },
   "从小就教我们火灾不能坐电梯...但管他呢": {
-    "Translation": "从小就教我们火灾不能坐电梯...但管他呢",
+    "Translation": "We've been taught since childhood not to use the elevator during a fire... but who cares.",
     "M-Bool": false,
     "Value": 0
   },
   "这该死的安全系统挡不住感染者反而挡住我们了": {
-    "Translation": "这该死的安全系统挡不住感染者反而挡住我们了",
+    "Translation": "This damn security system can't stop the infected but blocks us instead.",
     "M-Bool": false,
     "Value": 0
   },
   "给我点时间": {
-    "Translation": "给我点时间",
+    "Translation": "Give me some time.",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸扒开了侧门": {
-    "Translation": "僵尸扒开了侧门",
+    "Translation": "The zombies have pushed open the side door.",
     "M-Bool": false,
     "Value": 0
   },
   "快走": {
-    "Translation": "快走",
+    "Translation": "Hurry up!",
     "M-Bool": false,
     "Value": 0
   },
   "我们只需要坐电梯向上，就能摆脱这一切了": {
-    "Translation": "我们只需要坐电梯向上，就能摆脱这一切了",
+    "Translation": "We just need to take the elevator up to escape all this.",
     "M-Bool": false,
     "Value": 0
   },
   "电梯正在赶来": {
-    "Translation": "电梯正在赶来",
+    "Translation": "The elevator is on its way.",
     "M-Bool": false,
     "Value": 0
   },
   "马上就到": {
-    "Translation": "马上就到",
+    "Translation": "It will be here soon.",
     "M-Bool": false,
     "Value": 0
   },
   "快进来": {
-    "Translation": "快进来",
+    "Translation": "Get in quickly!",
     "M-Bool": false,
     "Value": 0
   },
   "怎么回事": {
-    "Translation": "怎么回事",
+    "Translation": "What's going on?",
     "M-Bool": false,
     "Value": 0
   },
   "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊": {
-    "Translation": "啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
+    "Translation": "Aaaaaaaaaaaaaaaaaaaa",
     "M-Bool": false,
     "Value": 0
   },
   " 20 ": {
-    "Translation": " 20 ",
+    "Translation": "20",
     "M-Bool": false,
     "Value": 0
   },
   " 10 ": {
-    "Translation": " 10 ",
+    "Translation": "10",
     "M-Bool": false,
     "Value": 0
   },
   " 5 ": {
-    "Translation": " 5 ",
+    "Translation": "5",
     "M-Bool": false,
     "Value": 0
   },
   " 40 ": {
-    "Translation": " 40 ",
+    "Translation": "40",
     "M-Bool": false,
     "Value": 0
   },
   "感觉这个玻璃不是很稳固": {
-    "Translation": "感觉这个玻璃不是很稳固",
+    "Translation": "This glass doesn't feel very stable.",
     "M-Bool": false,
     "Value": 0
   },
   " 30 ": {
-    "Translation": " 30 ",
+    "Translation": "30",
     "M-Bool": false,
     "Value": 0
   },
   "小心玻璃": {
-    "Translation": "小心玻璃",
+    "Translation": "Watch out for the glass.",
     "M-Bool": false,
     "Value": 0
   }

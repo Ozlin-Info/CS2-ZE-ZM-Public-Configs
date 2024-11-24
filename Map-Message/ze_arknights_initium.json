@@ -7,37 +7,37 @@
     }
   },
   "阿米娅：博士，整合运动已经发现了这里，我们需要尽快撤离": {
-    "Translation": "阿米娅：博士，整合运动已经发现了这里，我们需要尽快撤离",
+    "Translation": "Amiya: Doctor, the Reunion has found us here, we need to evacuate quickly.",
     "M-Bool": false,
     "Value": 0
   },
   "阿米娅：大门还有30s打开，请再坚持一下": {
-    "Translation": "阿米娅：大门还有30s打开，请再坚持一下",
+    "Translation": "Amiya: The gate will open in 30 seconds, please hold on a little longer.",
     "M-Bool": false,
     "Value": 0
   },
   "阿米娅：博士，地面出口就在那里": {
-    "Translation": "阿米娅：博士，地面出口就在那里",
+    "Translation": "Amiya: Doctor, the ground exit is right there.",
     "M-Bool": false,
     "Value": 0
   },
   "阿米娅：糟糕，这里已经被整合运动包围了": {
-    "Translation": "阿米娅：糟糕，这里已经被整合运动包围了",
+    "Translation": "Amiya: Oh no, we are already surrounded by the Reunion.",
     "M-Bool": false,
     "Value": 0
   },
   "ACE：博士，听得到吗，15s后我将进行墙壁爆破，请注意躲避": {
-    "Translation": "ACE：博士，听得到吗，15s后我将进行墙壁爆破，请注意躲避",
+    "Translation": "ACE: Doctor, can you hear me? I will blow the wall in 15 seconds, please be careful to dodge.",
     "M-Bool": false,
     "Value": 0
   },
   "阿米娅：博士，前面是巨大的源石丛，我们已经无路可走了": {
-    "Translation": "阿米娅：博士，前面是巨大的源石丛，我们已经无路可走了",
+    "Translation": "Amiya: Doctor, there’s a huge cluster of Originium ahead, we have no way to go!",
     "M-Bool": false,
     "Value": 0
   },
   "ACE：井盖下方似乎通往切尔诺伯格的排水管道": {
-    "Translation": "ACE：井盖下方似乎通往切尔诺伯格的排水管道",
+    "Translation": "ACE: It seems that below the manhole leads to the drainage system of Chernobog.",
     "M-Bool": false,
     "Value": 0
   }

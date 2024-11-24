@@ -7,17 +7,17 @@
     }
   },
   "学校大门还有40秒打开": {
-    "Translation": "学校大门还有40秒打开",
+    "Translation": "The school gate will open in 40 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "等待30秒迷宫的栅栏门打开": {
-    "Translation": "等待30秒迷宫的栅栏门打开",
+    "Translation": "Wait 30 seconds for the maze gate to open.",
     "M-Bool": false,
     "Value": 0
   },
   "走廊被东西挡住了，从教室里绕过去吧": {
-    "Translation": "走廊被东西挡住了，从教室里绕过去吧",
+    "Translation": "The corridor is blocked; go around from the classroom.",
     "M-Bool": false,
     "Value": 0
   }

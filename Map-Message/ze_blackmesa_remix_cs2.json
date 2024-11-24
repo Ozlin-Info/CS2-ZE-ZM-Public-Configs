@@ -7,57 +7,57 @@
     }
   },
   " ORIGINAL ZE BLACKMESA BY BILL SMAUTZ ": {
-    "Translation": " ORIGINAL ZE BLACKMESA BY BILL SMAUTZ ",
+    "Translation": "ORIGINAL ZE BLACKMESA BY BILL SMAUTZ",
     "M-Bool": false,
     "Value": 0
   },
   " REDESIGN BY CISNEROS ": {
-    "Translation": " REDESIGN BY CISNEROS ",
+    "Translation": "REDESIGN BY CISNEROS, EN Translation: Allenw @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   },
   " 变动:无，无聊的正常模式! ": {
-    "Translation": " 变动:无，无聊的正常模式! ",
+    "Translation": "Change: None, boring normal mode!",
     "M-Bool": false,
     "Value": 0
   },
   " 堡垒回合:存活5分钟! ": {
-    "Translation": " 堡垒回合:存活5分钟! ",
+    "Translation": "Fortress Round: Survive for 5 minutes!",
     "M-Bool": false,
     "Value": 0
   },
   " 变动:窥探秘密是不礼貌的——被锁住的秘密通道？ ": {
-    "Translation": " 变动:窥探秘密是不礼貌的——被锁住的秘密通道？ ",
+    "Translation": "Change: Peeking at secrets is rude—locked secret passage?",
     "M-Bool": false,
     "Value": 0
   },
   " 歼灭模式启用:怪物实验室, 开放(32个人类及以上，额外激活12个怪物) ": {
-    "Translation": " 歼灭模式启用:怪物实验室, 开放(32个人类及以上，额外激活12个怪物) ",
+    "Translation": "Elimination mode enabled: Monster Lab, open (32 humans or more, additional 12 monsters activated)",
     "M-Bool": false,
     "Value": 0
   },
   " Tram Starts in 7 Seconds ": {
-    "Translation": " Tram Starts in 7 Seconds ",
+    "Translation": "Tram Starts in 7 Seconds",
     "M-Bool": false,
     "Value": 0
   },
   " Bridge Activated ": {
-    "Translation": " Bridge Activated ",
+    "Translation": "Bridge Activated",
     "M-Bool": false,
     "Value": 0
   },
-  " It seems as if there was going to ocurr a big earthquake...  ": {
-    "Translation": " It seems as if there was going to ocurr a big earthquake...  ",
+  " It seems as if there was going to occur a big earthquake... ": {
+    "Translation": "It seems as if there was going to occur a big earthquake...",
     "M-Bool": false,
     "Value": 0
   },
-  " 变动:登上电车吧——没有前路/秘密通道  ": {
-    "Translation": " 变动:登上电车吧——没有前路/秘密通道  ",
+  " 变动:登上电车吧——没有前路/秘密通道 ": {
+    "Translation": "Change: Get on the tram—no way forward/secret passage",
     "M-Bool": false,
     "Value": 0
   },
   " 变动:登上电车吧——没有桥/秘密通道 ": {
-    "Translation": " 变动:登上电车吧——没有桥/秘密通道 ",
+    "Translation": "Change: Get on the tram—no bridge/secret passage",
     "M-Bool": false,
     "Value": 0
   }
