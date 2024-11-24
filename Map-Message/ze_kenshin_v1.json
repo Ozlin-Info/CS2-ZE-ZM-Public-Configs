@@ -7,17 +7,17 @@
     }
   },
   "地图原形:Crystar": {
-    "Translation": "地图原形:Crystar",
+    "Translation": "Map Prototype: Crystar, EN Translation: Allenw @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸5s后传送": {
-    "Translation": "僵尸5s后传送",
+    "Translation": "Zombies will teleport in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "等待20s": {
-    "Translation": "等待20s",
+    "Translation": "Wait for 20 seconds.",
     "M-Bool": false,
     "Value": 0
   }
