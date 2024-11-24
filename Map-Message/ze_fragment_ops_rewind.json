@@ -7,32 +7,32 @@
     }
   },
   "アルビオンだったもの :": {
-    "Translation": "アルビオンだったもの :",
+    "Translation": "What was Albion:",
     "M-Bool": false,
     "Value": 0
   },
   "「ここがセレスティアルの深層...」": {
-    "Translation": "「ここがセレスティアルの深層...」",
+    "Translation": "「This is the depths of Celestial...」 英語翻訳: ChatGPT + AllenW @ Ozlin サーバー",
     "M-Bool": false,
     "Value": 0
   },
   "「私の仮説通り、ここにも生態系が存在している...」": {
-    "Translation": "「私の仮説通り、ここにも生態系が存在している...」",
+    "Translation": "「As my hypothesis suggested, there is an ecosystem here as well...」",
     "M-Bool": false,
     "Value": 0
   },
   "「いつまでこの殻が耐えるかわからないけど...」": {
-    "Translation": "「いつまでこの殻が耐えるかわからないけど...」",
+    "Translation": "「I don’t know how long this shell will hold...」",
     "M-Bool": false,
     "Value": 0
   },
   "「とにかく前に進まなくては...」": {
-    "Translation": "「とにかく前に進まなくては...」",
+    "Translation": "「In any case, we must move forward...」",
     "M-Bool": false,
     "Value": 0
   },
   "「これよりフラグメント作戦を開始...」": {
-    "Translation": "「これよりフラグメント作戦を開始...」",
+    "Translation": "「Starting the Fragment Operation now...」",
     "M-Bool": false,
     "Value": 0
   }
