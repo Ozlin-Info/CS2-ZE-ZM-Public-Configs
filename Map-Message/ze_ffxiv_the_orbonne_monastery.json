@@ -7,257 +7,257 @@
     }
   },
   "Map by ub admuns & friends": {
-    "Translation": "Map by ub admuns & friends",
+    "Translation": "Map by ub admuns & friends, EN Translation: Allenw @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   },
   "第零章 向乐欲之所瓯博讷修道院出发!(热身回合)": {
-    "Translation": "第零章 向乐欲之所瓯博讷修道院出发!(热身回合)",
+    "Translation": "Chapter Zero: Departing for the Abbey of Pleasure in Orbonne! (Warm-up Round)",
     "M-Bool": false,
     "Value": 0
   },
   "Special thanks zoya": {
-    "Translation": "Special thanks zoya",
+    "Translation": "Special thanks to Zoya",
     "M-Bool": false,
     "Value": 0
   },
   "第一章 初探乐欲之所瓯博讷修道院!": {
-    "Translation": "第一章 初探乐欲之所瓯博讷修道院!",
+    "Translation": "Chapter One: Initial Exploration of the Abbey of Pleasure in Orbonne!",
     "M-Bool": false,
     "Value": 0
   },
   "通往山谷外的道路30s后开放": {
-    "Translation": "通往山谷外的道路30s后开放",
+    "Translation": "The road to the valley will open in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "这是!?看来没错了...这里就是传说中的乐欲之所瓯博讷修道院了": {
-    "Translation": "这是!?看来没错了...这里就是传说中的乐欲之所瓯博讷修道院了",
+    "Translation": "Is this!? It seems correct... This is the legendary Abbey of Pleasure in Orbonne.",
     "M-Bool": false,
     "Value": 0
   },
   "可恶!通往桥面的路被神秘力量封锁了,需要15s破解": {
-    "Translation": "可恶!通往桥面的路被神秘力量封锁了,需要15s破解",
+    "Translation": "Damn! The road to the bridge is blocked by a mysterious force, it will take 15 seconds to unlock.",
     "M-Bool": false,
     "Value": 0
   },
   "进入瓯博讷修道院的入口将于20s后开放": {
-    "Translation": "进入瓯博讷修道院的入口将于20s后开放",
+    "Translation": "The entrance to the Abbey of Orbonne will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "这建筑不像是自然生成在这与世隔绝的密林深处,看来已经荒废许久了,四周一片寂寥静默让人不寒而栗...": {
-    "Translation": "这建筑不像是自然生成在这与世隔绝的密林深处,看来已经荒废许久了,四周一片寂寥静默让人不寒而栗...",
+    "Translation": "This building doesn't seem to be naturally formed in this secluded forest; it appears to have been abandoned for a long time. The surrounding silence is chilling...",
     "M-Bool": false,
     "Value": 0
   },
   "两侧的道路被未知的能量封锁了,看来有一股神秘的力量在干涉我们,貌似只能去一探究竟了...": {
-    "Translation": "两侧的道路被未知的能量封锁了,看来有一股神秘的力量在干涉我们,貌似只能去一探究竟了...",
+    "Translation": "The roads on both sides are blocked by unknown energy. It seems a mysterious force is interfering with us; we have no choice but to investigate...",
     "M-Bool": false,
     "Value": 0
   },
   "我们需要15s时间来架设传送阵": {
-    "Translation": "我们需要15s时间来架设传送阵",
+    "Translation": "We need 15 seconds to set up the teleportation array.",
     "M-Bool": false,
     "Value": 0
   },
   "机工士我是姆斯塔迪奥，想继续前进，要先过我这关！": {
-    "Translation": "机工士我是姆斯塔迪奥，想继续前进，要先过我这关！",
+    "Translation": "Mechanic: I am Mustadio. If you want to proceed, you must get past me first!",
     "M-Bool": false,
     "Value": 0
   },
   "机工士能量爆发充能中": {
-    "Translation": "机工士能量爆发充能中",
+    "Translation": "Mechanic: Energy burst charging.",
     "M-Bool": false,
     "Value": 0
   },
   "机工士躲得了吗？": {
-    "Translation": "机工士躲得了吗？",
+    "Translation": "Mechanic: Can you dodge this?",
     "M-Bool": false,
     "Value": 0
   },
   "机工士这点小问题我分分钟就能修好!": {
-    "Translation": "机工士这点小问题我分分钟就能修好!",
+    "Translation": "Mechanic: I can fix this little problem in no time!",
     "M-Bool": false,
     "Value": 0
   },
   "机工士瞄准！": {
-    "Translation": "机工士瞄准！",
+    "Translation": "Mechanic: Aim!",
     "M-Bool": false,
     "Value": 0
   },
   "机工士有两下子啊……但是你能抵挡住这个吗？！": {
-    "Translation": "机工士有两下子啊……但是你能抵挡住这个吗？！",
+    "Translation": "Mechanic: Impressive, huh... But can you withstand this?!",
     "M-Bool": false,
     "Value": 0
   },
   "(不好！我们的弱点已被看穿，避免跟他对视，以防被找到弱点击破！)": {
-    "Translation": "(不好！我们的弱点已被看穿，避免跟他对视，以防被找到弱点击破！)",
+    "Translation": "(Oh no! Our weakness has been exposed, avoid making eye contact to prevent being found out!)",
     "M-Bool": false,
     "Value": 0
   },
   "机工士最终圣约！": {
-    "Translation": "机工士最终圣约！",
+    "Translation": "Mechanic: Final Covenant!",
     "M-Bool": false,
     "Value": 0
   },
   "机工士电能激荡充能中": {
-    "Translation": "机工士电能激荡充能中",
+    "Translation": "Mechanic: Electrical energy surging during charging.",
     "M-Bool": false,
     "Value": 0
   },
   "机工士维护:协同指令": {
-    "Translation": "机工士维护:协同指令",
+    "Translation": "Mechanic: Maintenance: Coordinated command.",
     "M-Bool": false,
     "Value": 0
   },
   "机工士制导飞弹已发射": {
-    "Translation": "机工士制导飞弹已发射",
+    "Translation": "Mechanic: Guided missile has been launched.",
     "M-Bool": false,
     "Value": 0
   },
   "机工士维护:连续指令": {
-    "Translation": "机工士维护:连续指令",
+    "Translation": "Mechanic: Maintenance: Continuous command.",
     "M-Bool": false,
     "Value": 0
   },
   "机工士左右双舷扫射充能中...": {
-    "Translation": "机工士左右双舷扫射充能中...",
+    "Translation": "Mechanic: Port and starboard broadside attack charging...",
     "M-Bool": false,
     "Value": 0
   },
   "机工士电能聚焦充能中": {
-    "Translation": "机工士电能聚焦充能中",
+    "Translation": "Mechanic: Electrical energy focusing during charging.",
     "M-Bool": false,
     "Value": 0
   },
   "机工士右左双舷扫射充能中...": {
-    "Translation": "机工士右左双舷扫射充能中...",
+    "Translation": "Mechanic: Right and left broadside attack charging...",
     "M-Bool": false,
     "Value": 0
   },
   "机工士永远的旅行…终于…结束了…谢谢你…黄道勇士…": {
-    "Translation": "机工士永远的旅行…终于…结束了…谢谢你…黄道勇士…",
+    "Translation": "Mechanic: The eternal journey... finally... it's over... Thank you... Zodiac Warrior...",
     "M-Bool": false,
     "Value": 0
   },
   "干得好，我们已击败机工士姆斯塔迪奥，接下来继续前进吧！": {
-    "Translation": "干得好，我们已击败机工士姆斯塔迪奥，接下来继续前进吧！",
+    "Translation": "Well done, we have defeated Mechanic Mustadio, let's continue forward!",
     "M-Bool": false,
     "Value": 0
   },
   "深入瓯博讷修道院的入口将于20s后开放": {
-    "Translation": "深入瓯博讷修道院的入口将于20s后开放",
+    "Translation": "The entrance to the Abbey of Orbonne will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "历尽沧桑的腐朽建筑上依稀能辨出试炼之间几字...看来这或许是迷宫深处的出口?不过箭在弦上亦无退路了...": {
-    "Translation": "历尽沧桑的腐朽建筑上依稀能辨出试炼之间几字...看来这或许是迷宫深处的出口?不过箭在弦上亦无退路了...",
+    "Translation": "On the decayed building, faint traces of the trials can be seen... Could this be the exit deep within the labyrinth? But with the arrow drawn, there's no turning back...",
     "M-Bool": false,
     "Value": 0
   },
   "我们需要20s破解此处的守护魔法,坚持住!": {
-    "Translation": "我们需要20s破解此处的守护魔法,坚持住!",
+    "Translation": "We need 20 seconds to break the protective magic here, hold on!",
     "M-Bool": false,
     "Value": 0
   },
   "女妖桀桀...让我夺走你的灵魂...": {
-    "Translation": "女妖桀桀...让我夺走你的灵魂...",
+    "Translation": "Witch: Hehehe... Let me take your soul...",
     "M-Bool": false,
     "Value": 0
   },
   "拦路的女妖被我们击退了 继续前进!": {
-    "Translation": "拦路的女妖被我们击退了 继续前进!",
+    "Translation": "The blocking witch has been repelled by us, continue forward!",
     "M-Bool": false,
     "Value": 0
   },
   "一位玩家习得圣愈魔法": {
-    "Translation": "一位玩家习得圣愈魔法",
+    "Translation": "A player has acquired Holy Healing Magic.",
     "M-Bool": false,
     "Value": 0
   },
   "怨灵aughhh!!!": {
-    "Translation": "怨灵aughhh!!!",
+    "Translation": "Wraith: Aaughhh!!!",
     "M-Bool": false,
     "Value": 0
   },
   "wtf!这是什么!!!": {
-    "Translation": "wtf!这是什么!!!",
+    "Translation": "Wtf! What is this!!!",
     "M-Bool": false,
     "Value": 0
   },
   "什么!?竟然无法通过...难道要命丧于此?坚定守住就有办法!": {
-    "Translation": "什么!?竟然无法通过...难道要命丧于此?坚定守住就有办法!",
+    "Translation": "What!? We can't get through... Are we to perish here? If we hold firm, there must be a way!",
     "M-Bool": false,
     "Value": 0
   },
   "真是命悬一线啊...不过到底发生了什么?": {
-    "Translation": "真是命悬一线啊...不过到底发生了什么?",
+    "Translation": "It's a matter of life and death... But what exactly happened?",
     "M-Bool": false,
     "Value": 0
   },
   "圣骑士你被拉姆萨引导而来，但是你有足够的力量去继承他的意志吗？": {
-    "Translation": "圣骑士你被拉姆萨引导而来，但是你有足够的力量去继承他的意志吗？",
+    "Translation": "Holy Knight: You were guided here by Ramza, but do you have the strength to inherit his will?",
     "M-Bool": false,
     "Value": 0
   },
   "圣骑士幻光波！": {
-    "Translation": "圣骑士幻光波！",
+    "Translation": "Holy Knight: Illumination Wave!",
     "M-Bool": false,
     "Value": 0
   },
   "圣骑士生无常，命无怜，葬身之徒皆迷暗！不动无明剑！": {
-    "Translation": "圣骑士生无常，命无怜，葬身之徒皆迷暗！不动无明剑！",
+    "Translation": "Holy Knight: Life is impermanent, fate is merciless, all who perish are lost in darkness! Unmoving Sword of Ignorance!",
     "M-Bool": false,
     "Value": 0
   },
   "圣骑士上天之意铭刻于胸，空荡之魂杂念皆空！圣光爆裂破！": {
-    "Translation": "圣骑士上天之意铭刻于胸，空荡之魂杂念皆空！圣光爆裂破！",
+    "Translation": "Holy Knight: The will of heaven is inscribed on my chest, the empty soul is free of distractions! Holy Light Explosion!",
     "M-Bool": false,
     "Value": 0
   },
   "圣骑士邪神乱清心，杂念生小人，唯有圣者净心化人！乱命割杀打！": {
-    "Translation": "圣骑士邪神乱清心，杂念生小人，唯有圣者净心化人！乱命割杀打！",
+    "Translation": "Holy Knight: The evil god disrupts the mind, distractions give rise to petty people; only the holy can purify the heart! Chaotic Death Slash!",
     "M-Bool": false,
     "Value": 0
   },
   "圣骑士死兆之星七影断联，命运之络死亡侵残。北斗骨碎打！": {
-    "Translation": "圣骑士死兆之星七影断联，命运之络死亡侵残。北斗骨碎打！",
+    "Translation": "Holy Knight: The Star of Death severed seven shadows, the web of fate is invaded by death. Big Dipper Bone Smash!",
     "M-Bool": false,
     "Value": 0
   },
   "恶灵:桀桀": {
-    "Translation": "恶灵:桀桀",
+    "Translation": "Evil Spirit: Hehehe",
     "M-Bool": false,
     "Value": 0
   },
   "圣骑士空中力量翻涌，地上敌人震惊，狂雷闪电皆汇聚手中！无双惊电突！": {
-    "Translation": "圣骑士空中力量翻涌，地上敌人震惊，狂雷闪电皆汇聚手中！无双惊电突！",
+    "Translation": "Holy Knight: Power surges in the air, enemies on the ground are stunned, wild lightning gathers in my hands! Unmatched Lightning Strike!",
     "M-Bool": false,
     "Value": 0
   },
   "已选择第?章!": {
-    "Translation": "已选择第?章!",
+    "Translation": "Chapter ? has been selected!",
     "M-Bool": false,
     "Value": 0
   },
   "已选择第三章!": {
-    "Translation": "已选择第三章!",
+    "Translation": "Chapter Three has been selected!",
     "M-Bool": false,
     "Value": 0
   },
   "已选择第二章!": {
-    "Translation": "已选择第二章!",
+    "Translation": "Chapter Two has been selected!",
     "M-Bool": false,
     "Value": 0
   },
   "已选择第一章!": {
-    "Translation": "已选择第一章!",
+    "Translation": "Chapter One has been selected!",
     "M-Bool": false,
     "Value": 0
   },
   "已选择核爆!": {
-    "Translation": "已选择核爆!",
+    "Translation": "Nuclear Explosion has been selected!",
     "M-Bool": false,
     "Value": 0
   }
