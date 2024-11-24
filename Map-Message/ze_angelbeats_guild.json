@@ -17,32 +17,32 @@
       "Value": 0
   },
     "由理子:马上行动，游佐，你来带路": {
-      "Translation": "Yuriko: Act quickly, Yousuke, you lead the way.",
+      "Translation": "Yuriko: Act quickly, Yusa, you lead the way.",
       "M-Bool": false,
       "Value": 0
   },
     "游佐:收到，请各位现在前往体育馆": {
-      "Translation": "Yousuke: Understood, everyone please head to the gym now.",
+      "Translation": "Yusa: Roger, everyone please head to the gym now.",
       "M-Bool": false,
       "Value": 0
   },
     "游佐:基地Guild在体育馆正下方": {
-      "Translation": "Yousuke: The Guild base is directly below the gym.",
+      "Translation": "Yusa: The Guild base is directly below the gym.",
       "M-Bool": false,
       "Value": 0
   },
     "游佐:不过体育馆正门被锁住了,请走侧门": {
-      "Translation": "Yousuke: However, the main door of the gym is locked, please use the side door.",
+      "Translation": "Yusa: However, the main door of the gym is locked, please use the side door.",
       "M-Bool": false,
       "Value": 0
   },
     "游佐:小心,前方发现天使": {
-      "Translation": "Yousuke: Be careful, an angel has been spotted ahead.",
+      "Translation": "Yusa: Be careful, an angel has been spotted ahead.",
       "M-Bool": false,
       "Value": 0
   },
     "游佐:她好像有点不太对劲（注意小奏的音速手刃）": {
-      "Translation": "Yousuke: She seems a bit off (watch out for Kanade's Hand Sonic).",
+      "Translation": "Yusa: She seems a bit off (watch out for Kanade's Hand Sonic).",
       "M-Bool": false,
       "Value": 0
   },
@@ -97,7 +97,7 @@
       "Value": 0
     },
     "游佐:Guild的入口在舞台下方": {
-      "Translation": "Yousuke: The entrance to the Guild is below the stage.",
+      "Translation": "Yusa: The entrance to the Guild is below the stage.",
       "M-Bool": false,
       "Value": 0
   },
@@ -107,22 +107,22 @@
     "Value": 0
   },
   "游佐:开关在第一台电脑处": {
-    "Translation": "Yousuke: The switch is at the first computer.",
+    "Translation": "Yusa: The switch is at the first computer.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:守住这里，我来开门": {
-    "Translation": "Yousuke: Hold this position, I'll open the door.",
+    "Translation": "Yusa: Hold this position, I'll open the door.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:舞台下方的暗门将在30秒后打开,守住这里": {
-    "Translation": "Yousuke: The secret door below the stage will open in 30 seconds, hold this position.",
+    "Translation": "Yusa: The secret door below the stage will open in 30 seconds, hold this position.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:门开了,快走": {
-    "Translation": "Yousuke: The door is open, hurry up!",
+    "Translation": "Yusa: The door is open, hurry up!",
     "M-Bool": false,
     "Value": 0
   },
@@ -147,12 +147,12 @@
     "Value": 0
   },
   "游佐:岩石将在15秒后破碎": {
-    "Translation": "Yousuke: The rocks will break in 15 seconds.",
+    "Translation": "Yusa: The rocks will break in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:注意,岩石后面道路的尽头有一个可怕的陷阱": {
-    "Translation": "Yousuke: Be careful, there's a terrible trap at the end of the path behind the rocks.",
+    "Translation": "Yusa: Be careful, there's a terrible trap at the end of the path behind the rocks.",
     "M-Bool": false,
     "Value": 0
   },
@@ -167,7 +167,7 @@
     "Value": 0
   },
   "游佐:C4将在15秒后爆炸": {
-    "Translation": "Yousuke: The C4 will explode in 15 seconds.",
+    "Translation": "Yusa: The C4 will explode in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
@@ -177,27 +177,27 @@
     "Value": 0
   },
   "游佐:注意！这里是滚石陷阱！": {
-    "Translation": "Yousuke: Watch out! This is a rolling stone trap!",
+    "Translation": "Yusa: Watch out! This is a rolling stone trap!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:快跑！": {
-    "Translation": "Yousuke: Run!",
+    "Translation": "Yusa: Run!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:玻璃门将在5秒后关闭": {
-    "Translation": "Yousuke: The glass door will close in 5 seconds.",
+    "Translation": "Yusa: The glass door will close in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:小心了！前方是送终鸡的刀光剑影！": {
-    "Translation": "Yousuke: Be careful! Ahead are the laser blades from the chicken!",
+    "Translation": "Yusa: Be careful! Ahead are the laser blades from the chicken!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:躲不开的话会被它用最好的手法切成两半！": {
-    "Translation": "Yousuke: If you can't dodge, you'll be sliced in half by its best techniques!",
+    "Translation": "Yusa: If you can't dodge, you'll be sliced in half by its best techniques!",
     "M-Bool": false,
     "Value": 0
     },
@@ -207,17 +207,17 @@
     "Value": 0
   },
   "游佐:岩石将在25秒后破碎": {
-    "Translation": "Yousuke: The rocks will break in 25 seconds.",
+    "Translation": "Yusa: The rocks will break in 25 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:注意！岩石后面是天花板坠落陷阱！": {
-    "Translation": "Yousuke: Watch out! There's a ceiling drop trap behind the rocks!",
+    "Translation": "Yusa: Watch out! There's a ceiling drop trap behind the rocks!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:门开之后一定要跑起来！": {
-    "Translation": "Yousuke: You must run as soon as the door opens!",
+    "Translation": "Yusa: You must run as soon as the door opens!",
     "M-Bool": false,
     "Value": 0
   },
@@ -227,42 +227,42 @@
     "Value": 0
   },
   "游佐:注意脚下的红色地板": {
-    "Translation": "Yousuke: Watch out for the red floor beneath you.",
+    "Translation": "Yusa: Watch out for the red floor beneath you.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:如果我没记错的话,这里的地板会碎！": {
-    "Translation": "Yousuke: If I remember correctly, the floor here will break!",
+    "Translation": "Yusa: If I remember correctly, the floor here will break!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:请靠着白色柱子前进！": {
-    "Translation": "Yousuke: Please move along the white pillars!",
+    "Translation": "Yusa: Please move along the white pillars!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:下面是水淹...": {
-    "Translation": "Yousuke: Below is flooded with water...",
+    "Translation": "Yusa: Below is flooded with water...",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:很抱歉..我不会游...": {
-    "Translation": "Yousuke: I'm sorry... I can't swim...",
+    "Translation": "Yusa: I'm sorry... I can't swim...",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:~~咕噜咕噜咕噜咕噜~~": {
-    "Translation": "Yousuke: ~~Glub glub glub glub~~",
+    "Translation": "Yusa: ~~Glub glub glub glub~~",
     "M-Bool": false,
     "Value": 0
   },
   "由依:啊！游佐！！！": {
-    "Translation": "Yui: Ah! Yousuke!!!",
+    "Translation": "Yui: Ah! Yusa!!!",
     "M-Bool": false,
     "Value": 0
   },
   "（游佐顺着水流被冲走了...）（我们失去了游佐的踪迹...）": {
-    "Translation": "(Yousuke was swept away by the current...)(We lost track of Yousuke...)",
+    "Translation": "(Yusa was swept away by the current...)(We lost track of Yusa...)",
     "M-Bool": false,
     "Value": 0
   },
@@ -362,7 +362,7 @@
     "Value": 0
   },
   "BOOM!": {
-    "Translation": "BOOM!",
+    "Translation": "BOOM! EN Translation: Allenw @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   }
