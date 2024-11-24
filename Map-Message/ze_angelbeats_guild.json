@@ -7,99 +7,99 @@
     }
   },
   "由理子:紧急情况，死后世界爆发了僵尸病毒": {
-    "Translation": "由理子:紧急情况，死后世界爆发了僵尸病毒",
-    "M-Bool": false,
-    "Value": 0
+      "Translation": "Yuriko: Emergency! A zombie virus has broken out in the afterlife world.",
+      "M-Bool": false,
+      "Value": 0
   },
-  "由理子:我们需要前往Guild获取武器以消灭僵尸": {
-    "Translation": "由理子:我们需要前往Guild获取武器以消灭僵尸",
-    "M-Bool": false,
-    "Value": 0
+    "由理子:我们需要前往Guild获取武器以消灭僵尸": {
+      "Translation": "Yuriko: We need to go to the Guild to get weapons to eliminate the zombies.",
+      "M-Bool": false,
+      "Value": 0
   },
-  "由理子:马上行动，游佐，你来带路": {
-    "Translation": "由理子:马上行动，游佐，你来带路",
-    "M-Bool": false,
-    "Value": 0
+    "由理子:马上行动，游佐，你来带路": {
+      "Translation": "Yuriko: Act quickly, Yousuke, you lead the way.",
+      "M-Bool": false,
+      "Value": 0
   },
-  "游佐:收到，请各位现在前往体育馆": {
-    "Translation": "游佐:收到，请各位现在前往体育馆",
-    "M-Bool": false,
-    "Value": 0
+    "游佐:收到，请各位现在前往体育馆": {
+      "Translation": "Yousuke: Understood, everyone please head to the gym now.",
+      "M-Bool": false,
+      "Value": 0
   },
-  "游佐:基地Guild在体育馆正下方": {
-    "Translation": "游佐:基地Guild在体育馆正下方",
-    "M-Bool": false,
-    "Value": 0
+    "游佐:基地Guild在体育馆正下方": {
+      "Translation": "Yousuke: The Guild base is directly below the gym.",
+      "M-Bool": false,
+      "Value": 0
   },
-  "游佐:不过体育馆正门被锁住了,请走侧门": {
-    "Translation": "游佐:不过体育馆正门被锁住了,请走侧门",
-    "M-Bool": false,
-    "Value": 0
+    "游佐:不过体育馆正门被锁住了,请走侧门": {
+      "Translation": "Yousuke: However, the main door of the gym is locked, please use the side door.",
+      "M-Bool": false,
+      "Value": 0
   },
-  "游佐:小心,前方发现天使": {
-    "Translation": "游佐:小心,前方发现天使",
-    "M-Bool": false,
-    "Value": 0
+    "游佐:小心,前方发现天使": {
+      "Translation": "Yousuke: Be careful, an angel has been spotted ahead.",
+      "M-Bool": false,
+      "Value": 0
   },
-  "游佐:她好像有点不太对劲（注意小奏的音速手刃）": {
-    "Translation": "游佐:她好像有点不太对劲（注意小奏的音速手刃）",
-    "M-Bool": false,
-    "Value": 0
+    "游佐:她好像有点不太对劲（注意小奏的音速手刃）": {
+      "Translation": "Yousuke: She seems a bit off (watch out for Kanade's Hand Sonic).",
+      "M-Bool": false,
+      "Value": 0
   },
-  "立华奏:Hand sonic（音速手刃）": {
-    "Translation": "立华奏:Hand sonic（音速手刃）",
-    "M-Bool": false,
-    "Value": 0
+    "立华奏:Hand sonic（音速手刃）": {
+      "Translation": "Kanade: Hand Sonic.",
+      "M-Bool": false,
+      "Value": 0
   },
-  "由依:小奏为什么要袭击我们？": {
-    "Translation": "由依:小奏为什么要袭击我们？",
-    "M-Bool": false,
-    "Value": 0
+    "由依:小奏为什么要袭击我们？": {
+      "Translation": "Yui: Why is Kanade attacking us?",
+      "M-Bool": false,
+      "Value": 0
   },
-  "由依:我们不是同伴吗？": {
-    "Translation": "由依:我们不是同伴吗？",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "由理子:糟了,还记得之前的影子怪物吗？": {
-    "Translation": "由理子:糟了,还记得之前的影子怪物吗？",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "由理子:看来这病毒和影子怪物一样可以控制人类": {
-    "Translation": "由理子:看来这病毒和影子怪物一样可以控制人类",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "由理子:小奏被控制了！": {
-    "Translation": "由理子:小奏被控制了！",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "由依:那怎么办？？？": {
-    "Translation": "由依:那怎么办？？？",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "由理子:可恶，虽然很想救她，但是我们现在自保都困难": {
-    "Translation": "由理子:可恶，虽然很想救她，但是我们现在自保都困难",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "由理子:好在她看来没有生命危险": {
-    "Translation": "由理子:好在她看来没有生命危险",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "由理子:我们先去Guild，再想办法": {
-    "Translation": "由理子:我们先去Guild，再想办法",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "游佐:Guild的入口在舞台下方": {
-    "Translation": "游佐:Guild的入口在舞台下方",
-    "M-Bool": false,
-    "Value": 0
+    "由依:我们不是同伴吗？": {
+      "Translation": "Yui: Aren't we companions?",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "由理子:糟了,还记得之前的影子怪物吗？": {
+      "Translation": "Yuriko: Oh no, do you remember the shadow monsters from before?",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "由理子:看来这病毒和影子怪物一样可以控制人类": {
+      "Translation": "Yuriko: It seems this virus can control humans just like the shadow monsters.",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "由理子:小奏被控制了！": {
+      "Translation": "Yuriko: Kanade has been controlled!",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "由依:那怎么办？？？": {
+      "Translation": "Yui: What do we do???",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "由理子:可恶，虽然很想救她，但是我们现在自保都困难": {
+      "Translation": "Yuriko: Damn it, I really want to save her, but it's hard to protect ourselves right now.",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "由理子:好在她看来没有生命危险": {
+      "Translation": "Yuriko: Fortunately, she doesn't seem to be in life-threatening danger.",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "由理子:我们先去Guild，再想办法": {
+      "Translation": "Yuriko: Let's go to the Guild first and then think of a way.",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "游佐:Guild的入口在舞台下方": {
+      "Translation": "Yousuke: The entrance to the Guild is below the stage.",
+      "M-Bool": false,
+      "Value": 0
   },
   "10S?????????????????????": {
     "Translation": "10S?????????????????????",
@@ -107,57 +107,57 @@
     "Value": 0
   },
   "游佐:开关在第一台电脑处": {
-    "Translation": "游佐:开关在第一台电脑处",
+    "Translation": "Yousuke: The switch is at the first computer.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:守住这里，我来开门": {
-    "Translation": "游佐:守住这里，我来开门",
+    "Translation": "Yousuke: Hold this position, I'll open the door.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:舞台下方的暗门将在30秒后打开,守住这里": {
-    "Translation": "游佐:舞台下方的暗门将在30秒后打开,守住这里",
+    "Translation": "Yousuke: The secret door below the stage will open in 30 seconds, hold this position.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:门开了,快走": {
-    "Translation": "游佐:门开了,快走",
+    "Translation": "Yousuke: The door is open, hurry up!",
     "M-Bool": false,
     "Value": 0
   },
   "由依:等等,这里的陷阱为什么还是开着的": {
-    "Translation": "由依:等等,这里的陷阱为什么还是开着的",
+    "Translation": "Yui: Wait, why are the traps still active here?",
     "M-Bool": false,
     "Value": 0
   },
   "由依:难道他们想杀了我们吗？": {
-    "Translation": "由依:难道他们想杀了我们吗？",
+    "Translation": "Yui: Do they want to kill us?",
     "M-Bool": false,
     "Value": 0
   },
   "由理子:不对，应该是僵尸正在入侵这里": {
-    "Translation": "由理子:不对，应该是僵尸正在入侵这里",
+    "Translation": "Yuriko: No, it should be the zombies invading here.",
     "M-Bool": false,
     "Value": 0
   },
   "由理子:他们开启了陷阱防御,全体注意小心陷阱！": {
-    "Translation": "由理子:他们开启了陷阱防御,全体注意小心陷阱！",
+    "Translation": "Yuriko: They have activated the trap defenses, everyone be careful of the traps!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:岩石将在15秒后破碎": {
-    "Translation": "游佐:岩石将在15秒后破碎",
+    "Translation": "Yousuke: The rocks will break in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:注意,岩石后面道路的尽头有一个可怕的陷阱": {
-    "Translation": "游佐:注意,岩石后面道路的尽头有一个可怕的陷阱",
+    "Translation": "Yousuke: Be careful, there's a terrible trap at the end of the path behind the rocks.",
     "M-Bool": false,
     "Value": 0
   },
   "由理子:都给我守住这里！不许后退！": {
-    "Translation": "由理子:都给我守住这里！不许后退！",
+    "Translation": "Yuriko: Everyone hold this position! No retreat!",
     "M-Bool": false,
     "Value": 0
   },
@@ -167,7 +167,7 @@
     "Value": 0
   },
   "游佐:C4将在15秒后爆炸": {
-    "Translation": "游佐:C4将在15秒后爆炸",
+    "Translation": "Yousuke: The C4 will explode in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
@@ -177,47 +177,47 @@
     "Value": 0
   },
   "游佐:注意！这里是滚石陷阱！": {
-    "Translation": "游佐:注意！这里是滚石陷阱！",
+    "Translation": "Yousuke: Watch out! This is a rolling stone trap!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:快跑！": {
-    "Translation": "游佐:快跑！",
+    "Translation": "Yousuke: Run!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:玻璃门将在5秒后关闭": {
-    "Translation": "游佐:玻璃门将在5秒后关闭",
+    "Translation": "Yousuke: The glass door will close in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:小心了！前方是送终鸡的刀光剑影！": {
-    "Translation": "游佐:小心了！前方是送终鸡的刀光剑影！",
+    "Translation": "Yousuke: Be careful! Ahead are the laser blades from the chicken!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:躲不开的话会被它用最好的手法切成两半！": {
-    "Translation": "游佐:躲不开的话会被它用最好的手法切成两半！",
+    "Translation": "Yousuke: If you can't dodge, you'll be sliced in half by its best techniques!",
     "M-Bool": false,
     "Value": 0
-  },
+    },
   "???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????!": {
     "Translation": "???????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:岩石将在25秒后破碎": {
-    "Translation": "游佐:岩石将在25秒后破碎",
+    "Translation": "Yousuke: The rocks will break in 25 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:注意！岩石后面是天花板坠落陷阱！": {
-    "Translation": "游佐:注意！岩石后面是天花板坠落陷阱！",
+    "Translation": "Yousuke: Watch out! There's a ceiling drop trap behind the rocks!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:门开之后一定要跑起来！": {
-    "Translation": "游佐:门开之后一定要跑起来！",
+    "Translation": "Yousuke: You must run as soon as the door opens!",
     "M-Bool": false,
     "Value": 0
   },
@@ -227,105 +227,105 @@
     "Value": 0
   },
   "游佐:注意脚下的红色地板": {
-    "Translation": "游佐:注意脚下的红色地板",
+    "Translation": "Yousuke: Watch out for the red floor beneath you.",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:如果我没记错的话,这里的地板会碎！": {
-    "Translation": "游佐:如果我没记错的话,这里的地板会碎！",
+    "Translation": "Yousuke: If I remember correctly, the floor here will break!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:请靠着白色柱子前进！": {
-    "Translation": "游佐:请靠着白色柱子前进！",
+    "Translation": "Yousuke: Please move along the white pillars!",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:下面是水淹...": {
-    "Translation": "游佐:下面是水淹...",
+    "Translation": "Yousuke: Below is flooded with water...",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:很抱歉..我不会游...": {
-    "Translation": "游佐:很抱歉..我不会游...",
+    "Translation": "Yousuke: I'm sorry... I can't swim...",
     "M-Bool": false,
     "Value": 0
   },
   "游佐:~~咕噜咕噜咕噜咕噜~~": {
-    "Translation": "游佐:~~咕噜咕噜咕噜咕噜~~",
+    "Translation": "Yousuke: ~~Glub glub glub glub~~",
     "M-Bool": false,
     "Value": 0
   },
   "由依:啊！游佐！！！": {
-    "Translation": "由依:啊！游佐！！！",
+    "Translation": "Yui: Ah! Yousuke!!!",
     "M-Bool": false,
     "Value": 0
   },
   "（游佐顺着水流被冲走了...）（我们失去了游佐的踪迹...）": {
-    "Translation": "（游佐顺着水流被冲走了...）（我们失去了游佐的踪迹...）",
+    "Translation": "(Yousuke was swept away by the current...)(We lost track of Yousuke...)",
     "M-Bool": false,
     "Value": 0
   },
   "由理子:小心！注意旁边的风扇！！！": {
-    "Translation": "由理子:小心！注意旁边的风扇！！！",
+    "Translation": "Yuriko: Be careful! Watch out for the fan nearby!!!",
     "M-Bool": false,
     "Value": 0
   },
   "由理子:加油！我们很快到终点了！！！": {
-    "Translation": "由理子:加油！我们很快到终点了！！！",
+    "Translation": "Yuriko: Keep it up! We'll reach the finish line soon!!!",
     "M-Bool": false,
     "Value": 0
   },
   "查理:果然不愧是由理子，居然能通过这么多陷阱来到Guild最深处": {
-    "Translation": "查理:果然不愧是由理子，居然能通过这么多陷阱来到Guild最深处",
+    "Translation": "Charlie: As expected of Yuriko, she managed to get through so many traps to reach the deepest part of the Guild.",
     "M-Bool": false,
     "Value": 0
   },
   "查理:我是查理,Guild的负责人,守住最后的30S": {
-    "Translation": "查理:我是查理,Guild的负责人,守住最后的30S",
+    "Translation": "Charlie: I'm Charlie, the head of the Guild, hold the position for the last 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "查理:剩下的就交给我了！让这帮僵尸尝尝我的大杀器！": {
-    "Translation": "查理:剩下的就交给我了！让这帮僵尸尝尝我的大杀器！",
+    "Translation": "Charlie: I'll take care of the rest! Let these zombies taste my big weapon!",
     "M-Bool": false,
     "Value": 0
   },
   "由理子:大杀器？你们又做出了什么东西？": {
-    "Translation": "由理子:大杀器？你们又做出了什么东西？",
+    "Translation": "Yuriko: Big weapon? What have you all made?",
     "M-Bool": false,
     "Value": 0
   },
   "查理:我们把坦克造出来了，厉害吧？！": {
-    "Translation": "查理:我们把坦克造出来了，厉害吧？！",
+    "Translation": "Charlie: We built a tank, isn't it impressive?!",
     "M-Bool": false,
     "Value": 0
   },
   "由理子:坦克？！你们居然能造出这种级别的武器？！真厉害！！": {
-    "Translation": "由理子:坦克？！你们居然能造出这种级别的武器？！真厉害！！",
+    "Translation": "Yuriko: A tank?! You actually managed to create a weapon of this level?! That's amazing!!",
     "M-Bool": false,
     "Value": 0
   },
   "查理:那当然！也不看看我们是谁": {
-    "Translation": "查理:那当然！也不看看我们是谁",
+    "Translation": "Charlie: Of course! Just look at who we are!",
     "M-Bool": false,
     "Value": 0
   },
   "查理:准备看好戏吧！": {
-    "Translation": "查理:准备看好戏吧！",
+    "Translation": "Charlie: Get ready to watch the show!",
     "M-Bool": false,
     "Value": 0
   },
   "查理:全体进入掩体，准备炮击！": {
-    "Translation": "查理:全体进入掩体，准备炮击！",
+    "Translation": "Charlie: Everyone get into cover, prepare for bombardment!",
     "M-Bool": false,
     "Value": 0
   },
   "查理:3,2,1！什么？居然炸膛了？果然不了解结构的话造不出来啊": {
-    "Translation": "查理:3,2,1！什么？居然炸膛了？果然不了解结构的话造不出来啊",
+    "Translation": "Charlie: 3, 2, 1! What? It actually backfired? If you don't understand the structure, you can't build it!",
     "M-Bool": false,
     "Value": 0
-  },
+},
   "3": {
     "Translation": "3",
     "M-Bool": false,
@@ -347,17 +347,17 @@
     "Value": 0
   },
   "由理子:笨蛋！不会造的东西不要乱造啊！会死人的！": {
-    "Translation": "由理子:笨蛋！不会造的东西不要乱造啊！会死人的！",
+    "Translation": "Yuriko: Idiot! Don't create things you can't build! It can be deadly!",
     "M-Bool": false,
     "Value": 0
   },
   "由理子:全体进入电梯，准备引爆Guild基地": {
-    "Translation": "由理子:全体进入电梯，准备引爆Guild基地",
+    "Translation": "Yuriko: Everyone get into the elevator, prepare to blow up the Guild base.",
     "M-Bool": false,
     "Value": 0
   },
   "由理子:让这些僵尸沉睡于此吧！": {
-    "Translation": "由理子:让这些僵尸沉睡于此吧！",
+    "Translation": "Yuriko: Let these zombies sleep here!",
     "M-Bool": false,
     "Value": 0
   },
