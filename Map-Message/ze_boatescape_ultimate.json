@@ -6,168 +6,168 @@
       "Value": 0
     }
   },
-  " ze_Boatescape_Ultimate  Alpha Ver 1.8": {
-    "Translation": " ze_Boatescape_Ultimate  Alpha Ver 1.8",
+  " ze_Boatescape_Ultimate Alpha Ver 1.8 ": {
+    "Translation": "ze_Boatescape_Ultimate Alpha Ver 1.8",
     "M-Bool": false,
     "Value": 0
   },
   " Map by @Seth ": {
-    "Translation": " Map by @Seth ",
+    "Translation": "Map by @Seth, EN Translation: Allenw @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   },
-  "添加狮子王神器.": {
-    "Translation": "添加狮子王神器.",
+  " 添加狮子王神器. ": {
+    "Translation": "Added Santassination items.",
     "M-Bool": false,
     "Value": 0
   },
   " Selecting Game Mode... ": {
-    "Translation": " Selecting Game Mode... ",
+    "Translation": "Selecting Game Mode...",
     "M-Bool": false,
     "Value": 0
   },
   " 当前模式: 无事发生(热身) ": {
-    "Translation": " 当前模式: 无事发生(热身) ",
+    "Translation": "Current Mode: Nothing Happening (Warm-up)",
     "M-Bool": false,
     "Value": 0
   },
   " Current Mode: Normal ": {
-    "Translation": " Current Mode: Normal ",
+    "Translation": "Current Mode: Normal",
     "M-Bool": false,
     "Value": 0
   },
-  "防刷传送PUSH已启用.": {
-    "Translation": "防刷传送PUSH已启用.",
+  " 防刷传送PUSH已启用. ": {
+    "Translation": "Anti-spam teleport PUSH has been enabled.",
     "M-Bool": false,
     "Value": 0
   },
   " Boat leave in 15 sec. ": {
-    "Translation": " Boat leave in 15 sec. ",
+    "Translation": "Boat leaves in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " Helicopter leave in 7 sec. ": {
-    "Translation": " Helicopter leave in 7 sec. ",
+    "Translation": "Helicopter leaves in 7 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " Teleport afk player in 10 sec. ": {
-    "Translation": " Teleport afk player in 10 sec. ",
+    "Translation": "Teleporting AFK player in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " The rescue ship is on the way. ": {
-    "Translation": " The rescue ship is on the way. ",
+    "Translation": "The rescue ship is on the way.",
     "M-Bool": false,
     "Value": 0
   },
   " Iron Fence will break when ship arrive! ": {
-    "Translation": " Iron Fence will break when ship arrive! ",
+    "Translation": "Iron Fence will break when the ship arrives!",
     "M-Bool": false,
     "Value": 0
   },
-  " Assistance is on the way,Just fucking defend!! ": {
-    "Translation": " Assistance is on the way,Just fucking defend!! ",
+  " Assistance is on the way, Just fucking defend!! ": {
+    "Translation": "Assistance is on the way, just defend!!",
     "M-Bool": false,
     "Value": 0
   },
   " Both Boat will left in 40 sec. ": {
-    "Translation": " Both Boat will left in 40 sec. ",
+    "Translation": "Both boats will leave in 40 seconds.",
     "M-Bool": false,
     "Value": 0
   },
-  " Warning! Nuke incoming..": {
-    "Translation": " Warning! Nuke incoming..",
+  " Warning! Nuke incoming.. ": {
+    "Translation": "Warning! Nuke incoming..",
     "M-Bool": false,
     "Value": 0
   },
   " 5 ": {
-    "Translation": " 5 ",
+    "Translation": "5",
     "M-Bool": false,
     "Value": 0
   },
   " 4 ": {
-    "Translation": " 4 ",
+    "Translation": "4",
     "M-Bool": false,
     "Value": 0
   },
   " 3 ": {
-    "Translation": " 3 ",
+    "Translation": "3",
     "M-Bool": false,
     "Value": 0
   },
   " 2 ": {
-    "Translation": " 2 ",
+    "Translation": "2",
     "M-Bool": false,
     "Value": 0
   },
   " 1 ": {
-    "Translation": " 1 ",
+    "Translation": "1",
     "M-Bool": false,
     "Value": 0
   },
   " 当前模式: 全明星大乱斗 ": {
-    "Translation": " 当前模式: 全明星大乱斗 ",
+    "Translation": "Current Mode: All-Star Battle",
     "M-Bool": false,
     "Value": 0
   },
   " Current Mode: ALL STAR BATTLE ": {
-    "Translation": " Current Mode: ALL STAR BATTLE ",
+    "Translation": "Current Mode: ALL STAR BATTLE",
     "M-Bool": false,
     "Value": 0
   },
   " A player has adquired HEAL MATERIA ": {
-    "Translation": " A player has adquired HEAL MATERIA ",
+    "Translation": "A player has acquired HEAL MATERIA.",
     "M-Bool": false,
     "Value": 0
   },
   " TRAM LEAVES 14 SECONDS ": {
-    "Translation": " TRAM LEAVES 14 SECONDS ",
+    "Translation": "TRAM LEAVES IN 14 SECONDS",
     "M-Bool": false,
     "Value": 0
   },
   " Teleport in 20 sec. ": {
-    "Translation": " Teleport in 20 sec. ",
+    "Translation": "Teleport in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " Teleport in 10 sec. ": {
-    "Translation": " Teleport in 10 sec. ",
+    "Translation": "Teleport in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " RESCUE BOAT & HELI INBOUND 60 SECONDS ": {
-    "Translation": " RESCUE BOAT & HELI INBOUND 60 SECONDS ",
+    "Translation": "RESCUE BOAT & HELI INBOUND IN 60 SECONDS",
     "M-Bool": false,
     "Value": 0
   },
   " ZOMBIE PORTAL HAS ENABLE! ": {
-    "Translation": " ZOMBIE PORTAL HAS ENABLE! ",
+    "Translation": "ZOMBIE PORTAL HAS BEEN ENABLED!",
     "M-Bool": false,
     "Value": 0
   },
   " BOAT LEAVING 15 SECONDS ": {
-    "Translation": " BOAT LEAVING 15 SECONDS ",
+    "Translation": "BOAT LEAVING IN 15 SECONDS",
     "M-Bool": false,
     "Value": 0
   },
   " HELI LEAVING 20 SECONDS ": {
-    "Translation": " HELI LEAVING 20 SECONDS ",
+    "Translation": "HELI LEAVING IN 20 SECONDS",
     "M-Bool": false,
     "Value": 0
   },
   " HELI LEAVING 10 SECONDS ": {
-    "Translation": " HELI LEAVING 10 SECONDS ",
+    "Translation": "HELI LEAVING IN 10 SECONDS",
     "M-Bool": false,
     "Value": 0
   },
   " NUKE IN 10 SECONDS ": {
-    "Translation": " NUKE IN 10 SECONDS ",
+    "Translation": "NUKE IN 10 SECONDS",
     "M-Bool": false,
     "Value": 0
   },
   " NUKE IN 5 SECONDS ": {
-    "Translation": " NUKE IN 5 SECONDS ",
+    "Translation": "NUKE IN 5 SECONDS",
     "M-Bool": false,
     "Value": 0
   }
