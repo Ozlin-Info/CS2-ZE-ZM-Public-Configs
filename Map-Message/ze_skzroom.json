@@ -7,22 +7,22 @@
     }
   },
   "=== 15s后开门 ===": {
-    "Translation": "=== 15s后开门 ===",
+    "Translation": "=== The door opens in 15s ===",
     "M-Bool": false,
     "Value": 0
   },
   "=== 5s后开门 ===": {
-    "Translation": "=== 5s后开门 ===",
+    "Translation": "=== The door opens in 5s ===",
     "M-Bool": false,
     "Value": 0
   },
   "=== 20s后开门 ===": {
-    "Translation": "=== 20s后开门 ===",
+    "Translation": "=== The door opens in 20s ===",
     "M-Bool": false,
     "Value": 0
   },
   "=== 10s后开门 ===": {
-    "Translation": "=== 10s后开门 ===",
+    "Translation": "=== The door opens in 10s ===",
     "M-Bool": false,
     "Value": 0
   },
@@ -42,37 +42,37 @@
     "Value": 0
   },
   "=== 30s后传送 ===": {
-    "Translation": "=== 30s后传送 ===",
+    "Translation": "=== Teleport in 30s ===",
     "M-Bool": false,
     "Value": 0
   },
   "=== 10s后传送 ===": {
-    "Translation": "=== 10s后传送 ===",
+    "Translation": "=== Teleport in 10s ===",
     "M-Bool": false,
     "Value": 0
   },
   "=== 15s后第一扇门开启 ===": {
-    "Translation": "=== 15s后第一扇门开启 ===",
+    "Translation": "=== The first door opens in 15s ===",
     "M-Bool": false,
     "Value": 0
   },
   "=== 15s后第二扇门开启 ===": {
-    "Translation": "=== 15s后第二扇门开启 ===",
+    "Translation": "=== The second door opens in 15s ===",
     "M-Bool": false,
     "Value": 0
   },
   "=== 45s后传送 ===": {
-    "Translation": "=== 45s后传送 ===",
+    "Translation": "=== Teleport in 45s ===",
     "M-Bool": false,
     "Value": 0
   },
   "=== 20s后传送 ===": {
-    "Translation": "=== 20s后传送 ===",
+    "Translation": "=== Teleport in 20s ===",
     "M-Bool": false,
     "Value": 0
   },
   "=== 侧路10s后开启 ===": {
-    "Translation": "=== 侧路10s后开启 ===",
+    "Translation": "=== The side path opens in 10s ===",
     "M-Bool": false,
     "Value": 0
   }
