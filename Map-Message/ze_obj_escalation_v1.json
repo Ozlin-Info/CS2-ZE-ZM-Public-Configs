@@ -7,67 +7,67 @@
     }
   },
   "无线电我们的某个基地突然失联了，最后的通信发出来的似乎是求救信号，已经有一组小队前往调查，但不久也失联了......": {
-    "Translation": "无线电我们的某个基地突然失联了，最后的通信发出来的似乎是求救信号，已经有一组小队前往调查，但不久也失联了......",
+    "Translation": "Radio: One of our bases has suddenly gone dark; the last communication seemed to be a distress signal. A team has been sent to investigate, but they also went missing shortly after...",
     "M-Bool": false,
     "Value": 0
   },
   "无线电行动代号更改为escalation，我需要你们在降落后调查那里到底发生了什么": {
-    "Translation": "无线电行动代号更改为escalation，我需要你们在降落后调查那里到底发生了什么",
+    "Translation": "Radio: Codename changed to Escalation. I need you to investigate what happened there after you land.",
     "M-Bool": false,
     "Value": 0
   },
   "无线电杂音......": {
-    "Translation": "无线电杂音......",
+    "Translation": "Radio: Static...",
     "M-Bool": false,
     "Value": 0
   },
   "指挥部！指挥部！糟了！似乎有什么东西影响了我们的设备！听得到吗？！指挥部！！": {
-    "Translation": "指挥部！指挥部！糟了！似乎有什么东西影响了我们的设备！听得到吗？！指挥部！！",
+    "Translation": "Command! Command! Oh no! It seems something is affecting our equipment! Can you hear me?! Command!!",
     "M-Bool": false,
     "Value": 0
   },
   "全体注意，我们即将到达目的地": {
-    "Translation": "全体注意，我们即将到达目的地",
+    "Translation": "Everyone, pay attention, we are about to reach our destination.",
     "M-Bool": false,
     "Value": 0
   },
   "头等舱似乎有什么动静": {
-    "Translation": "头等舱似乎有什么动静",
+    "Translation": "It seems there is some activity in the first-class cabin.",
     "M-Bool": false,
     "Value": 0
   },
   "糟了，那边是阿伟的小队！他们当中有人尸变了！": {
-    "Translation": "糟了，那边是阿伟的小队！他们当中有人尸变了！",
+    "Translation": "Oh no, that's Ah Wei's team over there! Some of them have turned into corpses!",
     "M-Bool": false,
     "Value": 0
   },
   "指挥部！听得到吗？我们这边出现了点状况！驾驶舱似乎被突破了！指挥部！？": {
-    "Translation": "指挥部！听得到吗？我们这边出现了点状况！驾驶舱似乎被突破了！指挥部！？",
+    "Translation": "Command! Do you copy? We have a situation here! The cockpit seems to have been breached! Command!?",
     "M-Bool": false,
     "Value": 0
   },
   "林燕：糟了，右侧引擎失去动力，我们必须做好硬着陆准备！": {
-    "Translation": "林燕：糟了，右侧引擎失去动力，我们必须做好硬着陆准备！",
+    "Translation": "Lin Yan: Oh no, the right engine has lost power; we must prepare for a hard landing!",
     "M-Bool": false,
     "Value": 0
   },
   "全体注意警戒，似乎有什么东西被坠机的动静吸引过来了......": {
-    "Translation": "全体注意警戒，似乎有什么东西被坠机的动静吸引过来了......",
+    "Translation": "Everyone, stay alert; it seems something has been attracted by the crash noise...",
     "M-Bool": false,
     "Value": 0
   },
   "林燕：我不行了，你们一定要把这份文件交给大欧博士......他或许能从中得到关键的信息": {
-    "Translation": "林燕：我不行了，你们一定要把这份文件交给大欧博士......他或许能从中得到关键的信息",
+    "Translation": "Lin Yan: I can't go on... You must deliver this document to Dr. O... He might be able to find crucial information from it.",
     "M-Bool": false,
     "Value": 0
   },
   "坠机地点偏离机场西南1145米，看来我们得从别的地方想办法进入基地": {
-    "Translation": "坠机地点偏离机场西南1145米，看来我们得从别的地方想办法进入基地",
+    "Translation": "The crash site is 1145 meters southwest of the airport; it looks like we need to find another way to enter the base.",
     "M-Bool": false,
     "Value": 0
   },
   "已与基地内部撤退出来的员工林逸汇合，基地内部的情况不容乐观，似乎有某个组织潜入其中......": {
-    "Translation": "已与基地内部撤退出来的员工林逸汇合，基地内部的情况不容乐观，似乎有某个组织潜入其中......",
+    "Translation": "I have joined Lin Yi, an employee who retreated from inside the base. The situation inside the base is not optimistic; it seems some organization has infiltrated it...",
     "M-Bool": false,
     "Value": 0
   }
