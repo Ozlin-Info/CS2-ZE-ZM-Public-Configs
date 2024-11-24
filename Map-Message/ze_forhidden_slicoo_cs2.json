@@ -7,302 +7,302 @@
     }
   },
   " 禁地斯狄科 ": {
-    "Translation": " 禁地斯狄科 ",
+    "Translation": "Forhidden Slicoo",
     "M-Bool": false,
     "Value": 0
   },
   " 本地图处于公开测试阶段,可能存在部分BUG,欢迎前往steam创意工坊留言反馈 ": {
-    "Translation": " 本地图处于公开测试阶段,可能存在部分BUG,欢迎前往steam创意工坊留言反馈 ",
+    "Translation": "This map is in open testing phase, there may be some bugs. Please leave feedback on the Steam Workshop.",
     "M-Bool": false,
     "Value": 0
   },
   "地图作者:黑岩,Fong感谢tenshi.,mdxzl,lemon,tianli,气流对地图制作及移植的帮助,移植者:lopb,本地图需要cs2fix插件和lua解锁才能正常游玩": {
-    "Translation": "地图作者:黑岩,Fong感谢tenshi.,mdxzl,lemon,tianli,气流对地图制作及移植的帮助,移植者:lopb,本地图需要cs2fix插件和lua解锁才能正常游玩",
+    "Translation": "Map author: Heiyan. Thanks to tenshi, mdxzl, lemon, tianli, and Qi Liu for their help in map creation and porting. Porter: lopb. This map requires cs2fixes and lua unlocker to play properly. EN Translation: Allenw @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   },
   " 拉法库巴封印了石碑的魔力,我们必须找到他! ": {
-    "Translation": " 拉法库巴封印了石碑的魔力,我们必须找到他! ",
+    "Translation": "Rafakuba has sealed the magic of the stone tablet; we must find him!",
     "M-Bool": false,
     "Value": 0
   },
   "传送25秒后将被打开": {
-    "Translation": "传送25秒后将被打开",
+    "Translation": "The teleportation will open in 25 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "一名玩家拾取了【寒风】": {
-    "Translation": "一名玩家拾取了【寒风】",
+    "Translation": "A player has picked up [Cold Wind].",
     "M-Bool": false,
     "Value": 0
   },
   "晶体被破坏，周围的空气变得异常": {
-    "Translation": "晶体被破坏，周围的空气变得异常",
+    "Translation": "The crystal is destroyed, and the surrounding air becomes unusual.",
     "M-Bool": false,
     "Value": 0
   },
   "净化水晶已经解封": {
-    "Translation": "净化水晶已经解封",
+    "Translation": "The Purification Crystal has been unsealed.",
     "M-Bool": false,
     "Value": 0
   },
   "有一名玩家化身成为了【精灵法师】": {
-    "Translation": "有一名玩家化身成为了【精灵法师】",
+    "Translation": "A player has transformed into a [Spirit Mage].",
     "M-Bool": false,
     "Value": 0
   },
   "一名玩家拾取了【暴风雪】": {
-    "Translation": "一名玩家拾取了【暴风雪】",
+    "Translation": "A player has picked up [Blizzard].",
     "M-Bool": false,
     "Value": 0
   },
   "一名玩家拾取了【治疗法杖】": {
-    "Translation": "一名玩家拾取了【治疗法杖】",
+    "Translation": "A player has picked up [Healing Staff].",
     "M-Bool": false,
     "Value": 0
   },
   "斯狄科雪域大门将在60秒后打开": {
-    "Translation": "斯狄科雪域大门将在60秒后打开",
+    "Translation": "The gate to the Sidico Snowfield will open in 60 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "一名玩家拾取了【冰垒】": {
-    "Translation": "一名玩家拾取了【冰垒】",
+    "Translation": "A player has picked up [Ice Barrier].",
     "M-Bool": false,
     "Value": 0
   },
   "斯狄科雪域大门将在10秒后打开": {
-    "Translation": "斯狄科雪域大门将在10秒后打开",
+    "Translation": "The gate to the Sidico Snowfield will open in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "攻击岩石的脆弱部分!": {
-    "Translation": "攻击岩石的脆弱部分!",
+    "Translation": "Attack the weak part of the rock!",
     "M-Bool": false,
     "Value": 0
   },
   "也许冰磊可以帮助我们": {
-    "Translation": "也许冰磊可以帮助我们",
+    "Translation": "Maybe Ice Boulder can help us.",
     "M-Bool": false,
     "Value": 0
   },
   "斯狄科雪域大门将在5秒后关闭": {
-    "Translation": "斯狄科雪域大门将在5秒后关闭",
+    "Translation": "The gate to the Sidico Snowfield will close in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "20秒后打开石门": {
-    "Translation": "20秒后打开石门",
+    "Translation": "The stone door will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "等待5秒封锁解除": {
-    "Translation": "等待5秒封锁解除",
+    "Translation": "Wait 5 seconds for the blockade to be lifted.",
     "M-Bool": false,
     "Value": 0
   },
   "封锁已解除，我们继续前进!": {
-    "Translation": "封锁已解除，我们继续前进!",
+    "Translation": "The blockade has been lifted, let's move forward!",
     "M-Bool": false,
     "Value": 0
   },
   "一名玩家拾取了【圣盾】": {
-    "Translation": "一名玩家拾取了【圣盾】",
+    "Translation": "A player has picked up [Holy Shield].",
     "M-Bool": false,
     "Value": 0
   },
   " 20秒后升起石柱 ": {
-    "Translation": " 20秒后升起石柱 ",
+    "Translation": "The stone pillar will rise in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "大门将在40秒后打开": {
-    "Translation": "大门将在40秒后打开",
+    "Translation": "The gate will open in 40 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "圣盾消失了": {
-    "Translation": "圣盾消失了",
+    "Translation": "The Holy Shield has disappeared.",
     "M-Bool": false,
     "Value": 0
   },
   "右侧拉杆已拉动": {
-    "Translation": "右侧拉杆已拉动",
+    "Translation": "The right lever has been pulled.",
     "M-Bool": false,
     "Value": 0
   },
   "左侧拉杆已拉动": {
-    "Translation": "左侧拉杆已拉动",
+    "Translation": "The left lever has been pulled.",
     "M-Bool": false,
     "Value": 0
   },
   "大门将在50秒后被摧毁": {
-    "Translation": "大门将在50秒后被摧毁",
+    "Translation": "The gate will be destroyed in 50 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 10秒后僵尸传送 ": {
-    "Translation": " 10秒后僵尸传送 ",
+    "Translation": "Zombies will teleport in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "大门将在10秒后打开": {
-    "Translation": "大门将在10秒后打开",
+    "Translation": "The gate will open in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "炸弹将在20秒后爆炸": {
-    "Translation": "炸弹将在20秒后爆炸",
+    "Translation": "The bomb will explode in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "5秒后右侧门开放": {
-    "Translation": "5秒后右侧门开放",
+    "Translation": "The right door will open in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "5秒后左侧门开放": {
-    "Translation": "5秒后左侧门开放",
+    "Translation": "The left door will open in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "大门将在30秒后被摧毁": {
-    "Translation": "大门将在30秒后被摧毁",
+    "Translation": "The gate will be destroyed in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "大门将在30秒后打开": {
-    "Translation": "大门将在30秒后打开",
+    "Translation": "The gate will open in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "大门将在10秒后被摧毁": {
-    "Translation": "大门将在10秒后被摧毁",
+    "Translation": "The gate will be destroyed in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "传送将在20秒后打开": {
-    "Translation": "传送将在20秒后打开",
+    "Translation": "The teleport will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "大门将在5秒后被摧毁": {
-    "Translation": "大门将在5秒后被摧毁",
+    "Translation": "The gate will be destroyed in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "晶体被破坏,周围的空气变得猛烈": {
-    "Translation": "晶体被破坏,周围的空气变得猛烈",
+    "Translation": "The crystal is destroyed, and the surrounding air becomes intense.",
     "M-Bool": false,
     "Value": 0
   },
   "大门将在5秒后打开": {
-    "Translation": "大门将在5秒后打开",
+    "Translation": "The gate will open in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "传送将在5秒后打开": {
-    "Translation": "传送将在5秒后打开",
+    "Translation": "The teleport will open in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 凡人!止步于此! ": {
-    "Translation": " 凡人!止步于此! ",
+    "Translation": "Mortal! Stop here!",
     "M-Bool": false,
     "Value": 0
   },
   "40秒后炸毁岩石": {
-    "Translation": "40秒后炸毁岩石",
+    "Translation": "Rocks will be destroyed in 40 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 瞭望塔的玻璃以及悬崖的石头7秒后碎开 ": {
-    "Translation": " 瞭望塔的玻璃以及悬崖的石头7秒后碎开 ",
+    "Translation": "The glass of the lookout tower and the rocks of the cliff will shatter in 7 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 瞭望塔玻璃以及悬崖的石头碎开! ": {
-    "Translation": " 瞭望塔玻璃以及悬崖的石头碎开! ",
+    "Translation": "The glass of the lookout tower and the rocks of the cliff have shattered!",
     "M-Bool": false,
     "Value": 0
   },
   " 这将是最后一次警告! ": {
-    "Translation": " 这将是最后一次警告! ",
+    "Translation": "This will be the last warning!",
     "M-Bool": false,
     "Value": 0
   },
   "45秒后进入埃洛斯宫殿": {
-    "Translation": "45秒后进入埃洛斯宫殿",
+    "Translation": "Enter the Elos Palace in 45 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "5秒后炸毁岩石": {
-    "Translation": "5秒后炸毁岩石",
+    "Translation": "Rocks will be destroyed in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "5秒后进入埃洛斯宫殿": {
-    "Translation": "5秒后进入埃洛斯宫殿",
+    "Translation": "Enter the Elos Palace in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "5秒后捷径路开放": {
-    "Translation": "5秒后捷径路开放",
+    "Translation": "The shortcut will open in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "35秒后门打开": {
-    "Translation": "35秒后门打开",
+    "Translation": "The door will open in 35 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "5秒后门打开": {
-    "Translation": "5秒后门打开",
+    "Translation": "The door will open in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "发生了意料之外的事情，水开始上涨了！": {
-    "Translation": "发生了意料之外的事情，水开始上涨了！",
+    "Translation": "Something unexpected happened, the water is starting to rise!",
     "M-Bool": false,
     "Value": 0
   },
   "25秒后门打开": {
-    "Translation": "25秒后门打开",
+    "Translation": "The door will open in 25 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "40秒后门打开": {
-    "Translation": "40秒后门打开",
+    "Translation": "The door will open in 40 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "20秒后门打开": {
-    "Translation": "20秒后门打开",
+    "Translation": "The door will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "50秒后门打开": {
-    "Translation": "50秒后门打开",
+    "Translation": "The door will open in 50 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "门将在20秒后打开": {
-    "Translation": "门将在20秒后打开",
+    "Translation": "The door will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "也许还需要防守最多10秒 :3 ": {
-    "Translation": "也许还需要防守最多10秒 :3 ",
+    "Translation": "We may need to defend for up to 10 more seconds :3",
     "M-Bool": false,
     "Value": 0
   },
   "15秒后门打开": {
-    "Translation": "15秒后门打开",
+    "Translation": "The door will open in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "传送20秒后打开": {
-    "Translation": "传送20秒后打开",
+    "Translation": "The teleport will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   }
