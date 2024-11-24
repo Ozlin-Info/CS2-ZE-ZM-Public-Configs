@@ -7,27 +7,27 @@
     }
   },
   "我们到达了他的城堡": {
-    "Translation": "我们到达了他的城堡",
+    "Translation": "We have arrived at his castle.",
     "M-Bool": false,
     "Value": 0
   },
   "门将会在15秒后开启": {
-    "Translation": "门将会在15秒后开启",
+    "Translation": "The door will open in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "他不在这里": {
-    "Translation": "他不在这里",
+    "Translation": "He is not here.",
     "M-Bool": false,
     "Value": 0
   },
   "门将会在30秒后开启": {
-    "Translation": "门将会在30秒后开启",
+    "Translation": "The door will open in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "去寻找他": {
-    "Translation": "去寻找他",
+    "Translation": "Go find him.",
     "M-Bool": false,
     "Value": 0
   }
