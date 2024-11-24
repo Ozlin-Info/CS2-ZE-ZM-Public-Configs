@@ -7,37 +7,77 @@
     }
   },
   "连败计数：0": {
-    "Translation": "连败计数：0",
+    "Translation": "Loss Streak: 0",
     "M-Bool": false,
     "Value": 0
   },
   "连败计数：1": {
-    "Translation": "连败计数：1",
+    "Translation": "Loss Streak: 1",
     "M-Bool": false,
     "Value": 0
   },
   "一名玩家获得了向日葵": {
-    "Translation": "一名玩家获得了向日葵",
+    "Translation": "A player has obtained a Sunflower.",
     "M-Bool": false,
     "Value": 0
   },
   "连败计数：2": {
-    "Translation": "连败计数：2",
+    "Translation": "Loss Streak: 2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "连败计数：3": {
+    "Translation": "Loss Streak: 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "连败计数：4": {
+    "Translation": "Loss Streak: 4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "连败计数：5": {
+    "Translation": "Loss Streak: 5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "连败计数：6": {
+    "Translation": "Loss Streak: 6",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "连败计数：7": {
+    "Translation": "Loss Streak: 7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "连败计数：8": {
+    "Translation": "Loss Streak: 8",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "连败计数：9": {
+    "Translation": "Loss Streak: 9",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "连败计数：10": {
+    "Translation": "Loss Streak: 10",
     "M-Bool": false,
     "Value": 0
   },
   "出生区域的传送已启动": {
-    "Translation": "出生区域的传送已启动",
+    "Translation": "The teleportation to the spawn area has been activated.",
     "M-Bool": false,
     "Value": 0
   },
   "关卡1：菜园": {
-    "Translation": "关卡1：菜园",
+    "Translation": "Level 1: Vegetable Garden",
     "M-Bool": false,
     "Value": 0
   },
   "豌豆射手：前面就是戴夫家的菜园了，好久没见他了今天来看看": {
-    "Translation": "豌豆射手：前面就是戴夫家的菜园了，好久没见他了今天来看看",
+    "Translation": "Peashooter: Up ahead is Dave's vegetable garden. I haven't seen him in a while, so I came to check it out today.",
     "M-Bool": false,
     "Value": 0
   }
