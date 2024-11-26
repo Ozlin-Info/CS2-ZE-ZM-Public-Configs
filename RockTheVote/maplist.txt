@@ -403,7 +403,7 @@ ze_aooka3:3310240982
 ze_ffvii_cosmo_canyon_t:3310260547
 ze_obf_insane:3310660027
 ze_honkai_impact_tqs:3311391580
-//地豆王:3308097127
+//地豆王:3308097127 //map bug
 
 ze_boatescape999:3280054813
 ze_lotr_minas_tirith_p:3314560349
