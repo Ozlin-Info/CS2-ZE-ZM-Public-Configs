@@ -1,84 +1,1679 @@
 {
-  "MapTextTranslation": {
     "MapTextTranslation": {
-      "Translation": "Translated Text",
-      "M-Bool": false,
-      "Value": 0
+        "MapTextTranslation": {
+            "Translation": "Translated Text",
+            "M-Bool": false,
+            "Value": 0
+        }
+    },
+    "连败计数：0": {
+        "Translation": "Loss Streak: 0",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "连败计数：1": {
+        "Translation": "Loss Streak: 1",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了向日葵": {
+        "Translation": "A player has obtained a Sunflower.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "连败计数：2": {
+        "Translation": "Loss Streak: 2",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "连败计数：3": {
+        "Translation": "Loss Streak: 3",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "连败计数：4": {
+        "Translation": "Loss Streak: 4",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "连败计数：5": {
+        "Translation": "Loss Streak: 5",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "连败计数：6": {
+        "Translation": "Loss Streak: 6",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "连败计数：7": {
+        "Translation": "Loss Streak: 7",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "连败计数：8": {
+        "Translation": "Loss Streak: 8",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "连败计数：9": {
+        "Translation": "Loss Streak: 9",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "连败计数：10": {
+        "Translation": "Loss Streak: 10",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "出生区域的传送已启动": {
+        "Translation": "The teleportation to the spawn area has been activated.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡1：菜园": {
+        "Translation": "Level 1: Vegetable Garden",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：前面就是戴夫家的菜园了，好久没见他了今天来看看": {
+        "Translation": "Peashooter: Up ahead is Dave's vegetable garden. I haven't seen him in a while, so I came to check it out today.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "30S": {
+        "Translation": "30S",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "僵尸获得了《毒球》": {
+        "Translation": "The zombie has obtained 'Poison Ball'.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "僵尸获得了《消除》": {
+        "Translation": "The zombie has obtained 'Erasure'.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "学校大门还有40秒打开": {
+        "Translation": "The school gate will open in 40 seconds.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "等待30秒迷宫的栅栏门打开": {
+        "Translation": "Wait 30 seconds for the maze gate to open.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "走廊被东西挡住了，从教室里绕过去吧": {
+        "Translation": "The corridor is blocked; go around from the classroom.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "== 15 seconds until the door opens ==": {
+        "Translation": "== 15 seconds until the door opens ==",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "== 5 seconds until the door opens ==": {
+        "Translation": "== 5 seconds until the door opens ==",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "== 20 seconds until the door opens ==": {
+        "Translation": "== 20 seconds until the door opens ==",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "== 10 seconds until the door opens ==": {
+        "Translation": "== 10 seconds until the door opens ==",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "== 30 seconds until teleportation ==": {
+        "Translation": "== 30 seconds until teleportation ==",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "== 10 seconds until teleportation ==": {
+        "Translation": "== 10 seconds until teleportation ==",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "== 15 seconds until the first door opens ==": {
+        "Translation": "== 15 seconds until the first door opens ==",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "== 15 seconds until the second door opens ==": {
+        "Translation": "== 15 seconds until the second door opens ==",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "== 45 seconds until teleportation ==": {
+        "Translation": "== 45 seconds until teleportation ==",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "== 20 seconds until teleportation ==": {
+        "Translation": "== 20 seconds until teleportation ==",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "== The side path opens in 10 seconds ==": {
+        "Translation": "== The side path opens in 10 seconds ==",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了豌豆射手": {
+        "Translation": " A player has obtained Peashooter ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：这戴夫的院子怎么这么乱": {
+        "Translation": "Sunflower: Why is Dave's yard so messy?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：之后一定要好好拷打下这戴夫，大家现在赶紧去准备下搬开前面那个横在路上的锄头": {
+        "Translation": "Peashooter: We have to teach Dave a lesson later. Everyone, hurry up and prepare to move that hoe blocking the road.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "需要同时在三个不同的部位搬起锄头": {
+        "Translation": " You need to lift the hoe from three different positions at the same time ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：戴夫家的污水我碰都不想碰，那味道闻着就恶心": {
+        "Translation": "Wall-nut: I don't even want to touch the sewage from Dave's house; it smells disgusting.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了寒冰射手": {
+        "Translation": " A player has obtained Ice Shooter ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了坚果墙": {
+        "Translation": " A player has obtained Wall-nut ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙已种植": {
+        "Translation": " Wall-nut has been planted ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "已解锁所有非关卡道中出现的神器": {
+        "Translation": " All non-level artifacts that appear have been unlocked ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了火爆辣椒": {
+        "Translation": " A player has obtained Spicy Pepper ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙已就绪": {
+        "Translation": " Wall-nut is ready ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "锄头头部已经就绪": {
+        "Translation": " The head of the hoe is ready ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "门外玩家即将传送到门内": {
+        "Translation": " Players outside are about to be teleported inside the door ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "锄头柄已经就绪": {
+        "Translation": " The handle of the hoe is ready ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "火爆辣椒已就绪": {
+        "Translation": " Spicy Pepper is ready ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "锄头尾部已经就绪": {
+        "Translation": " The tail of the hoe is ready ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "锄头将会在45秒后被抬走": {
+        "Translation": " The hoe will be lifted in 45 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "还剩15秒": {
+        "Translation": " 15 seconds left ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "还剩5秒": {
+        "Translation": " 5 seconds left ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：锄头已经被挪开了,大家快后撤": {
+        "Translation": "Peashooter: The hoe has been moved! Everyone, fall back quickly!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：还好戴夫永远不会关菜园的栅栏门，不然又要花好多时间来破坏这个门了": {
+        "Translation": "Peashooter: Luckily, Dave never closes the garden gate, or it would take a lot of time to break down this door.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：大家快去敲戴夫的门，他只要把我们接到屋子里就安全了": {
+        "Translation": "Peashooter: Everyone, hurry up and knock on Dave's door; if he lets us into the house, we'll be safe.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "AFK传送已激活": {
+        "Translation": " AFK teleport has been activated ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：戴夫，开门！我是向日葵，有一堆僵尸在追我们！": {
+        "Translation": "Sunflower: Dave, open the door! I'm Sunflower, and a bunch of zombies are chasing us!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：开门啊！我知道你在家里！": {
+        "Translation": "Sunflower: Open the door! I know you're home!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：这戴夫怕不是睡着了，看来得另外找个路进他家了": {
+        "Translation": "Peashooter: I think Dave must be asleep; it looks like we have to find another way into his house.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：戴夫家的下水道是能走的，就在菜园的另一边": {
+        "Translation": "Sunflower: The sewer at Dave's house is passable; it's on the other side of the garden.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：走下水道？口区": {
+        "Translation": "Wall-nut: Go through the sewer? Really?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：没办法了，僵尸追这么紧，不想变成食物的话只能走下水道了": {
+        "Translation": "Peashooter: There's no other choice; the zombies are on our tails. If we don't want to become food, we have to take the sewer.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "通往下水道口的栅栏将在30秒后消失": {
+        "Translation": " The fence leading to the sewer will disappear in 30 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一只僵尸找到了一扇铁栅门": {
+        "Translation": " A zombie has found an iron gate ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "通往下水道口的栅栏将在10秒后消失": {
+        "Translation": " The fence leading to the sewer will disappear in 10 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "通往下水道口的栅栏将在5秒后消失": {
+        "Translation": " The fence leading to the sewer will disappear in 5 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "通往下水道口的栅栏已经消失": {
+        "Translation": " The fence leading to the sewer has disappeared ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：下水道口怎么还有栅栏的，大家赶紧把这个铁栅栏打烂！": {
+        "Translation": "Peashooter: Why is there still a fence at the sewer entrance? Everyone, hurry up and smash this iron fence!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "僵尸现在可以从穿过栅栏了": {
+        "Translation": " Zombies can now pass through the fence ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：移开这个栅栏需要点时间，大家坚持一会": {
+        "Translation": "Wall-nut: It will take some time to remove this fence; everyone, hold on for a bit.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "栅栏门将在33秒后被打开": {
+        "Translation": " The fence gate will open in 33 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "还剩10秒": {
+        "Translation": " 10 seconds remaining ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：按下这个应该铁门就能打开了吧": {
+        "Translation": "Wall-nut: Pressing this should open the iron gate, right?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：下水道里怎么会有一个铁门？得找到电源开关才能打开这个门": {
+        "Translation": "Peashooter: How can there be an iron door in the sewer? We need to find the power switch to open this door.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "电闸房间的铁栅门打开了": {
+        "Translation": " The iron gate to the power switch room has opened ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：坚果墙你在搞什么幺蛾子，这铁门的声音不对劲啊": {
+        "Translation": "Peashooter: Wall-nut, what are you up to? The sound of this iron door is off.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：我看看……": {
+        "Translation": "Wall-nut: Let me check...",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：我超，我不小心把电压调太高了": {
+        "Translation": "Wall-nut: Oh no, I accidentally set the voltage too high.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：大家离这个铁门远点！我感觉这门马上要爆了！": {
+        "Translation": "Peashooter: Everyone, stay away from this iron door! I feel like it's about to explode!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手:这下水道门怎么被水泥堵住了，大家把这个水泥墙打烂！": {
+        "Translation": "Peashooter: Why is this sewer door blocked with cement? Everyone, smash this cement wall!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一只僵尸找到了一张报纸": {
+        "Translation": " A zombie found a newspaper ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "水泥墙被打烂了": {
+        "Translation": " The cement wall has been smashed ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵:前面就是下水道出口了，快去敲戴夫家的门！": {
+        "Translation": "Sunflower: Up ahead is the sewer exit; hurry and knock on Dave's door!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：这里离戴夫的卧室很近，大家敲门吵醒他": {
+        "Translation": "Sunflower: We're very close to Dave's bedroom; everyone knock on the door to wake him up.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "疯狂戴夫：歪比巴卜(大早上的你叫啥啊)": {
+        "Translation": "Crazy Dave: Yippee! What do you want early in the morning?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚持到戴夫前来开门": {
+        "Translation": " Hold on until Dave comes to open the door ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "戴夫：歪比巴卜(我马上来开门)": {
+        "Translation": "Dave: Yippee! I'll be right there to open the door.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "检测到存活人类，开始核爆": {
+        "Translation": " Human presence detected, initiating nuclear explosion ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了土豆雷": {
+        "Translation": " A player has obtained Potato Mine ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "土豆雷已种植": {
+        "Translation": " Potato Mine has been planted ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡2：草坪": {
+        "Translation": " Level 2: Lawn ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：几天没见这戴夫把他草坪整了这么多树篱": {
+        "Translation": "Sunflower: I haven't seen Dave for days, and now he has so many hedges in his lawn.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：最气的是他的快递还要我们来拿": {
+        "Translation": "Peashooter: The most frustrating part is that we have to pick up his package.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "需要一名玩家携带戴夫的快递，这将是通关的必要条件": {
+        "Translation": " A player must carry Dave's package; this is a necessary condition to clear the level ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一只僵尸策反了一个豌豆射手": {
+        "Translation": " A zombie has corrupted a Peashooter ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "大门将在30秒后打开": {
+        "Translation": " The gate will open in 30 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "土豆雷已就绪": {
+        "Translation": " Potato Mine is ready ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "大门打开了": {
+        "Translation": " The gate has opened ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：就不知道这戴夫为什么要把这个草坪修的跟迷宫一样": {
+        "Translation": "Peashooter: I wonder why Dave has made this lawn like a maze.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：等会回去了我一定要跳起来给他两豌豆": {
+        "Translation": "Peashooter: When I go back, I will definitely jump and throw two peas at him.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "30秒后木箱消失": {
+        "Translation": " The wooden box will disappear in 30 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "土豆雷：受不了辣，修成迷宫就算了，路上还丢一堆垃圾": {
+        "Translation": "Potato Mine: I can't stand the heat; making this a maze is one thing, but leaving a pile of garbage on the way is too much!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "土豆雷：想爆了!": {
+        "Translation": "Potato Mine: I feel like exploding!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：别急，等会回去再找戴夫说嘛": {
+        "Translation": "Sunflower: Don't rush; we'll talk to Dave when we go back.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "木箱消失了": {
+        "Translation": " The wooden box has disappeared ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "35秒后大门打开": {
+        "Translation": " The gate will open in 35 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "AFK传送已启动": {
+        "Translation": " AFK teleport has been activated ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一只僵尸找到了一个惊喜盒子": {
+        "Translation": " A zombie found a surprise box ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "40秒后木板消失": {
+        "Translation": " The wooden board will disappear in 40 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "木板消失了": {
+        "Translation": " The wooden board has disappeared ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "20秒后大门打开": {
+        "Translation": " The gate will open in 20 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：每次到这我都会想起后院的睡莲兄": {
+        "Translation": "Peashooter: Every time I come here, I think of my brother the Water Lily in the backyard.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：那等会休息一下去后院看下他吧": {
+        "Translation": "Sunflower: Let's take a break later and check on him in the backyard.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "30秒后大门打开": {
+        "Translation": " The gate will open in 30 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：寒冰菇老哥？怎么在这个地方待着": {
+        "Translation": "Wall-nut: Ice Mushroom? What are you doing here?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "寒冰菇：等了好久了终于有人能来接我了，这草坪上就这个冰箱凉快点，差点就要化了": {
+        "Translation": "Ice Mushroom: I've been waiting for a long time for someone to come pick me up. This lawn is just too hot; I was almost melting!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "需要两扇门均有人在才能打开": {
+        "Translation": " Both doors need to have players present to open ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了寒冰菇": {
+        "Translation": " A player has obtained Ice Mushroom ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "两扇门将在30秒后同时打开": {
+        "Translation": " Both doors will open simultaneously in 30 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：不得不说这个凉亭修的还是很不错的，要是没事的话我就到这来睡午觉": {
+        "Translation": "Wall-nut: I have to say, this gazebo is quite well built. If I had nothing to do, I would come here for a nap.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "大门将在65秒后打开": {
+        "Translation": " The gate will open in 65 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "还剩30秒": {
+        "Translation": " 30 seconds remaining ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：终于要到了，等会得去敲门让戴夫开门": {
+        "Translation": "Peashooter: We're finally getting there; I need to knock on the door and let Dave in.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "土豆雷：……我已经快忍不住了，快走吧": {
+        "Translation": "Potato Mine: ...I can barely hold on; let's go quickly.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "最终的栅栏门将在50秒后打开": {
+        "Translation": " The final fence gate will open in 50 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "去敲戴夫的门": {
+        "Translation": " Go knock on Dave's door ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：戴夫！你的快递到了，快开门！": {
+        "Translation": "Sunflower: Dave! Your package has arrived; open the door quickly!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "疯狂戴夫：拿到了嘛？让我看看呢": {
+        "Translation": "Crazy Dave: Did you get it? Let me see!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "使用快递包裹": {
+        "Translation": " Use the package ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "疯狂戴夫：umm，确实是这个包裹": {
+        "Translation": "Crazy Dave: Umm, this is indeed the package.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "疯狂戴夫：马上我来给你开门": {
+        "Translation": "Crazy Dave: I'll open the door for you right away.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "检测到人类存活，启用核爆": {
+        "Translation": " Human presence detected, initiating nuclear explosion ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了大嘴花": {
+        "Translation": " A player has obtained Chomper ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡3：泳池": {
+        "Translation": " Level 3: Pool ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：这戴夫什么时候把后院的草坪全铲掉了": {
+        "Translation": "Peashooter: When did Dave remove all the grass from the backyard?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "寒冰菇：一整片全是池塘，都不知道往哪走了": {
+        "Translation": "Ice Mushroom: It's all ponds here; I don't know where to go.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：右边好像就是入口，那有个牌子不知道上面写的啥": {
+        "Translation": "Wall-nut: It seems the entrance is on the right; there's a sign there, but I don't know what it says.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "大嘴花吃掉了一只僵尸": {
+        "Translation": " Chomper has eaten a zombie ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "警告：植物不能直接种在水里": {
+        "Translation": " Warning: Plants cannot be directly planted in water ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：大家都看清楚警告了吧，我要按按钮咯": {
+        "Translation": "Peashooter: Everyone see the warning clearly? I'm about to press the button.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "通往池塘的道路将在20秒后出现": {
+        "Translation": " The path to the pond will appear in 20 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "通往第二个岛的桥将在20秒后开放": {
+        "Translation": " The bridge to the second island will open in 20 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "大嘴花已就绪": {
+        "Translation": " Chomper is ready ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "木桥已开放": {
+        "Translation": " The wooden bridge is open ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "左路木桥将在20秒后开放": {
+        "Translation": " The left wooden bridge will open in 20 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "右路木桥将在34秒后开放": {
+        "Translation": " The right wooden bridge will open in 34 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "左路木桥已开放": {
+        "Translation": " The left wooden bridge is now open ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "右路木桥已开放": {
+        "Translation": " The right wooden bridge is now open ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "土豆雷：那是睡莲兄吗？他怎么在这个地方": {
+        "Translation": "Potato Mine: Is that Brother Water Lily? What is he doing here?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：睡莲兄怎么在这个地方玩啊": {
+        "Translation": "Peashooter: What is Brother Water Lily doing here?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了睡莲": {
+        "Translation": " A player has obtained Water Lily ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "睡莲：毁灭菇昨天跑来借我电视看，到现在都不还我，伤心了": {
+        "Translation": "Water Lily: The Doom Mushroom borrowed my TV to watch yesterday and hasn't returned it yet; I'm sad.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "寒冰菇：这毁灭菇还是老样子啊，去看下他在干嘛？": {
+        "Translation": "Ice Mushroom: That Doom Mushroom is still the same; let's go see what he's up to.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "睡莲：他在中间的岛上，那边只能走那个跳水台过去": {
+        "Translation": "Water Lily: He's on the middle island; we can only cross using that diving board.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：行，走吧": {
+        "Translation": "Peashooter: Alright, let's go.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "木桥将在50秒后开放": {
+        "Translation": " The wooden bridge will open in 50 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "通往岸上的木桥将在40秒后开放": {
+        "Translation": " The wooden bridge to the shore will open in 40 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一只僵尸找到了一辆雪橇车": {
+        "Translation": " A zombie found a sled ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "木桥已经开放": {
+        "Translation": " The wooden bridge is now open ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：那边应该就是跳水台了，从跳水台跳到中间的岛上吧": {
+        "Translation": "Peashooter: That should be the diving board; let's jump to the middle island from there.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：这跳水台声音不太对啊，怎么跟要垮了一样": {
+        "Translation": "Wall-nut: The diving board doesn't sound right; it sounds like it's about to collapse.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：完了！忘了坚果墙你特别重了，再这样下去这木板要坏掉的": {
+        "Translation": "Peashooter: Oh no! I forgot Wall-nut, you're especially heavy; if this keeps up, the board will break!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：大家赶紧往下面跳，注意别掉水里了！": {
+        "Translation": "Peashooter: Everyone, jump down quickly, and be careful not to fall into the water!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "睡莲：毁灭菇就在前面": {
+        "Translation": "Water Lily: The Doom Mushroom is right ahead.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一层跳水台已开放": {
+        "Translation": " The first level of the diving board is now open ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：走，去看下他到底在看什么东西这么起劲": {
+        "Translation": "Peashooter: Let's go see what he's so excited about.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "上层跳水台的木板烂掉了": {
+        "Translation": " The board of the upper diving platform has rotted ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：嘿，毁灭菇": {
+        "Translation": "Peashooter: Hey, Doom Mushroom.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：电视看啥看那么久呢，该还给睡莲了吧": {
+        "Translation": "Peashooter: What are you watching on the TV for so long? You should return it to Water Lily.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：毁灭菇？": {
+        "Translation": "Sunflower: Doom Mushroom?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "寒冰菇：他怕不是看上瘾了，把他电视的电闸关了得了": {
+        "Translation": "Ice Mushroom: He must be addicted to watching; just turn off the power to his TV.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "通往电闸的路已开启": {
+        "Translation": " The path to the power switch is now open ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：按下这个就可以把他电视的电断了": {
+        "Translation": "Wall-nut: Press this to cut off the power to his TV.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "毁灭菇：NO!我的电视！我的抛瓦！": {
+        "Translation": "Doom Mushroom: NO! My TV! My tiles!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：别占着电视了，睡莲兄想看了": {
+        "Translation": "Peashooter: Don't hog the TV; Brother Water Lily wants to watch it.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：？？！": {
+        "Translation": "Sunflower: ??!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：我超，没人跟我说这个电闸会把天线炸掉啊！": {
+        "Translation": "Wall-nut: Oh no, no one told me that this power switch would blow up the antenna!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "疯狂戴夫：你们在搞什么飞机！我屋顶怎么爆了！": {
+        "Translation": "Crazy Dave: What are you doing? Why did my roof explode!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "传送电箱处人类回到主岛": {
+        "Translation": " Humans are being teleported back to the main island ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：坏了": {
+        "Translation": "Peashooter: Oh no!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：这下都没电视看了，一起去修天线吧": {
+        "Translation": "Peashooter: Now we have no TV to watch; let's go fix the antenna.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "睡莲：走这边，那边上岸快": {
+        "Translation": "Water Lily: This way, it's quicker to get ashore.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "土豆雷：大家快走了！": {
+        "Translation": "Potato Mine: Everyone, hurry up and go!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "30秒后出现石桥": {
+        "Translation": " The stone bridge will appear in 30 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "石桥从水中升起": {
+        "Translation": " The stone bridge rises from the water ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：唉，这下戴夫要把我们骂惨了": {
+        "Translation": "Peashooter: Sigh, Dave is going to scold us badly now.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：等会回去了和他解释下，立马去屋顶修雷达吧": {
+        "Translation": "Sunflower: When we go back, we'll explain to him, then head to the roof to fix the radar.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "40秒后石路从水里升起": {
+        "Translation": " The stone path will rise from the water in 40 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "石路从水里升起了": {
+        "Translation": " The stone path has risen from the water ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：睡莲！这地方这么远怎么过得去啊！": {
+        "Translation": "Peashooter: Water Lily! How can we get across such a wide space!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "睡莲：别急，这不就到我出马了吗": {
+        "Translation": "Water Lily: Don't worry, it's my turn to step in.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "使用睡莲，在水里搭出一条路": {
+        "Translation": " Use Water Lily to create a path in the water ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "睡莲仅能使用4次": {
+        "Translation": " Water Lily can only be used 4 times ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "睡莲已种植": {
+        "Translation": " Water Lily has been planted ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚持30秒": {
+        "Translation": " Hold on for 30 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：厉害啊睡莲兄，大家抓紧上岸！": {
+        "Translation": "Peashooter: Awesome job, Brother Water Lily! Everyone, hurry up and get ashore!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "左路第二木桥将在25秒后开放": {
+        "Translation": " The second wooden bridge on the left will open in 25 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "左路第二木桥已开放": {
+        "Translation": " The second wooden bridge on the left is now open ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡4：烟囱": {
+        "Translation": " Level 4: Chimney ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "抵达烟囱顶部": {
+        "Translation": " Arrived at the top of the chimney ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "20秒后电梯启动": {
+        "Translation": " The elevator will start in 20 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "梯子50秒后开放": {
+        "Translation": " The ladder will open in 50 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "最终的电梯将在60秒后启动": {
+        "Translation": " The final elevator will start in 60 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了三叶草": {
+        "Translation": " A player has obtained Clover ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡5：屋顶": {
+        "Translation": " Level 5: Rooftop ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：这屋顶怎么搞了那么多违章建筑": {
+        "Translation": "Peashooter: Why are there so many illegal structures on this roof?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：别管那么多了，我们是来修天线的": {
+        "Translation": "Sunflower: Don't worry about that; we're here to fix the antenna.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：虽然不知道要往哪走，不过往天线方向走肯定没问题的": {
+        "Translation": "Sunflower: I don't know where to go, but heading towards the antenna should be fine.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "需要左右路同时存在玩家": {
+        "Translation": " Players need to be present on both left and right paths to open the door ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "三叶草开始吹风": {
+        "Translation": " Clover starts to blow wind ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "铁丝网将在30秒后消失": {
+        "Translation": " The barbed wire will disappear in 30 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "铁丝网消失了": {
+        "Translation": " The barbed wire has disappeared ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：这门怎么还要钥匙的": {
+        "Translation": "Peashooter: Why does this door still need a key?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：对面的屋子里好像有人，过去问下他呢": {
+        "Translation": "Sunflower: It seems there's someone in the house across; let's go ask him.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：行！带伙们，给这两个铁栅门拆了！": {
+        "Translation": "Peashooter: Alright! Everyone, let's tear down these two iron gates!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "现在可以拆掉铁栅门了": {
+        "Translation": " You can now tear down the iron gates ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：谁这么吵啊！我在睡午觉呢！": {
+        "Translation": "Watermelon Shooter: Who's making all that noise? I'm trying to take a nap!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了西瓜投手": {
+        "Translation": " A player has obtained Watermelon Shooter ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：啊？谁把我门拆了！": {
+        "Translation": "Watermelon Shooter: Huh? Who tore down my door!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：西瓜兄怎么在这睡午觉，我们现在要去修下天线，能帮我们开下门嘛": {
+        "Translation": "Peashooter: Why are you napping here, Watermelon Brother? We need to fix the antenna; can you help us open the door?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：开门是没问题，但是你们等会要给我把门修好": {
+        "Translation": "Watermelon Shooter: Opening the door is no problem, but you need to fix it for me later.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "三叶草已就绪": {
+        "Translation": " Clover is ready ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：来吧，我来给你们开门": {
+        "Translation": "Watermelon Shooter: Alright, I'll open the door for you.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "15秒后开门": {
+        "Translation": " The door will open in 15 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "门被西瓜投手打开了": {
+        "Translation": " The door has been opened by Watermelon Shooter ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：这地方是屋顶的建筑材料仓库，右边那个门的钥匙放在我办公室里的": {
+        "Translation": "Watermelon Shooter: This place is a storage room for building materials on the roof, and the key to the door on the right is in my office.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：就在左边走到头，三叶草应该知道位置": {
+        "Translation": "Watermelon Shooter: Just go to the end on the left; Clover should know the location.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：话说这些东西是戴夫让你们建的吗": {
+        "Translation": "Wall-nut: By the way, did Dave ask you to build these?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：那当然咯，我也不知道他咋想的，他就说在他屋顶盖几栋房子": {
+        "Translation": "Watermelon Shooter: Of course! I don't know what he was thinking; he just said to build a few houses on his roof.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "三叶草：等下，我来开门": {
+        "Translation": "Clover: Wait, I'll open the door.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "土豆雷：纯纯违章建筑来的……": {
+        "Translation": "Potato Mine: This is purely illegal construction...",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "办公室的门打开了": {
+        "Translation": " The office door has opened ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "找到了铁栅门的钥匙": {
+        "Translation": " Found the key to the iron gate ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "铁栅门10秒后打开": {
+        "Translation": " The iron gate will open in 10 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "铁栅门打开了": {
+        "Translation": " The iron gate has opened ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：前面还有个一样的门，也用这个钥匙就能开": {
+        "Translation": "Watermelon Shooter: There's another door like this ahead; it can also be opened with this key.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "第二个铁栅门将在20秒后打开": {
+        "Translation": " The second iron gate will open in 20 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "第二个铁栅门打开了": {
+        "Translation": " The second iron gate has opened ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：我们刚封了前面的路，只能从塔吊上面跳到屋顶上走过去了": {
+        "Translation": "Watermelon Shooter: We just sealed off the front road; we can only jump from the crane to get to the roof.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "大嘴花：我恐高……": {
+        "Translation": "Chomper: I'm afraid of heights...",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "向日葵：别怕，摔不死的，走吧": {
+        "Translation": "Sunflower: Don't be afraid; you won't fall to your death. Let's go.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "30秒后塔吊梯子开放": {
+        "Translation": " The crane ladder will open in 30 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "塔吊梯子已开放": {
+        "Translation": " The crane ladder is now open ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：大家注意别掉下去了！": {
+        "Translation": "Peashooter: Everyone, be careful not to fall!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "大嘴花：头好晕……感觉要掉下去了": {
+        "Translation": "Chomper: My head is spinning... I feel like I'm going to fall.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "侧路的铁栅门消失了": {
+        "Translation": " The side iron gate has disappeared ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：看到前面那个大门了吗，我们得从那两个屋子里进去": {
+        "Translation": "Watermelon Shooter: Do you see that big door ahead? We have to go through those two houses.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：天线的控制室需要从第二个房子的四楼过去": {
+        "Translation": "Watermelon Shooter: The antenna control room is on the fourth floor of the second house.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "铁栅门将在60秒后打开": {
+        "Translation": " The iron gate will open in 60 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "需要一楼与三楼均有玩家才能开门": {
+        "Translation": " Players must be present on both the first and third floors to open the door ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一楼的门将在30秒后打开；三楼的窗户将在35秒后打开": {
+        "Translation": " The first floor door will open in 30 seconds; the third floor window will open in 35 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一楼的门打开了": {
+        "Translation": " The first floor door has opened ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "三楼的窗户打开了": {
+        "Translation": " The third floor window has opened ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "10秒后四楼的窗户破碎": {
+        "Translation": " The fourth floor window will break in 10 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "二楼的窗户被破坏了": {
+        "Translation": " The second floor window has been destroyed ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "四楼的窗户破碎了": {
+        "Translation": " The fourth floor window has shattered ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "第二个房子的一楼大门将在20秒后打开": {
+        "Translation": " The first floor door of the second house will open in 20 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "第二个房子的二楼玻璃将在20秒后碎掉": {
+        "Translation": " The second floor glass of the second house will shatter in 20 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "第二个房子的一楼大门打开了": {
+        "Translation": " The first floor door of the second house has opened ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "第二个房子的二楼玻璃碎了": {
+        "Translation": " The second floor glass of the second house has shattered ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "四楼的玻璃将在30秒后碎掉": {
+        "Translation": " The fourth floor glass will shatter in 30 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "现在可以从一楼的梯子上到二楼了": {
+        "Translation": " You can now go from the first floor to the second floor using the ladder ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "四楼的玻璃碎掉了": {
+        "Translation": " The fourth floor glass has shattered ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "西瓜投手：前面就是天线控制室了，大家多坚持会": {
+        "Translation": "Watermelon Shooter: The antenna control room is right ahead; everyone hold on a bit longer.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "天线控制室的门将在40秒后打开": {
+        "Translation": " The door to the antenna control room will open in 40 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "现在可以从二楼的楼梯上到四楼了": {
+        "Translation": " You can now go from the second floor to the fourth floor using the stairs ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "天线控制室的门打开了": {
+        "Translation": " The door to the antenna control room has opened ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "三叶草：二楼就是天线的控制室，我记得里面有个自动修复的按钮": {
+        "Translation": "Clover: The second floor is the antenna control room; I remember there’s an auto-repair button inside.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "三叶草：大家等我会，我找下自动修复的按钮": {
+        "Translation": "Clover: Everyone wait for me; I'll look for the auto-repair button.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "三叶草：ok，这下应该天线就没事了": {
+        "Translation": "Clover: Ok, this should fix the antenna.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "天线正在修复中……": {
+        "Translation": " The antenna is being repaired... ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "天线已修复完成": {
+        "Translation": " The antenna has been successfully repaired ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "三叶草：这边有个移动平台可以直接到烟囱口的，按边上那个按钮就行": {
+        "Translation": "Clover: There’s a moving platform here that goes directly to the chimney; just press that button on the side.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "按下墙上的红色按钮以打开移动平台的门": {
+        "Translation": " Press the red button on the wall to open the moving platform's door ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "5秒后移动平台大门打开": {
+        "Translation": " The moving platform door will open in 5 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "20秒后移动平台启动": {
+        "Translation": " The moving platform will start in 20 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "跳进烟囱口": {
+        "Translation": " Jump into the chimney ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "毁灭菇将在20秒后解锁": {
+        "Translation": " Doom Mushroom will be unlocked in 20 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了毁灭菇": {
+        "Translation": " A player has obtained Doom Mushroom ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "毁灭菇准备爆炸": {
+        "Translation": " Doom Mushroom is getting ready to explode ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "烟囱的铁丝网被拆掉了": {
+        "Translation": " The barbed wire at the chimney has been removed ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡已设置为：菜园": {
+        "Translation": " Level has been set to: Vegetable Garden ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "坚果墙：听说这个电箱很不稳定，最好还是不要碰的好": {
+        "Translation": "Wall-nut: I heard this power box is very unstable; it's best not to touch it.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "电箱被玩坏了,将在15秒后爆炸": {
+        "Translation": " The power box has been broken; it will explode in 15 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "电箱即将爆炸": {
+        "Translation": " The power box is about to explode ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一个木栅栏被僵尸拆掉了": {
+        "Translation": " A wooden fence has been knocked down by a zombie ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "有人打碎了铁板桥": {
+        "Translation": " Someone has smashed the iron plank bridge ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "已经没有剩余的睡莲了": {
+        "Translation": " There are no remaining Water Lilies ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：怎么还有门啊，这都第几个了": {
+        "Translation": "Peashooter: Why are there still doors? How many is this already?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：嗯？这门好像没法用前面几个门的方法来打开": {
+        "Translation": "Peashooter: Huh? This door seems like it can't be opened the way the previous ones were.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "该门需要按下凉亭中的按钮才能打开": {
+        "Translation": " This door requires pressing the button in the gazebo to open ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "通往第二个岛的桥将在35秒后开放": {
+        "Translation": " The bridge to the second island will open in 35 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "左路第二木桥将在15秒后开放": {
+        "Translation": " The second wooden bridge on the left will open in 15 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "第二个铁栅门将在30秒后打开": {
+        "Translation": " The second iron gate will open in 30 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一名玩家获得了玉米投手": {
+        "Translation": " A player has obtained Corn Shooter ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一只僵尸找到了一个旗帜": {
+        "Translation": " A zombie found a flag ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "三叶草：这边有个轨道可以直接到烟囱口的，按边上那个按钮就行": {
+        "Translation": "Clover: There's a track here that goes directly to the chimney; just press that button on the side.",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "按下墙上的红色按钮以打开出口轨道的门": {
+        "Translation": " Press the red button on the wall to open the exit track door ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "20秒后出口轨道门打开": {
+        "Translation": " The exit track door will open in 20 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡6：屋顶(夜晚)": {
+        "Translation": " Level 6: Rooftop (Night) ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：大晚上的什么动静啊，搞装修？": {
+        "Translation": "Peashooter: What's that noise at night? Are they renovating?",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "？？？：可恶的植物们听好了，我来给我的电视弟弟报仇来了！": {
+        "Translation": "??? : Listen up, you damn plants! I'm here to take revenge for my little TV brother!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "？？？：识相的话就乖乖出来挨打，不然我就把这个房子全拆了！": {
+        "Translation": "??? : If you know what's good for you, come out and take your beating; otherwise, I'll tear down this whole house!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：那你得有这个本事，谁打谁还不一定呢！": {
+        "Translation": "Peashooter: Well, you'd better be able to do that; who knows who will win!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "？？？：呵呵，那就让我来让你们知道什么是高科技！": {
+        "Translation": "??? : Hehe, let me show you what high technology is!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "愤怒电视：我是白天被你们炸掉的小电视的哥哥，我现在很生气！": {
+        "Translation": "Angry TV: I'm the older brother of the little TV you blew up during the day, and I'm very angry now!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "愤怒电视：一分钟之内来屋顶，否则没有你们好果汁吃！": {
+        "Translation": "Angry TV: Come to the rooftop in one minute, or you won't have a good time!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "本关仅有击败僵王才可通关": {
+        "Translation": " You can only clear this level by defeating the Zombie King ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "人类不会被僵尸感染，僵尸最大生命值大幅削减": {
+        "Translation": " Humans will not be infected by zombies, and zombies' maximum health has been significantly reduced ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "当僵尸触碰到办公区的红线，人类将会失败": {
+        "Translation": " If a zombie touches the red line in the office area, humans will fail ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "僵尸现在可以传送至平台": {
+        "Translation": " Zombies can now teleport to the platform ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "僵尸进入了屋顶办公区，人类失败": {
+        "Translation": " A zombie entered the rooftop office area; humans have failed ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "愤怒电视：noooo！我的僵王机甲！": {
+        "Translation": "Angry TV: Noooo! My Zombie King mech!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "豌豆射手：这下懂什么是抛瓦了吧，再回去修炼几年吧！": {
+        "Translation": "Peashooter: Now you understand what it means to be blown up; go back and train for a few more years!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "愤怒电视：可恶，你们等着，我会回来的！": {
+        "Translation": "Angry TV: Damn it, wait! I'll be back!",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "你们战胜了愤怒电视！": {
+        "Translation": " You have defeated Angry TV! ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "感谢游玩": {
+        "Translation": " Thank you for playing ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "践踏": {
+        "Translation": " Stomp ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "左侧出拳": {
+        "Translation": " Left punch ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "中场出拳": {
+        "Translation": " Middle punch ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "右侧出拳": {
+        "Translation": " Right punch ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "砸车": {
+        "Translation": " Smash car ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "你找到了戴夫的隐藏房间": {
+        "Translation": " You found Dave's hidden room ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "有人不慎从屋顶上掉了下去": {
+        "Translation": " Someone accidentally fell from the roof ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "一个人类获得了大喷菇": {
+        "Translation": " A human has obtained Big Chomper ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "大喷菇前来支援了": {
+        "Translation": " Big Chomper has come to assist ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "第二个房子的一楼大门将在15秒后打开": {
+        "Translation": " The first floor door of the second house will open in 15 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡已设置为：屋顶(夜晚)": {
+        "Translation": " Level has been set to: Rooftop (Night) ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡已设置为：泳池": {
+        "Translation": " Level has been set to: Pool ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "左路第二木桥将在5秒后开放": {
+        "Translation": " The second wooden bridge on the left will open in 5 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "跳水台的楼梯将在5s后开放": {
+        "Translation": " The diving board stairs will open in 5 seconds ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "跳水台的楼梯已开放": {
+        "Translation": " The diving board stairs are now open ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡已设置为：草坪": {
+        "Translation": " Level has been set to: Lawn ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡已设置为：屋顶": {
+        "Translation": " Level has been set to: Rooftop ",
+        "M-Bool": false,
+        "Value": 0
+    },
+    "关卡已设置为：烟囱": {
+        "Translation": " Level has been set to: Chimney ",
+        "M-Bool": false,
+        "Value": 0
     }
-  },
-  "连败计数：0": {
-    "Translation": "Loss Streak: 0",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "连败计数：1": {
-    "Translation": "Loss Streak: 1",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "一名玩家获得了向日葵": {
-    "Translation": "A player has obtained a Sunflower.",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "连败计数：2": {
-    "Translation": "Loss Streak: 2",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "连败计数：3": {
-    "Translation": "Loss Streak: 3",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "连败计数：4": {
-    "Translation": "Loss Streak: 4",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "连败计数：5": {
-    "Translation": "Loss Streak: 5",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "连败计数：6": {
-    "Translation": "Loss Streak: 6",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "连败计数：7": {
-    "Translation": "Loss Streak: 7",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "连败计数：8": {
-    "Translation": "Loss Streak: 8",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "连败计数：9": {
-    "Translation": "Loss Streak: 9",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "连败计数：10": {
-    "Translation": "Loss Streak: 10",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "出生区域的传送已启动": {
-    "Translation": "The teleportation to the spawn area has been activated.",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "关卡1：菜园": {
-    "Translation": "Level 1: Vegetable Garden",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "豌豆射手：前面就是戴夫家的菜园了，好久没见他了今天来看看": {
-    "Translation": "Peashooter: Up ahead is Dave's vegetable garden. I haven't seen him in a while, so I came to check it out today.",
-    "M-Bool": false,
-    "Value": 0
-  }
 }
