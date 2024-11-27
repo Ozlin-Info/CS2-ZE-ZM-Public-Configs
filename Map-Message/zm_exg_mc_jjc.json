@@ -7,32 +7,32 @@
     }
   },
   "天气:暴雨": {
-    "Translation": "天气:暴雨",
+    "Translation": "Weather: Heavy Rain",
     "M-Bool": false,
     "Value": 0
   },
   "天气:风和日丽": {
-    "Translation": "天气:风和日丽",
+    "Translation": "Weather: Sunny and Pleasant",
     "M-Bool": false,
     "Value": 0
   },
   "天气:黑夜": {
-    "Translation": "天气:黑夜",
+    "Translation": "Weather: Night",
     "M-Bool": false,
     "Value": 0
   },
   "天气:小雨": {
-    "Translation": "天气:小雨",
+    "Translation": "Weather: Light Rain",
     "M-Bool": false,
     "Value": 0
   },
   "天气:迷雾": {
-    "Translation": "天气:迷雾",
+    "Translation": "Weather: Fog",
     "M-Bool": false,
     "Value": 0
   },
   "天气:雾世界": {
-    "Translation": "天气:雾世界",
+    "Translation": "Weather: Fog World",
     "M-Bool": false,
     "Value": 0
   }
