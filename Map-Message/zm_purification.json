@@ -7,27 +7,27 @@
     }
   },
   " 地图制作：气流 ": {
-    "Translation": " 地图制作：气流 ",
+    "Translation": "Map Creation: Airflow",
     "M-Bool": false,
     "Value": 0
   },
   " 这是同名ZE地图的改编版本 ": {
-    "Translation": " 这是同名ZE地图的改编版本 ",
+    "Translation": "This is a modified version of the ZE map of the same name.",
     "M-Bool": false,
     "Value": 0
   },
   " 欢迎体验ZE版本的游戏 ": {
-    "Translation": " 欢迎体验ZE版本的游戏 ",
+    "Translation": "Welcome to experience the ZE version of the game.",
     "M-Bool": false,
     "Value": 0
   },
   " 喜欢本图还请前往创意工坊点赞 ": {
-    "Translation": " 喜欢本图还请前往创意工坊点赞 ",
+    "Translation": "If you like this map, please go to the Workshop and give it a thumbs up.",
     "M-Bool": false,
     "Value": 0
   },
   " 警告：僵尸可以从背后进攻！！！ ": {
-    "Translation": " 警告：僵尸可以从背后进攻！！！ ",
+    "Translation": "Warning: Zombies can attack from behind!!!",
     "M-Bool": false,
     "Value": 0
   }
