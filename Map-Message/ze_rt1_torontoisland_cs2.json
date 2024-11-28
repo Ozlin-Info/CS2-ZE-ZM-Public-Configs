@@ -1,0 +1,492 @@
+{
+  " 多伦岛发生了异变，情况不明 ": {
+    "Translation": " Anomaly occurred on Toronto Island, situation unknown ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 洛丹伦命令我部前来查看 ": {
+    "Translation": " Lordaeron has ordered our unit to investigate ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 我们将以这座神庙为据点 ": {
+    "Translation": " We will use this temple as our stronghold ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Level 1 ": {
+    "Translation": " Level 1, EN Translation: Allenw @ Ozlin server",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚守40s ": {
+    "Translation": " Hold the position for 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 范围回复 治疗 ": {
+    "Translation": " Area heal ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 期待这是一个轻松的旅程 ": {
+    "Translation": " Hopefully, this will be an easy journey ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 范围减速 雷电 ": {
+    "Translation": " Area slow Lightning ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 法王之名 ": {
+    "Translation": " In the name of the Holy King ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 大门开启，撤退  ": {
+    "Translation": " The gate opens, retreat ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 整顿装备，向岛屿触发 ": {
+    "Translation": " Reorganise equipment, advance towards the island ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 诅咒者已被拾取 ": {
+    "Translation": " The Cursed item has been picked up ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 诅咒者附带高额减速，并废除人类的武器 ": {
+    "Translation": " The Cursed comes with a high slowdown effect and nullifies human weapons ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 12s ": {
+    "Translation": " 12s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这个地方有点古怪 ": {
+    "Translation": " This place is a bit strange ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 范围直线 风已拾取 ": {
+    "Translation": " Straight Wind has been picked up ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 恶灵溃散  ": {
+    "Translation": " Evil spirits disperse ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 穿过大门，沿着通道向上走，我们一探究竟 ": {
+    "Translation": " Pass through the gate, walk up the corridor, and let's find out ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "铠甲勇士降临 ": {
+    "Translation": " The Armored Warrior has arrived ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 变身期间不会受到僵尸伤害，但时间有限 ": {
+    "Translation": " During transformation, you won't take damage from zombies, but the time is limited ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 左键释放普通攻击 ": {
+    "Translation": " Left click to unleash a normal attack ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SAWDAD+右键释放八方光刃(伤害极高） ": {
+    "Translation": " SAWDAD + Right click to unleash the Eight-direction Blade (high damage) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚守25s ": {
+    "Translation": " Hold the position for 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30s ": {
+    "Translation": " 30s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 墙已被拾取 ": {
+    "Translation": " The wall has been picked up ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 恶灵止步 ": {
+    "Translation": " Evil spirits shall not pass ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这个洞穴不应该早被废弃了吗，为何还有如此规模的迷宫 ": {
+    "Translation": " Shouldn't this cave have been abandoned long ago? Why is there still such a large maze? ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 不安 ": {
+    "Translation": " Unsettled ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 注意，在迷宫中，水可为指引正确方向  ": {
+    "Translation": " Note that in the maze, water can guide the correct direction ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 解锁机关，我们要离开这个地方 ": {
+    "Translation": " Unlock the mechanism, we need to leave this place ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10s ": {
+    "Translation": " 10s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 第一开关已按下  ": {
+    "Translation": " The first switch has been toggled ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 第二开关已按下 ": {
+    "Translation": " The second switch has been toggled ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 请等待石门打开 ": {
+    "Translation": " Please wait for the stone door to open ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 最后开关已按下 ": {
+    "Translation": " The last switch has been toggled ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30s后上方通道打开 ": {
+    "Translation": " The upper passage will open in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 为什么还有传送水晶，是谁在使用它 ": {
+    "Translation": " Why there are teleport crystals? Who is using them? ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 风之护体 ": {
+    "Translation": " Wind Protection ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚守35s 平台传送": {
+    "Translation": " Hold for 35s, platform teleport ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚守10s ": {
+    "Translation": " Hold for 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 古老的设施，有趣 ": {
+    "Translation": " An ancient facility, interesting ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚守20s ": {
+    "Translation": " Hold for 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 我们只有130s，速战速决 ": {
+    "Translation": " We only have 130 seconds, let's be quick about it ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 他就是这次异变的源头吗？ ": {
+    "Translation": " Is he the source of this anomaly? ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 总之，先击溃他吧": {
+    "Translation": " In any case, let's take him down first ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 地震 ": {
+    "Translation": " Earthquake ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 昏暗飞刀 ": {
+    "Translation": " Fainted lasers ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 狂风来袭 ": {
+    "Translation": " A violent wind approaches ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 收割者，僵尸神力拾取 ": {
+    "Translation": " Reaper, zombie divine power picked up ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 火焰吐息 ": {
+    "Translation": " Breath of fire ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 他逃走了 ": {
+    "Translation": " He escaped ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 2s ": {
+    "Translation": " 2s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 但他还会回来的": {
+    "Translation": " But he will be back ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 沿着洞穴瀑布向上 ": {
+    "Translation": " Climb up along the cave waterfall ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 抓紧离开这里吧": {
+    "Translation": " Let's hurry and leave this place ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 快上船离开这里 ": {
+    "Translation": " Hurry up and get on the boat to leave this place ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚守35s ": {
+    "Translation": " Hold for 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Level 2 ": {
+    "Translation": " Level 2, EN Translation: Allenw @ Ozlin server",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Level 2 ": {
+    "Translation": " Level 2, EN Translation: Allenw @ Ozlin server",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 第二章_序幕 ": {
+    "Translation": " Chapter Two: Prologue, EN Translation: Allenw @ Ozlin server",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 鉴于之前的探索，这次的异变非同一般 ": {
+    "Translation": " Given the previous explorations, this anomaly is unusual ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 我们蒙受损失，必须撤退并向洛丹伦汇报情况 ": {
+    "Translation": " We have suffered losses; we must retreat and report to Lordaeron ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一定会回来的，一定 ": {
+    "Translation": " We will definitely come back, definitely ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这次我们将借道西边的洞穴，向洛丹伦撤退 ": {
+    "Translation": " This time we will retreat to Lordaeron through the cave to the west ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 那地方尘封多年，可能还会有守护者 ": {
+    "Translation": " That place has been sealed for years; there might still be guardians there ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 行动一定要万分小心 ": {
+    "Translation": " We must proceed with extreme caution ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 40s ": {
+    "Translation": " 40s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 整顿装备，整装待发  ": {
+    "Translation": " Reorganise equipment, ready for departure ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 15s后爆炸 ": {
+    "Translation": " Will explode in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 闪开，我们把一切挡路的障碍都炸开 ": {
+    "Translation": " Get out of the way; we're going to blow up everything blocking our path ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 正在解锁 ": {
+    "Translation": " Unlocking ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10s放下吊桥": {
+    "Translation": " Lowering the drawbridge in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 开关还能用，万幸 ": {
+    "Translation": " The switch still works, fortunately ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这些石板年久失修了，小心点，士兵 ": {
+    "Translation": " These stone slabs have not been maintained for years; be careful, soldiers ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20s后铁门破碎 ": {
+    "Translation": " The iron gate will break in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20s ": {
+    "Translation": " 20s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 为什么有这么多机关，这里发生过什么？ ": {
+    "Translation": " Why are there so many mechanisms? What happened here? ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20s后铁门打开 ": {
+    "Translation": " The iron gate will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 25s ": {
+    "Translation": " 25s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20s后炸开墙壁 ": {
+    "Translation": " The wall will explode in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 是前哨站，我们就快到了 ": {
+    "Translation": " It's a forward base; we're almost there ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30s后炸开石头 ": {
+    "Translation": " The stones will explode in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 是守护者，这老东西还在这里 ": {
+    "Translation": " It's the guardian; this old thing is still here ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 没办法了，强行突破 ": {
+    "Translation": " There's no other choice; we must force our way through ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 剩余120s ": {
+    "Translation": " Remaining 120s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 虹吸 ": {
+    "Translation": " Siphon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 闪电 ": {
+    "Translation": " Lightning ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 驱逐者 僵尸刀拾取": {
+    "Translation": " Exile, Zombie Blade picked up ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 3s ": {
+    "Translation": " 3s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20s后开启传送 ": {
+    "Translation": " The teleport will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 传送已经开启，快走 ": {
+    "Translation": " The teleport is open, hurry up! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 感谢miluli提供的模型": {
+    "Translation": " Thanks to miluli for providing the model ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 前 ": {
+    "Translation": " Forward ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 右 ": {
+    "Translation": " Right ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 他消失了，但我们仍被他玩弄于鼓掌之中 ": {
+    "Translation": " He has disappeared, but we are still being toyed with by him ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5s后传送 ": {
+    "Translation": " Teleporting in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 25s后开启传送 ": {
+    "Translation": " The teleport will open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚持37s ": {
+    "Translation": " Hold for 37 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+ }
