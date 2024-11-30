@@ -28,7 +28,7 @@ ze_atix_panic_p:3076578445
 ze_haunted_lab_escape_p:3076662784
 ze_mario_tower_p:3077381254
 ze_kaffe_escape_p:3077639523
-// ze_puta_p:3078006878 // map failed to load
+ze_puta_p:3078006878
 zm_minecraftvillage:3078372624
 ze_iamlegend_p:3079562247
 ze_breakable_p:3080846697
