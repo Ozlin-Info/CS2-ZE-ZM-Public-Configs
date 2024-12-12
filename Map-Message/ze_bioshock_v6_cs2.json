@@ -1,0 +1,84 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ze_bioshock": {
+    "Translation": "ze_bioshock",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by DormantLemon": {
+    "Translation": "Map by DormantLemon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Introduction": {
+    "Translation": "Introduction",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warmup ends in 60 seconds": {
+    "Translation": "Warmup ends in 60 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Current Difficulty: Hard": {
+    "Translation": "Current Difficulty: Hard",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP #1: Big Daddy is immensely strong. Don't let him get close": {
+    "Translation": "TIP #1: Big Daddy is immensely strong. Don't let him get close",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP #2: Repeated losses will make the map easier. Don't give up!": {
+    "Translation": "TIP #2: Repeated losses will make the map easier. Don't give up!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP #3: Plasmids are limited use. Keep count!": {
+    "Translation": "TIP #3: Plasmids are limited use. Keep count!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!": {
+    "Translation": "TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!": {
+    "Translation": "TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP #6: Gene Tonics take effect on death. Don't die in vain!": {
+    "Translation": "TIP #6: Gene Tonics take effect on death. Don't die in vain!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP #7: Lost health? Visit a health station to recover it!": {
+    "Translation": "TIP #7: Lost health? Visit a health station to recover it!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Introduction Complete": {
+    "Translation": "Introduction Complete",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Chapter 1  Welcome to Rapture": {
+    "Translation": "Chapter 1  Welcome to Rapture",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Current Difficulty: Easy": {
+    "Translation": "Current Difficulty: Easy",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

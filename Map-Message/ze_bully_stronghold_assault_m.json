@@ -5,5 +5,75 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  " 15 Seconds door opening... ": {
+    "Translation": " 15 Seconds door opening... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Last 5 Seconds... ": {
+    "Translation": " Last 5 Seconds... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FALL BACK! ": {
+    "Translation": " FALL BACK! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 Seconds door opening... ": {
+    "Translation": " 20 Seconds door opening... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[B]  BOSS STARTING FOR 5 SECONDS": {
+    "Translation": "[B]  BOSS STARTING FOR 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[B] Shoot Boss!": {
+    "Translation": "[B] Shoot Boss!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[B] Boss Hp: +++++": {
+    "Translation": "[B] Boss Hp: +++++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[B] Boss Hp: ++++": {
+    "Translation": "[B] Boss Hp: ++++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[B] Boss Hp: +++": {
+    "Translation": "[B] Boss Hp: +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[B] Boss Hp: ++": {
+    "Translation": "[B] Boss Hp: ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[B] Boss Hp: +": {
+    "Translation": "[B] Boss Hp: +",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[B] Boss Hp: Zero  Boss Die!": {
+    "Translation": "[B] Boss Hp: Zero  Boss Die!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FALL BACK!  Defense The Castle": {
+    "Translation": "FALL BACK!  Defense The Castle",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final Door Opening for 15 Seconds": {
+    "Translation": "Final Door Opening for 15 Seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

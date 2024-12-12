@@ -305,5 +305,10 @@
     "Translation": "The teleport will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
+  },
+  " 人类!别碰我! ": {
+    "Translation": " 人类!别碰我! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

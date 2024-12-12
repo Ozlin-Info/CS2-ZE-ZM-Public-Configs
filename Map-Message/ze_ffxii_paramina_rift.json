@@ -50,5 +50,15 @@
     "Translation": "35 GIL OBTAINED BY DEACTIVATING A TOWER",
     "M-Bool": false,
     "Value": 0
+  },
+  " GATE OPENS IN 15 SECONDS ": {
+    "Translation": " GATE OPENS IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GATE OPENS IN 5 SECONDS ": {
+    "Translation": " GATE OPENS IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

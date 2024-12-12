@@ -1,0 +1,119 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map by SonicTheHitManHog/RelaxingWalls": {
+    "Translation": "Map by SonicTheHitManHog/RelaxingWalls",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL  BOX WITH A LIGHT IN IT": {
+    "Translation": "LEVEL  BOX WITH A LIGHT IN IT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!": {
+    "Translation": "Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting in 20secs!": {
+    "Translation": "Teleporting in 20secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Good Luck!!": {
+    "Translation": "Good Luck!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL  ICE CAP ESCAPE": {
+    "Translation": "LEVEL  ICE CAP ESCAPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL  ZOMBIE DEATHRUN": {
+    "Translation": "LEVEL  ZOMBIE DEATHRUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Shoot wisely!": {
+    "Translation": "Shoot wisely!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies try to trap the CTs!": {
+    "Translation": "Zombies try to trap the CTs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CTs have 120secs to escape as the temple's curse spreads! ": {
+    "Translation": "CTs have 120secs to escape as the temple's curse spreads! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The curse has reached spawn! ": {
+    "Translation": "The curse has reached spawn! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL  FAIL NADES": {
+    "Translation": "LEVEL  FAIL NADES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie will arrive in 10secs!": {
+    "Translation": "Zombie will arrive in 10secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked! ": {
+    "Translation": "Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Valves unlocked in 35secs!": {
+    "Translation": "Valves unlocked in 35secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Valves are stuck! BREAK THEM! Only 20secs to destroy both!": {
+    "Translation": "Valves are stuck! BREAK THEM! Only 20secs to destroy both!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "If one side overrun start chucking nades over to break the valve!": {
+    "Translation": "If one side overrun start chucking nades over to break the valve!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL  CARPET ESCAPE": {
+    "Translation": "LEVEL  CARPET ESCAPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Take the Carpet and make your way to the escape door! ": {
+    "Translation": "Take the Carpet and make your way to the escape door! ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

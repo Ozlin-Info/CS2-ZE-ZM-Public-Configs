@@ -45,5 +45,10 @@
     "Translation": " ACTIVATE C4 ON THE DOOR TO CONTINUE ",
     "M-Bool": false,
     "Value": 0
+  },
+  " PLAYER HAS PICKED UP RED TRAIL ": {
+    "Translation": " PLAYER HAS PICKED UP RED TRAIL ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

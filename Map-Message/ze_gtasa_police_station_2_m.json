@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "[MAP] Game Starting For 10 Seconds...": {
+    "Translation": "[MAP] Game Starting For 10 Seconds...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MAP] You will not be able to (compression) the zombies in this map.": {
+    "Translation": "[MAP] You will not be able to (compression) the zombies in this map.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MAP]  If you try to take advantage of the weaknesses of the map and defend it in positions that will squeeze the zombies, the game will teleport you to the beginning.": {
+    "Translation": "[MAP]  If you try to take advantage of the weaknesses of the map and defend it in positions that will squeeze the zombies, the game will teleport you to the beginning.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MAP] [CT] (Humans Fall Back) If you see this console message, it means there are 5 seconds left until the door opens.": {
+    "Translation": "[MAP] [CT] (Humans Fall Back) If you see this console message, it means there are 5 seconds left until the door opens.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[GTA:SA] ZM TP For 5 Seconds": {
+    "Translation": "[GTA:SA] ZM TP For 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[GTA:SA] GO! GO! GO!": {
+    "Translation": "[GTA:SA] GO! GO! GO!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[CT] Humans need to retreat defensively in the long corridor.": {
+    "Translation": "[CT] Humans need to retreat defensively in the long corridor.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[T] Zombies can crawl in through the window, and sneak in through the secret path at the bus stop.": {
+    "Translation": "[T] Zombies can crawl in through the window, and sneak in through the secret path at the bus stop.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

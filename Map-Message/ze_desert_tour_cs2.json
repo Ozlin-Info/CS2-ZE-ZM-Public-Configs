@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Stage1": {
+    "Translation": "Stage1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map By artesurf": {
+    "Translation": "Map By artesurf",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "hold here until a door is open somewhere": {
+    "Translation": "hold here until a door is open somewhere",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

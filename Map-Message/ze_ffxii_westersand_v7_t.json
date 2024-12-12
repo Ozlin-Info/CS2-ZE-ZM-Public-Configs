@@ -15,5 +15,55 @@
     "Translation": " MAP BY SLAYERDRAGON ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Defend untill the guards open the airport. ": {
+    "Translation": " Defend untill the guards open the airport. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Airport opened. ": {
+    "Translation": " Airport opened. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has learned Wind magick. ": {
+    "Translation": " A player has learned Wind magick. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has learned Water magick. ": {
+    "Translation": " A player has learned Water magick. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend 25 seconds untill the guards open the hallway. ": {
+    "Translation": " Defend 25 seconds untill the guards open the hallway. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 Seconds left ": {
+    "Translation": " 5 Seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend here so the guards will open the gates to the city! ": {
+    "Translation": " Defend here so the guards will open the gates to the city! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Cover here till the rock explodes ": {
+    "Translation": " Cover here till the rock explodes ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The elevator will leave in 20 seconds ": {
+    "Translation": " The elevator will leave in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The elevator will leave in 5 seconds ": {
+    "Translation": " The elevator will leave in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

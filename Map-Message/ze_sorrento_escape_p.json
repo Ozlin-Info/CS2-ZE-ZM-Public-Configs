@@ -10,5 +10,75 @@
     "Translation": "MAP MADE BY GARGANTUA",
     "M-Bool": false,
     "Value": 0
+  },
+  "++ GATE 1 WILL OPEN IN 60 SECONDS ++": {
+    "Translation": "++ GATE 1 WILL OPEN IN 60 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 1 WILL OPEN IN 45 SECONDS ++": {
+    "Translation": "++ GATE 1 WILL OPEN IN 45 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 1 WILL OPEN IN 30 SECONDS ++": {
+    "Translation": "++ GATE 1 WILL OPEN IN 30 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 1 WILL OPEN IN 15 SECONDS ++": {
+    "Translation": "++ GATE 1 WILL OPEN IN 15 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 1 WILL OPEN IN 10 SECONDS ++": {
+    "Translation": "++ GATE 1 WILL OPEN IN 10 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 1 WILL OPEN IN 5 SECONDS ++": {
+    "Translation": "++ GATE 1 WILL OPEN IN 5 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 1 IS NOW OPEN!! ++": {
+    "Translation": "++ GATE 1 IS NOW OPEN!! ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 2 WILL OPEN IN 10 SECONDS ++": {
+    "Translation": "++ GATE 2 WILL OPEN IN 10 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 2 WILL OPEN IN 5 SECONDS ++": {
+    "Translation": "++ GATE 2 WILL OPEN IN 5 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 2 IS NOW OPEN!! ++": {
+    "Translation": "++ GATE 2 IS NOW OPEN!! ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ BOATS ARE LEAVING IN 30 SECONDS ++": {
+    "Translation": "++ BOATS ARE LEAVING IN 30 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ BOATS ARE LEAVING IN 15 SECONDS ++": {
+    "Translation": "++ BOATS ARE LEAVING IN 15 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ BOATS ARE LEAVING IN 10 SECONDS ++": {
+    "Translation": "++ BOATS ARE LEAVING IN 10 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ BOATS ARE LEAVING!! ++": {
+    "Translation": "++ BOATS ARE LEAVING!! ++",
+    "M-Bool": false,
+    "Value": 0
   }
 }

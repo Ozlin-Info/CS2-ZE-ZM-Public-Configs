@@ -20,5 +20,15 @@
     "Translation": "Author: CD Consciousness.",
     "M-Bool": false,
     "Value": 0
+  },
+  "版本: Beta 1.7": {
+    "Translation": "版本: Beta 1.7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "检测到服务器无Lua解锁插件，地图部分功能禁用": {
+    "Translation": "检测到服务器无Lua解锁插件，地图部分功能禁用",
+    "M-Bool": false,
+    "Value": 0
   }
 }

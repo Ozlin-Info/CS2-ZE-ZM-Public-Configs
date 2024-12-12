@@ -50,5 +50,10 @@
     "Translation": " Cover here till the boxes explode ",
     "M-Bool": false,
     "Value": 0
+  },
+  " A player has learned Electro magick. ": {
+    "Translation": " A player has learned Electro magick. ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

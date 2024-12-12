@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map by CriSsys": {
+    "Translation": "Map by CriSsys",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Help tips opinions and adjustements by Aeris004": {
+    "Translation": "Help tips opinions and adjustements by Aeris004",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks to FireWavezZ": {
+    "Translation": "Thanks to FireWavezZ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! THIS IS A WARMUP ROUND !!!": {
+    "Translation": "!!! THIS IS A WARMUP ROUND !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! WAITING FOR MORE PLAYERS !!!": {
+    "Translation": "!!! WAITING FOR MORE PLAYERS !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! FIRST ZOMBIE INFECTION DISABLE FOR THIS ROUND !!!": {
+    "Translation": "!!! FIRST ZOMBIE INFECTION DISABLE FOR THIS ROUND !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! GAME WILL START IN FEW SECOND !!!": {
+    "Translation": "!!! GAME WILL START IN FEW SECOND !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! CURRENT DIFFICULTY : EASY !!!": {
+    "Translation": "!!! CURRENT DIFFICULTY : EASY !!!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

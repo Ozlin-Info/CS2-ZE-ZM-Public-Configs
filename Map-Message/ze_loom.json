@@ -20,5 +20,70 @@
     "Translation": "Hold for 30 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Hold for 20 seconds": {
+    "Translation": "Hold for 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A random way will open": {
+    "Translation": "A random way will open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate #1 opened": {
+    "Translation": "Gate #1 opened",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie tp in 10 seconds": {
+    "Translation": "Zombie tp in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait for a random way to open": {
+    "Translation": "Wait for a random way to open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 seconds": {
+    "Translation": "20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15 seconds": {
+    "Translation": "15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 seconds": {
+    "Translation": "30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bridge will open in 20 seconds": {
+    "Translation": "Bridge will open in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait for something to happen": {
+    "Translation": "Wait for something to happen",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "...": {
+    "Translation": "...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie tp in 15 seconds": {
+    "Translation": "Zombie tp in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "35 seconds": {
+    "Translation": "35 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }
