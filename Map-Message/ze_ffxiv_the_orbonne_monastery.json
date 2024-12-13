@@ -260,5 +260,25 @@
     "Translation": "Nuclear Explosion has been selected!",
     "M-Bool": false,
     "Value": 0
+  },
+  "一位玩家习得烈焰魔法": {
+    "Translation": "一位玩家习得烈焰魔法",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "妖灵王啦啦啦~人类来和我一起玩吧!": {
+    "Translation": "妖灵王啦啦啦~人类来和我一起玩吧!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "可恶!不要在混乱魔法中乱了阵脚!": {
+    "Translation": "可恶!不要在混乱魔法中乱了阵脚!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "捣乱的妖灵王已被击退,重整队形继续前进!": {
+    "Translation": "捣乱的妖灵王已被击退,重整队形继续前进!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

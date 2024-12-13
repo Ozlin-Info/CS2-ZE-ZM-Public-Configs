@@ -60,5 +60,10 @@
     "Translation": " A player has acquired Fire Magick ",
     "M-Bool": false,
     "Value": 0
+  },
+  " A player has acquired Electric Magick ": {
+    "Translation": " A player has acquired Electric Magick ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Welcome to DnB Realms ": {
+    "Translation": " Welcome to DnB Realms ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " More stages will come ": {
+    "Translation": " More stages will come ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[STAGE 1] Laboratory": {
+    "Translation": "[STAGE 1] Laboratory",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by Raphi ": {
+    "Translation": " Map by Raphi ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " C4 exploding in 30 sec": {
+    "Translation": " C4 exploding in 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " C4 exploding in 10 sec ": {
+    "Translation": " C4 exploding in 10 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A portal will be created soon or late ": {
+    "Translation": " A portal will be created soon or late ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door opening in 30 sec": {
+    "Translation": " Door opening in 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door opening in 10 sec ": {
+    "Translation": " Door opening in 10 sec ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

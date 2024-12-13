@@ -65,5 +65,20 @@
     "Translation": " The door will open in 30 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " The doors will open in 15 seconds ": {
+    "Translation": " The doors will open in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bomb explodes in 20 seconds ": {
+    "Translation": " Bomb explodes in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up Heal Staff ": {
+    "Translation": " A player has picked up Heal Staff ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

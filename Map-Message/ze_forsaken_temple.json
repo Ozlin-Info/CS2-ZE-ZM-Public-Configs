@@ -95,5 +95,25 @@
     "Translation": " Find and press TWO buttons ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Button 2 pressed ": {
+    "Translation": " Button 2 pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button 1 pressed ": {
+    "Translation": " Button 1 pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nicely done ": {
+    "Translation": " Nicely done ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door is opening in 20s ": {
+    "Translation": " Door is opening in 20s ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -1,0 +1,124 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map by Taskuvaras / Fixed with Moltard ": {
+    "Translation": " Map by Taskuvaras / Fixed with Moltard ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND ": {
+    "Translation": " WARMUP ROUND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 40 SECONDS LEFT ": {
+    "Translation": " 40 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30 SECONDS LEFT ": {
+    "Translation": " 30 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 SECONDS LEFT ": {
+    "Translation": " 20 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS LEFT ": {
+    "Translation": " 10 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND END ": {
+    "Translation": " WARMUP ROUND END ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LEVEL: 1 ": {
+    "Translation": " LEVEL: 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opening in 20 seconds": {
+    "Translation": "Door opening in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold here until we find a way to blow the bridge": {
+    "Translation": "Hold here until we find a way to blow the bridge",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The train is stuck and wont start": {
+    "Translation": "The train is stuck and wont start",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Take the left path": {
+    "Translation": "Take the left path",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend until we open the gate": {
+    "Translation": "Defend until we open the gate",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door is open": {
+    "Translation": "The door is open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATES ARE CLOSED": {
+    "Translation": "THE GATES ARE CLOSED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1 PLAYER HAS TO GO TO PRESS THE BUTTON": {
+    "Translation": "1 PLAYER HAS TO GO TO PRESS THE BUTTON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Exit Door will open in 20 seconds": {
+    "Translation": "Exit Door will open in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Station doors are closing!!": {
+    "Translation": "Station doors are closing!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Exit Door will open in 10 seconds": {
+    "Translation": "Exit Door will open in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Exit Door is open": {
+    "Translation": "Exit Door is open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend for 10 seconds": {
+    "Translation": "Defend for 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Plant the C4 to blow the way": {
+    "Translation": "Plant the C4 to blow the way",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLAYER HAS PICKED UP GRAVITY ": {
+    "Translation": " PLAYER HAS PICKED UP GRAVITY ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

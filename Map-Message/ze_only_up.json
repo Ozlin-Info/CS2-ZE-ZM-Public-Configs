@@ -6,13 +6,13 @@
       "Value": 0
     }
   },
-  "Wait some more secs": {
-    "Translation": "Wait some more secs",
+  "Level 1": {
+    "Translation": "Level 1",
     "M-Bool": false,
     "Value": 0
   },
-  "Btw. Unlimited ammo time :3": {
-    "Translation": "Btw. Unlimited ammo time :3",
+  "Map By R1cko27 & Stepanof": {
+    "Translation": "Map By R1cko27 & Stepanof",
     "M-Bool": false,
     "Value": 0
   }

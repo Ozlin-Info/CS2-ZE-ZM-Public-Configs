@@ -1,0 +1,184 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "WARMUP ROUND  WAITING PLAYERS TO CONNECT": {
+    "Translation": "WARMUP ROUND  WAITING PLAYERS TO CONNECT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZE_FFXII_FEYWOOD": {
+    "Translation": "ZE_FFXII_FEYWOOD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAP BY HaRyDe & Headshooter.SC": {
+    "Translation": "MAP BY HaRyDe & Headshooter.SC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP ROUND": {
+    "Translation": "WARMUP ROUND",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon": {
+    "Translation": "Special thanks to Kaesar Batnik_Ref.smd Kaem Hannibal[SPA] (effects from his maps) and Slayerdragon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MAP HINT MASTER] THE MAP HAS 11 SPECIAL ITEMS  7 FOR HUMANS ": {
+    "Translation": "[MAP HINT MASTER] THE MAP HAS 11 SPECIAL ITEMS  7 FOR HUMANS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MAP HINT MASTER] EVERY ITEM APART FROM BERSERK ON THIS MAP CAN ": {
+    "Translation": "[MAP HINT MASTER] EVERY ITEM APART FROM BERSERK ON THIS MAP CAN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A PLAYER HAS ACQUIRED BERSERK MAGICK": {
+    "Translation": "A PLAYER HAS ACQUIRED BERSERK MAGICK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MAP HINT MASTER] YOUR START LEVEL IS 1. ": {
+    "Translation": "[MAP HINT MASTER] YOUR START LEVEL IS 1. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MAP HINT MASTER] HUMAN ITEMS CAN AFFECT ON BOSSES. ": {
+    "Translation": "[MAP HINT MASTER] HUMAN ITEMS CAN AFFECT ON BOSSES. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MAP HINT MASTER] HUMAN ITEMS THAT CAN BE LEVELED UP ": {
+    "Translation": "[MAP HINT MASTER] HUMAN ITEMS THAT CAN BE LEVELED UP ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MAP HINT MASTER] YOU NEED 100 EXP TO GET LEVEL TO HUMAN ITEMS ": {
+    "Translation": "[MAP HINT MASTER] YOU NEED 100 EXP TO GET LEVEL TO HUMAN ITEMS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAP START": {
+    "Translation": "MAP START",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Welcome to Garland airship": {
+    "Translation": "Welcome to Garland airship",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The airship is flying near Feywood. Search for some of items and get ready to set out": {
+    "Translation": "The airship is flying near Feywood. Search for some of items and get ready to set out",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The teleporter to Feywood will be active in 30 seconds": {
+    "Translation": "The teleporter to Feywood will be active in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CACTUS SIDEQUEST STARTED  FIND A CACTUS TO GET A LEVELn ONLY 1 HUMAN CAN GET A LEVEL  ONLY ONCE AND ONLY ON EASY MODE": {
+    "Translation": "CACTUS SIDEQUEST STARTED  FIND A CACTUS TO GET A LEVELn ONLY 1 HUMAN CAN GET A LEVEL  ONLY ONCE AND ONLY ON EASY MODE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GET INTO THE TELEPORTER": {
+    "Translation": "GET INTO THE TELEPORTER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A PLAYER HAS ACQUIRED CURAGA(HEAL LEVEL 1)": {
+    "Translation": "A PLAYER HAS ACQUIRED CURAGA(HEAL LEVEL 1)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A PLAYER HAS ACQUIRED BLIZZAGA(FREEZE LEVEL 1)": {
+    "Translation": "A PLAYER HAS ACQUIRED BLIZZAGA(FREEZE LEVEL 1)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATE WILL OPEN IN 20 SECONDS": {
+    "Translation": "THE GATE WILL OPEN IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE TELEPORTER WILL BE ACTIVE IN 10 SECONDS": {
+    "Translation": "THE TELEPORTER WILL BE ACTIVE IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND THE GROUND FOR 30 SECONDS": {
+    "Translation": "DEFEND THE GROUND FOR 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATES WILL OPEN IN 20 SECONDS": {
+    "Translation": "THE GATES WILL OPEN IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THIS IS A DRAGONWE MUST KILL HIM": {
+    "Translation": "THIS IS A DRAGONWE MUST KILL HIM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nades do more damage ": {
+    "Translation": " Nades do more damage ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10% POWER": {
+    "Translation": "10% POWER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE DRAGON USED FIRE": {
+    "Translation": "THE DRAGON USED FIRE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20% POWER": {
+    "Translation": "20% POWER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE DRAGON USED WIND": {
+    "Translation": "THE DRAGON USED WIND",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30% POWER": {
+    "Translation": "30% POWER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)": {
+    "Translation": "THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "40% POWER": {
+    "Translation": "40% POWER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "50% POWER": {
+    "Translation": "50% POWER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE DRAGON USED POISON": {
+    "Translation": "THE DRAGON USED POISON",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -6,13 +6,18 @@
       "Value": 0
     }
   },
-  "Wait some more secs": {
-    "Translation": "Wait some more secs",
+  " ze_Aware ": {
+    "Translation": " ze_Aware ",
     "M-Bool": false,
     "Value": 0
   },
-  "Btw. Unlimited ammo time :3": {
-    "Translation": "Btw. Unlimited ammo time :3",
+  " Map by Maqu ": {
+    "Translation": " Map by Maqu ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CS2 Port by @Seth ": {
+    "Translation": " CS2 Port by @Seth ",
     "M-Bool": false,
     "Value": 0
   }

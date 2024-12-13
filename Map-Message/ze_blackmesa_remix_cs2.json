@@ -60,5 +60,15 @@
     "Translation": "Change: Get on the tram—no bridge/secret passage",
     "M-Bool": false,
     "Value": 0
+  },
+  " It seems as if there was going to ocurr a big earthquake...  ": {
+    "Translation": " It seems as if there was going to ocurr a big earthquake...  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 变动:登上电车吧——没有前路/秘密通道  ": {
+    "Translation": " 变动:登上电车吧——没有前路/秘密通道  ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

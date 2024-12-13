@@ -70,5 +70,15 @@
     "Translation": "[AERIS] Find way to next part of temple",
     "M-Bool": false,
     "Value": 0
+  },
+  "Hold this area for 10 seconds!": {
+    "Translation": "Hold this area for 10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Go Go Go": {
+    "Translation": "Go Go Go",
+    "M-Bool": false,
+    "Value": 0
   }
 }

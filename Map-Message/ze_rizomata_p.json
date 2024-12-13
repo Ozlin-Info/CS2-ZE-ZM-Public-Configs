@@ -10,5 +10,45 @@
     "Translation": " Map by Airvulpes ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Hold 30 seconds ": {
+    "Translation": " Hold 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds left ": {
+    "Translation": " 10 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold 20 seconds ": {
+    "Translation": " Hold 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds left ": {
+    "Translation": " 5 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold 25 seconds ": {
+    "Translation": " Hold 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " QUAKE ": {
+    "Translation": " QUAKE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EARTH SHOCK ": {
+    "Translation": " EARTH SHOCK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EARTH STOMP ": {
+    "Translation": " EARTH STOMP ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
