@@ -7,17 +7,17 @@
     }
   },
   "地图: 虚无秘境": {
-    "Translation": "地图: 虚无秘境",
+    "Translation": "Map: Realm of Nothingness",
     "M-Bool": false,
     "Value": 0
   },
   "版本: Alpha 1.0": {
-    "Translation": "版本: Alpha 1.0",
+    "Translation": "Version: Alpha 1.0",
     "M-Bool": false,
     "Value": 0
   },
   "作者: CD意识.": {
-    "Translation": "作者: CD意识.",
+    "Translation": "Author: CD Consciousness. EN Translation: AllenW @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   }

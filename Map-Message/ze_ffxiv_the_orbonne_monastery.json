@@ -262,22 +262,22 @@
     "Value": 0
   },
   "一位玩家习得烈焰魔法": {
-    "Translation": "一位玩家习得烈焰魔法",
+    "Translation": "A player has learned Fire Magic",
     "M-Bool": false,
     "Value": 0
   },
   "妖灵王啦啦啦~人类来和我一起玩吧!": {
-    "Translation": "妖灵王啦啦啦~人类来和我一起玩吧!",
+    "Translation": "Spirit King La La La~ Humans, come play with me!",
     "M-Bool": false,
     "Value": 0
   },
   "可恶!不要在混乱魔法中乱了阵脚!": {
-    "Translation": "可恶!不要在混乱魔法中乱了阵脚!",
+    "Translation": "Damn! Don't lose your footing in the chaos magic!",
     "M-Bool": false,
     "Value": 0
   },
   "捣乱的妖灵王已被击退,重整队形继续前进!": {
-    "Translation": "捣乱的妖灵王已被击退,重整队形继续前进!",
+    "Translation": "The troublesome Spirit King has been repelled. Regroup and continue forward!",
     "M-Bool": false,
     "Value": 0
   }

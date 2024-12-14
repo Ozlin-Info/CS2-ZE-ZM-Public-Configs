@@ -7,17 +7,17 @@
     }
   },
   "已进入第七区域": {
-    "Translation": "已进入第七区域",
+    "Translation": "Entered Area Seven",
     "M-Bool": false,
     "Value": 0
   },
   "此区域内传送暂时关闭": {
-    "Translation": "此区域内传送暂时关闭",
+    "Translation": "Teleportation in this area is temporarily disabled",
     "M-Bool": false,
     "Value": 0
   },
   "挪麦宇航服已失效": {
-    "Translation": "挪麦宇航服已失效",
+    "Translation": "The Nomai spacesuit has malfunctioned",
     "M-Bool": false,
     "Value": 0
   }

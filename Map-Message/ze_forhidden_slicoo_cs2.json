@@ -62,7 +62,7 @@
     "Value": 0
   },
   "斯狄科雪域大门将在60秒后打开": {
-    "Translation": "The gate to the Sidico Snowfield will open in 60 seconds.",
+    "Translation": "The gate to the Slicco Snowfield will open in 60 seconds.",
     "M-Bool": false,
     "Value": 0
   },
@@ -72,7 +72,7 @@
     "Value": 0
   },
   "斯狄科雪域大门将在10秒后打开": {
-    "Translation": "The gate to the Sidico Snowfield will open in 10 seconds.",
+    "Translation": "The gate to the Slicco Snowfield will open in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
@@ -87,7 +87,7 @@
     "Value": 0
   },
   "斯狄科雪域大门将在5秒后关闭": {
-    "Translation": "The gate to the Sidico Snowfield will close in 5 seconds.",
+    "Translation": "The gate to the Slicco Snowfield will close in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
@@ -307,7 +307,7 @@
     "Value": 0
   },
   " 人类!别碰我! ": {
-    "Translation": " 人类!别碰我! ",
+    "Translation": "Human! Dont touch me!",
     "M-Bool": false,
     "Value": 0
   }

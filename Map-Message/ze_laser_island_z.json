@@ -7,37 +7,37 @@
     }
   },
   "热身还有50秒结束": {
-    "Translation": "热身还有50秒结束",
+    "Translation": "Warm-up ends in 50 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "地图作者: 银月筱瑶": {
-    "Translation": "地图作者: 银月筱瑶",
+    "Translation": "Map Author: 银月筱瑶, EN Translation: AllenW @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   },
   "热身还有40秒结束": {
-    "Translation": "热身还有40秒结束",
+    "Translation": "Warm-up ends in 40 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "热身还有30秒结束": {
-    "Translation": "热身还有30秒结束",
+    "Translation": "Warm-up ends in 30 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "热身还有20秒结束": {
-    "Translation": "热身还有20秒结束",
+    "Translation": "Warm-up ends in 20 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "热身还有10秒结束": {
-    "Translation": "热身还有10秒结束",
+    "Translation": "Warm-up ends in 10 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "难度: 简单": {
-    "Translation": "难度: 简单",
+    "Translation": "Difficulty: Easy",
     "M-Bool": false,
     "Value": 0
   }
