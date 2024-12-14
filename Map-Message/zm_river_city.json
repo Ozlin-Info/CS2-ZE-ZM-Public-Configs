@@ -27,7 +27,7 @@
     "Value": 0
   },
   "检测到服务器无Lua解锁插件，地图部分功能禁用": {
-    "Translation": "检测到服务器无Lua解锁插件，地图部分功能禁用",
+    "Translation": "No Lua Unlocker plugin detected, disabling some map functions",
     "M-Bool": false,
     "Value": 0
   }
