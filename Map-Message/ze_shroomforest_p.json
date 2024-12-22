@@ -85,5 +85,30 @@
     "Translation": " SHOOT IT BEFORE ITS TOO LATE!! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " 40 SECONDS LEFT ": {
+    "Translation": " 40 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30 SECONDS LEFT ": {
+    "Translation": " 30 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 SECONDS LEFT ": {
+    "Translation": " 20 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS LEFT ": {
+    "Translation": " 10 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARMUP ROUND END ": {
+    "Translation": " WARMUP ROUND END ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

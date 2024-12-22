@@ -1,0 +1,59 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map Created By: Bill Smauz": {
+    "Translation": "Map Created By: Bill Smauz",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks: Kaemon and Struki and Jazzman": {
+    "Translation": "Thanks: Kaemon and Struki and Jazzman",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks To: The SteamGamers Community": {
+    "Translation": "Thanks To: The SteamGamers Community",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lift Returning Across Canyon": {
+    "Translation": "Lift Returning Across Canyon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lift Departing in 5 Seconds": {
+    "Translation": "Lift Departing in 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Second Cave Wall Will Collapse in 20 Seconds": {
+    "Translation": "Second Cave Wall Will Collapse in 20 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend This Location": {
+    "Translation": "Defend This Location",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "APC Starting in 5 Seconds": {
+    "Translation": "APC Starting in 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Stay Within the APC's Interior": {
+    "Translation": "Stay Within the APC's Interior",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "12 Seconds to Enter the Outpost": {
+    "Translation": "12 Seconds to Enter the Outpost",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

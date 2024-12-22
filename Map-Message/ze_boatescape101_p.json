@@ -10,5 +10,45 @@
     "Translation": "MAP BY thegregster101",
     "M-Bool": false,
     "Value": 0
+  },
+  "TRAM LEAVES 10 SECONDS": {
+    "Translation": "TRAM LEAVES 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TELEPORTING 20 SECONDS": {
+    "Translation": "AFK TELEPORTING 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TELEPORTING 10 SECONDS": {
+    "Translation": "AFK TELEPORTING 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " AFK & HUNTERS HAVE BEEN TELEPORTED": {
+    "Translation": " AFK & HUNTERS HAVE BEEN TELEPORTED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RESCUE BOAT & HELI INBOUND 60 SECONDS": {
+    "Translation": "RESCUE BOAT & HELI INBOUND 60 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BOAT LEAVING 15 SECONDS": {
+    "Translation": "BOAT LEAVING 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HELI LEAVING 20 SECONDS": {
+    "Translation": "HELI LEAVING 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HELI LEAVING 10 SECONDS": {
+    "Translation": "HELI LEAVING 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }

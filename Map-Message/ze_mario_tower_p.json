@@ -5,5 +5,75 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  " Angry sun and chainchomps hate AFKS": {
+    "Translation": " Angry sun and chainchomps hate AFKS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bowser and his minions are attacking!! ": {
+    "Translation": " Bowser and his minions are attacking!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Middle Wall opens in 10 seconds": {
+    "Translation": " Middle Wall opens in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BlockWall Breaks in 30 seconds!": {
+    "Translation": "BlockWall Breaks in 30 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BlockWall is open": {
+    "Translation": "BlockWall is open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Thomp will open in 20 seconds!!": {
+    "Translation": " Thomp will open in 20 seconds!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Star Door opens in 20 seconds ": {
+    "Translation": " Star Door opens in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Star Door opens in 10 seconds ": {
+    "Translation": " Star Door opens in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Star Door open ": {
+    "Translation": " Star Door open ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Angry Sun will scorch everything in his reach in 90 seconds!! ": {
+    "Translation": " Angry Sun will scorch everything in his reach in 90 seconds!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Clouds will raise in 30 seconds ": {
+    "Translation": " Clouds will raise in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Clouds will raise in 10 seconds ": {
+    "Translation": " Clouds will raise in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Get to the top of the tower before it is too late!! ": {
+    "Translation": " Get to the top of the tower before it is too late!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Scorch in 30 seconds!!": {
+    "Translation": " Scorch in 30 seconds!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

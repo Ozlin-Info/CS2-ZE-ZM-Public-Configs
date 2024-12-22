@@ -10,5 +10,20 @@
     "Translation": "map by king buzzo",
     "M-Bool": false,
     "Value": 0
+  },
+  "opens 20 s": {
+    "Translation": "opens 20 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 s": {
+    "Translation": "5 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "afk tp 25 s": {
+    "Translation": "afk tp 25 s",
+    "M-Bool": false,
+    "Value": 0
   }
 }

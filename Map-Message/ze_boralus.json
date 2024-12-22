@@ -1,0 +1,209 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "tp in 20 seconds": {
+    "Translation": "tp in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door open in 20 seconds": {
+    "Translation": "door open in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "tp in 10 seconds": {
+    "Translation": "tp in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "tp in 30 seconds": {
+    "Translation": "tp in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "钥匙已经找到": {
+    "Translation": "钥匙已经找到",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到钥匙！": {
+    "Translation": "找到钥匙！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door open in 30 seconds": {
+    "Translation": "door open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "干的漂亮，离开这座监狱": {
+    "Translation": "干的漂亮，离开这座监狱",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们的船已经来接我们了，但还要一些准备": {
+    "Translation": "我们的船已经来接我们了，但还要一些准备",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "在天台最后防守 30 seconds": {
+    "Translation": "在天台最后防守 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "所有传送已关闭": {
+    "Translation": "所有传送已关闭",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快上船!": {
+    "Translation": "快上船!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "nuke in 20 seconds": {
+    "Translation": "nuke in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "stage 1 complete": {
+    "Translation": "stage 1 complete",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "给我点时间搭一座木桥, 10 seconds left": {
+    "Translation": "给我点时间搭一座木桥, 10 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds left": {
+    "Translation": "10 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们要通过港务长办公室进入伯拉勒斯, 40 seconds left": {
+    "Translation": "我们要通过港务长办公室进入伯拉勒斯, 40 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "正在清理障碍, 30 seconds left": {
+    "Translation": "正在清理障碍, 30 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这儿是伯拉勒斯的汇帆市场": {
+    "Translation": "这儿是伯拉勒斯的汇帆市场",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door open in 30 seconds left": {
+    "Translation": "door open in 30 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1/7": {
+    "Translation": "1/7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "前方是戴姆维克街区": {
+    "Translation": "前方是戴姆维克街区",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "那里是流浪汉的居所": {
+    "Translation": "那里是流浪汉的居所",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们必须穿过这片街区": {
+    "Translation": "我们必须穿过这片街区",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "有一面墙壁碎了": {
+    "Translation": "有一面墙壁碎了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 seconds left": {
+    "Translation": "20 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "终于从这恶心的街区出来了": {
+    "Translation": "终于从这恶心的街区出来了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防守到门关, 20 seconds left": {
+    "Translation": "防守到门关, 20 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "stage 2 complete": {
+    "Translation": "stage 2 complete",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 seconds left": {
+    "Translation": "30 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到钥匙": {
+    "Translation": "找到钥匙",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到地窖的钥匙我们才能继续前进": {
+    "Translation": "找到地窖的钥匙我们才能继续前进",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2/7": {
+    "Translation": "2/7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "40 seconds left": {
+    "Translation": "40 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "stage 3 complete": {
+    "Translation": "stage 3 complete",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "回到汇帆市场": {
+    "Translation": "回到汇帆市场",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "上边的路已经不通了，我们要走水路了": {
+    "Translation": "上边的路已经不通了，我们要走水路了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "是时候离开伯拉勒斯了, 30 seconds left": {
+    "Translation": "是时候离开伯拉勒斯了, 30 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "最后60秒，活下去就是胜利, 60 seconds left": {
+    "Translation": "最后60秒，活下去就是胜利, 60 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "stage 4 complete": {
+    "Translation": "stage 4 complete",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

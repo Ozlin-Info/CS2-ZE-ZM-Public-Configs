@@ -5,5 +5,50 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "Door will break in 30 sec": {
+    "Translation": "Door will break in 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wing will break in 30 sec": {
+    "Translation": "Wing will break in 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wing will break in 10 sec": {
+    "Translation": "Wing will break in 10 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bars will break in 30 sec": {
+    "Translation": "Bars will break in 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boat leaving in 60 sec": {
+    "Translation": "Boat leaving in 60 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Get in the boat!!!": {
+    "Translation": "Get in the boat!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Use the console to launch nuke ": {
+    "Translation": " Use the console to launch nuke ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " NUKE exploding in 50 sec": {
+    "Translation": " NUKE exploding in 50 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " NUKE exploding in 10 sec": {
+    "Translation": " NUKE exploding in 10 sec",
+    "M-Bool": false,
+    "Value": 0
   }
 }

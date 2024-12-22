@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ZE_CHRISTMAS_INFECTION ": {
+    "Translation": " ZE_CHRISTMAS_INFECTION ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CURRENT LEVEL: EASY ": {
+    "Translation": " CURRENT LEVEL: EASY ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIP: You can pick up special items from the spinning presents randomly placed in the map. ": {
+    "Translation": " TIP: You can pick up special items from the spinning presents randomly placed in the map. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Red and blue presents will contain zombie and human items respectively. ": {
+    "Translation": " Red and blue presents will contain zombie and human items respectively. ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

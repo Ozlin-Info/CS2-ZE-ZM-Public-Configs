@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ze_SCP_Containment_Breach": {
+    "Translation": "ze_SCP_Containment_Breach",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This map is based on SCP Contaiment Breach": {
+    "Translation": "This map is based on SCP Contaiment Breach",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "map by Mochi/Pohmian": {
+    "Translation": "map by Mochi/Pohmian",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open soon": {
+    "Translation": "The door will open soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The next door will open in 15 seconds": {
+    "Translation": "The next door will open in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The next door will open in 25 seconds": {
+    "Translation": "The next door will open in 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

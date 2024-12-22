@@ -80,5 +80,160 @@
     "Translation": " Zombies have been unleashed from the cage ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Boat leaves in 10 seconds ": {
+    "Translation": " Boat leaves in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Well done humans. You survived the first island ": {
+    "Translation": " Well done humans. You survived the first island ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10s left till zombies are trapped. Prepare to run to the teleporter ": {
+    "Translation": " 10s left till zombies are trapped. Prepare to run to the teleporter ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The zombies have been trapped and the teleporter to the next island have been activated. GOGOGO": {
+    "Translation": " The zombies have been trapped and the teleporter to the next island have been activated. GOGOGO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 12 seconds till zombies are unleashed ": {
+    "Translation": " 12 seconds till zombies are unleashed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " You made it to the final island ": {
+    "Translation": " You made it to the final island ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Survive here for 90 secs ": {
+    "Translation": " Survive here for 90 secs ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The voodoo master will take you to the escape route to heaven ": {
+    "Translation": " The voodoo master will take you to the escape route to heaven ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Voodoo master has created a force field from preventing you from falling off island": {
+    "Translation": " Voodoo master has created a force field from preventing you from falling off island",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds till escape route opens ": {
+    "Translation": " 10 seconds till escape route opens ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Entrance to escape route is now open and the zombies have been trapped. GOGOGO ": {
+    "Translation": " Entrance to escape route is now open and the zombies have been trapped. GOGOGO ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Floating boxes will activate in 15 seconds ": {
+    "Translation": " Floating boxes will activate in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Floating boxes are activated. GOGOGO ": {
+    "Translation": " Floating boxes are activated. GOGOGO ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleporter activates in 30 seconds ": {
+    "Translation": " Teleporter activates in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " God hates zombies. Only humans allowed in heaven ": {
+    "Translation": " God hates zombies. Only humans allowed in heaven ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies will go in hell ": {
+    "Translation": " Zombies will go in hell ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleporter activates in 15 seconds ": {
+    "Translation": " Teleporter activates in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleporter activates in 5 seconds ": {
+    "Translation": " Teleporter activates in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Well you made it to heaven. Beatiful isnt it? ": {
+    "Translation": " Well you made it to heaven. Beatiful isnt it? ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Take a look around and explore. Enjoy your stay ": {
+    "Translation": " Take a look around and explore. Enjoy your stay ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Yeah yeah it was the original map. I'm gonna change the islands ! ": {
+    "Translation": " Yeah yeah it was the original map. I'm gonna change the islands ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Muahahahahahah ": {
+    "Translation": " Muahahahahahah ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HEY WAIT WHAT IS THIS ?! ": {
+    "Translation": " HEY WAIT WHAT IS THIS ?! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " OH SHIT !! ": {
+    "Translation": " OH SHIT !! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Level 2  The islands start changing ": {
+    "Translation": " Level 2  The islands start changing ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies have been unleashed ": {
+    "Translation": " Zombies have been unleashed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend against the zombies ": {
+    "Translation": " Defend against the zombies ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO GO GO !! ": {
+    "Translation": " GO GO GO !! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The gates are open and the zombies have been trapped ": {
+    "Translation": " The gates are open and the zombies have been trapped ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 8 seconds till zombies are unleashed ": {
+    "Translation": " 8 seconds till zombies are unleashed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Boat leaves in 9 seconds ": {
+    "Translation": " Boat leaves in 9 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

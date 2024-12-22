@@ -20,5 +20,75 @@
     "Translation": "Objetive: survive escaping the castle",
     "M-Bool": false,
     "Value": 0
+  },
+  "Hold the door until the door open": {
+    "Translation": "Hold the door until the door open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open soon": {
+    "Translation": "The door will open soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold this position, the elevators leaves soon": {
+    "Translation": "Hold this position, the elevators leaves soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold this position": {
+    "Translation": "Hold this position",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend a little bit more": {
+    "Translation": "Defend a little bit more",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 45 seconds": {
+    "Translation": "The door will open in 45 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 15 seconds": {
+    "Translation": "The door will open in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold this position for 15 seconds": {
+    "Translation": "Hold this position for 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold this position for 20 seconds": {
+    "Translation": "Hold this position for 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN!!!": {
+    "Translation": "RUN!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Shoot door!!!": {
+    "Translation": "Shoot door!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN!!": {
+    "Translation": "RUN!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The boat leave in 35 seconds": {
+    "Translation": "The boat leave in 35 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The boat is here!!, defend a little bit more": {
+    "Translation": "The boat is here!!, defend a little bit more",
+    "M-Bool": false,
+    "Value": 0
   }
 }

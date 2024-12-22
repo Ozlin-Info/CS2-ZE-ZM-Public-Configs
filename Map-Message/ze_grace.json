@@ -6,13 +6,18 @@
       "Value": 0
     }
   },
-  "   Speed boat leaving in 6s   ": {
-    "Translation": "   Speed boat leaving in 6s   ",
+  " ZE_GRACE": {
+    "Translation": " ZE_GRACE",
     "M-Bool": false,
     "Value": 0
   },
-  "   Hold this temple untill Steve does something   ": {
-    "Translation": "   Hold this temple untill Steve does something   ",
+  " Map by Tianli": {
+    "Translation": " Map by Tianli",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Special thanks : Easter": {
+    "Translation": " Special thanks : Easter",
     "M-Bool": false,
     "Value": 0
   }

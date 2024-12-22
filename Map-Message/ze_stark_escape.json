@@ -60,5 +60,70 @@
     "Translation": "Run Run",
     "M-Bool": false,
     "Value": 0
+  },
+  "The door will open in 20 seconds.": {
+    "Translation": "The door will open in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 5 seconds.": {
+    "Translation": "The door will open in 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opened GO BACK": {
+    "Translation": "Door opened GO BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie tp 10 sec. RUN": {
+    "Translation": "Zombie tp 10 sec. RUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Through the door.": {
+    "Translation": "Through the door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "defend the left and right door.": {
+    "Translation": "defend the left and right door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opened. GO GO": {
+    "Translation": "Door opened. GO GO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Get in the elevator, it'll close in 15 seconds.": {
+    "Translation": "Get in the elevator, it'll close in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Run, run, run. 5 seconds left.": {
+    "Translation": "Run, run, run. 5 seconds left.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "to the next floor.": {
+    "Translation": "to the next floor.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Complete the parkour": {
+    "Translation": "Complete the parkour",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "After 10 seconds, the zombie gates will open.": {
+    "Translation": "After 10 seconds, the zombie gates will open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie door is opening": {
+    "Translation": "Zombie door is opening",
+    "M-Bool": false,
+    "Value": 0
   }
 }

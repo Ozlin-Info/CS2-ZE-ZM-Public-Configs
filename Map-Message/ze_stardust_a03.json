@@ -6,23 +6,18 @@
       "Value": 0
     }
   },
-  " PROLOGUE ": {
-    "Translation": " PROLOGUE ",
+  " last update:20241129 ": {
+    "Translation": " last update:20241129 ",
     "M-Bool": false,
     "Value": 0
   },
-  " 10 SECONDS ": {
-    "Translation": " 10 SECONDS ",
+  " 20 seconds ": {
+    "Translation": " 20 seconds ",
     "M-Bool": false,
     "Value": 0
   },
-  " 30 SECONDS ": {
-    "Translation": " 30 SECONDS ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 20 SECONDS ": {
-    "Translation": " 20 SECONDS ",
+  " 5 seconds left ": {
+    "Translation": " 5 seconds left ",
     "M-Bool": false,
     "Value": 0
   }

@@ -10,5 +10,20 @@
     "Translation": "!!! MAP BY JB_GAMBLE !!!",
     "M-Bool": false,
     "Value": 0
+  },
+  "!!! HOLD HERE !!!": {
+    "Translation": "!!! HOLD HERE !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! 5 SECONDS !!!": {
+    "Translation": "!!! 5 SECONDS !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! FALL BACK! GO! GO! !!!": {
+    "Translation": "!!! FALL BACK! GO! GO! !!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

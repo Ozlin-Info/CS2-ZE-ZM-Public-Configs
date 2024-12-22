@@ -25,5 +25,20 @@
     "Translation": " This path should lead us to one of the several supply warehouses... ",
     "M-Bool": false,
     "Value": 0
+  },
+  " RESIST! We need to access the main complex by unlocking this door! ": {
+    "Translation": " RESIST! We need to access the main complex by unlocking this door! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We're almost there! Don't let anything through! ": {
+    "Translation": " We're almost there! Don't let anything through! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FALL BACK! It's about to open! ": {
+    "Translation": " FALL BACK! It's about to open! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

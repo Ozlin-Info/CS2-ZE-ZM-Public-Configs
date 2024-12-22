@@ -20,5 +20,110 @@
     "Translation": "the gates are open and the zombies have been trapped for 25 seconds. GOGOGO",
     "M-Bool": false,
     "Value": 0
+  },
+  "boat leaves in 8 seconds": {
+    "Translation": "boat leaves in 8 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " boat has taken off": {
+    "Translation": " boat has taken off",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " well done humans. you survived the first island.": {
+    "Translation": " well done humans. you survived the first island.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " now survive this one for another 1.5 minutes and the teleporter to the next island is activated": {
+    "Translation": " now survive this one for another 1.5 minutes and the teleporter to the next island is activated",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds left till zombies are trapped. prepare to run to the teleporter": {
+    "Translation": " 10 seconds left till zombies are trapped. prepare to run to the teleporter",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the zombies have been trapped for 25 seconds and the teleporter to the next island have been activated. GOGOGO": {
+    "Translation": " the zombies have been trapped for 25 seconds and the teleporter to the next island have been activated. GOGOGO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " youve made it to the final island.": {
+    "Translation": " youve made it to the final island.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " survive here for 1.5 minutes and the voodoo master will take you to the escape route to heaven": {
+    "Translation": " survive here for 1.5 minutes and the voodoo master will take you to the escape route to heaven",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "voodoo master has created a force field from preventing you from falling off island": {
+    "Translation": "voodoo master has created a force field from preventing you from falling off island",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds till escape route opens": {
+    "Translation": "10 seconds till escape route opens",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "entrance to escape route is now open and the zombies have been trapped for 20 seconds. GOGOGO": {
+    "Translation": "entrance to escape route is now open and the zombies have been trapped for 20 seconds. GOGOGO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "floating boxes will activate in 17 seconds": {
+    "Translation": "floating boxes will activate in 17 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "floating boxes are activated. GOGOGO": {
+    "Translation": "floating boxes are activated. GOGOGO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " teleporter activates in 30 seconds!!!": {
+    "Translation": " teleporter activates in 30 seconds!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " god hates zombies. only humans allowed in heaven": {
+    "Translation": " god hates zombies. only humans allowed in heaven",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " teleporter activates in 15 seconds!!!": {
+    "Translation": " teleporter activates in 15 seconds!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " teleporter activates in 5 seconds!!!": {
+    "Translation": " teleporter activates in 5 seconds!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " well you made it to heaven. beatiful isnt it?": {
+    "Translation": " well you made it to heaven. beatiful isnt it?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " take a look around and explore and enjoy your stay": {
+    "Translation": " take a look around and explore and enjoy your stay",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " hey wait what is this?": {
+    "Translation": " hey wait what is this?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " oh shit!!!": {
+    "Translation": " oh shit!!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

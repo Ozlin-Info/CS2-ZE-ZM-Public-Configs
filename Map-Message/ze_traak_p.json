@@ -10,5 +10,20 @@
     "Translation": " MAP BY P'A'SS ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Door opens in 30 seconds ": {
+    "Translation": " Door opens in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " KEEP HOLDING": {
+    "Translation": " KEEP HOLDING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR IS OPENING": {
+    "Translation": " DOOR IS OPENING",
+    "M-Bool": false,
+    "Value": 0
   }
 }

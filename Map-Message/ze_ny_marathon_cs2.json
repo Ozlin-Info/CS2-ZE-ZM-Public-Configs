@@ -95,5 +95,30 @@
     "Translation": " [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band  Satori PT1 ]] ",
     "M-Bool": false,
     "Value": 0
+  },
+  " 噢,不!隧道被锁上了!我们得等一会儿(30s) ": {
+    "Translation": " 噢,不!隧道被锁上了!我们得等一会儿(30s) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 还剩15秒!继续防守! ": {
+    "Translation": " 还剩15秒!继续防守! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 最后5秒 ": {
+    "Translation": " 最后5秒 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚持住，需要15秒来开门 !!! ": {
+    "Translation": " 坚持住，需要15秒来开门 !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 再守5秒 !!! ": {
+    "Translation": " 再守5秒 !!! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

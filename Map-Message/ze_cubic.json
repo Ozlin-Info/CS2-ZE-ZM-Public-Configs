@@ -1,0 +1,79 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map made by Ice (STEAM_1:0:40636353) ": {
+    "Translation": " Map made by Ice (STEAM_1:0:40636353) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Platforms leave in 10 seconds ": {
+    "Translation": " Platforms leave in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleports enabling in 25 seconds ": {
+    "Translation": " Teleports enabling in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleports are open, split up! ": {
+    "Translation": " Teleports are open, split up! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " First blockade will break in 30 seconds ": {
+    "Translation": " First blockade will break in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Second blockade will break in 10 seconds ": {
+    "Translation": " Second blockade will break in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Press all the buttons to open the door ": {
+    "Translation": " Press all the buttons to open the door ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 1 button pressed ": {
+    "Translation": " 1 button pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Both bottom buttons pressed ": {
+    "Translation": " Both bottom buttons pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Top button will be available in 10 seconds ": {
+    "Translation": " Top button will be available in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door will open in 15 seconds ": {
+    "Translation": " Door will open in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door will open in 10 seconds ": {
+    "Translation": " Door will open in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door will open in 20 seconds ": {
+    "Translation": " Door will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Press all buttons to trigger or defend until the doors to automatically break ": {
+    "Translation": " Press all buttons to trigger or defend until the doors to automatically break ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
