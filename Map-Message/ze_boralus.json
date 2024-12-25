@@ -87,7 +87,7 @@
     "Value": 0
   },
   "我们要通过港务长办公室进入伯拉勒斯, 40 seconds left": {
-    "Translation": "We need to pass through the dockmaster's office to enter Belaruss, 40 seconds left",
+    "Translation": "We need to pass through the dockmaster's office to enter Boralus, 40 seconds left",
     "M-Bool": false,
     "Value": 0
   },
@@ -97,7 +97,7 @@
     "Value": 0
   },
   "这儿是伯拉勒斯的汇帆市场": {
-    "Translation": "Here is the Belaruss Exchange Market",
+    "Translation": "Here is the Boralus Tradewinds Market",
     "M-Bool": false,
     "Value": 0
   },
@@ -112,7 +112,7 @@
     "Value": 0
   },
   "前方是戴姆维克街区": {
-    "Translation": "Ahead is the Demevic District",
+    "Translation": "Ahead is the Dampwick Ward",
     "M-Bool": false,
     "Value": 0
   },
@@ -122,7 +122,7 @@
     "Value": 0
   },
   "我们必须穿过这片街区": {
-    "Translation": "We must pass through this district",
+    "Translation": "We must pass through this ward",
     "M-Bool": false,
     "Value": 0
   },
@@ -137,7 +137,7 @@
     "Value": 0
   },
   "终于从这恶心的街区出来了": {
-    "Translation": "Finally out of this disgusting district",
+    "Translation": "Finally out of this disgusting ward",
     "M-Bool": false,
     "Value": 0
   },
@@ -182,7 +182,7 @@
     "Value": 0
   },
   "回到汇帆市场": {
-    "Translation": "Return to the Exchange Market",
+    "Translation": "Return to the Tradewinds Market",
     "M-Bool": false,
     "Value": 0
   },
@@ -192,7 +192,7 @@
     "Value": 0
   },
   "是时候离开伯拉勒斯了, 30 seconds left": {
-    "Translation": "It's time to leave Belaruss, 30 seconds left",
+    "Translation": "It's time to leave Boralus, 30 seconds left",
     "M-Bool": false,
     "Value": 0
   },
