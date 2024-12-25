@@ -97,27 +97,27 @@
     "Value": 0
   },
   " 噢,不!隧道被锁上了!我们得等一会儿(30s) ": {
-    "Translation": " 噢,不!隧道被锁上了!我们得等一会儿(30s) ",
+    "Translation": "Oh no! The tunnel is locked! We have to wait a moment (30s)",
     "M-Bool": false,
     "Value": 0
   },
   " 还剩15秒!继续防守! ": {
-    "Translation": " 还剩15秒!继续防守! ",
+    "Translation": "15 seconds left! Keep defending!",
     "M-Bool": false,
     "Value": 0
   },
   " 最后5秒 ": {
-    "Translation": " 最后5秒 ",
+    "Translation": "Last 5 seconds",
     "M-Bool": false,
     "Value": 0
   },
   " 坚持住，需要15秒来开门 !!! ": {
-    "Translation": " 坚持住，需要15秒来开门 !!! ",
+    "Translation": "Hold on, we need 15 seconds to open the door!!!",
     "M-Bool": false,
     "Value": 0
   },
   " 再守5秒 !!! ": {
-    "Translation": " 再守5秒 !!! ",
+    "Translation": "Defend for another 5 seconds!!!",
     "M-Bool": false,
     "Value": 0
   }

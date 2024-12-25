@@ -87,22 +87,22 @@
     "Value": 0
   },
   "隧道前面已经被严重污染了.": {
-    "Translation": "隧道前面已经被严重污染了.",
+    "Translation": "The tunnel ahead has been severely contaminated.",
     "M-Bool": false,
     "Value": 0
   },
   "我们得想办法绕出去,也许还能找到新的列车.": {
-    "Translation": "我们得想办法绕出去,也许还能找到新的列车.",
+    "Translation": "We need to find a way to go around; maybe we can find a new train.",
     "M-Bool": false,
     "Value": 0
   },
   "但愿我们能挺过去.": {
-    "Translation": "但愿我们能挺过去.",
+    "Translation": "Hopefully we can get through this.",
     "M-Bool": false,
     "Value": 0
   },
   "出发吧,士兵们,武运隆昌.": {
-    "Translation": "出发吧,士兵们,武运隆昌.",
+    "Translation": "Let's go, soldiers, may fortune be with us.",
     "M-Bool": false,
     "Value": 0
   }
