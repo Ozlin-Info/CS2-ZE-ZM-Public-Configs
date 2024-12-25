@@ -20,5 +20,60 @@
     "Translation": "AraneaHighwind  Wait quietly for the maze gate to open. ",
     "M-Bool": false,
     "Value": 0
+  },
+  " A player has learned [ Cure ] magic, ": {
+    "Translation": " A player has learned [ Cure ] magic, ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has learned [ Fire ] magic, ": {
+    "Translation": " A player has learned [ Fire ] magic, ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has learned [ HolySword ] magic, ": {
+    "Translation": " A player has learned [ HolySword ] magic, ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has learned [ Dia ] magic, ": {
+    "Translation": " A player has learned [ Dia ] magic, ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Switch has been triggered, ": {
+    "Translation": " Switch has been triggered, ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend until the gates open. ": {
+    "Translation": " Defend until the gates open. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has learned [ Water ] magic, ": {
+    "Translation": " A player has learned [ Water ] magic, ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door will open in 10 seconds. ": {
+    "Translation": " The door will open in 10 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has learned [ Avant ] magic, ": {
+    "Translation": " A player has learned [ Avant ] magic, ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door will open in 15 seconds. ": {
+    "Translation": " The door will open in 15 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has learned [ Elusive ] magic, ": {
+    "Translation": " A player has learned [ Elusive ] magic, ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

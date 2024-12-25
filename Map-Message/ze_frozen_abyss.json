@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Special thanks to Moltard, Nostar, Raphi, Kaemon, Luffaren": {
+    "Translation": "Special thanks to Moltard, Nostar, Raphi, Kaemon, Luffaren",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stand on the two plates to open the temple ": {
+    "Translation": " Stand on the two plates to open the temple ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

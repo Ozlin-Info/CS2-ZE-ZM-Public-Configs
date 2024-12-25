@@ -115,5 +115,20 @@
     "Translation": "Take the Carpet and make your way to the escape door! ",
     "M-Bool": false,
     "Value": 0
+  },
+  "LEVEL  OPEN FIELD": {
+    "Translation": "LEVEL  OPEN FIELD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Survive for 90secs": {
+    "Translation": "Survive for 90secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Beware K.'s SlenderMan! ": {
+    "Translation": "Beware K.'s SlenderMan! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

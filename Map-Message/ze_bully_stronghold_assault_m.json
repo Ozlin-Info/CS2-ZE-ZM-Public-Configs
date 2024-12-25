@@ -75,5 +75,15 @@
     "Translation": "Final Door Opening for 15 Seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Fall Back!  Get in White!": {
+    "Translation": "Fall Back!  Get in White!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HUMANS WIN!  EVERYONE RTV!": {
+    "Translation": "HUMANS WIN!  EVERYONE RTV!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

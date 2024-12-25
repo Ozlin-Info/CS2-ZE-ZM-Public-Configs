@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Welcome to the Aperture Science Center": {
+    "Translation": "Welcome to the Aperture Science Center",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map made by Eugenio Motanum Roman": {
+    "Translation": "Map made by Eugenio Motanum Roman",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Sponsored by ]HeLL[ Clan": {
+    "Translation": "Sponsored by ]HeLL[ Clan",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

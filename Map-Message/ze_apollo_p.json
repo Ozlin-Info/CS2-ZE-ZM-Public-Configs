@@ -6,13 +6,8 @@
       "Value": 0
     }
   },
-  "MAP BY thegregster101": {
-    "Translation": "MAP BY thegregster101",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "STONE DOOR OPENING": {
-    "Translation": "STONE DOOR OPENING",
+  "Tram Leaving Momentarily": {
+    "Translation": "Tram Leaving Momentarily",
     "M-Bool": false,
     "Value": 0
   }

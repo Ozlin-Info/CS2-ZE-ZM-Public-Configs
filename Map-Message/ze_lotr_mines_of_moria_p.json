@@ -15,5 +15,10 @@
     "Translation": "Bring the ring to KhazadDum bridge to win easily",
     "M-Bool": false,
     "Value": 0
+  },
+  "Gandalf staff has been picked!": {
+    "Translation": "Gandalf staff has been picked!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

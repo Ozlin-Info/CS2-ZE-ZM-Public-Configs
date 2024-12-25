@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "OBJECTIVE  Survive 45 sec": {
+    "Translation": "OBJECTIVE  Survive 45 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " VRMission 1 START": {
+    "Translation": " VRMission 1 START",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Break crystals": {
+    "Translation": "Break crystals",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

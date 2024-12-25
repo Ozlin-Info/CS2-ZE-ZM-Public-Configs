@@ -30,5 +30,65 @@
     "Translation": " Difficulty : Easy ",
     "M-Bool": false,
     "Value": 0
+  },
+  "Elevator leaving in 3 seconds!": {
+    "Translation": "Elevator leaving in 3 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Mini train leaving in 5 seconds!": {
+    "Translation": "Mini train leaving in 5 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Tracks crashed ahead.": {
+    "Translation": "Tracks crashed ahead.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "remaining 5 seconds!": {
+    "Translation": "remaining 5 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opening in 5 seconds!": {
+    "Translation": "Door opening in 5 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Tram leaving in 10 seconds!": {
+    "Translation": "Tram leaving in 10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Train leaving in 30 seconds!": {
+    "Translation": "Train leaving in 30 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Security doors closing in 10!": {
+    "Translation": "Security doors closing in 10!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Train leaving in 20 seconds!": {
+    "Translation": "Train leaving in 20 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Train leaving in 10 seconds!": {
+    "Translation": "Train leaving in 10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Train is leaving!": {
+    "Translation": "Train is leaving!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Incoming nuke!!!": {
+    "Translation": "Incoming nuke!!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

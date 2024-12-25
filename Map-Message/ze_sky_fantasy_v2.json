@@ -10,5 +10,30 @@
     "Translation": " STAGE I  EASY MODE ",
     "M-Bool": false,
     "Value": 0
+  },
+  " 15 ": {
+    "Translation": " 15 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ze_sky_fantasy_v2 ": {
+    "Translation": " ze_sky_fantasy_v2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by Misaka ": {
+    "Translation": " Map by Misaka ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Rework by K.KID ": {
+    "Translation": " Rework by K.KID ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 ": {
+    "Translation": " 20 ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -35,5 +35,25 @@
     "Translation": " zombies coming! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Survive 65 seconds ": {
+    "Translation": " Survive 65 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " afk teleport active soon!! ": {
+    "Translation": " afk teleport active soon!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Go!! ": {
+    "Translation": " Go!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " survive 40 seconds ": {
+    "Translation": " survive 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

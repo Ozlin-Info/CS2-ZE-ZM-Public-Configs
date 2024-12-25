@@ -15,5 +15,65 @@
     "Translation": "SIDE PATH WILL BE OPEN IN 5 SECONDS .",
     "M-Bool": false,
     "Value": 0
+  },
+  "Paths will be open in 15 seconds .": {
+    "Translation": "Paths will be open in 15 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PATHS WILL BE OPEN IN 5 SECONDS .": {
+    "Translation": "PATHS WILL BE OPEN IN 5 SECONDS .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Side Doors open in 20 seconds .": {
+    "Translation": "Side Doors open in 20 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ladder for zombies will be open in 5 seconds .": {
+    "Translation": "Ladder for zombies will be open in 5 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SIDE DOORS OPEN IN 5 SECONDS .": {
+    "Translation": "SIDE DOORS OPEN IN 5 SECONDS .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR CLOSES IN 5 SECONDS .": {
+    "Translation": "DOOR CLOSES IN 5 SECONDS .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Paths will be open in 10 seconds .": {
+    "Translation": "Paths will be open in 10 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Paths will be open in 20 seconds .": {
+    "Translation": "Paths will be open in 20 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Paths will be open in 25 seconds .": {
+    "Translation": "Paths will be open in 25 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opens in 40 seconds .": {
+    "Translation": "Door opens in 40 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENS IN 5 SECONDS .": {
+    "Translation": "DOOR OPENS IN 5 SECONDS .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opens in 20 seconds .": {
+    "Translation": "Door opens in 20 seconds .",
+    "M-Bool": false,
+    "Value": 0
   }
 }

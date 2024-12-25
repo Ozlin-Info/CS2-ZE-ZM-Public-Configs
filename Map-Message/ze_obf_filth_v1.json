@@ -85,5 +85,25 @@
     "Translation": "Wow.. we are still alive.. Looks like it's not time to die yet.",
     "M-Bool": false,
     "Value": 0
+  },
+  "隧道前面已经被严重污染了.": {
+    "Translation": "隧道前面已经被严重污染了.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们得想办法绕出去,也许还能找到新的列车.": {
+    "Translation": "我们得想办法绕出去,也许还能找到新的列车.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "但愿我们能挺过去.": {
+    "Translation": "但愿我们能挺过去.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "出发吧,士兵们,武运隆昌.": {
+    "Translation": "出发吧,士兵们,武运隆昌.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

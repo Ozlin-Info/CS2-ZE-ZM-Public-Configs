@@ -5,5 +5,15 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "Break the doors to exit the laboratory.": {
+    "Translation": "Break the doors to exit the laboratory.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PoleRider machine leaving in 9 seconds...": {
+    "Translation": "PoleRider machine leaving in 9 seconds...",
+    "M-Bool": false,
+    "Value": 0
   }
 }

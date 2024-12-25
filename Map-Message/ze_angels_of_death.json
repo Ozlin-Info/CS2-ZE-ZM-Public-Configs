@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "lv1": {
+    "Translation": "lv1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Where am I?": {
+    "Translation": "Where am I?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Beautiful moon": {
+    "Translation": "Beautiful moon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "But the blue moon is not real": {
+    "Translation": "But the blue moon is not real",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Anyway, hurry up and go back to find mom and dad.": {
+    "Translation": "Anyway, hurry up and go back to find mom and dad.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

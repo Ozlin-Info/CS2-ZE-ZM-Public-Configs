@@ -1,0 +1,109 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Please wait 20 seconds before the door opening": {
+    "Translation": "Please wait 20 seconds before the door opening",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Welcome ! Map made by Valve and zombified by Obscuri": {
+    "Translation": "Welcome ! Map made by Valve and zombified by Obscuri",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special thanks to centran and LeGrem": {
+    "Translation": "Special thanks to centran and LeGrem",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RESIST 30 SECONDS BEHIND THE BOXES": {
+    "Translation": "RESIST 30 SECONDS BEHIND THE BOXES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS": {
+    "Translation": "5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE TP ADVANCING IN 15 SECONDS ": {
+    "Translation": " ZOMBIE TP ADVANCING IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RESIST 20 SECONDS": {
+    "Translation": "RESIST 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN": {
+    "Translation": "RUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds until the fence break": {
+    "Translation": "10 seconds until the fence break",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 SECONDS FOR TELEPORT": {
+    "Translation": "20 SECONDS FOR TELEPORT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS FOR TELEPORT": {
+    "Translation": "5 SECONDS FOR TELEPORT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES WILL BE TELEPORTED IN 5 SECONDS": {
+    "Translation": "ZOMBIES WILL BE TELEPORTED IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DESTROY THE POWER GENERATORS": {
+    "Translation": "DESTROY THE POWER GENERATORS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1 REMAINING": {
+    "Translation": "1 REMAINING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WELL DONE": {
+    "Translation": " WELL DONE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Escape through the tunnel!!": {
+    "Translation": "Escape through the tunnel!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warning! Overloading of reactor.": {
+    "Translation": "Warning! Overloading of reactor.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Explosion of the nuclear plant imminent !": {
+    "Translation": "Explosion of the nuclear plant imminent !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND THESE CRATES, FINAL HOLD": {
+    "Translation": "DEFEND THESE CRATES, FINAL HOLD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Contact me at obscuri@obsmail.tk": {
+    "Translation": "Contact me at obscuri@obsmail.tk",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

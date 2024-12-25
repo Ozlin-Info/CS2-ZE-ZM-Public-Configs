@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "MAP BY  LUFFAREN": {
+    "Translation": "MAP BY  LUFFAREN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DO NOT TRY TO TAKE SHORTCUTS  IT WILL RESULT IN TELEPORTING BACK": {
+    "Translation": "DO NOT TRY TO TAKE SHORTCUTS  IT WILL RESULT IN TELEPORTING BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FOLLOW THE ARROWS TO AVOID DEAD ENDS": {
+    "Translation": "FOLLOW THE ARROWS TO AVOID DEAD ENDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVER GOING UP IN 5 SECONDS": {
+    "Translation": "LEVER GOING UP IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENING IN 10 SECONDS": {
+    "Translation": "DOOR OPENING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR IS OPEN  FALL BACK": {
+    "Translation": "DOOR IS OPEN  FALL BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A JALAPENO HAS BEEN PICKED UP": {
+    "Translation": "A JALAPENO HAS BEEN PICKED UP",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "INCOMING TOAST  LEFT CHAMBER": {
+    "Translation": "INCOMING TOAST  LEFT CHAMBER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "INCOMING TOAST  RIGHT CHAMBER": {
+    "Translation": "INCOMING TOAST  RIGHT CHAMBER",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
