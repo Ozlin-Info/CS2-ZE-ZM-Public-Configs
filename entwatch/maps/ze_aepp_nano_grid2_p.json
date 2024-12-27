@@ -14,10 +14,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "StarArrow_Button",
+        "ButtonID": 1376,
+        "ButtonClass": "func_button",
+        "Filter": "SA_Act",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -40,10 +40,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "IceArrow_Button",
+        "ButtonID": 1374,
+        "ButtonClass": "func_button",
+        "Filter": "IA_Act",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -66,10 +66,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "FireArrow_Button",
+        "ButtonID": 1362,
+        "ButtonClass": "func_button",
+        "Filter": "FA_Act",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -84,18 +84,18 @@
     "HammerID": "570",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 98,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "DoubleJump_Button",
+        "ButtonID": 572,
+        "ButtonClass": "func_button",
+        "Filter": "DJ_Act",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -110,22 +110,26 @@
     "HammerID": "21",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1459,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 23,
+        "MathNameFix": false
       }
     ]
   },
@@ -136,22 +140,26 @@
     "HammerID": "27",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1457,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "Dash1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 29,
+        "MathNameFix": false
       }
     ]
   }
