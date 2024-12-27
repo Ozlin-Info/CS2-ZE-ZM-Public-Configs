@@ -1,7 +1,7 @@
 [
   {
-    "Name": "圣气雷",
-    "ShortName": "圣气雷",
+    "Name": "HolyNade",
+    "ShortName": "HolyNade",
     "Color": "{default}",
     "HammerID": "1539",
     "GlowColor": [0,255,0,1],
@@ -26,8 +26,8 @@
     ]
   },
   {
-    "Name": "芝加哥圣光",
-    "ShortName": "芝加哥圣光",
+    "Name": "ChicagoBeam",
+    "ShortName": "ChicagoBeam",
     "Color": "{default}",
     "HammerID": "2032",
     "GlowColor": [0,255,0,1],
@@ -52,8 +52,8 @@
     ]
   },
   {
-    "Name": "奶",
-    "ShortName": "奶",
+    "Name": "Heal",
+    "ShortName": "Heal",
     "Color": "{default}",
     "HammerID": "2055",
     "GlowColor": [0,255,0,1],
