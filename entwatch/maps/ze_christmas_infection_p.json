@@ -1,7 +1,7 @@
 [
   {
-    "Name": "BallGenOutElites",
-    "ShortName": "BallGenOutElites",
+    "Name": "Core",
+    "ShortName": "Core",
     "Color": "{default}",
     "HammerID": "1032",
     "GlowColor": [0,255,0,1],
@@ -14,7 +14,7 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -26,24 +26,24 @@
     ]
   },
   {
-    "Name": "Gigante_Knife",
-    "ShortName": "Gigante_Knife",
+    "Name": "ZM Gigante",
+    "ShortName": "ZM Gigante",
     "Color": "{default}",
     "HammerID": "4460",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4463,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "gigante",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -52,8 +52,8 @@
     ]
   },
   {
-    "Name": "LanternGun",
-    "ShortName": "LanternGun",
+    "Name": "Lantern",
+    "ShortName": "Lantern",
     "Color": "{default}",
     "HammerID": "4480",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "LanternButton",
+        "ButtonID": 4494,
+        "ButtonClass": "func_button",
+        "Filter": "lant",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 61
       }
     ]
   },
   {
-    "Name": "SnowGun",
-    "ShortName": "SnowGun",
+    "Name": "Snow Rocket",
+    "ShortName": "Snow Rocket",
     "Color": "{default}",
     "HammerID": "4502",
     "GlowColor": [0,255,0,1],
@@ -92,72 +92,72 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "SnowButton",
+        "ButtonID": 4513,
+        "ButtonClass": "func_button",
+        "Filter": "snow",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 35
       }
     ]
   },
   {
-    "Name": "FogZombie",
-    "ShortName": "FogZombie",
+    "Name": "ZM Fog",
+    "ShortName": "ZM Fog",
     "Color": "{default}",
     "HammerID": "4521",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4524,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "FogButton",
+        "ButtonID": 4529,
+        "ButtonClass": "func_button",
+        "Filter": "fog",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 50
       }
     ]
   },
   {
-    "Name": "TornadoGun",
-    "ShortName": "TornadoGun",
+    "Name": "ZM Tornado",
+    "ShortName": "ZM Tornado",
     "Color": "{default}",
     "HammerID": "4542",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4547,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "TornadoButton",
+        "ButtonID": 4556,
+        "ButtonClass": "func_button",
+        "Filter": "tornado",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 55
       }
     ]
   },
   {
-    "Name": "MineGun",
-    "ShortName": "MineGun",
+    "Name": "Mine",
+    "ShortName": "Mine",
     "Color": "{default}",
     "HammerID": "4562",
     "GlowColor": [0,255,0,1],
@@ -170,20 +170,24 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "MineButton",
+        "ButtonID": 4565,
+        "ButtonClass": "func_button",
+        "Filter": "zpres",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 4564,
+        "MathNameFix": true
       }
     ]
   },
   {
-    "Name": "IceGun",
-    "ShortName": "IceGun",
+    "Name": "IceWall",
+    "ShortName": "IceWall",
     "Color": "{default}",
     "HammerID": "4587",
     "GlowColor": [0,255,0,1],
@@ -196,46 +200,46 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "IceButton",
+        "ButtonID": 4589,
+        "ButtonClass": "func_button",
+        "Filter": "icewall",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 65
       }
     ]
   },
   {
-    "Name": "IceBoom",
-    "ShortName": "IceBoom",
+    "Name": "ZM Boomer",
+    "ShortName": "ZM Boomer",
     "Color": "{default}",
     "HammerID": "4592",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4684,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "BoomerButton",
+        "ButtonID": 4622,
+        "ButtonClass": "func_button",
+        "Filter": "boomer",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 35
       }
     ]
   },
   {
-    "Name": "TreeGun",
-    "ShortName": "TreeGun",
+    "Name": "Ammo",
+    "ShortName": "Ammo",
     "Color": "{default}",
     "HammerID": "4631",
     "GlowColor": [0,255,0,1],
@@ -248,20 +252,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "TreeButton",
+        "ButtonID": 4629,
+        "ButtonClass": "func_button",
+        "Filter": "tree",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 51
       }
     ]
   },
   {
-    "Name": "lanzaLlamas",
-    "ShortName": "lanzaLlamas",
+    "Name": "Flamethrower",
+    "ShortName": "Flamethrower",
     "Color": "{default}",
     "HammerID": "4642",
     "GlowColor": [0,255,0,1],
@@ -274,72 +278,76 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "control_lanzallamas",
+        "ButtonID": 4640,
+        "ButtonClass": "func_button",
+        "Filter": "we1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 4652,
+        "MathNameFix": false
       }
     ]
   },
   {
-    "Name": "Healer",
-    "ShortName": "Healer",
+    "Name": "ZM Heal",
+    "ShortName": "ZM Heal",
     "Color": "{default}",
     "HammerID": "4670",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4682,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Heal_Button",
+        "ButtonID": 4672,
+        "ButtonClass": "func_button",
+        "Filter": "healfil",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 56
       }
     ]
   },
   {
-    "Name": "TramplKnife",
-    "ShortName": "TramplKnife",
+    "Name": "ZM Trampoline",
+    "ShortName": "ZM Trampoline",
     "Color": "{default}",
     "HammerID": "4695",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4702,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "TrampButton",
+        "ButtonID": 4697,
+        "ButtonClass": "func_button",
+        "Filter": "tramp",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 76
       }
     ]
   },
   {
-    "Name": "HatGun",
-    "ShortName": "HatGun",
+    "Name": "Hat",
+    "ShortName": "Hat",
     "Color": "{default}",
     "HammerID": "1179",
     "GlowColor": [0,255,0,1],
@@ -352,7 +360,7 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -364,8 +372,8 @@
     ]
   },
   {
-    "Name": "PenisGun",
-    "ShortName": "PenisGun",
+    "Name": "Dik",
+    "ShortName": "Dik",
     "Color": "{default}",
     "HammerID": "1180",
     "GlowColor": [0,255,0,1],
@@ -378,7 +386,7 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -390,8 +398,8 @@
     ]
   },
   {
-    "Name": "BananaGun",
-    "ShortName": "BananaGun",
+    "Name": "Banana",
+    "ShortName": "Banana",
     "Color": "{default}",
     "HammerID": "1205",
     "GlowColor": [0,255,0,1],
@@ -404,36 +412,36 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "BananaButton",
+        "ButtonID": 1368,
+        "ButtonClass": "func_button",
+        "Filter": "banana",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "ZombieKing",
-    "ShortName": "ZombieKing",
+    "Name": "ZM sombrero",
+    "ShortName": "ZM sombrero",
     "Color": "{default}",
     "HammerID": "1271",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 1269,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "sombrero",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
