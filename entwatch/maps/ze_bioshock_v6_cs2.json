@@ -14,13 +14,27 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_electro",
+        "ButtonID": 3040,
+        "ButtonClass": "func_button",
+        "Filter": "electrouser",
         "Chat_Uses": true,
-        "Mode": 4,
-        "MaxUses": 4,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3046,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_electro",
+        "ButtonID": 3040,
+        "ButtonClass": "func_button",
+        "Filter": "electrouser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
         "CoolDown": 11
       }
     ]
@@ -40,13 +54,27 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_incinerate",
+        "ButtonID": 3049,
+        "ButtonClass": "func_button",
+        "Filter": "incinerateuser",
         "Chat_Uses": true,
-        "Mode": 4,
-        "MaxUses": 5,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3055,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_incinerate",
+        "ButtonID": 3049,
+        "ButtonClass": "func_button",
+        "Filter": "incinerateuser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
         "CoolDown": 5
       }
     ]
@@ -66,13 +94,27 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_cyclone",
+        "ButtonID": 3059,
+        "ButtonClass": "func_button",
+        "Filter": "cycloneuser",
         "Chat_Uses": true,
-        "Mode": 4,
-        "MaxUses": 3,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3065,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_cyclone",
+        "ButtonID": 3059,
+        "ButtonClass": "func_button",
+        "Filter": "cycloneuser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
         "CoolDown": 10
       }
     ]
@@ -92,13 +134,27 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_insect",
+        "ButtonID": 3146,
+        "ButtonClass": "func_button",
+        "Filter": "insectuser",
         "Chat_Uses": true,
-        "Mode": 4,
-        "MaxUses": 3,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 4334,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_insect",
+        "ButtonID": 3146,
+        "ButtonClass": "func_button",
+        "Filter": "insectuser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
         "CoolDown": 10
       }
     ]
@@ -110,15 +166,15 @@
     "HammerID": "3516",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -136,15 +192,15 @@
     "HammerID": "3521",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -162,22 +218,26 @@
     "HammerID": "3550",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "little_sister",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3553,
+        "MathNameFix": true
       }
     ]
   },
@@ -188,18 +248,18 @@
     "HammerID": "3557",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "big_daddy",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -222,13 +282,27 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_gravity",
+        "ButtonID": 4171,
+        "ButtonClass": "func_button",
+        "Filter": "gravityuser",
         "Chat_Uses": true,
-        "Mode": 4,
-        "MaxUses": 4,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 4177,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_gravity",
+        "ButtonID": 4171,
+        "ButtonClass": "func_button",
+        "Filter": "gravityuser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
         "CoolDown": 18
       }
     ]
@@ -248,13 +322,27 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "plasmid_button_frost",
+        "ButtonID": 4183,
+        "ButtonClass": "func_button",
+        "Filter": "frostuser",
         "Chat_Uses": true,
-        "Mode": 4,
-        "MaxUses": 3,
+        "Mode": 6,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 4185,
+        "MathNameFix": true
+      },
+      {
+        "Name": "plasmid_button_frost",
+        "ButtonID": 4183,
+        "ButtonClass": "func_button",
+        "Filter": "frostuser",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
         "CoolDown": 13
       }
     ]
