@@ -1,7 +1,7 @@
 [
   {
-    "Name": "奶",
-    "ShortName": "奶",
+    "Name": "Heal",
+    "ShortName": "Heal",
     "Color": "{default}",
     "HammerID": "134",
     "GlowColor": [0,255,0,1],
@@ -26,8 +26,8 @@
     ]
   },
   {
-    "Name": "黑洞",
-    "ShortName": "黑洞",
+    "Name": "Gravity",
+    "ShortName": "Gravity",
     "Color": "{default}",
     "HammerID": "147",
     "GlowColor": [0,255,0,1],
