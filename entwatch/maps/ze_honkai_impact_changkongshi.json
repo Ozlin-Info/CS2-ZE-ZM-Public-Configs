@@ -14,10 +14,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "dls_Button",
+        "ButtonID": 4223,
+        "ButtonClass": "func_button",
+        "Filter": "dls:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
