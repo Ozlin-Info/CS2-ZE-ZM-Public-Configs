@@ -1,9 +1,9 @@
 [
   {
-    "Name": "electro",
-    "ShortName": "electro",
+    "Name": "push_elite",
+    "ShortName": "push_elite",
     "Color": "{default}",
-    "HammerID": "3039",
+    "HammerID": "3926",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -14,111 +14,7 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "plasmid_button_electro",
-        "ButtonID": 3040,
-        "ButtonClass": "func_button",
-        "Filter": "electrouser",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 11
-      }
-    ]
-  },
-  {
-    "Name": "incinerate",
-    "ShortName": "incinerate",
-    "Color": "{default}",
-    "HammerID": "3048",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "plasmid_button_incinerate",
-        "ButtonID": 3049,
-        "ButtonClass": "func_button",
-        "Filter": "incinerateuser",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 5
-      }
-    ]
-  },
-  {
-    "Name": "cyclone",
-    "ShortName": "cyclone",
-    "Color": "{default}",
-    "HammerID": "3058",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "plasmid_button_cyclone",
-        "ButtonID": 3059,
-        "ButtonClass": "func_button",
-        "Filter": "cycloneuser",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 10
-      }
-    ]
-  },
-  {
-    "Name": "insect",
-    "ShortName": "insect",
-    "Color": "{default}",
-    "HammerID": "3145",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "plasmid_button_insect",
-        "ButtonID": 3146,
-        "ButtonClass": "func_button",
-        "Filter": "insectuser",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 10
-      }
-    ]
-  },
-  {
-    "Name": "tonic flashflare",
-    "ShortName": "tonic flashflare",
-    "Color": "{default}",
-    "HammerID": "3516",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "",
+        "Name": "weapon_elite",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -130,21 +26,21 @@
     ]
   },
   {
-    "Name": "tonic static",
-    "ShortName": "tonic static",
+    "Name": "gravity_elite",
+    "ShortName": "gravity_elite",
     "Color": "{default}",
-    "HammerID": "3521",
+    "HammerID": "3961",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
+        "Name": "weapon_elite",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -156,62 +52,10 @@
     ]
   },
   {
-    "Name": "little sister",
-    "ShortName": "little sister",
+    "Name": "zgravity_knife",
+    "ShortName": "zgravity_knife",
     "Color": "{default}",
-    "HammerID": "3550",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "little_sister",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "big daddy",
-    "ShortName": "big daddy",
-    "Color": "{default}",
-    "HammerID": "3557",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "big_daddy",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "gravity",
-    "ShortName": "gravity",
-    "Color": "{default}",
-    "HammerID": "4170",
+    "HammerID": "3987",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -222,20 +66,228 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "plasmid_button_gravity",
-        "ButtonID": 4171,
-        "ButtonClass": "func_button",
-        "Filter": "gravityuser",
+        "Name": "weapon_knife",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 18
+        "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "frost",
-    "ShortName": "frost",
+    "Name": "zheal_knife",
+    "ShortName": "zheal_knife",
+    "Color": "{default}",
+    "HammerID": "3999",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_knife",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "laser_wall_elite",
+    "ShortName": "laser_wall_elite",
+    "Color": "{default}",
+    "HammerID": "4010",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_elite",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "freezer_elite",
+    "ShortName": "freezer_elite",
+    "Color": "{default}",
+    "HammerID": "4040",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_elite",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "zring_knife",
+    "ShortName": "zring_knife",
+    "Color": "{default}",
+    "HammerID": "4046",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_knife",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "zfreeze_knife",
+    "ShortName": "zfreeze_knife",
+    "Color": "{default}",
+    "HammerID": "4083",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_knife",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "zfire_knife",
+    "ShortName": "zfire_knife",
+    "Color": "{default}",
+    "HammerID": "4101",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_knife",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "ammo_elite",
+    "ShortName": "ammo_elite",
+    "Color": "{default}",
+    "HammerID": "4124",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_elite",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "human_canon_slow_elites",
+    "ShortName": "human_canon_slow_elites",
+    "Color": "{default}",
+    "HammerID": "4167",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_elite",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "zslow_knife",
+    "ShortName": "zslow_knife",
     "Color": "{default}",
     "HammerID": "4182",
     "GlowColor": [0,255,0,1],
@@ -248,14 +300,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "plasmid_button_frost",
-        "ButtonID": 4183,
-        "ButtonClass": "func_button",
-        "Filter": "frostuser",
+        "Name": "weapon_knife",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 13
+        "CoolDown": 0
       }
     ]
   }

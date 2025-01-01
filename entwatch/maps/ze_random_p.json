@@ -1,9 +1,9 @@
 [
   {
-    "Name": "electro",
-    "ShortName": "electro",
+    "Name": "bush",
+    "ShortName": "bush",
     "Color": "{default}",
-    "HammerID": "3039",
+    "HammerID": "742",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -14,111 +14,7 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "plasmid_button_electro",
-        "ButtonID": 3040,
-        "ButtonClass": "func_button",
-        "Filter": "electrouser",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 11
-      }
-    ]
-  },
-  {
-    "Name": "incinerate",
-    "ShortName": "incinerate",
-    "Color": "{default}",
-    "HammerID": "3048",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "plasmid_button_incinerate",
-        "ButtonID": 3049,
-        "ButtonClass": "func_button",
-        "Filter": "incinerateuser",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 5
-      }
-    ]
-  },
-  {
-    "Name": "cyclone",
-    "ShortName": "cyclone",
-    "Color": "{default}",
-    "HammerID": "3058",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "plasmid_button_cyclone",
-        "ButtonID": 3059,
-        "ButtonClass": "func_button",
-        "Filter": "cycloneuser",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 10
-      }
-    ]
-  },
-  {
-    "Name": "insect",
-    "ShortName": "insect",
-    "Color": "{default}",
-    "HammerID": "3145",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "plasmid_button_insect",
-        "ButtonID": 3146,
-        "ButtonClass": "func_button",
-        "Filter": "insectuser",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 10
-      }
-    ]
-  },
-  {
-    "Name": "tonic flashflare",
-    "ShortName": "tonic flashflare",
-    "Color": "{default}",
-    "HammerID": "3516",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "",
+        "Name": "weapon_hegrenade",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -130,21 +26,21 @@
     ]
   },
   {
-    "Name": "tonic static",
-    "ShortName": "tonic static",
+    "Name": "Box",
+    "ShortName": "Box",
     "Color": "{default}",
-    "HammerID": "3521",
+    "HammerID": "743",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
+        "Name": "weapon_hegrenade",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -156,62 +52,10 @@
     ]
   },
   {
-    "Name": "little sister",
-    "ShortName": "little sister",
+    "Name": "PT",
+    "ShortName": "PT",
     "Color": "{default}",
-    "HammerID": "3550",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "little_sister",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "big daddy",
-    "ShortName": "big daddy",
-    "Color": "{default}",
-    "HammerID": "3557",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": false,
-    "ForceDrop": false,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "big_daddy",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "gravity",
-    "ShortName": "gravity",
-    "Color": "{default}",
-    "HammerID": "4170",
+    "HammerID": "1128",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -222,22 +66,22 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "plasmid_button_gravity",
-        "ButtonID": 4171,
-        "ButtonClass": "func_button",
-        "Filter": "gravityuser",
+        "Name": "weapon_hegrenade",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 18
+        "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "frost",
-    "ShortName": "frost",
+    "Name": "LS",
+    "ShortName": "LS",
     "Color": "{default}",
-    "HammerID": "4182",
+    "HammerID": "1227",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -248,14 +92,144 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "plasmid_button_frost",
-        "ButtonID": 4183,
-        "ButtonClass": "func_button",
-        "Filter": "frostuser",
+        "Name": "weapon_hegrenade",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 13
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "FL",
+    "ShortName": "FL",
+    "Color": "{default}",
+    "HammerID": "1406",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_hegrenade",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "broom",
+    "ShortName": "broom",
+    "Color": "{default}",
+    "HammerID": "1964",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_hegrenade",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "gyro",
+    "ShortName": "gyro",
+    "Color": "{default}",
+    "HammerID": "1965",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_hegrenade",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "tv",
+    "ShortName": "tv",
+    "Color": "{default}",
+    "HammerID": "1966",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_hegrenade",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "VM",
+    "ShortName": "VM",
+    "Color": "{default}",
+    "HammerID": "1994",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "weapon_hegrenade",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
       }
     ]
   }

@@ -1,9 +1,9 @@
 [
   {
-    "Name": "Teressa",
-    "ShortName": "Teressa",
+    "Name": "postal_healer",
+    "ShortName": "postal_healer",
     "Color": "{default}",
-    "HammerID": "4215",
+    "HammerID": "44496",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -14,14 +14,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "dls_Button",
-        "ButtonID": 4223,
-        "ButtonClass": "func_button",
-        "Filter": "dls:1",
+        "Name": "weapon_glock",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 60
+        "CoolDown": 0
       }
     ]
   }
