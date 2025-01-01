@@ -5,8 +5,6 @@
 		"Color": "{default}",
 		"HammerID": 1895,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -16,13 +14,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 70
+				"Name": "life_tap_button",
+		        "ButtonID": 1711,
+		        "ButtonClass": "func_button",
+		        "Filter": "zitem_life_tap_user:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 70
 			}
 		]
 	},
@@ -32,8 +31,6 @@
 		"Color": "{default}",
 		"HammerID": 2518,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": false,
@@ -43,14 +40,31 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 20
-			}
+				"Name": "elos_curse_button",
+		        "ButtonID": -1,
+		        "ButtonClass": "func_button",
+		        "Filter": "hitem_elos_curse_user:1",
+		        "Chat_Uses": false,
+		        "Mode": 7,
+		        "MaxUses": 0,
+		        "CoolDown": 0,
+		        "Ignore": false,
+		        "LockItem": false,
+		        "MathID": 2523,
+		        "MathNameFix": false,
+		        "MathFindSpawned": false,
+		        "MathDontShowMax": true
+		      },
+		      {
+		        "Name": "elos_curse_button",
+		        "ButtonID": 2520,
+		        "ButtonClass": "func_button",
+		        "Filter": "hitem_elos_curse_user:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 20
+		      }
 		]
 	},
     {
@@ -59,8 +73,6 @@
 		"Color": "{default}",
 		"HammerID": 3399,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -70,13 +82,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
+				"Name": "heal_button",
+		        "ButtonID": 3604,
+		        "ButtonClass": "func_button",
+		        "Filter": "hitem_heal_user:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 60
 			}
 		]
 	},
@@ -86,8 +99,6 @@
 		"Color": "{default}",
 		"HammerID": 3488,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -97,13 +108,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 140
+				"Name": "blizzard_button",
+		        "ButtonID": 3489,
+		        "ButtonClass": "func_button",
+		        "Filter": "hitem_blizzard_user:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 140
 			}
 		]
 	},
@@ -113,8 +125,6 @@
 		"Color": "{default}",
 		"HammerID": 3480,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -124,13 +134,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 30
+				"Name": "frost_path_button",
+		        "ButtonID": 3527,
+		        "ButtonClass": "func_button",
+		        "Filter": "hitem_frost_path_user:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 30
 			}
 		]
 	},
@@ -140,8 +151,6 @@
 		"Color": "{default}",
 		"HammerID": 3508,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -151,13 +160,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 120
+				"Name": "shield_button",
+		        "ButtonID": 3510,
+		        "ButtonClass": "func_button",
+		        "Filter": "hitem_shield_user:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 120
 			}
 		]
 	},
@@ -167,8 +177,6 @@
 		"Color": "{default}",
 		"HammerID": 3413,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -178,13 +186,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
+				"Name": "ice_wind_button",
+		        "ButtonID": 3414,
+		        "ButtonClass": "func_button",
+		        "Filter": "hitem_wind_user:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 60
 			}
 		]
 	},
@@ -194,8 +203,6 @@
 		"Color": "{default}",
 		"HammerID": 2889,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -205,24 +212,23 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 70
+				"Name": "Circle_of_Winter_button",
+		        "ButtonID": 3059,
+		        "ButtonClass": "func_button",
+		        "Filter": "zitem_Circle_of_Winter_user:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 70
 			}
 		]
 	},
     {
-		"Name": "ZM Chill Spike",
-		"ShortName": "ZM Spike",
+		"Name": "ZM Flycutter",
+		"ShortName": "ZM Flycutter",
 		"Color": "{default}",
 		"HammerID": 3400,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -232,13 +238,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
+				"Name": "item_flycutter_button",
+		        "ButtonID": 3438,
+		        "ButtonClass": "func_button",
+		        "Filter": "zitem_flycutter_user:1",
+		        "Chat_Uses": false,
+		        "Mode": 1,
+		        "MaxUses": 0,
+		        "CoolDown": 0
 			}
 		]
 	},
@@ -248,8 +255,6 @@
 		"Color": "{default}",
 		"HammerID": 3547,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -259,13 +264,14 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
+				"Name": "devilian_button",
+		        "ButtonID": 3538,
+		        "ButtonClass": "func_button",
+		        "Filter": "hitem_devilian_user:1",
+		        "Chat_Uses": true,
+		        "Mode": 1,
+		        "MaxUses": 0,
+		        "CoolDown": 0
 			}
 		]
 	},
@@ -275,8 +281,6 @@
 		"Color": "{default}",
 		"HammerID": 4207,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -287,12 +291,13 @@
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 0,
-				"MaxUses": 0,
-				"CoolDown": 0
+		        "ButtonID": 0,
+		        "ButtonClass": "",
+		        "Filter": "hitem_zhongli_user:1",
+		        "Chat_Uses": false,
+		        "Mode": 0,
+		        "MaxUses": 0,
+		        "CoolDown": 0
 			}
 		]
 	},
@@ -302,8 +307,6 @@
 		"Color": "{default}",
 		"HammerID": 3616,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
 		"ForceDrop": true,
@@ -313,13 +316,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 10
+				"Name": "ice_barrier_button",
+		        "ButtonID": 3202,
+		        "ButtonClass": "func_button",
+		        "Filter": "hitem_ice_barrier_user:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 10
 			}
 		]
 	},
@@ -329,8 +333,6 @@
 		"Color": "{default}",
 		"HammerID": 2120,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -340,13 +342,14 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
+				"Name": "elves_button",
+		        "ButtonID": 1501,
+		        "ButtonClass": "func_button",
+		        "Filter": "elves_user:1",
+		        "Chat_Uses": false,
+		        "Mode": 1,
+		        "MaxUses": 0,
+		        "CoolDown": 0
 			}
 		]
 	},
@@ -356,8 +359,6 @@
 		"Color": "{default}",
 		"HammerID": 2999,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -367,41 +368,25 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-    {
-		"Name": "Ice Barrier",
-		"ShortName": "Barrier",
-		"Color": "{default}",
-		"HammerID": 3616,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 10
-			}
+	          "Name": "grzzly_Thunder_bolt_1_button",
+	          "ButtonID": 2992,
+	          "ButtonClass": "func_button",
+	          "Filter": "zitem_grzzly_user:1",
+	          "Chat_Uses": false,
+	          "Mode": 1,
+	          "MaxUses": 0,
+	          "CoolDown": 0
+	        },
+	        {
+	          "Name": "grzzly_uit_button",
+	          "ButtonID": 3015,
+	          "ButtonClass": "func_button",
+	          "Filter": "zitem_grzzly_user:1",
+	          "Chat_Uses": false,
+	          "Mode": 1,
+	          "MaxUses": 0,
+	          "CoolDown": 0
+	        }
 		]
 	},
     {
@@ -410,8 +395,6 @@
 		"Color": "{default}",
 		"HammerID": 16038,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -421,14 +404,15 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
+	          "Name": "fashi_button1",
+	          "ButtonID": 16045,
+	          "ButtonClass": "func_button",
+	          "Filter": "fashi_user:1",
+	          "Chat_Uses": false,
+	          "Mode": 1,
+	          "MaxUses": 0,
+	          "CoolDown": 0
+	        }
 		]
 	},
     {
@@ -437,8 +421,6 @@
 		"Color": "{default}",
 		"HammerID": 16072,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -448,33 +430,23 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 16080,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
-			},
-            {
-				"Name": "attack",
-				"ButtonID": 0,
-				"ButtonClass": "game_ui::PressedAttack2",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 5
-			}
+	          "Name": "laozhe_button1",
+	          "ButtonID": 16080,
+	          "ButtonClass": "func_button",
+	          "Filter": "laozhe_user:1",
+	          "Chat_Uses": true,
+	          "Mode": 2,
+	          "MaxUses": 0,
+	          "CoolDown": 60
+	        }
 		]
 	},
     {
-		"Name": "Heiyan",
+		"Name": "Heiyan Blackrock",
 		"ShortName": "Heiyan",
 		"Color": "{default}",
 		"HammerID": 16128,
 		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
 		"ForceDrop": false,
@@ -484,14 +456,181 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": false,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	}
-]
+	          "Name": "heiyan_luanshe_button",
+	          "ButtonID": 16160,
+	          "ButtonClass": "func_button",
+	          "Filter": "heiyan:1",
+	          "Chat_Uses": false,
+	          "Mode": 1,
+	          "MaxUses": 0,
+	          "CoolDown": 0
+	        },
+	        {
+	          "Name": "heiyan_atk2_button",
+	          "ButtonID": 16179,
+	          "ButtonClass": "func_button",
+	          "Filter": "heiyan:1",
+	          "Chat_Uses": false,
+	          "Mode": 1,
+	          "MaxUses": 0,
+	          "CoolDown": 0
+	        }
+	      ]
+	    },
+	    {
+	      "Name": "FrostPath2",
+	      "ShortName": "Frost2",
+	      "Color": "{default}",
+	      "HammerID": "16316",
+	      "GlowColor": [0,255,0,1],
+	      "BlockPickup": false,
+	      "AllowTransfer": true,
+	      "ForceDrop": true,
+	      "Chat": true,
+	      "Hud": true,
+	      "TriggerID": 0,
+	      "UsePriority": true,
+	      "AbilityList": [
+	        {
+	          "Name": "frost_path_button2",
+	          "ButtonID": 16324,
+	          "ButtonClass": "func_button",
+	          "Filter": "hitem_frost_path_user2:1",
+	          "Chat_Uses": true,
+	          "Mode": 2,
+	          "MaxUses": 0,
+	          "CoolDown": 30
+	        }
+	      ]
+	    },
+	    {
+	      "Name": "Young Mage",
+	      "ShortName": "Young Mage",
+	      "Color": "{default}",
+	      "HammerID": "16301",
+	      "GlowColor": [0,255,0,1],
+	      "BlockPickup": false,
+	      "AllowTransfer": true,
+	      "ForceDrop": false,
+	      "Chat": false,
+	      "Hud": true,
+	      "TriggerID": 0,
+	      "UsePriority": false,
+	      "AbilityList": [
+	        {
+	          "Name": "",
+	          "ButtonID": 0,
+	          "ButtonClass": "",
+	          "Filter": "luoli_user:1",
+	          "Chat_Uses": true,
+	          "Mode": 1,
+	          "MaxUses": 0,
+	          "CoolDown": 0
+	        }
+	      ]
+	    },
+	    {
+	      "Name": "Lantern",
+	      "ShortName": "Lantern",
+	      "Color": "{default}",
+	      "HammerID": "17043",
+	      "GlowColor": [0,255,0,1],
+	      "BlockPickup": false,
+	      "AllowTransfer": true,
+	      "ForceDrop": true,
+	      "Chat": true,
+	      "Hud": true,
+	      "TriggerID": 0,
+	      "UsePriority": true,
+	      "AbilityList": [
+	        {
+	          "Name": "",
+	          "ButtonID": 0,
+	          "ButtonClass": "",
+	          "Filter": "",
+	          "Chat_Uses": true,
+	          "Mode": 1,
+	          "MaxUses": 0,
+	          "CoolDown": 0
+	        }
+	      ]
+	    },
+	    {
+	      "Name": "Sword Mage",
+	      "ShortName": "Sword Mage",
+	      "Color": "{default}",
+	      "HammerID": "17343",
+	      "GlowColor": [0,255,0,1],
+	      "BlockPickup": false,
+	      "AllowTransfer": false,
+	      "ForceDrop": false,
+	      "Chat": true,
+	      "Hud": true,
+	      "TriggerID": 0,
+	      "UsePriority": false,
+	      "AbilityList": [
+	        {
+	          "Name": "",
+	          "ButtonID": 0,
+	          "ButtonClass": "",
+	          "Filter": "jianshi_user:1",
+	          "Chat_Uses": true,
+	          "Mode": 1,
+	          "MaxUses": 0,
+	          "CoolDown": 0
+	        }
+	      ]
+	    },
+	    {
+	      "Name": "Torch",
+	      "ShortName": "Torch",
+	      "Color": "{default}",
+	      "HammerID": "17591",
+	      "GlowColor": [0,255,0,1],
+	      "BlockPickup": false,
+	      "AllowTransfer": true,
+	      "ForceDrop": true,
+	      "Chat": true,
+	      "Hud": true,
+	      "TriggerID": 0,
+	      "UsePriority": true,
+	      "AbilityList": [
+	        {
+	          "Name": "",
+	          "ButtonID": 0,
+	          "ButtonClass": "",
+	          "Filter": "",
+	          "Chat_Uses": true,
+	          "Mode": 1,
+	          "MaxUses": 0,
+	          "CoolDown": 0
+	        }
+	      ]
+	    },
+	    {
+	      "Name": "Torch2",
+	      "ShortName": "Torch2",
+	      "Color": "{default}",
+	      "HammerID": "17600",
+	      "GlowColor": [0,255,0,1],
+	      "BlockPickup": false,
+	      "AllowTransfer": true,
+	      "ForceDrop": true,
+	      "Chat": true,
+	      "Hud": true,
+	      "TriggerID": 0,
+	      "UsePriority": true,
+	      "AbilityList": [
+	        {
+	          "Name": "",
+	          "ButtonID": 0,
+	          "ButtonClass": "",
+	          "Filter": "",
+	          "Chat_Uses": true,
+	          "Mode": 1,
+	          "MaxUses": 0,
+	          "CoolDown": 0
+	        }
+	      ]
+	    }
+	  ]
