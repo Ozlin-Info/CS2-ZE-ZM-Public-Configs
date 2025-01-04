@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ZE_SIT_CAELUM_PARADISUS ": {
+    "Translation": " ZE_SIT_CAELUM_PARADISUS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP BY SATOKA": {
+    "Translation": " MAP BY SATOKA",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CS2 Ported by Tenshi.": {
+    "Translation": " CS2 Ported by Tenshi.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM ": {
+    "Translation": " ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TRY TO USE THEM ": {
+    "Translation": " TRY TO USE THEM ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ROUTE ONE ": {
+    "Translation": " ROUTE ONE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TAKE FRONTLEFT DOOR ": {
+    "Translation": " TAKE FRONTLEFT DOOR ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

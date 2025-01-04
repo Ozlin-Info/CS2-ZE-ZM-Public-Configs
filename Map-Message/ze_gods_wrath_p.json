@@ -20,5 +20,20 @@
     "Translation": "We can get into the Other by takeing the portal outside these doors",
     "M-Bool": false,
     "Value": 0
+  },
+  "Map created by GrandOp": {
+    "Translation": "Map created by GrandOp",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie burner gun/Human healer gun": {
+    "Translation": "Zombie burner gun/Human healer gun",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Find the next portal and jump into it": {
+    "Translation": "Find the next portal and jump into it",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "map:forhidden voidoriginal made by Blackrock": {
+    "Translation": "map:forhidden voidoriginal made by Blackrock",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "port by lopb to cs2Thanks fong,Tenshi,x1aOFu and 气流 for offering help": {
+    "Translation": "port by lopb to cs2Thanks fong,Tenshi,x1aOFu and 气流 for offering help",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Warm Up Time ": {
+    "Translation": " Warm Up Time ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We have to take back our devices,Search the missing devices around the crash site!!!": {
+    "Translation": "We have to take back our devices,Search the missing devices around the crash site!!!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

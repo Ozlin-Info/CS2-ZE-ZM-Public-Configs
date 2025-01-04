@@ -5,5 +5,110 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  " Find the entrance to the Mansion and then locate and Destroy its ghostly power source! ": {
+    "Translation": " Find the entrance to the Mansion and then locate and Destroy its ghostly power source! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold Off Zombies for 20 seconds ": {
+    "Translation": " Hold Off Zombies for 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Gate Open!!! ": {
+    "Translation": " Gate Open!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " All those still in the dark forest will be banished to the pit in 30 seconds ": {
+    "Translation": " All those still in the dark forest will be banished to the pit in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Locate 1 of the 4 hidden Safe Zones and Hold off til the way to the tower is open ": {
+    "Translation": " Locate 1 of the 4 hidden Safe Zones and Hold off til the way to the tower is open ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Safe zone exits will open in 60 seconds ": {
+    "Translation": " Safe zone exits will open in 60 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " All those in the Lobby will be banished to the pit in 30 seconds! ": {
+    "Translation": " All those in the Lobby will be banished to the pit in 30 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Destroy the Rouge Luma ": {
+    "Translation": " Destroy the Rouge Luma ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Star Door will open in 35 seconds ": {
+    "Translation": " Star Door will open in 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The Haunted Dimension has become unstable ": {
+    "Translation": " The Haunted Dimension has become unstable ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We must escape the mansion before it take us with it! ": {
+    "Translation": " We must escape the mansion before it take us with it! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " All those in the tower will be banished to the pit in 15 seconds! ": {
+    "Translation": " All those in the tower will be banished to the pit in 15 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " All those still in the courtyard will be banished to the pit in 30 seconds! ": {
+    "Translation": " All those still in the courtyard will be banished to the pit in 30 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bowser has ambushed and cut you all off from the exit! ": {
+    "Translation": " Bowser has ambushed and cut you all off from the exit! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend yourselfs and hope that Luigi can rescue you in time ! ": {
+    "Translation": " Defend yourselfs and hope that Luigi can rescue you in time ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Beware of Bowser's Fire Breath! ": {
+    "Translation": " Beware of Bowser's Fire Breath! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Luigi has arrived ": {
+    "Translation": " Luigi has arrived ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Luigi will now help by lowering the bridge ": {
+    "Translation": " Luigi will now help by lowering the bridge ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Luigi has done it!! ": {
+    "Translation": " Luigi has done it!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Get across the bridge before it breaks! ": {
+    "Translation": " Get across the bridge before it breaks! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GET OUT NOW ": {
+    "Translation": " GET OUT NOW ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

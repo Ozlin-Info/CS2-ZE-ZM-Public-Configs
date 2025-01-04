@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ROCK WALL WILL BREAK IN 15 SECONDS": {
+    "Translation": "ROCK WALL WILL BREAK IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ROCK WALL WILL BREAK IN 5 SECONDS": {
+    "Translation": "ROCK WALL WILL BREAK IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FALL BACK": {
+    "Translation": "FALL BACK",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

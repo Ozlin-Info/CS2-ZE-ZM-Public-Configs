@@ -40,5 +40,155 @@
     "Translation": "You are too late!!!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Wait! Wait! She wants to attack us!": {
+    "Translation": "Wait! Wait! She wants to attack us!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Prepare for emergency landing!!!": {
+    "Translation": "Prepare for emergency landing!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Damn it! Where is this? There is a cave here to avoid it!": {
+    "Translation": "Damn it! Where is this? There is a cave here to avoid it!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Found the lever and activate it!": {
+    "Translation": "Found the lever and activate it!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Secret Quest] You found the energy crystal , item Wisp has unlocked!": {
+    "Translation": "[Secret Quest] You found the energy crystal , item Wisp has unlocked!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Fall Back!!!": {
+    "Translation": "Fall Back!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Here is like a super ancient monuments? We try to get ready to go, prepare for the adventure": {
+    "Translation": "Here is like a super ancient monuments? We try to get ready to go, prepare for the adventure",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Our world seems there have been some changes! Things that should not belong to our world appear in our world!": {
+    "Translation": "Our world seems there have been some changes! Things that should not belong to our world appear in our world!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This is...altar transfer? Wait! The altar convergence of energy": {
+    "Translation": "This is...altar transfer? Wait! The altar convergence of energy",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Full ready for battle! It seems that we have to go through another adventure": {
+    "Translation": "Full ready for battle! It seems that we have to go through another adventure",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold here!": {
+    "Translation": "Hold here!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Chapter  1  The Dread Biter": {
+    "Translation": "Chapter  1  The Dread Biter",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Looks like here is the world he mentioned, and it must be the sourse of Nidhogg The Dragon.": {
+    "Translation": "Looks like here is the world he mentioned, and it must be the sourse of Nidhogg The Dragon.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Be ware, take everything might be useful to our plan.": {
+    "Translation": "Be ware, take everything might be useful to our plan.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This is the only way to guard our world that we have to make it become real.": {
+    "Translation": "This is the only way to guard our world that we have to make it become real.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Altar transfer will activate after 30 seconds": {
+    "Translation": "Altar transfer will activate after 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Rocks will break in 15 seconds": {
+    "Translation": "Rocks will break in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Remember to get the itemUrd, its under the waterfall.": {
+    "Translation": "Remember to get the itemUrd, its under the waterfall.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Rocks will break in 40 seconds": {
+    "Translation": "Rocks will break in 40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Here should be the way to the next stop so defend right here.": {
+    "Translation": "Here should be the way to the next stop so defend right here.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We can't let those creatures approach to us.": {
+    "Translation": "We can't let those creatures approach to us.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let me check how to activate it...": {
+    "Translation": "Let me check how to activate it...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ok, it has been activated.Lets go!!!": {
+    "Translation": "Ok, it has been activated.Lets go!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The Firn...Honestly I have a bad feeling about the ice gorge in the front.": {
+    "Translation": "The Firn...Honestly I have a bad feeling about the ice gorge in the front.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "All units reload your weapons and prepared for any emergencies.": {
+    "Translation": "All units reload your weapons and prepared for any emergencies.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "It shouldn't be so quiet like what it covers, something must be hiding below.": {
+    "Translation": "It shouldn't be so quiet like what it covers, something must be hiding below.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Strange, where can we find that coagent...?": {
+    "Translation": "Strange, where can we find that coagent...?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This rock will break after 15 seconds": {
+    "Translation": "This rock will break after 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up Mimir": {
+    "Translation": "A player has picked up Mimir",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up Verdandi": {
+    "Translation": "A player has picked up Verdandi",
+    "M-Bool": false,
+    "Value": 0
   }
 }

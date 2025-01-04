@@ -1,0 +1,59 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ZE_FFVII_COSMO_CANYON": {
+    "Translation": "ZE_FFVII_COSMO_CANYON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by Headshooter.SC & HaRyDe": {
+    "Translation": "Map by Headshooter.SC & HaRyDe",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP ROUND": {
+    "Translation": "WARMUP ROUND",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NORMAL MODE": {
+    "Translation": "NORMAL MODE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!": {
+    "Translation": "[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] Do not worry. I know this place.. I was born in here..": {
+    "Translation": "[RedXIII] Do not worry. I know this place.. I was born in here..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?": {
+    "Translation": "[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] Of course. But I need to do something first.. I will see you in the Gi Cave. ": {
+    "Translation": "[RedXIII] Of course. But I need to do something first.. I will see you in the Gi Cave. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[RedXIII] There I will give you all the stuff you need. ": {
+    "Translation": "[RedXIII] There I will give you all the stuff you need. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Cloud] No problem. I will wait for you in there..": {
+    "Translation": "[Cloud] No problem. I will wait for you in there..",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

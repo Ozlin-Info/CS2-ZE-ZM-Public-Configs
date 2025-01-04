@@ -75,5 +75,20 @@
     "Translation": "GATE OPEN",
     "M-Bool": false,
     "Value": 0
+  },
+  "HELICOPTER ON THE WAY": {
+    "Translation": "HELICOPTER ON THE WAY",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CLIMB ON TO THE ROOF TOPS!": {
+    "Translation": "CLIMB ON TO THE ROOF TOPS!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LADDER TO ROOFTOP UNLOCKED OUTSIDE!": {
+    "Translation": "LADDER TO ROOFTOP UNLOCKED OUTSIDE!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -35,5 +35,25 @@
     "Translation": " Hold 30 second to destroy the fence",
     "M-Bool": false,
     "Value": 0
+  },
+  " A player has picked up fire magic ": {
+    "Translation": " A player has picked up fire magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " An undead learned wind magic ": {
+    "Translation": " An undead learned wind magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The wind is rising ": {
+    "Translation": " The wind is rising ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up earth magic ": {
+    "Translation": " A player has picked up earth magic ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

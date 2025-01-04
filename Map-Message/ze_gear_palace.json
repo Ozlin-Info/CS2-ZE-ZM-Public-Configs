@@ -15,5 +15,15 @@
     "Translation": "It is recommended to adjust the image quality to the highest level to achieve the best results.",
     "M-Bool": false,
     "Value": 0
+  },
+  "No human, Stage1 Fail": {
+    "Translation": "No human, Stage1 Fail",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "STAGE1 Clean": {
+    "Translation": "STAGE1 Clean",
+    "M-Bool": false,
+    "Value": 0
   }
 }

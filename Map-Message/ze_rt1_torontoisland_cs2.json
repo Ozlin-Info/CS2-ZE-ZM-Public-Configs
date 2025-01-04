@@ -289,11 +289,6 @@
     "M-Bool": false,
     "Value": 0
   },
-  " Level 2 ": {
-    "Translation": " Level 2, EN Translation: Allenw @ Ozlin server",
-    "M-Bool": false,
-    "Value": 0
-  },
   " 第二章_序幕 ": {
     "Translation": " Chapter Two: Prologue, EN Translation: Allenw @ Ozlin server",
     "M-Bool": false,
@@ -488,5 +483,15 @@
     "Translation": " Hold for 37 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " T3增益者已被拾取 ": {
+    "Translation": " T3增益者已被拾取 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 增益者提升范围内恶灵的能力，强化身体体能  ": {
+    "Translation": " 增益者提升范围内恶灵的能力，强化身体体能  ",
+    "M-Bool": false,
+    "Value": 0
   }
- }
+}

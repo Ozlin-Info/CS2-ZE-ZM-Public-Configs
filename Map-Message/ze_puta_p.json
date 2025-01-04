@@ -5,5 +5,10 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  " Current level: EASY": {
+    "Translation": " Current level: EASY",
+    "M-Bool": false,
+    "Value": 0
   }
 }

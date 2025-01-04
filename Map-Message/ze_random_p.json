@@ -130,5 +130,300 @@
     "Translation": "Beware K.'s SlenderMan! ",
     "M-Bool": false,
     "Value": 0
+  },
+  "LEVEL  COUCH ESCAPE": {
+    "Translation": "LEVEL  COUCH ESCAPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!": {
+    "Translation": "Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "If the world is going to end at least you'll have a warm seat!": {
+    "Translation": "If the world is going to end at least you'll have a warm seat!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie barrier breaking in 20secs get moving!": {
+    "Translation": "Zombie barrier breaking in 20secs get moving!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL  INTERSTELLAR ESCAPE 9": {
+    "Translation": "LEVEL  INTERSTELLAR ESCAPE 9",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Make your way from train to train until you reach the Black Express!": {
+    "Translation": "Make your way from train to train until you reach the Black Express!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL  CLASSIC": {
+    "Translation": "LEVEL  CLASSIC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie will arrive in 20secs!": {
+    "Translation": "Zombie will arrive in 20secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Survive for 75secs!": {
+    "Translation": "Survive for 75secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Survive for 15secs!": {
+    "Translation": "Survive for 15secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Don't Delay!": {
+    "Translation": "Don't Delay!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL CITY NIGHT ESCAPE": {
+    "Translation": "LEVEL CITY NIGHT ESCAPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Cargo door opening in 15secs!": {
+    "Translation": "Cargo door opening in 15secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Emergency doors closing in 10secs!": {
+    "Translation": "Emergency doors closing in 10secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boxcar door opening in 10secs!": {
+    "Translation": "Boxcar door opening in 10secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final express door opening in 25secs!": {
+    "Translation": "Final express door opening in 25secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final express door open!": {
+    "Translation": "Final express door open!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting to next map!": {
+    "Translation": "Teleporting to next map!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator 1 coming in 10secs!": {
+    "Translation": "Elevator 1 coming in 10secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator 1 leaving in 5secs!": {
+    "Translation": "Elevator 1 leaving in 5secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Power lost. Shoot the doors!": {
+    "Translation": "Power lost. Shoot the doors!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold until the escape helicopter comes in pick you up!": {
+    "Translation": "Hold until the escape helicopter comes in pick you up!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Fall Back Balcony open!": {
+    "Translation": "Fall Back Balcony open!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Helicopter coming in 5secs!": {
+    "Translation": "Helicopter coming in 5secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4": {
+    "Translation": "4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OH SH!!": {
+    "Translation": "OH SH!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold W to go faster and S to slow down!": {
+    "Translation": "Hold W to go faster and S to slow down!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Jump and be careful not to hit to many stoppers!": {
+    "Translation": "Jump and be careful not to hit to many stoppers!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Carpet leaving in 3secs!": {
+    "Translation": "Carpet leaving in 3secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door breaking in 10secs!": {
+    "Translation": "Door breaking in 10secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hurry through the warehouse while the carpet passes under!": {
+    "Translation": "Hurry through the warehouse while the carpet passes under!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Shoot the Block!": {
+    "Translation": "Shoot the Block!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend for 35secs as the Carpet...refuels...?": {
+    "Translation": "Defend for 35secs as the Carpet...refuels...?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Carpet leaves in 5secs!": {
+    "Translation": "Carpet leaves in 5secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting to FINAL MAP!": {
+    "Translation": "Teleporting to FINAL MAP!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL LEVEL  ZOMBIE MURDER": {
+    "Translation": "FINAL LEVEL  ZOMBIE MURDER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies will arrive soon!": {
+    "Translation": "Zombies will arrive soon!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold the sign for 20secs!": {
+    "Translation": "Hold the sign for 20secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL BOSS INCOMING!": {
+    "Translation": "FINAL BOSS INCOMING!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE is about to collapse! GET OFF!": {
+    "Translation": "ZOMBIE is about to collapse! GET OFF!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "JUMP OFF!": {
+    "Translation": "JUMP OFF!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Shoot it before your knocked off!!": {
+    "Translation": "Shoot it before your knocked off!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final attack will be charged in 60secs!!": {
+    "Translation": "Final attack will be charged in 60secs!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Watch out for...barrel...attacks...?": {
+    "Translation": "Watch out for...barrel...attacks...?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The Boss has been weakened But it will recover in 60secs and use its final attack!": {
+    "Translation": "The Boss has been weakened But it will recover in 60secs and use its final attack!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CT's will have to jump off and activate the switches!": {
+    "Translation": "CT's will have to jump off and activate the switches!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!": {
+    "Translation": "Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Switch 1 Unlocked!": {
+    "Translation": "Switch 1 Unlocked!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Switch Activated!": {
+    "Translation": "Switch Activated!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HURRY UP!!!": {
+    "Translation": "HURRY UP!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "All Switches ON!!": {
+    "Translation": "All Switches ON!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PORTAL COLLAPSING IN 10secs!! ": {
+    "Translation": "PORTAL COLLAPSING IN 10secs!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "JUMP INTO THE ORB!!": {
+    "Translation": "JUMP INTO THE ORB!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold these crates while someone breaks the barrier and gets the couch going!": {
+    "Translation": "Hold these crates while someone breaks the barrier and gets the couch going!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Barrier breaking in 5secs!": {
+    "Translation": "Barrier breaking in 5secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hurry under! Zombie block planks breaking in 15secs!": {
+    "Translation": "Hurry under! Zombie block planks breaking in 15secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Couch Only! Take the alleyway!": {
+    "Translation": "Couch Only! Take the alleyway!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Only 60secs left!": {
+    "Translation": "Only 60secs left!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!": {
+    "Translation": "HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

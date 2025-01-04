@@ -20,5 +20,45 @@
     "Translation": " Get going before the platform breaks! Hurry! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Wall breaks in 20 seconds. ": {
+    "Translation": " Wall breaks in 20 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Move! ": {
+    "Translation": " Move! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Slowpoke teleport in 15 seconds.": {
+    "Translation": " Slowpoke teleport in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Second teleport in 20 seconds! Don't stay behind. ": {
+    "Translation": " Second teleport in 20 seconds! Don't stay behind. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Final glass window will open in 50 seconds... ": {
+    "Translation": " Final glass window will open in 50 seconds... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Glass window is opening in 15 seconds. ": {
+    "Translation": " Glass window is opening in 15 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Glass window is opening in 5 seconds! Get ready! ": {
+    "Translation": " Glass window is opening in 5 seconds! Get ready! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Deadly gas launched! 10 seconds until glass door is sealed! ": {
+    "Translation": " Deadly gas launched! 10 seconds until glass door is sealed! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

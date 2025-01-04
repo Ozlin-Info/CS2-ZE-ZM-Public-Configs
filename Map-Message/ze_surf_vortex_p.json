@@ -5,5 +5,10 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "Teleport activates in 20 seconds": {
+    "Translation": "Teleport activates in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Welcome in New York City Zombie Escape ": {
+    "Translation": " Welcome in New York City Zombie Escape ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by ziomekYOYO ": {
+    "Translation": " Map by ziomekYOYO ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
