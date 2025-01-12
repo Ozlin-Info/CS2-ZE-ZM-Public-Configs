@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "群星灿烂 海洋汹涌 大地沉默": {
+    "Translation": "群星灿烂 海洋汹涌 大地沉默",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "一切有序如常 与昨日并无区别": {
+    "Translation": "一切有序如常 与昨日并无区别",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "旅途还未结束...": {
+    "Translation": "旅途还未结束...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "走廊还有30秒可以通行": {
+    "Translation": "走廊还有30秒可以通行",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "走廊还有20秒可以通行": {
+    "Translation": "走廊还有20秒可以通行",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "走廊还有10秒可以通行": {
+    "Translation": "走廊还有10秒可以通行",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "走廊已开放，??还需要坚持10秒": {
+    "Translation": "走廊已开放，??还需要坚持10秒",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

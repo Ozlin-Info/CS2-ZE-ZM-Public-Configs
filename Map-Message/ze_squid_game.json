@@ -6,18 +6,18 @@
       "Value": 0
     }
   },
-  "Map by Sea_Sedge": {
-    "Translation": "Map by Sea_Sedge",
+  " MAP BY =LIROY= ": {
+    "Translation": " MAP BY =LIROY= ",
     "M-Bool": false,
     "Value": 0
   },
-  "Ported by oVo": {
-    "Translation": "Ported by oVo",
+  "DOOR OPENING IN 40 SEC": {
+    "Translation": "DOOR OPENING IN 40 SEC",
     "M-Bool": false,
     "Value": 0
   },
-  "The road will open in 25 seconds": {
-    "Translation": "The road will open in 25 seconds",
+  "ZOMBIES ARE GONE ! GO TO THE DOOR !": {
+    "Translation": "ZOMBIES ARE GONE ! GO TO THE DOOR !",
     "M-Bool": false,
     "Value": 0
   }

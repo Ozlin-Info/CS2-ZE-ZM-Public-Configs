@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " created by king buzzo ": {
+    "Translation": " created by king buzzo ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " max rooms: 5 ": {
+    "Translation": " max rooms: 5 ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

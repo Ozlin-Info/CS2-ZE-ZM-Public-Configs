@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " stage set to [Ring] ": {
+    "Translation": " stage set to [Ring] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map creat by lopb,Port by linyan ": {
+    "Translation": " Map creat by lopb,Port by linyan ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map is currently being tested ": {
+    "Translation": " Map is currently being tested ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Maybe one day, shadow will be really defeated ": {
+    "Translation": " Maybe one day, shadow will be really defeated ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " stage set to [Core] ": {
+    "Translation": " stage set to [Core] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Shadow ruled the world a long time ago ": {
+    "Translation": " Shadow ruled the world a long time ago ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 seconds left ": {
+    "Translation": " 20 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Camouflage weakens shadow ": {
+    "Translation": " Camouflage weakens shadow ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

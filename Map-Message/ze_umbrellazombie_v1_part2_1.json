@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map Creator : Platin": {
+    "Translation": "Map Creator : Platin",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Test Server : Mapeadores  GFL": {
+    "Translation": "Test Server : Mapeadores  GFL",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN !!!": {
+    "Translation": "RUN !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door will open in 30 seconds ": {
+    "Translation": " The door will open in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE TELEPORT 10 SECONDS ": {
+    "Translation": " ZOMBIE TELEPORT 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE DOOR OPENING ": {
+    "Translation": " THE DOOR OPENING ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

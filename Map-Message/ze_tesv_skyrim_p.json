@@ -50,5 +50,15 @@
     "Translation": " Stage 1 Helgen ",
     "M-Bool": false,
     "Value": 0
+  },
+  " City gate closes in 50 seconds ": {
+    "Translation": " City gate closes in 50 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Run for the helgen keep NOW! ": {
+    "Translation": " Run for the helgen keep NOW! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

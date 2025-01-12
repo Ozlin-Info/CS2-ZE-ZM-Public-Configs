@@ -50,5 +50,10 @@
     "Translation": " 5 seconds left ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Lightning Orb has been acquired ": {
+    "Translation": " Lightning Orb has been acquired ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

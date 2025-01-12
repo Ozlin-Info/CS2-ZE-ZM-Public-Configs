@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Warmup": {
+    "Translation": "Warmup",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by runa&MercuryQaQ ": {
+    "Translation": " Map by runa&MercuryQaQ ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ze_FFXIV_Great_Gubal_Library": {
+    "Translation": " ze_FFXIV_Great_Gubal_Library",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Special thanks to seth and 7ychu5 for their special effects support ": {
+    "Translation": " Special thanks to seth and 7ychu5 for their special effects support ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Special thanks to Tenshi and Shana for their technical help ": {
+    "Translation": " Special thanks to Tenshi and Shana for their technical help ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Special thanks to 千音星璃 for sponsoring this map ": {
+    "Translation": " Special thanks to 千音星璃 for sponsoring this map ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Normal": {
+    "Translation": "Normal",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend until the gates open 30s ": {
+    "Translation": " Defend until the gates open 30s ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

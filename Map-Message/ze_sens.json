@@ -5,5 +5,30 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "光明是虚假的": {
+    "Translation": "光明是虚假的",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是真实的": {
+    "Translation": "光明是真实的",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是虚幻的": {
+    "Translation": "光明是虚幻的",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是虚伪的": {
+    "Translation": "光明是虚伪的",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是虚无缥缈的": {
+    "Translation": "光明是虚无缥缈的",
+    "M-Bool": false,
+    "Value": 0
   }
 }

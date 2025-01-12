@@ -75,5 +75,25 @@
     "Translation": "# ZOMBIES TELEPORTED!!! #",
     "M-Bool": false,
     "Value": 0
+  },
+  "# 20 SECONDS DEFEND #": {
+    "Translation": "# 20 SECONDS DEFEND #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# MAP: zombies are being helped... #": {
+    "Translation": "# MAP: zombies are being helped... #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# 5 SECONDS DEFEND #": {
+    "Translation": "# 5 SECONDS DEFEND #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# ALL HUMANS FALL BACK #": {
+    "Translation": "# ALL HUMANS FALL BACK #",
+    "M-Bool": false,
+    "Value": 0
   }
 }
