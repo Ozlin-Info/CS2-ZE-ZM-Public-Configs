@@ -485,12 +485,12 @@
     "Value": 0
   },
   " T3增益者已被拾取 ": {
-    "Translation": " T3增益者已被拾取 ",
+    "Translation": " T3 Enhancer has picked up ",
     "M-Bool": false,
     "Value": 0
   },
   " 增益者提升范围内恶灵的能力，强化身体体能  ": {
-    "Translation": " 增益者提升范围内恶灵的能力，强化身体体能  ",
+    "Translation": "Enhancer increases the abilities of evil spirits within the range and strengthens their physical fitness.",
     "M-Bool": false,
     "Value": 0
   }
