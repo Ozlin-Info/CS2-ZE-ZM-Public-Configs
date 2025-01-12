@@ -7,27 +7,27 @@
     }
   },
   "光明是虚假的": {
-    "Translation": "光明是虚假的",
+    "Translation": "Light is fake.",
     "M-Bool": false,
     "Value": 0
   },
   "光明是真实的": {
-    "Translation": "光明是真实的",
+    "Translation": "Light is real.",
     "M-Bool": false,
     "Value": 0
   },
   "光明是虚幻的": {
-    "Translation": "光明是虚幻的",
+    "Translation": "Light is illusory.",
     "M-Bool": false,
     "Value": 0
   },
   "光明是虚伪的": {
-    "Translation": "光明是虚伪的",
+    "Translation": "Light is hypocritical.",
     "M-Bool": false,
     "Value": 0
   },
   "光明是虚无缥缈的": {
-    "Translation": "光明是虚无缥缈的",
+    "Translation": "Light is ethereal.",
     "M-Bool": false,
     "Value": 0
   }
