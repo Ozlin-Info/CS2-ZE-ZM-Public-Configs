@@ -7,7 +7,7 @@
     }
   },
   "20s解锁按钮": {
-    "Translation": "20s解锁按钮",
+    "Translation": "20s unlock button",
     "M-Bool": false,
     "Value": 0
   }

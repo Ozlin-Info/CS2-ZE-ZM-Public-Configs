@@ -7,37 +7,37 @@
     }
   },
   "群星灿烂 海洋汹涌 大地沉默": {
-    "Translation": "群星灿烂 海洋汹涌 大地沉默",
+    "Translation": "The stars shine brightly, the ocean surges, the earth is silent.",
     "M-Bool": false,
     "Value": 0
   },
   "一切有序如常 与昨日并无区别": {
-    "Translation": "一切有序如常 与昨日并无区别",
+    "Translation": "Everything is orderly as usual, no different from yesterday.",
     "M-Bool": false,
     "Value": 0
   },
   "旅途还未结束...": {
-    "Translation": "旅途还未结束...",
+    "Translation": "The journey is not yet over...",
     "M-Bool": false,
     "Value": 0
   },
   "走廊还有30秒可以通行": {
-    "Translation": "走廊还有30秒可以通行",
+    "Translation": "The corridor is passable for another 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "走廊还有20秒可以通行": {
-    "Translation": "走廊还有20秒可以通行",
+    "Translation": "The corridor is passable for another 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "走廊还有10秒可以通行": {
-    "Translation": "走廊还有10秒可以通行",
+    "Translation": "The corridor is passable for another 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "走廊已开放，??还需要坚持10秒": {
-    "Translation": "走廊已开放，??还需要坚持10秒",
+    "Translation": "The corridor is open, but we still need to hold for 10 seconds.",
     "M-Bool": false,
     "Value": 0
   }

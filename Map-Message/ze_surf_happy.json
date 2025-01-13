@@ -7,57 +7,57 @@
     }
   },
   " 作者 Map by：港村村长 ": {
-    "Translation": " 作者 Map by：港村村长 ",
+    "Translation": "Author Map by: 港村村长 VillageHead",
     "M-Bool": false,
     "Value": 0
   },
   " 移植 Port by：凯尔希的老公 ": {
-    "Translation": " 移植 Port by：凯尔希的老公 ",
+    "Translation": "Port by: Kelsey’s Husband, EN Translation: Allenw @ Ozlin server",
     "M-Bool": false,
     "Value": 0
   },
   " 10秒后开始传送 ": {
-    "Translation": " 10秒后开始传送 ",
+    "Translation": "Teleportation starts in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 尸笼15秒后释放 ": {
-    "Translation": " 尸笼15秒后释放 ",
+    "Translation": "The corpse cage will be released in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 防守60秒后人类传送 ": {
-    "Translation": " 防守60秒后人类传送 ",
+    "Translation": "Human teleportation after 60 seconds of defense.",
     "M-Bool": false,
     "Value": 0
   },
   " 30秒集体传送 ": {
-    "Translation": " 30秒集体传送 ",
+    "Translation": "Group teleportation in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 40秒后集体传送 ": {
-    "Translation": " 40秒后集体传送 ",
+    "Translation": "Group teleportation in 40 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 60秒后断桥 ": {
-    "Translation": " 60秒后断桥 ",
+    "Translation": "Bridge will break in 60 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 10秒后集体传送 ": {
-    "Translation": " 10秒后集体传送 ",
+    "Translation": "Group teleportation in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 5秒后集体传送 ": {
-    "Translation": " 5秒后集体传送 ",
+    "Translation": "Group teleportation in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 10秒后断桥 ": {
-    "Translation": " 10秒后断桥 ",
+    "Translation": "Bridge will break in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   }
