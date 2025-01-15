@@ -25,5 +25,85 @@
     "Translation": " Zombies will teleport in 10 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " The road is clear after 35 seconds ": {
+    "Translation": " The road is clear after 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " for back ": {
+    "Translation": " for back ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " survive 50 seconds ": {
+    "Translation": " survive 50 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " zombie tele in 10 seconds ": {
+    "Translation": " zombie tele in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " wo must find a way out of here ": {
+    "Translation": " wo must find a way out of here ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " maby we can climb up the stars ": {
+    "Translation": " maby we can climb up the stars ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " zombie teleport run now": {
+    "Translation": " zombie teleport run now",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombie teleport in 10 seconds left ": {
+    "Translation": " Zombie teleport in 10 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The wall break 25 seconds left ": {
+    "Translation": " The wall break 25 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies will teleport in 8 seconds ": {
+    "Translation": " Zombies will teleport in 8 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The wall break in 35 seconds left ": {
+    "Translation": " The wall break in 35 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold this position for 35 seconds ": {
+    "Translation": " Hold this position for 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold for 35 seconds ": {
+    "Translation": " Hold for 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The helicopter will evacuate after 45 seconds ": {
+    "Translation": " The helicopter will evacuate after 45 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombie teleport in 10 seconds ": {
+    "Translation": " Zombie teleport in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " stage complete ": {
+    "Translation": " stage complete ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

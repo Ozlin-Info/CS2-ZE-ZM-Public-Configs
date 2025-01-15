@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "!!! LEVEL 1  !!!": {
+    "Translation": "!!! LEVEL 1  !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! COLD MOUNTAIN !!!": {
+    "Translation": "!!! COLD MOUNTAIN !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! THE COLD HURTS !!!": {
+    "Translation": "!!! THE COLD HURTS !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! FIRE BARRELS HEALS !!!": {
+    "Translation": "!!! FIRE BARRELS HEALS !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PREVIOUS FIRE EXTINGUISHING ": {
+    "Translation": " PREVIOUS FIRE EXTINGUISHING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! HOLD 50 SECONDS !!!": {
+    "Translation": "!!! HOLD 50 SECONDS !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! HUMANS WIN !!!": {
+    "Translation": "!!! HUMANS WIN !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! LEVEL 2 !!!": {
+    "Translation": "!!! LEVEL 2 !!!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

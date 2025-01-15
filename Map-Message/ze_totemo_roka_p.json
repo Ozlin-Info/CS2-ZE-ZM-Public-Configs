@@ -20,5 +20,25 @@
     "Translation": " Swim to the shore! We must reach the top! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Something moved upon touching the gem... ": {
+    "Translation": " Something moved upon touching the gem... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A relay of sorts seems to be moving in the back  wait for something to happen! ": {
+    "Translation": " A relay of sorts seems to be moving in the back  wait for something to happen! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The way is clear! We must reach the top of Totemo Roka! ": {
+    "Translation": " The way is clear! We must reach the top of Totemo Roka! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We gotta hold our ground over here! ": {
+    "Translation": " We gotta hold our ground over here! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

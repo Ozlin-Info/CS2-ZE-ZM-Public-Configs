@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Stage 1 ": {
+    "Translation": " Stage 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ze_Tyranny2 ": {
+    "Translation": " ze_Tyranny2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by Moray and nano ": {
+    "Translation": " Map by Moray and nano ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Updates by HOBGOBLIN and djinnz ": {
+    "Translation": " Updates by HOBGOBLIN and djinnz ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Ported from CSS v2 version by Tenshi. ": {
+    "Translation": " Ported from CSS v2 version by Tenshi. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CS2 Ported Thanks: 礼绮罗Reikira, Enc0d2r, 肖肖肖娜薇恩, 秋言不会跳刀 ": {
+    "Translation": " CS2 Ported Thanks: 礼绮罗Reikira, Enc0d2r, 肖肖肖娜薇恩, 秋言不会跳刀 ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

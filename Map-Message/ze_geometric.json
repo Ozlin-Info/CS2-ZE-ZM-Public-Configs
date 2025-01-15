@@ -6,18 +6,18 @@
       "Value": 0
     }
   },
-  "keep 25S": {
-    "Translation": "keep 25S",
+  " STAGE SQUARE ": {
+    "Translation": " STAGE SQUARE ",
     "M-Bool": false,
     "Value": 0
   },
-  "keep 30S": {
-    "Translation": "keep 30S",
+  "Current BGM: MAZRDOLL::#V[Sempronius]   AcuticNotes": {
+    "Translation": "Current BGM: MAZRDOLL::#V[Sempronius]   AcuticNotes",
     "M-Bool": false,
     "Value": 0
   },
-  "we can get on the bridge in 30S": {
-    "Translation": "we can get on the bridge in 30S",
+  " Hold for 25 seconds ": {
+    "Translation": " Hold for 25 seconds ",
     "M-Bool": false,
     "Value": 0
   }

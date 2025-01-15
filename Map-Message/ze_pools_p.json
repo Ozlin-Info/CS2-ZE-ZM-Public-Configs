@@ -25,5 +25,45 @@
     "Translation": "afk tp 25 s",
     "M-Bool": false,
     "Value": 0
+  },
+  "door opens 20 s": {
+    "Translation": "door opens 20 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 s ": {
+    "Translation": "5 s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "afk tp 20 s": {
+    "Translation": "afk tp 20 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "opens": {
+    "Translation": "opens",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "opens 10 s": {
+    "Translation": "opens 10 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "opens 25 s": {
+    "Translation": "opens 25 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "this is the final door, run!": {
+    "Translation": "this is the final door, run!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "nuke in 20 seconds": {
+    "Translation": "nuke in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }
