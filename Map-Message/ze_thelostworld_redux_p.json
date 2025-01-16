@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " THE PLANE IS GOING TO CRASH ": {
+    "Translation": " THE PLANE IS GOING TO CRASH ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BRACE YOURSELVES ": {
+    "Translation": " BRACE YOURSELVES ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Follow the game trails through the island interior to reach Embryonic Research B. ": {
+    "Translation": " Follow the game trails through the island interior to reach Embryonic Research B. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TELE 20 SECONDS": {
+    "Translation": "AFK TELE 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TELE 10 SECONDS": {
+    "Translation": "AFK TELE 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

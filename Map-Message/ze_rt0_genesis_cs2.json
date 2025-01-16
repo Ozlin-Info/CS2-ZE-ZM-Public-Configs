@@ -65,5 +65,15 @@
     "Translation": " surround wind ",
     "M-Bool": false,
     "Value": 0
+  },
+  " 25s后处死还在出生点的人类": {
+    "Translation": " 25s后处死还在出生点的人类",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 你待的太久了 ": {
+    "Translation": " 你待的太久了 ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
