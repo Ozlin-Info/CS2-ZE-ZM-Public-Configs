@@ -10,5 +10,60 @@
     "Translation": "MAP MADE BY GARGANTUA",
     "M-Bool": false,
     "Value": 0
+  },
+  "DOOR WILL OPEN IN 80 SECONDS.": {
+    "Translation": "DOOR WILL OPEN IN 80 SECONDS.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 60 SECONDS.": {
+    "Translation": "DOOR WILL OPEN IN 60 SECONDS.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 30 SECONDS.": {
+    "Translation": "DOOR WILL OPEN IN 30 SECONDS.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 15 SECONDS.": {
+    "Translation": "DOOR WILL OPEN IN 15 SECONDS.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 10 SECONDS.": {
+    "Translation": "DOOR WILL OPEN IN 10 SECONDS.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR IS NOW OPEN!!": {
+    "Translation": "DOOR IS NOW OPEN!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TRAIN IS LEAVING IN 15 SECONDS.": {
+    "Translation": "TRAIN IS LEAVING IN 15 SECONDS.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TRAIN IS LEAVING IN 10 SECONDS.": {
+    "Translation": "TRAIN IS LEAVING IN 10 SECONDS.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TRAIN IS LEAVING IN 5 SECONDS.": {
+    "Translation": "TRAIN IS LEAVING IN 5 SECONDS.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TRAIN IS LEAVING NOW!!": {
+    "Translation": "TRAIN IS LEAVING NOW!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "INCOMING AIRSTRIKE!!": {
+    "Translation": "INCOMING AIRSTRIKE!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

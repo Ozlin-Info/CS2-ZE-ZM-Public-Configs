@@ -25,5 +25,50 @@
     "Translation": "# PART 1  ESCAPE! #",
     "M-Bool": false,
     "Value": 0
+  },
+  "!!! HOLD THIS POSITION !!!": {
+    "Translation": "!!! HOLD THIS POSITION !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! GATE OPEN !!!": {
+    "Translation": "!!! GATE OPEN !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! FALL BACK !!!": {
+    "Translation": "!!! FALL BACK !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! DOOR OPEN !!!": {
+    "Translation": "!!! DOOR OPEN !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! HOLD HERE !!!": {
+    "Translation": "!!! HOLD HERE !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# SANDBAG WALL #": {
+    "Translation": "# SANDBAG WALL #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! FINAL DOOR CLOSING IN !!!": {
+    "Translation": "!!! FINAL DOOR CLOSING IN !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! 40 SECONDS !!!": {
+    "Translation": "!!! 40 SECONDS !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! 30 SECONDS !!!": {
+    "Translation": "!!! 30 SECONDS !!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

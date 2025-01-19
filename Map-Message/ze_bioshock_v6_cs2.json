@@ -80,5 +80,20 @@
     "Translation": "Current Difficulty: Easy",
     "M-Bool": false,
     "Value": 0
+  },
+  "Wait for Bathysphere arrival  25s": {
+    "Translation": "Wait for Bathysphere arrival  25s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bathysphere is docking...": {
+    "Translation": "Bathysphere is docking...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Get in the Bathysphere  12s": {
+    "Translation": "Get in the Bathysphere  12s",
+    "M-Bool": false,
+    "Value": 0
   }
 }

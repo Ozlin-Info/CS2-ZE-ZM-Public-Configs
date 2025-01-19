@@ -20,5 +20,25 @@
     "Translation": "FALL BACK",
     "M-Bool": false,
     "Value": 0
+  },
+  "^This fella is a sillywilly that everyone should point and laugh at!": {
+    "Translation": "^This fella is a sillywilly that everyone should point and laugh at!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "...": {
+    "Translation": "...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PLAYER PICKED UP ITEM  SPEEDER": {
+    "Translation": "PLAYER PICKED UP ITEM  SPEEDER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Everyone should really consider sending Luffaren some nudes": {
+    "Translation": "Everyone should really consider sending Luffaren some nudes",
+    "M-Bool": false,
+    "Value": 0
   }
 }
