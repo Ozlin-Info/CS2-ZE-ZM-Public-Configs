@@ -25,5 +25,10 @@
     "Translation": "The zombie has obtained 'Erasure'.",
     "M-Bool": false,
     "Value": 0
+  },
+  "5S": {
+    "Translation": "5S",
+    "M-Bool": false,
+    "Value": 0
   }
 }

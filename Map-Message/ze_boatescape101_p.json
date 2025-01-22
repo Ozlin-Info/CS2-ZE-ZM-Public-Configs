@@ -50,5 +50,10 @@
     "Translation": "HELI LEAVING 10 SECONDS",
     "M-Bool": false,
     "Value": 0
+  },
+  "USE RADIO TO CALL FOR HELP!": {
+    "Translation": "USE RADIO TO CALL FOR HELP!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

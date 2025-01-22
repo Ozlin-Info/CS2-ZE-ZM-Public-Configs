@@ -15,5 +15,125 @@
     "Translation": " The Ministry has completely collapsed and needs to be reported to Lordaeron urgently ",
     "M-Bool": false,
     "Value": 0
+  },
+  " A player picked up the zombie health ": {
+    "Translation": " A player picked up the zombie health ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold on for 20s ": {
+    "Translation": " Hold on for 20s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend zombies for 20 seconds and wait for the door to open ": {
+    "Translation": " Defend zombies for 20 seconds and wait for the door to open ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Don't let zombies break through the line of defense. Wait for the gate to close ": {
+    "Translation": " Don't let zombies break through the line of defense. Wait for the gate to close ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player picked up soil ": {
+    "Translation": " A player picked up soil ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A zombie has speed item": {
+    "Translation": "A zombie has speed item",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player picked up lightning ": {
+    "Translation": " A player picked up lightning ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has picked up healing ": {
+    "Translation": " A player has picked up healing ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "One player picked up the wind": {
+    "Translation": "One player picked up the wind",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player picked up the Incendiary Feather Immortal  ": {
+    "Translation": " A player picked up the Incendiary Feather Immortal  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player picked up the gao da": {
+    "Translation": "A player picked up the gao da",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30s ": {
+    "Translation": " 30s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold for 15 seconds ": {
+    "Translation": " Hold for 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player picked up the circular wind ": {
+    "Translation": " A player picked up the circular wind ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Open the road in 25 seconds and hold your ground! ": {
+    "Translation": " Open the road in 25 seconds and hold your ground! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10s": {
+    "Translation": "10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Please wait for 10 seconds ": {
+    "Translation": " Please wait for 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up the book": {
+    "Translation": "A player has picked up the book",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "say  good job! This book records how to unlock the switch and protect it ": {
+    "Translation": "say  good job! This book records how to unlock the switch and protect it ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " You need to throw it on the designated altar ": {
+    "Translation": " You need to throw it on the designated altar ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Open the small door in 25 seconds ": {
+    "Translation": " Open the small door in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Break the small door, please wait ": {
+    "Translation": " Break the small door, please wait ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Resist zombies for 30 seconds ": {
+    "Translation": " Resist zombies for 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Please wait 30 seconds ": {
+    "Translation": " Please wait 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

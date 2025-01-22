@@ -10,5 +10,20 @@
     "Translation": "Ladder blockade breaking in 7 seconds...",
     "M-Bool": false,
     "Value": 0
+  },
+  "The other ladder blockade will break in 15 seconds...": {
+    "Translation": "The other ladder blockade will break in 15 seconds...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting bottom area in 10 seconds!": {
+    "Translation": "Teleporting bottom area in 10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting bottom area!": {
+    "Translation": "Teleporting bottom area!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

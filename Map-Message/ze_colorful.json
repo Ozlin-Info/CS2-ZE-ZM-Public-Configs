@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ze_colorful": {
+    "Translation": "ze_colorful",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special thanks : thas and kune": {
+    "Translation": "Special thanks : thas and kune",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks to all players in PSE for testing.": {
+    "Translation": "Thanks to all players in PSE for testing.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by maqu": {
+    "Translation": "Map by maqu",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Resist for 30 sec.": {
+    "Translation": "Resist for 30 sec.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait for 15sec.": {
+    "Translation": "Wait for 15sec.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Afk tp in 10 sec.": {
+    "Translation": "Afk tp in 10 sec.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
