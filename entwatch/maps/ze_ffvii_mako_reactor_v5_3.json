@@ -16,13 +16,14 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
+				"Name": "magia_cura_button",
+		        "ButtonID": 643,
+		        "ButtonClass": "func_button",
+		        "Filter": "portador_heal",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 50
 			}
 		]
 	},
@@ -43,13 +44,14 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
+				"Name": "hielo_f_button",
+		        "ButtonID": 596,
+		        "ButtonClass": "func_button",
+		        "Filter": "portador_ice",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 55
 			}
 		]
 	},
@@ -70,17 +72,20 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 6,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 678,
-				"MathNameFix": false
+				"Name": "rayo_bot",
+		        "ButtonID": 674,
+		        "ButtonClass": "func_button",
+		        "Filter": "portador_electro",
+		        "Chat_Uses": true,
+		        "Mode": 6,
+		        "MaxUses": 0,
+		        "CoolDown": 0,
+		        "Ignore": false,
+		        "LockItem": false,
+		        "MathID": 678,
+		        "MathNameFix": false,
+		        "MathFindSpawned": false,
+		        "MathDontShowMax": true
 			}
 		]
 	},
@@ -101,13 +106,14 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
+				"Name": "magia_viento_button",
+		        "ButtonID": 627,
+		        "ButtonClass": "func_button",
+		        "Filter": "portador_viento",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 55
 			}
 		]
 	},
@@ -128,13 +134,14 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
+				"Name": "magia_tierra_button",
+		        "ButtonID": 636,
+		        "ButtonClass": "func_button",
+		        "Filter": "portador_earth",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 55
 			}
 		]
 	},
@@ -155,13 +162,14 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
+				"Name": "1b",
+		        "ButtonID": 612,
+		        "ButtonClass": "func_button",
+		        "Filter": "portador_fire",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 55
 			}
 		]
 	},
@@ -182,13 +190,14 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 1,
-				"CoolDown": 20
+				"Name": "boton_ultima",
+		        "ButtonID": 573,
+		        "ButtonClass": "func_button",
+		        "Filter": "portador_ultima",
+		        "Chat_Uses": true,
+		        "Mode": 4,
+		        "MaxUses": 1,
+		        "CoolDown": 20
 			}
 		]
 	},
@@ -209,13 +218,14 @@
 		"UsePriority": false,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
+				"Name": "magia_gravedad_button",
+		        "ButtonID": 709,
+		        "ButtonClass": "func_button",
+		        "Filter": "portador_gravedad",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 55
 			}
 		]
 	}
