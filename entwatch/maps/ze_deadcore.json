@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "1号光炮/Cannon 1",	
+		"Name": "1号光炮/Cannon 1",
 		"ShortName": "Cannon 1",
 		"Color": "{default}",
 		"HammerID": 5082,
@@ -14,13 +14,13 @@
 		"Hud": true,
 		"TriggerID": 0,
 		"UsePriority": true,
-		"AbilityList": [	
+		"AbilityList": [
 			{
 				"Name": "cannon1_button1",
 				"ButtonID": 4634,
 				"ButtonClass": "func_physbox",
 				"Chat_Uses": false,
-				"Mode": 0,
+				"Mode": 1,
 				"MaxUses": 0,
 				"CoolDown": 0
 			},
@@ -29,14 +29,14 @@
 				"ButtonID": 5476,
 				"ButtonClass": "func_button",
 				"Chat_Uses": false,
-				"Mode": 0,
+				"Mode": 1,
 				"MaxUses": 0,
 				"CoolDown": 0
 			}
 		]
 	},
 	{
-		"Name": "2号光炮/Cannon 2",	
+		"Name": "2号光炮/Cannon 2",
 		"ShortName": "Cannon 2",
 		"Color": "{default}",
 		"HammerID": 4712,
@@ -50,13 +50,13 @@
 		"Hud": true,
 		"TriggerID": 0,
 		"UsePriority": true,
-		"AbilityList": [	
+		"AbilityList": [
 			{
 				"Name": "cannon2_button1",
 				"ButtonID": 4713,
 				"ButtonClass": "func_physbox",
 				"Chat_Uses": false,
-				"Mode": 0,
+				"Mode": 1,
 				"MaxUses": 0,
 				"CoolDown": 0
 			},
@@ -65,14 +65,14 @@
 				"ButtonID": 5472,
 				"ButtonClass": "func_button",
 				"Chat_Uses": false,
-				"Mode": 0,
+				"Mode": 1,
 				"MaxUses": 0,
 				"CoolDown": 0
 			}
 		]
 	},
 	{
-		"Name": "3号光炮/Cannon 3",	
+		"Name": "3号光炮/Cannon 3",
 		"ShortName": "Cannon 3",
 		"Color": "{default}",
 		"HammerID": 728,
@@ -86,13 +86,13 @@
 		"Hud": true,
 		"TriggerID": 0,
 		"UsePriority": true,
-		"AbilityList": [	
+		"AbilityList": [
 			{
 				"Name": "cannon3_button1",
 				"ButtonID": 726,
 				"ButtonClass": "func_physbox",
 				"Chat_Uses": false,
-				"Mode": 0,
+				"Mode": 1,
 				"MaxUses": 0,
 				"CoolDown": 0
 			},
@@ -101,7 +101,7 @@
 				"ButtonID": 5474,
 				"ButtonClass": "func_button",
 				"Chat_Uses": false,
-				"Mode": 0,
+				"Mode": 1,
 				"MaxUses": 0,
 				"CoolDown": 0
 			}
