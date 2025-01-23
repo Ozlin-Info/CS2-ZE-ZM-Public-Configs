@@ -19,14 +19,11 @@
 				"Name": "heal_button",
 				"ButtonID": 530,
 				"ButtonClass": "func_button",
+				"Filter": "player_heal",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 65,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 65
 			}
 		]
 	},
@@ -50,14 +47,11 @@
 				"Name": "ammo_button",
 				"ButtonID": 536,
 				"ButtonClass": "func_button",
+				"Filter": "player_ammo",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 65,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 65
 			}
 		]
 	},
@@ -81,14 +75,11 @@
 				"Name": "beam_button",
 				"ButtonID": 648,
 				"ButtonClass": "func_button",
+				"Filter": "player_beam",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 65,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 65
 			}
 		]
 	},
@@ -112,14 +103,11 @@
 				"Name": "wind_button",
 				"ButtonID": 657,
 				"ButtonClass": "func_button",
+				"Filter": "player_wind",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 60,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 60
 			}
 		]
 	},
@@ -143,14 +131,11 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 0
 			}
 		]
 	},
@@ -174,14 +159,11 @@
 				"Name": "poison_button",
 				"ButtonID": 851,
 				"ButtonClass": "func_button",
+				"Filter": "player_poison",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 70,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 70
 			}
 		]
 	},
@@ -205,14 +187,11 @@
 				"Name": "firet_button",
 				"ButtonID": 926,
 				"ButtonClass": "func_button",
+				"Filter": "player_firet",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 75
 			}
 		]
 	},
@@ -236,14 +215,11 @@
 				"Name": "icet_button",
 				"ButtonID": 933,
 				"ButtonClass": "func_button",
+				"Filter": "player_icet",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 75
 			}
 		]
 	},
@@ -267,14 +243,11 @@
 				"Name": "elect_button",
 				"ButtonID": 943,
 				"ButtonClass": "func_button",
+				"Filter": "player_elect",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 75
 			}
 		]
 	},
@@ -298,14 +271,11 @@
 				"Name": "poisont_button",
 				"ButtonID": 947,
 				"ButtonClass": "func_button",
+				"Filter": "player_poisont",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 65,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 65
 			}
 		]
 	},
@@ -329,14 +299,11 @@
 				"Name": "gravityt_button",
 				"ButtonID": 952,
 				"ButtonClass": "func_button",
+				"Filter": "player_gravityt",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 75
 			}
 		]
 	},
@@ -360,14 +327,11 @@
 				"Name": "eartht_button",
 				"ButtonID": 959,
 				"ButtonClass": "func_button",
+				"Filter": "player_eartht",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 75
 			}
 		]
 	},
@@ -391,14 +355,11 @@
 				"Name": "watert_button",
 				"ButtonID": 963,
 				"ButtonClass": "func_button",
+				"Filter": "player_watert",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 75
 			}
 		]
 	},
@@ -422,14 +383,11 @@
 				"Name": "pusht_button",
 				"ButtonID": 972,
 				"ButtonClass": "func_button",
+				"Filter": "player_pusht",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 75,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 75
 			}
 		]
 	},
@@ -453,14 +411,11 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "player_zgravity",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 0
 			}
 		]
 	},
@@ -484,14 +439,11 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "player_zheal",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 0
 			}
 		]
 	}
