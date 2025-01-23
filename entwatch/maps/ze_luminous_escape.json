@@ -1,7 +1,7 @@
 [
   {
-    "Name": "wep_fire",
-    "ShortName": "wep_fire",
+    "Name": "Fire",
+    "ShortName": "Fire",
     "Color": "{default}",
     "HammerID": "1428",
     "GlowColor": [0,255,0,1],
@@ -14,14 +14,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "fire_button",
+        "ButtonID": 1423,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Fire",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
