@@ -1,7 +1,7 @@
 [
   {
-    "Name": "radioextra",
-    "ShortName": "radioextra",
+    "Name": "radio",
+    "ShortName": "radio",
     "Color": "{default}",
     "HammerID": "413",
     "GlowColor": [0,255,0,1],
@@ -14,10 +14,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_p250",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "",
+        "ButtonID": 957,
+        "ButtonClass": "func_physbox",
+        "Filter": "radioguy:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
