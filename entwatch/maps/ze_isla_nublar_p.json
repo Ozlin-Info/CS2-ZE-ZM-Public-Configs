@@ -1,56 +1,30 @@
 [
   {
-    "Name": "CoolrGun",
-    "ShortName": "CoolrGun",
+    "Name": "Shotgun2",
+    "ShortName": "Shotgun2",
     "Color": "{default}",
-    "HammerID": "853",
+    "HammerID": "738",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "CoolrButt",
-        "ButtonID": 867,
+        "Name": "spasbutton2",
+        "ButtonID": 834,
         "ButtonClass": "func_button",
-        "Filter": "we1",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 75
-      }
-    ]
-  },
-  {
-    "Name": "cadegun2",
-    "ShortName": "cadegun2",
-    "Color": "{default}",
-    "HammerID": "715",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "cadegunbutton2",
-        "ButtonID": 718,
-        "ButtonClass": "func_button",
-        "Filter": "we3",
+        "Filter": "shotgunname2:1",
         "Chat_Uses": true,
         "Mode": 7,
         "MaxUses": 0,
         "CoolDown": 0,
-        "Ignore": false,
+				"Ignore": false,
         "LockItem": false,
-        "MathID": 720,
+        "MathID": 739,
         "MathNameFix": false,
         "MathFindSpawned": true,
         "MathDontShowMax": true
@@ -58,10 +32,42 @@
     ]
   },
   {
-    "Name": "cadegun",
-    "ShortName": "cadegun",
+    "Name": "Shotgun",
+    "ShortName": "Shotgun",
     "Color": "{default}",
-    "HammerID": "580",
+    "HammerID": "745",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "spasbutton",
+        "ButtonID": 832,
+        "ButtonClass": "func_button",
+        "Filter": "shotgunname:1",
+        "Chat_Uses": true,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+				"Ignore": false,
+        "LockItem": false,
+        "MathID": 743,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
+      }
+    ]
+  },
+  {
+    "Name": "MedKit",
+    "ShortName": "MedKit",
+    "Color": "{default}",
+    "HammerID": "1273",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -72,20 +78,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "cadegunbutton",
-        "ButtonID": 576,
+        "Name": "healthkitbutton",
+        "ButtonID": 25,
         "ButtonClass": "func_button",
-        "Filter": "we2",
+        "Filter": "medkitname:1",
         "Chat_Uses": true,
-        "Mode": 7,
-        "MaxUses": 0,
-        "CoolDown": 0,
-        "Ignore": false,
-        "LockItem": false,
-        "MathID": 573,
-        "MathNameFix": false,
-        "MathFindSpawned": true,
-        "MathDontShowMax": true
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
       }
     ]
   }

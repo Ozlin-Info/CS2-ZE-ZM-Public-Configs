@@ -16,23 +16,26 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "tesla_item_button",
+				"ButtonID": -1,
+				"ButtonClass": "func_button",
+				"Filter": "lightning_user:1",
 				"Chat_Uses": true,
-				"Mode": 6,
+				"Mode": 7,
 				"MaxUses": 0,
 				"CoolDown": 0,
 				"Ignore": false,
 				"LockItem": false,
 				"MathID": 12014,
-				"MathNameFix": false
+				"MathNameFix": false,
+				"MathFindSpawned": false,
+				"MathDontShowMax": true
 			}
 		]
 	},
     {
-		"Name": "Fire",
-		"ShortName": "Fire",
+		"Name": "Firework",
+		"ShortName": "Firework",
 		"Color": "{default}",
 		"HammerID": 6969,
 		"GlowColor": [255,255,255,255],
@@ -47,17 +50,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
+				"Name": "firework_item_button",
+				"ButtonID": -1,
+				"ButtonClass": "func_button",
+				"Filter": "firework_user:1",
 				"Chat_Uses": true,
-				"Mode": 6,
+				"Mode": 7,
 				"MaxUses": 0,
 				"CoolDown": 0,
 				"Ignore": false,
 				"LockItem": false,
 				"MathID": 12005,
-				"MathNameFix": false
+				"MathNameFix": false,
+				"MathFindSpawned": false,
+				"MathDontShowMax": true
 			}
 		]
 	},
@@ -76,33 +82,27 @@
 		"Hud": true,
 		"TriggerID": 12219,
 		"UsePriority": true,
-		"AbilityList": [
-            {
-				"Name": "smoke_release_button",
-				"ButtonID": 12214,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			},
-			{
-				"Name": "smoke_chase_button",
-				"ButtonID": 12221,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
-			}
-		]
+			"AbilityList": [
+				{
+					"Name": "smoke_release_button",
+					"ButtonID": 12214,
+					"ButtonClass": "func_button",
+					"Filter": "smoke_user:1",
+					"Chat_Uses": true,
+					"Mode": 2,
+					"MaxUses": 0,
+					"CoolDown": 30
+				},
+				{
+					"Name": "smoke_chase_button",
+					"ButtonID": 12221,
+					"ButtonClass": "func_button",
+					"Filter": "smoke_user:1",
+					"Chat_Uses": true,
+					"Mode": 2,
+					"MaxUses": 0,
+					"CoolDown": 45
+				}
+			]
 	}
 ]

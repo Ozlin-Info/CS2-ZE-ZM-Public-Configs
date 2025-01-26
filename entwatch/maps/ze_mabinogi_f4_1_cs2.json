@@ -16,9 +16,10 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "item_Zero2_bt",
+				"ButtonID": 762,
 				"ButtonClass": "func_button",
+				"Filter": "zerotwo_user:1",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -43,9 +44,10 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "item_Brionac_of_God_bt",
+				"ButtonID": 888,
 				"ButtonClass": "func_button",
+				"Filter": "spear_user:1",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -70,9 +72,10 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "item_Heal_bt",
+				"ButtonID": 898,
 				"ButtonClass": "func_button",
+				"Filter": "heal_user:1",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -97,9 +100,10 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "item_Yeah_bt",
+				"ButtonID": 1100,
 				"ButtonClass": "func_button",
+				"Filter": "yeah_user:1",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -124,9 +128,10 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "item_Sword_bt",
+				"ButtonID": 1117,
 				"ButtonClass": "func_button",
+				"Filter": "sword_user:1",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -151,9 +156,10 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "item_Shield_bt",
+				"ButtonID": 867,
 				"ButtonClass": "func_button",
+				"Filter": "shield_user:1",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -178,9 +184,10 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "item_Energy_bt",
+				"ButtonID": 23,
 				"ButtonClass": "func_button",
+				"Filter": "energy_user:1",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,

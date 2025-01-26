@@ -1,7 +1,7 @@
 [
   {
-    "Name": "wep_fire",
-    "ShortName": "wep_fire",
+    "Name": "Fire",
+    "ShortName": "Fire",
     "Color": "{default}",
     "HammerID": "1428",
     "GlowColor": [0,255,0,1],
@@ -14,20 +14,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "fire_button",
+        "ButtonID": 1423,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Fire",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "wep_dmg",
-    "ShortName": "wep_dmg",
+    "Name": "Damage",
+    "ShortName": "Damage",
     "Color": "{default}",
     "HammerID": "1453",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "dmg_button",
+        "ButtonID": 1451,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Dmg",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 30
       }
     ]
   },
   {
-    "Name": "wep_slow",
-    "ShortName": "wep_slow",
+    "Name": "Slow",
+    "ShortName": "Slow",
     "Color": "{default}",
     "HammerID": "1482",
     "GlowColor": [0,255,0,1],
@@ -66,20 +66,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "slow_button",
+        "ButtonID": 1477,
+        "ButtonClass": "func_button",
+        "Filter": "Player_Slow",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "wep_zspeed",
-    "ShortName": "wep_zspeed",
+    "Name": "ZM Speed",
+    "ShortName": "ZM Speed",
     "Color": "{default}",
     "HammerID": "1509",
     "GlowColor": [0,255,0,1],
@@ -92,20 +92,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "zspeed_button",
+        "ButtonID": 1506,
+        "ButtonClass": "func_button",
+        "Filter": "Player_ZSpeed",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "wep_zgravity",
-    "ShortName": "wep_zgravity",
+    "Name": "ZM Gravity",
+    "ShortName": "ZM Gravity",
     "Color": "{default}",
     "HammerID": "1521",
     "GlowColor": [0,255,0,1],
@@ -118,20 +118,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "zgravity_button",
+        "ButtonID": 1519,
+        "ButtonClass": "func_button",
+        "Filter": "Player_ZGravity",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 60
       }
     ]
   },
   {
-    "Name": "wep_key_blue",
-    "ShortName": "wep_key_blue",
+    "Name": "key blue",
+    "ShortName": "key blue",
     "Color": "{default}",
     "HammerID": "1877",
     "GlowColor": [0,255,0,1],
@@ -144,20 +144,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "Player_key_blue",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "wep_key_pink",
-    "ShortName": "wep_key_pink",
+    "Name": "key pink",
+    "ShortName": "keypink",
     "Color": "{default}",
     "HammerID": "1881",
     "GlowColor": [0,255,0,1],
@@ -170,12 +170,12 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "Player_key_pink",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 0,
         "MaxUses": 0,
         "CoolDown": 0
       }

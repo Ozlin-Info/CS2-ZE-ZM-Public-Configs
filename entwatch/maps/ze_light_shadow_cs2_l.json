@@ -1,7 +1,7 @@
 [
   {
-    "Name": "ZM 火焰",
-    "ShortName": "ZM 火焰",
+    "Name": "ZM Fire",
+    "ShortName": "ZM Fire",
     "Color": "{default}",
     "HammerID": "11556",
     "GlowColor": [0,255,0,1],
@@ -26,8 +26,8 @@
     ]
   },
   {
-    "Name": "ZM 火焰2",
-    "ShortName": "ZM 火焰2",
+    "Name": "ZM Fire2",
+    "ShortName": "ZM Fire2",
     "Color": "{default}",
     "HammerID": "11565",
     "GlowColor": [0,255,0,1],
@@ -52,8 +52,8 @@
     ]
   },
   {
-    "Name": "ZM 火焰3",
-    "ShortName": "ZM 火焰3",
+    "Name": "ZM Fire3",
+    "ShortName": "ZM Fire3",
     "Color": "{default}",
     "HammerID": "11570",
     "GlowColor": [0,255,0,1],
@@ -78,8 +78,8 @@
     ]
   },
   {
-    "Name": "ZM 火焰4",
-    "ShortName": "ZM 火焰4",
+    "Name": "ZM Fire4",
+    "ShortName": "ZM Fire4",
     "Color": "{default}",
     "HammerID": "11581",
     "GlowColor": [0,255,0,1],
@@ -104,8 +104,8 @@
     ]
   },
   {
-    "Name": "风",
-    "ShortName": "风",
+    "Name": "Wind",
+    "ShortName": "Wind",
     "Color": "{default}",
     "HammerID": "3185",
     "GlowColor": [0,255,0,1],
@@ -130,8 +130,8 @@
     ]
   },
   {
-    "Name": "冰",
-    "ShortName": "冰",
+    "Name": "Ice",
+    "ShortName": "Ice",
     "Color": "{default}",
     "HammerID": "11505",
     "GlowColor": [0,255,0,1],
@@ -156,8 +156,8 @@
     ]
   },
   {
-    "Name": "ZM 冰",
-    "ShortName": "ZM 冰",
+    "Name": "ZM Ice",
+    "ShortName": "ZM Ice",
     "Color": "{default}",
     "HammerID": "11515",
     "GlowColor": [0,255,0,1],
@@ -182,8 +182,8 @@
     ]
   },
   {
-    "Name": "ZM 黑洞",
-    "ShortName": "ZM 黑洞",
+    "Name": "ZM Gravity",
+    "ShortName": "ZM Gravity",
     "Color": "{default}",
     "HammerID": "11531",
     "GlowColor": [0,255,0,1],

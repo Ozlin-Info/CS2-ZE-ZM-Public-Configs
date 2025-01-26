@@ -1,7 +1,7 @@
 [
   {
-    "Name": "Spawn_Fuel_Gun",
-    "ShortName": "Spawn_Fuel_Gun",
+    "Name": "Fuel Gun",
+    "ShortName": "Fuel Gun",
     "Color": "{default}",
     "HammerID": "13078",
     "GlowColor": [0,255,0,1],
@@ -14,7 +14,7 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
         "Filter": "",
@@ -26,8 +26,8 @@
     ]
   },
   {
-    "Name": "paranoidgun_weapon",
-    "ShortName": "paranoidgun_weapon",
+    "Name": "Paranoid gun",
+    "ShortName": "Paranoid gun",
     "Color": "{default}",
     "HammerID": "13729",
     "GlowColor": [0,255,0,1],
@@ -40,20 +40,26 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "paranoidgun_button",
+        "ButtonID": 13730,
+        "ButtonClass": "func_button",
+        "Filter": "paranoidgunuser:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 6,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 13745,
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       }
     ]
   },
   {
-    "Name": "Zombie_Item_Tank_Knife",
-    "ShortName": "Zombie_Item_Tank_Knife",
+    "Name": "ZM Tank",
+    "ShortName": "ZM Tank",
     "Color": "{default}",
     "HammerID": "159",
     "GlowColor": [0,255,0,1],
@@ -62,14 +68,14 @@
     "ForceDrop": true,
     "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 167,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "zombie_tank",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -78,8 +84,8 @@
     ]
   },
   {
-    "Name": "Weapon_Gauss_Weapon",
-    "ShortName": "Weapon_Gauss_Weapon",
+    "Name": "Gauss",
+    "ShortName": "Gauss",
     "Color": "{default}",
     "HammerID": "182",
     "GlowColor": [0,255,0,1],
@@ -92,20 +98,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Weapon_Gauss_UI",
+        "ButtonID": 183,
+        "ButtonClass": "func_button",
+        "Filter": "gaussuser:1",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "Weapon_M60_Weapon",
-    "ShortName": "Weapon_M60_Weapon",
+    "Name": "M60",
+    "ShortName": "M60",
     "Color": "{default}",
     "HammerID": "292",
     "GlowColor": [0,255,0,1],
@@ -118,10 +124,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Weapon_M60_UI",
+        "ButtonID": 297,
+        "ButtonClass": "func_button",
+        "Filter": "m60user:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -130,8 +136,8 @@
     ]
   },
   {
-    "Name": "Zombie_Item_Predator_Knife",
-    "ShortName": "Zombie_Item_Predator_Knife",
+    "Name": "ZM Predator",
+    "ShortName": "ZM Predator",
     "Color": "{default}",
     "HammerID": "339",
     "GlowColor": [0,255,0,1],
@@ -140,14 +146,14 @@
     "ForceDrop": true,
     "Chat": false,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 337,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "zombie_predator",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -156,8 +162,8 @@
     ]
   },
   {
-    "Name": "Zombie_Item_Summoner_Knife",
-    "ShortName": "Zombie_Item_Summoner_Knife",
+    "Name": "ZM Summoner",
+    "ShortName": "ZM Summoner",
     "Color": "{default}",
     "HammerID": "353",
     "GlowColor": [0,255,0,1],
@@ -170,10 +176,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
+        "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "zombie_summoner",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -182,8 +188,8 @@
     ]
   },
   {
-    "Name": "Weapon_Mine_Weapon",
-    "ShortName": "Weapon_Mine_Weapon",
+    "Name": "Mine",
+    "ShortName": "Mine",
     "Color": "{default}",
     "HammerID": "371",
     "GlowColor": [0,255,0,1],
@@ -196,10 +202,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_deagle",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "Weapon_Mine_UI",
+        "ButtonID": 376,
+        "ButtonClass": "func_button",
+        "Filter": "mineuser:1",
         "Chat_Uses": true,
         "Mode": 1,
         "MaxUses": 0,
@@ -208,8 +214,8 @@
     ]
   },
   {
-    "Name": "Zombie_Item_Freezer_Knife",
-    "ShortName": "Zombie_Item_Freezer_Knife",
+    "Name": "ZM Freezer",
+    "ShortName": "ZM Freezer",
     "Color": "{default}",
     "HammerID": "388",
     "GlowColor": [0,255,0,1],
