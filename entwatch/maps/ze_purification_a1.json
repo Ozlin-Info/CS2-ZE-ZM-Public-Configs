@@ -14,16 +14,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "button_winda",
-                "ButtonID": 31730,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 60
-            }
+        "AbilityList": [
+          {
+            "Name": "button_winda",
+            "ButtonID": 31730,
+            "ButtonClass": "func_button",
+            "Filter": "Windera:1",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 60
+          }
         ]
     },
     {
@@ -41,16 +42,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "button_walla",
-                "ButtonID": 31745,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 60
-            }
+        "AbilityList": [
+          {
+            "Name": "button_walla",
+            "ButtonID": 31745,
+            "ButtonClass": "func_button",
+            "Filter": "Wallera:1",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 60
+          }
         ]
     }
 ]

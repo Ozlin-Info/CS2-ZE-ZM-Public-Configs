@@ -1,10 +1,10 @@
 [
   {
-    "Name": "halo",
-    "ShortName": "halo",
+    "Name": "Battery",
+    "ShortName": "Battery",
     "Color": "{default}",
-    "HammerID": "12375",
-    "GlowColor": [0,255,0,1],
+    "HammerID": "7123",
+    "GlowColor": [0,0,255,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
@@ -14,14 +14,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "halo_button",
-        "ButtonID": 12381,
-        "ButtonClass": "func_button",
-        "Filter": "halo_user:1",
+        "Name": "",
+        "ButtonID": 0,
+        "ButtonClass": "",
+        "Filter": "",
         "Chat_Uses": true,
-        "Mode": 2,
+        "Mode": 1,
         "MaxUses": 0,
-        "CoolDown": 60
+        "CoolDown": 0
       }
     ]
   }

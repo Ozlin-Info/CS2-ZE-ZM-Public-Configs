@@ -1,9 +1,9 @@
 [
   {
-    "Name": "火箭炮/Rocket Cannon",
-    "ShortName": "Rocket",
+    "Name": "Flamethrower",
+    "ShortName": "Flamethrower",
     "Color": "{default}",
-    "HammerID": 3481,
+    "HammerID": "11976",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -14,22 +14,22 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "item_button_1",
-        "ButtonID": 3478,
+        "Name": "flame_bouton",
+        "ButtonID": 11977,
         "ButtonClass": "func_button",
-        "Filter": "item_rocket:1",
-        "Chat_Uses": false,
+        "Filter": "flamethrower:1",
+        "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 7
+        "CoolDown": 45
       }
     ]
   },
   {
-    "Name": "激光枪/Beam Cannon",
-    "ShortName": "Beam",
+    "Name": "MiniGun",
+    "ShortName": "MiniGun",
     "Color": "{default}",
-    "HammerID": 3518,
+    "HammerID": "12013",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -40,68 +40,42 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "item_button_2",
-        "ButtonID": 3516,
+        "Name": "minigun_button",
+        "ButtonID": 12011,
         "ButtonClass": "func_button",
-        "Filter": "item_laser:1",
-        "Chat_Uses": false,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "迷你枪/Mini Cannon",
-    "ShortName": "Minigun",
-    "Color": "{default}",
-    "HammerID": 3589,
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": false,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "item_button_3",
-        "ButtonID": 3587,
-        "ButtonClass": "func_button",
-        "Filter": "item_minigun:1",
+        "Filter": "minigun:1",
         "Chat_Uses": false,
         "Mode": 6,
         "MaxUses": 0,
         "CoolDown": 0,
         "Ignore": false,
         "LockItem": false,
-        "MathID": 3601,
-        "MathNameFix": true,
+        "MathID": 12017,
+        "MathNameFix": false,
         "MathFindSpawned": false,
         "MathDontShowMax": false
       }
     ]
   },
   {
-    "Name": "牧尸人/Herder (Push)",
-    "ShortName": "Herder (Push)",
+    "Name": "Grenade",
+    "ShortName": "Grenade",
     "Color": "{default}",
-    "HammerID": 3706,
+    "HammerID": "11992",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "item_button_4",
-        "ButtonID": 3702,
+        "Name": "lance_grenade_button",
+        "ButtonID": 11989,
         "ButtonClass": "func_button",
-        "Filter": "item_herder:1",
+        "Filter": "gl:1",
         "Chat_Uses": false,
         "Mode": 2,
         "MaxUses": 0,
@@ -110,10 +84,10 @@
     ]
   },
   {
-    "Name": "屎疗/Healing Shitbox",
-    "ShortName": "ShitHeal",
+    "Name": "Mine",
+    "ShortName": "Mine",
     "Color": "{default}",
-    "HammerID": 830,
+    "HammerID": "12046",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -121,69 +95,95 @@
     "Chat": true,
     "Hud": true,
     "TriggerID": 0,
-    "UsePriority": false,
+    "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "item_button_5",
-        "ButtonID": 824,
+        "Name": "proxi_mine_button_1",
+        "ButtonID": 12041,
         "ButtonClass": "func_button",
-        "Filter": "item_medkit:1",
+        "Filter": "mine:1",
         "Chat_Uses": true,
-        "Mode": 3,
-        "MaxUses": 1,
-        "CoolDown": 0
+        "Mode": 4,
+        "MaxUses": 15,
+        "CoolDown": 15
       }
     ]
   },
   {
-    "Name": "加速/Speeder",
-    "ShortName": "Speeder",
+    "Name": "Electro",
+    "ShortName": "Electro",
     "Color": "{default}",
-    "HammerID": 547,
+    "HammerID": "1449",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "item_button_6",
-        "ButtonID": 543,
+        "Name": "electro_bouton",
+        "ButtonID": 1450,
         "ButtonClass": "func_button",
-        "Filter": "item_speeder:1",
+        "Filter": "electro:1",
         "Chat_Uses": false,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 7
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 10
       }
     ]
   },
   {
-    "Name": "Luff knife",
-    "ShortName": "Luff knife",
+    "Name": "Ammo",
+    "ShortName": "Ammo",
     "Color": "{default}",
-    "HammerID": 3450,
+    "HammerID": "1468",
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
-    "Chat": true,
+    "Chat": false,
     "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "bullet_bouton",
+        "ButtonID": 1471,
+        "ButtonClass": "func_button",
+        "Filter": "ammo:1",
         "Chat_Uses": false,
-        "Mode": 0,
-        "MaxUses": 0,
-        "CoolDown": 0
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 20
+      }
+    ]
+  },
+  {
+    "Name": "Drone",
+    "ShortName": "Drone",
+    "Color": "{default}",
+    "HammerID": "1488",
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "drone_bouton",
+        "ButtonID": 1489,
+        "ButtonClass": "func_button",
+        "Filter": "drone:1",
+        "Chat_Uses": false,
+        "Mode": 4,
+        "MaxUses": 1,
+        "CoolDown": 30
       }
     ]
   }

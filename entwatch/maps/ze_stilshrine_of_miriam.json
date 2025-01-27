@@ -14,16 +14,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_esper_mateus_Button",
-                "ButtonID": 2256,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 3,
-                "MaxUses": 1,
-                "CoolDown": 0
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_esper_mateus_Button",
+            "ButtonID": 2256,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 3,
+            "MaxUses": 1,
+            "CoolDown": 0
+          }
         ]
     },
     {
@@ -41,16 +42,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_Heal_Button",
-                "ButtonID": 2665,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 65
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Heal_Button",
+            "ButtonID": 2665,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 65
+          }
         ]
     },
     {
@@ -68,16 +70,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_oil_Button",
-                "ButtonID": 2721,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 80
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_oil_Button",
+            "ButtonID": 2721,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 80
+          }
         ]
     },
     {
@@ -95,16 +98,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_thunder_Button",
-                "ButtonID": 2783,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 75
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_thunder_Button",
+            "ButtonID": 2783,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 75
+          }
         ]
     },
     {
@@ -122,16 +126,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_fire_Button",
-                "ButtonID": 2871,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 75
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_fire_Button",
+            "ButtonID": 2871,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 75
+          }
         ]
     },
     {
@@ -149,16 +154,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_ice_Button",
-                "ButtonID": 2927,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 80
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_ice_Button",
+            "ButtonID": 2927,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 80
+          }
         ]
     },
     {
@@ -176,16 +182,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_dark_Button",
-                "ButtonID": 2963,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 75
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_dark_Button",
+            "ButtonID": 2963,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 75
+          }
         ]
     },
     {
@@ -203,16 +210,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_wind_Button",
-                "ButtonID": 3041,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 70
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_wind_Button",
+            "ButtonID": 3041,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 70
+          }
         ]
     },
     {
@@ -230,16 +238,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_earth_Button",
-                "ButtonID": 3244,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 3,
-                "MaxUses": 1,
-                "CoolDown": 0
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_earth_Button",
+            "ButtonID": 3244,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 3,
+            "MaxUses": 1,
+            "CoolDown": 0
+          }
         ]
     },
     {
@@ -257,16 +266,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_Z_Haste_Button",
-                "ButtonID": 3987,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 3,
-                "MaxUses": 1,
-                "CoolDown": 0
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Z_Haste_Button",
+            "ButtonID": 3987,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 3,
+            "MaxUses": 1,
+            "CoolDown": 0
+          }
         ]
     },
     {
@@ -284,16 +294,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_Z_Invis_Button",
-                "ButtonID": 4001,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 80
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Z_Invis_Button",
+            "ButtonID": 4001,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 80
+          }
         ]
     },
     {
@@ -311,16 +322,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_Z_Ice_Button",
-                "ButtonID": 4011,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 80
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Z_Ice_Button",
+            "ButtonID": 4011,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 80
+          }
         ]
     },
     {
@@ -338,16 +350,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_Z_Poison_Button",
-                "ButtonID": 4360,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 70
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Z_Poison_Button",
+            "ButtonID": 4360,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 70
+          }
         ]
     },
     {
@@ -365,16 +378,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_Z_fire_Button",
-                "ButtonID": 4369,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 70
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Z_fire_Button",
+            "ButtonID": 4369,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 70
+          }
         ]
     },
     {
@@ -392,16 +406,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_Z_Gravity_Button",
-                "ButtonID": 4384,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 65
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Z_Gravity_Button",
+            "ButtonID": 4384,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 65
+          }
         ]
     },
     {
@@ -419,16 +434,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_Z_Warp_Button",
-                "ButtonID": 4411,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 70
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Z_Warp_Button",
+            "ButtonID": 4411,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 70
+          }
         ]
     }
 ]

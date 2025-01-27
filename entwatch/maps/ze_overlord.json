@@ -1,5 +1,5 @@
 [
-    {
+	{
 		"Name": "火/Fire",
 		"ShortName": "Fire",
 		"Color": "{default}",
@@ -19,6 +19,7 @@
 				"Name": "item_fire_button",
 				"ButtonID": 6541,
 				"ButtonClass": "func_button",
+				"Filter": "player_fire",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -26,7 +27,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "电/Electro",
 		"ShortName": "Electro",
 		"Color": "{default}",
@@ -46,6 +47,7 @@
 				"Name": "item_elec_button",
 				"ButtonID": 6556,
 				"ButtonClass": "func_button",
+				"Filter": "player_elec",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -53,7 +55,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "毒/Poison",
 		"ShortName": "Poison",
 		"Color": "{default}",
@@ -73,6 +75,7 @@
 				"Name": "item_du_button",
 				"ButtonID": 6527,
 				"ButtonClass": "func_button",
+				"Filter": "player_du",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -80,7 +83,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "愿望/Wish",
 		"ShortName": "Wish",
 		"Color": "{default}",
@@ -100,6 +103,7 @@
 				"Name": "item_wish_button",
 				"ButtonID": 6570,
 				"ButtonClass": "func_button",
+				"Filter": "player_wish",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -107,7 +111,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "圣剑/Sword",
 		"ShortName": "Sword",
 		"Color": "{default}",
@@ -127,6 +131,7 @@
 				"Name": "item_sword_button",
 				"ButtonID": 6613,
 				"ButtonClass": "func_button",
+				"Filter": "player_sword",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -134,7 +139,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "山河社稷图/Map of Shanhe",
 		"ShortName": "ShanheMap",
 		"Color": "{default}",
@@ -154,6 +159,7 @@
 				"Name": "item_shanhe_button",
 				"ButtonID": 6602,
 				"ButtonClass": "func_button",
+				"Filter": "player_shanhe",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -161,7 +167,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "奶/Heal",
 		"ShortName": "Heal",
 		"Color": "{default}",
@@ -181,6 +187,7 @@
 				"Name": "item_heal_button",
 				"ButtonID": 6637,
 				"ButtonClass": "func_button",
+				"Filter": "player_heal",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -188,7 +195,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "冰/Ice",
 		"ShortName": "Ice",
 		"Color": "{default}",
@@ -208,6 +215,7 @@
 				"Name": "item_ice_button",
 				"ButtonID": 6628,
 				"ButtonClass": "func_button",
+				"Filter": "player_ice",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -215,7 +223,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "天空坠落/Skyfall",
 		"ShortName": "Skyfall",
 		"Color": "{default}",
@@ -235,6 +243,7 @@
 				"Name": "item_tkzl_button",
 				"ButtonID": 6586,
 				"ButtonClass": "func_button",
+				"Filter": "player_tkzl",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -242,7 +251,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "终极/Ultima",
 		"ShortName": "Ultima",
 		"Color": "{default}",
@@ -262,6 +271,7 @@
 				"Name": "item_zhongji_button",
 				"ButtonID": 6595,
 				"ButtonClass": "func_button",
+				"Filter": "player_zhongji",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -269,7 +279,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "墙/Wall",
 		"ShortName": "Wall",
 		"Color": "{default}",
@@ -289,6 +299,7 @@
 				"Name": "item_wall_button",
 				"ButtonID": 6368,
 				"ButtonClass": "func_button",
+				"Filter": "player_wall",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -296,7 +307,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "小奶/Small Heal",
 		"ShortName": "SmallHeal",
 		"Color": "{default}",
@@ -316,6 +327,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": false,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -323,7 +335,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "箭矢/Arrow",
 		"ShortName": "Arrow",
 		"Color": "{default}",
@@ -343,6 +355,7 @@
 				"Name": "item_arrow_button",
 				"ButtonID": 6522,
 				"ButtonClass": "func_button",
+				"Filter": "player_arrow",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -350,7 +363,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "王权/Kingship",
 		"ShortName": "Kingship",
 		"Color": "{default}",
@@ -370,6 +383,7 @@
 				"Name": "item_wangquan_button",
 				"ButtonID": 7257,
 				"ButtonClass": "func_button",
+				"Filter": "player_wangquan",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -397,6 +411,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "player_bjkj",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -424,6 +439,7 @@
 				"Name": "zombie_blind_button",
 				"ButtonID": 804,
 				"ButtonClass": "func_button",
+				"Filter": "zm_player_blind",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -431,7 +447,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 隐身/ZM Stealth",
 		"ShortName": "ZM Stealth",
 		"Color": "{default}",
@@ -451,6 +467,7 @@
 				"Name": "ys_button",
 				"ButtonID": 6342,
 				"ButtonClass": "func_button",
+				"Filter": "zm_player_ys",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -458,7 +475,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 速度/ZM Speed",
 		"ShortName": "ZM Speed",
 		"Color": "{default}",
@@ -478,6 +495,7 @@
 				"Name": "jiasu_button",
 				"ButtonID": 6358,
 				"ButtonClass": "func_button",
+				"Filter": "zm_player_jiasu",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -485,7 +503,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 秒杀/ZM Killer",
 		"ShortName": "ZM Killer",
 		"Color": "{default}",
@@ -505,6 +523,7 @@
 				"Name": "miaosha_button",
 				"ButtonID": 6476,
 				"ButtonClass": "func_button",
+				"Filter": "zm_player_miaosha",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -512,7 +531,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 黑洞/ZM Gravity",
 		"ShortName": "ZM Gravity",
 		"Color": "{default}",
@@ -532,6 +551,7 @@
 				"Name": "blackhole_button",
 				"ButtonID": 6493,
 				"ButtonClass": "func_button",
+				"Filter": "zm_player_blackhole",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -539,7 +559,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 冰/ZM Ice",
 		"ShortName": "ZM Ice",
 		"Color": "{default}",
@@ -559,6 +579,7 @@
 				"Name": "zombie_ice_button",
 				"ButtonID": 6500,
 				"ButtonClass": "func_button",
+				"Filter": "zm_player_ice",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -566,7 +587,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 安兹·乌尔·恭/Ainz Ooal Gown",
 		"ShortName": "ZM Ainz",
 		"Color": "{default}",
@@ -586,6 +607,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "zm_player_gw",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -593,7 +615,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 科塞特斯/Cocytus",
 		"ShortName": "ZM Cocytus",
 		"Color": "{default}",
@@ -613,6 +635,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "zm_player_ksts",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -620,7 +643,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 死亡骑士/DeathKnight",
 		"ShortName": "ZM Knight",
 		"Color": "{default}",
@@ -640,6 +663,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "zm_player_dk",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -647,7 +671,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 夏提雅/Shalltear",
 		"ShortName": "ZM Shalltear",
 		"Color": "{default}",
@@ -667,6 +691,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "zm_player_xty",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,
@@ -674,7 +699,7 @@
 			}
 		]
 	},
-    {
+	{
 		"Name": "ZM 雅儿贝德/Albedo",
 		"ShortName": "ZM Albedo",
 		"Color": "{default}",
@@ -694,6 +719,33 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "zm_player_yebd",
+				"Chat_Uses": false,
+				"Mode": 1,
+				"MaxUses": 0,
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "ZM Rat",
+		"ShortName": "ZM Rat",
+		"Color": "{default}",
+		"HammerID": 8236,
+		"GlowColor": [0,255,0,1],
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": false,
+		"Hud": true,
+		"TriggerID": 8234,
+		"UsePriority": false,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+				"Filter": "zm_player_rat",
 				"Chat_Uses": false,
 				"Mode": 1,
 				"MaxUses": 0,

@@ -14,14 +14,15 @@
 		"Hud": true,
 		"TriggerID": 0,
 		"UsePriority": true,
-		"AbilityList": [	
+		"AbilityList": [
 			{
 				"Name": "Ice_button",
-				"ButtonID": 512,	
+				"ButtonID": 512,
 				"ButtonClass": "func_button",
-				"Chat_Uses": true,	
+				"Filter": "",
+				"Chat_Uses": true,
 				"Mode": 3,
-				"MaxUses": 1,	
+				"MaxUses": 1,
 				"CoolDown": 0
 			}
 		]
