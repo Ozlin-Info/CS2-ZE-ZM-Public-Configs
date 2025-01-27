@@ -19,6 +19,7 @@
 				"Name": "heal_button",
 				"ButtonID": 402,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 2,
@@ -46,6 +47,7 @@
 				"Name": "special_1_button",
 				"ButtonID": 703,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 4,
 				"MaxUses": 2,
@@ -73,6 +75,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 0,
 				"MaxUses": 0,
@@ -100,6 +103,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "func_button",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -127,6 +131,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -154,6 +159,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -181,10 +187,11 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 2,
-				"CoolDown":60
+				"CoolDown": 60
 			}
 
 		]
@@ -209,6 +216,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -233,10 +241,11 @@
 		"TriggerID": 0,
 		"UsePriority": false,
 		"AbilityList": [
-						{
+			{
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -265,6 +274,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -289,10 +299,11 @@
 		"TriggerID": 0,
 		"UsePriority": false,
 		"AbilityList": [
-						{
+			{
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 3,
 				"MaxUses": 1,
@@ -321,6 +332,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
@@ -349,6 +361,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "game_ui::PressedAttack2",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
