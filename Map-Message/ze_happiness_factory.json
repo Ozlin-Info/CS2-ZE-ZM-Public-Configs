@@ -7,57 +7,57 @@
     }
   },
   "你们要进入工厂": {
-    "Translation": "你们要进入工厂",
+    "Translation": "You need to enter the factory.",
     "M-Bool": false,
     "Value": 0
   },
   "找到违规的证据": {
-    "Translation": "找到违规的证据",
+    "Translation": "Find the evidence of violations.",
     "M-Bool": false,
     "Value": 0
   },
   "后面就是老板的追兵": {
-    "Translation": "后面就是老板的追兵",
+    "Translation": "The boss's pursuers are right behind you.",
     "M-Bool": false,
     "Value": 0
   },
   "祝，武运昌隆": {
-    "Translation": "祝，武运昌隆",
+    "Translation": "Wishing you good fortune in battle.",
     "M-Bool": false,
     "Value": 0
   },
   "门将在 25 秒后打开": {
-    "Translation": "门将在 25 秒后打开",
+    "Translation": "The door will open in 25 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "电梯门将在 15 秒后打开": {
-    "Translation": "电梯门将在 15 秒后打开",
+    "Translation": "The elevator door will open in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "感谢Source2开发部大佬的技术帮助": {
-    "Translation": "感谢Source2开发部大佬的技术帮助",
+    "Translation": "Thanks to the Source2 development team for their technical assistance.",
     "M-Bool": false,
     "Value": 0
   },
   "compile help by ice & 莫等闲贤咸": {
-    "Translation": "compile help by ice & 莫等闲贤咸",
+    "Translation": "Compile help by ice & Mo Dengkai Xian Xian.",
     "M-Bool": false,
     "Value": 0
   },
   "门将在 15 秒后打开": {
-    "Translation": "门将在 15 秒后打开",
+    "Translation": "The door will open in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "墙将在 15 秒后破碎": {
-    "Translation": "墙将在 15 秒后破碎",
+    "Translation": "The wall will break in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸将在 20 秒后传送": {
-    "Translation": "僵尸将在 20 秒后传送",
+    "Translation": "Zombies will teleport in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   }
