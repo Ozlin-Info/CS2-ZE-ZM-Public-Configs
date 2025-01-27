@@ -4,7 +4,7 @@
 		"ShortName": "Ultima",
 		"Color": "{default}",
 		"HammerID": 92,
-		"GlowColor": [255,255,255,255],
+		"GlowColor": [0,255,0,1],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
@@ -19,14 +19,11 @@
 				"Name": "lampshade_button",
 				"ButtonID": 94,
 				"ButtonClass": "func_button",
+				"Filter": "lampshade_cunt:1",
 				"Chat_Uses": true,
-				"Mode": 3,
+				"Mode": 4,
 				"MaxUses": 1,
-				"CoolDown": 0,
-				"Ignore": false,
-				"LockItem": false,
-				"MathID": 0,
-				"MathNameFix": false
+				"CoolDown": 20
 			}
 		]
 	}
