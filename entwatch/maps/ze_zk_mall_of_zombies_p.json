@@ -19,6 +19,7 @@
 				"Name": "",
 				"ButtonID": 0,
 				"ButtonClass": "",
+				"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 1,
 				"MaxUses": 0,
