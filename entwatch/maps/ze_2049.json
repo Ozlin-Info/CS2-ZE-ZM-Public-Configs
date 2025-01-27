@@ -15,15 +15,16 @@
         "TriggerID": 0,
         "UsePriority": true,
         "AbilityList": [
-            {
-                "Name": "human_cone_button",
-                "ButtonID": 16906,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 70
-            }
+          {
+            "Name": "human_cone_button",
+            "ButtonID": 16906,
+            "ButtonClass": "func_button",
+            "Filter": "player_human_cone",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 70
+          }
         ]
     },
     {
@@ -42,15 +43,16 @@
         "TriggerID": 0,
         "UsePriority": true,
         "AbilityList": [
-            {
-                "Name": "human_beam_button",
-                "ButtonID": 16902,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 70
-            }
+          {
+            "Name": "human_beam_button",
+            "ButtonID": 16902,
+            "ButtonClass": "func_button",
+            "Filter": "player_human_beam",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 70
+          }
         ]
     },
     {
@@ -69,15 +71,16 @@
         "TriggerID": 0,
         "UsePriority": true,
         "AbilityList": [
-            {
-                "Name": "human_heal_button",
-                "ButtonID": 16910,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 80
-            }
+          {
+            "Name": "human_heal_button",
+            "ButtonID": 16910,
+            "ButtonClass": "func_button",
+            "Filter": "player_human_heal",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 80
+          }
         ]
     },
     {
@@ -96,15 +99,16 @@
         "TriggerID": 0,
         "UsePriority": true,
         "AbilityList": [
-            {
-                "Name": "human_slowball_button",
-                "ButtonID": 16914,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 1,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
+          {
+            "Name": "human_slowball_button",
+            "ButtonID": 16914,
+            "ButtonClass": "func_button",
+            "Filter": "player_human_slowball",
+            "Chat_Uses": true,
+            "Mode": 1,
+            "MaxUses": 0,
+            "CoolDown": 0
+          }
         ]
     }
 ]
