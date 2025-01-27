@@ -1,0 +1,14 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Survive 45 seconds": {
+    "Translation": "Survive 45 seconds",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

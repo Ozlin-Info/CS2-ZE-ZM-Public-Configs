@@ -5,5 +5,25 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  " Flamethrower has been picked up. ": {
+    "Translation": " Flamethrower has been picked up. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Flamethrower lasts about 16 secs and can be toggled. ": {
+    "Translation": " Flamethrower lasts about 16 secs and can be toggled. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Freeze Ring has been picked up. ": {
+    "Translation": " Freeze Ring has been picked up. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Freeze Ring has a cooldown of 60 secs. ": {
+    "Translation": " Freeze Ring has a cooldown of 60 secs. ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

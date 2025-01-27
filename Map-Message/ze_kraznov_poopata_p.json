@@ -75,5 +75,20 @@
     "Translation": " And all this tiresome effort for a simple cartoony cock? Oh dear... ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Perhaps you are in need of some morale encouragements... ": {
+    "Translation": " Perhaps you are in need of some morale encouragements... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Here, an extra pressure never does anything bad at all ": {
+    "Translation": " Here, an extra pressure never does anything bad at all ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIP: The map does not tolerate missed shots ": {
+    "Translation": " TIP: The map does not tolerate missed shots ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

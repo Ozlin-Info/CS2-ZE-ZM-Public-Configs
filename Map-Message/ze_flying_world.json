@@ -40,5 +40,140 @@
     "Translation": "ZOMBIES FLIGHING BOAT LEAVING",
     "M-Bool": false,
     "Value": 0
+  },
+  "BREAK THE WOODEN BLOCKER ON TOP": {
+    "Translation": "BREAK THE WOODEN BLOCKER ON TOP",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE OTHER NEED TO COVER": {
+    "Translation": "THE OTHER NEED TO COVER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOORS CLOSING IN 25 SECONDS": {
+    "Translation": "DOORS CLOSING IN 25 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOORS CLOSING IN 5 SECONDS": {
+    "Translation": "DOORS CLOSING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN": {
+    "Translation": "RUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FLYING BOAT WILL LEAVE IN 15 SECONDS": {
+    "Translation": "FLYING BOAT WILL LEAVE IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "COVER 25 SECONDS": {
+    "Translation": "COVER 25 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS LEFT": {
+    "Translation": "5 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "START THE GENERATOR TO OPEN THE DOOR": {
+    "Translation": "START THE GENERATOR TO OPEN THE DOOR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ACTIVATE THE GENERATOR": {
+    "Translation": "ACTIVATE THE GENERATOR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 30 SECONDS": {
+    "Translation": "DOOR WILL OPEN IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN TO THE LAB": {
+    "Translation": "RUN TO THE LAB",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "COVER 20 SECONDS": {
+    "Translation": "COVER 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FLIGHING BOAT LEAVING IN 15 SECONDS": {
+    "Translation": "FLIGHING BOAT LEAVING IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN TO THE AIRPORT BUILDING": {
+    "Translation": "RUN TO THE AIRPORT BUILDING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "COVER 45 SECONDS": {
+    "Translation": "COVER 45 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 SECONDS LEFT": {
+    "Translation": "20 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WAIT C4 EXPLOSION": {
+    "Translation": "WAIT C4 EXPLOSION",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WAIT FLYING BOAT AT THE TOP OF THE LIGHTHOUSE": {
+    "Translation": " WAIT FLYING BOAT AT THE TOP OF THE LIGHTHOUSE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WAIT THE FLYING BOAT 15 SECONDS": {
+    "Translation": "WAIT THE FLYING BOAT 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FLYING BOAT LEAVING IN 10 SECONDS": {
+    "Translation": "FLYING BOAT LEAVING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN TO THE CONTROL ROOM AND ACTIVATE THE PANEL": {
+    "Translation": "RUN TO THE CONTROL ROOM AND ACTIVATE THE PANEL",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CONTROL PANEL ACTIVATED": {
+    "Translation": "CONTROL PANEL ACTIVATED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TAKE THE LADDER": {
+    "Translation": "TAKE THE LADDER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN TO THE NEXT CONTROL PANEL": {
+    "Translation": "RUN TO THE NEXT CONTROL PANEL",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN TO THE LAST CONTROL PANEL": {
+    "Translation": "RUN TO THE LAST CONTROL PANEL",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LIFT LEAVING IN 15 SECONDS": {
+    "Translation": "LIFT LEAVING IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }

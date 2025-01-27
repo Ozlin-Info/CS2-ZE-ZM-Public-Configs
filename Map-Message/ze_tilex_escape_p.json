@@ -15,5 +15,90 @@
     "Translation": "Elevator leaving in 5 seconds.",
     "M-Bool": false,
     "Value": 0
+  },
+  "Mini train leaving in 15 seconds.": {
+    "Translation": "Mini train leaving in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Tracks crashed ahead": {
+    "Translation": "Tracks crashed ahead",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door open in 30 seconds.": {
+    "Translation": "Door open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Tram leaving in 40 seconds.": {
+    "Translation": "Tram leaving in 40 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Tram leaving in 20 seconds.": {
+    "Translation": "Tram leaving in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Tram leaving in 10 seconds.": {
+    "Translation": "Tram leaving in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opening in 30 seconds.": {
+    "Translation": "Door opening in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opening in 10 seconds.": {
+    "Translation": "Door opening in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Train leaving in 50 seconds.": {
+    "Translation": "Train leaving in 50 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Security doors closing in 10 seconds.": {
+    "Translation": "Security doors closing in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Train leaving in 25 seconds.": {
+    "Translation": "Train leaving in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Train leaving in 10 seconds.": {
+    "Translation": "Train leaving in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Train is leaving.": {
+    "Translation": "Train is leaving.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Get in the bunker!": {
+    "Translation": "Get in the bunker!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Close the bunker door or...": {
+    "Translation": "Close the bunker door or...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds!": {
+    "Translation": "10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Incoming nuke!!!": {
+    "Translation": "Incoming nuke!!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }
