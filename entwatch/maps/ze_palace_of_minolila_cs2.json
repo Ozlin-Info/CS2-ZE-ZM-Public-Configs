@@ -14,16 +14,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "item_gravity_button",
-                "ButtonID": 252,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 65
-            }
+        "AbilityList": [
+          {
+            "Name": "item_gravity_button",
+            "ButtonID": 252,
+            "ButtonClass": "func_button",
+            "Filter": "gravity_user",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 65
+          }
         ]
     },
     {
@@ -41,16 +42,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "item_wall_button",
-                "ButtonID": 269,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 60
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_wall_Button",
+            "ButtonID": 269,
+            "ButtonClass": "func_button",
+            "Filter": "wall_user",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 60
+          }
         ]
     },
     {
@@ -68,16 +70,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "item_holy_button",
-                "ButtonID": 277,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 4,
-                "MaxUses": 1,
-                "CoolDown": 15
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_holy_sword_Button",
+            "ButtonID": 277,
+            "ButtonClass": "func_button",
+            "Filter": "holy_user",
+            "Chat_Uses": true,
+            "Mode": 4,
+            "MaxUses": 1,
+            "CoolDown": 15
+          }
         ]
     },
     {
@@ -95,16 +98,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "item_wind_button",
-                "ButtonID": 304,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 65
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Wind_Button",
+            "ButtonID": 304,
+            "ButtonClass": "func_button",
+            "Filter": "wind_user",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 65
+          }
         ]
     },
     {
@@ -122,16 +126,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "item_electro_button",
-                "ButtonID": 312,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 60
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Electro_Button",
+            "ButtonID": 312,
+            "ButtonClass": "func_button",
+            "Filter": "electro_user",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 60
+          }
         ]
     },
     {
@@ -149,16 +154,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "item_snow_button",
-                "ButtonID": 323,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 65
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_snow_Button",
+            "ButtonID": 323,
+            "ButtonClass": "func_button",
+            "Filter": "snow_user",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 65
+          }
         ]
     },
     {
@@ -176,16 +182,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "item_heal_button",
-                "ButtonID": 329,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 60
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Heal_Button",
+            "ButtonID": 329,
+            "ButtonClass": "func_button",
+            "Filter": "heal_user",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 60
+          }
         ]
     },
     {
@@ -203,16 +210,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "item_ztinfect_button",
-                "ButtonID": 3923,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 60
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_ztinfect_Button",
+            "ButtonID": 3923,
+            "ButtonClass": "func_button",
+            "Filter": "ztinfect_user",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 60
+          }
         ]
     },    
     {
@@ -230,16 +238,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "item_heal_button",
-                "ButtonID": 210,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 50
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_zmheal_Button",
+            "ButtonID": 210,
+            "ButtonClass": "func_button",
+            "Filter": "zheal_user",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 50
+          }
         ]
     },
     {
@@ -257,16 +266,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "item_zice_button",
-                "ButtonID": 220,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 55
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_zice_Button",
+            "ButtonID": 220,
+            "ButtonClass": "func_button",
+            "Filter": "zice_user",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 55
+          }
         ]
     },
     {
@@ -284,16 +294,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "item_zmgravity_button",
-                "ButtonID": 241,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 75
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_zmgravity_Button",
+            "ButtonID": 241,
+            "ButtonClass": "func_button",
+            "Filter": "zgravity_user",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 75
+          }
         ]
     }
 ]
