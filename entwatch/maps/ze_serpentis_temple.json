@@ -14,16 +14,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Artifact",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Chat_Uses": true,
-                "Mode": 0,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
+        "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 0,
+            "ButtonClass": "",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 0,
+            "MaxUses": 0,
+            "CoolDown": 0
+          }
         ]
     },
     {
@@ -41,16 +42,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_Poison_Button",
-                "ButtonID": 11931,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 50
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Poison_Button",
+            "ButtonID": 11931,
+            "ButtonClass": "func_button",
+            "Filter": "Player_Poison",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 50
+          }
         ]
     },
     {
@@ -68,16 +70,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_Heal_Button",
-                "ButtonID": 11929,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 50
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Heal_Button",
+            "ButtonID": 11929,
+            "ButtonClass": "func_button",
+            "Filter": "Player_Heal",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 50
+          }
         ]
     },
     {
@@ -95,16 +98,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Item_Fire_Button",
-                "ButtonID": 11927,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 2,
-                "MaxUses": 0,
-                "CoolDown": 50
-            }
+        "AbilityList": [
+          {
+            "Name": "Item_Fire_Button",
+            "ButtonID": 11927,
+            "ButtonClass": "func_button",
+            "Filter": "Player_Fire",
+            "Chat_Uses": true,
+            "Mode": 2,
+            "MaxUses": 0,
+            "CoolDown": 50
+          }
         ]
     },
     {
@@ -122,16 +126,17 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "Torch",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Chat_Uses": true,
-                "Mode": 0,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
+        "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 0,
+            "ButtonClass": "",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 0,
+            "MaxUses": 0,
+            "CoolDown": 0
+          }
         ]
     }
 ]
