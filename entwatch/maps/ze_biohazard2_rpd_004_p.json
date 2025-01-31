@@ -3,7 +3,7 @@
     "Name": "RPG",
     "ShortName": "RPG",
     "Color": "{default}",
-    "HammerID": "357",
+    "HammerID": 357,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",

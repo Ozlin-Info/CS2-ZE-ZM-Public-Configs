@@ -1,9 +1,9 @@
 [
   {
     "Name": "Flower Sea Resurrection",
-    "ShortName": "Flower Sea Resurrection",
+    "ShortName": "Flower",
     "Color": "{default}",
-    "HammerID": "11956",
+    "HammerID": 11956,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -29,9 +29,9 @@
   },
   {
     "Name": "Brilliant Echo",
-    "ShortName": "Brilliant Echo",
+    "ShortName": "Echo",
     "Color": "{default}",
-    "HammerID": "11958",
+    "HammerID": 11958,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",

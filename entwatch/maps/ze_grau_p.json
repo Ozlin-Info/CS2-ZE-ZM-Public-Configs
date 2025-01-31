@@ -87,7 +87,7 @@
         "Name": "ZM Slow3",
         "ShortName": "ZM Slow3",
         "Color": "{default}",
-        "HammerID": "11690",
+        "HammerID": 11690,
         "GlowColor": [0,255,0,1],
         "FilterID": 0,
         "FilterValue": "",

@@ -3,7 +3,7 @@
     "Name": "Cannon",
     "ShortName": "Cannon",
     "Color": "{default}",
-    "HammerID": "1264",
+    "HammerID": 1264,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",

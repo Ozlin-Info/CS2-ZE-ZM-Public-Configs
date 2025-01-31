@@ -1,10 +1,12 @@
 [
   {
-    "Name": "奶",
-    "ShortName": "奶",
+    "Name": "Heal",
+    "ShortName": "Heal",
     "Color": "{default}",
     "HammerID": "44496",
     "GlowColor": [0,255,0,1],
+    "FilterID": 0,
+    "FilterValue": "",
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,

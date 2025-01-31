@@ -3,7 +3,7 @@
     "Name": "Music Box",
     "ShortName": "Music Box",
     "Color": "{default}",
-    "HammerID": "41",
+    "HammerID": 41,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",

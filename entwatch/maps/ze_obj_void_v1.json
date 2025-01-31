@@ -5,6 +5,8 @@
     "Color": "{default}",
     "HammerID": "7123",
     "GlowColor": [0,0,255,1],
+    "FilterID": 0,
+    "FilterValue": "",
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,

@@ -3,7 +3,7 @@
     "Name": "Wall",
     "ShortName": "Wall",
     "Color": "{default}",
-    "HammerID": "201",
+    "HammerID": 201,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",

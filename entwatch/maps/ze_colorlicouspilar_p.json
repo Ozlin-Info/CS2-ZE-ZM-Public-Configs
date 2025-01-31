@@ -3,7 +3,7 @@
     "Name": "Bat",
     "ShortName": "Bat",
     "Color": "{default}",
-    "HammerID": "588",
+    "HammerID": 588,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
