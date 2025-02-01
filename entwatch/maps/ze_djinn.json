@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Heal",    
+        "Name": "Heal",
         "ShortName": "Heal",
         "Color": "{default}",
         "HammerID": 739,
@@ -14,11 +14,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "human_heal_button",
                 "ButtonID": 741,
                 "ButtonClass": "func_button",
+                "Filter": "player_human_heal",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -27,7 +28,7 @@
         ]
     },
     {
-        "Name": "Sand",    
+        "Name": "Sand",
         "ShortName": "Sand",
         "Color": "{default}",
         "HammerID": 750,
@@ -41,11 +42,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "human_sand_button",
                 "ButtonID": 752,
                 "ButtonClass": "func_button",
+                "Filter": "player_human_sand",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -54,7 +56,7 @@
         ]
     },
     {
-        "Name": "Ammo",    
+        "Name": "Ammo",
         "ShortName": "Ammo",
         "Color": "{default}",
         "HammerID": 760,
@@ -68,11 +70,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "human_ammo_button",
                 "ButtonID": 757,
                 "ButtonClass": "func_button",
+                "Filter": "player_human_ammo",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -81,7 +84,7 @@
         ]
     },
     {
-        "Name": "Cone",    
+        "Name": "Cone",
         "ShortName": "Cone",
         "Color": "{default}",
         "HammerID": 767,
@@ -95,11 +98,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "human_pyramid_button",
                 "ButtonID": 769,
                 "ButtonClass": "func_button",
+                "Filter": "player_human_pyramid",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -108,7 +112,7 @@
         ]
     },
     {
-        "Name": "Tornado",    
+        "Name": "Tornado",
         "ShortName": "Tornado",
         "Color": "{default}",
         "HammerID": 776,
@@ -122,11 +126,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Tornado",
                 "ButtonID": 777,
                 "ButtonClass": "func_button",
+                "Filter": "player_human_tornado",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
