@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Hoshino",    
+        "Name": "Hoshino",
         "ShortName": "Hoshino",
         "Color": "{default}",
         "HammerID": 17762,
@@ -14,11 +14,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "hoshino_EX_button",
                 "ButtonID": 17800,
                 "ButtonClass": "func_button",
+                "Filter": "hoshino:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -27,7 +28,7 @@
         ]
     },
     {
-        "Name": "Arona",    
+        "Name": "Arona",
         "ShortName": "Arona",
         "Color": "{default}",
         "HammerID": 18009,
@@ -41,11 +42,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "arona_card_button",
                 "ButtonID": 18007,
                 "ButtonClass": "func_button",
+                "Filter": "arona_card_user:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -54,7 +56,7 @@
         ]
     },
     {
-        "Name": "Ayane",    
+        "Name": "Ayane",
         "ShortName": "Ayane",
         "Color": "{default}",
         "HammerID": 18074,
@@ -68,11 +70,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "ayane_healdrone_button",
                 "ButtonID": 18071,
                 "ButtonClass": "func_button",
+                "Filter": "ayane_healdrone_user:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
