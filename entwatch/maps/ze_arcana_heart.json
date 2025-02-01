@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Shield",    
+        "Name": "Shield",
         "ShortName": "Shield",
         "Color": "{default}",
         "HammerID": 3792,
@@ -14,11 +14,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Item_Shield_Button",
                 "ButtonID": 2690,
                 "ButtonClass": "func_button",
+                "Filter": "player_shield",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -27,7 +28,7 @@
         ]
     },
     {
-        "Name": "Push",    
+        "Name": "Push",
         "ShortName": "Push",
         "Color": "{default}",
         "HammerID": 4310,
@@ -41,11 +42,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Item_Push_Button",
                 "ButtonID": 2511,
                 "ButtonClass": "func_button",
+                "Filter": "player_push",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -54,7 +56,7 @@
         ]
     },
     {
-        "Name": "Heal",    
+        "Name": "Heal",
         "ShortName": "Heal",
         "Color": "{default}",
         "HammerID": 3169,
@@ -68,11 +70,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Item_Heal_Button",
                 "ButtonID": 2857,
                 "ButtonClass": "func_button",
+                "Filter": "player_heal",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -81,7 +84,7 @@
         ]
     },
     {
-        "Name": "Gravity",    
+        "Name": "Gravity",
         "ShortName": "Gravity",
         "Color": "{default}",
         "HammerID": 2845,
@@ -95,11 +98,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Item_Gravity_Button",
                 "ButtonID": 2848,
                 "ButtonClass": "func_button",
+                "Filter": "player_gravity",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -108,7 +112,7 @@
         ]
     },
     {
-        "Name": "ZM Reverse",    
+        "Name": "ZM Reverse",
         "ShortName": "ZM Reverse",
         "Color": "{default}",
         "HammerID": 2029,
@@ -122,11 +126,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Item_ZReverse_Button",
                 "ButtonID": 4353,
                 "ButtonClass": "func_button",
+                "Filter": "player_zcube",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -135,7 +140,7 @@
         ]
     },
     {
-        "Name": "ZM Heal",    
+        "Name": "ZM Heal",
         "ShortName": "ZM Heal",
         "Color": "{default}",
         "HammerID": 4570,
@@ -149,11 +154,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Item_ZHeal_Button",
                 "ButtonID": 4356,
                 "ButtonClass": "func_button",
+                "Filter": "player_zheal",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -162,7 +168,7 @@
         ]
     },
     {
-        "Name": "ZM Water",    
+        "Name": "ZM Water",
         "ShortName": "ZM Water",
         "Color": "{default}",
         "HammerID": 2958,
@@ -176,11 +182,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Item_ZWater_Button",
                 "ButtonID": 2728,
                 "ButtonClass": "func_button",
+                "Filter": "player_zwater",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -189,7 +196,7 @@
         ]
     },
     {
-        "Name": "ZM Cube",    
+        "Name": "ZM Cube",
         "ShortName": "ZM Cube",
         "Color": "{default}",
         "HammerID": 2941,
@@ -203,11 +210,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Item_ZCube_Button",
                 "ButtonID": 3697,
                 "ButtonClass": "func_button",
+                "Filter": "player_zcube",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
