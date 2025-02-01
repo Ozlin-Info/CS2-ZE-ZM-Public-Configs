@@ -3,7 +3,7 @@
     "Name": "electro",
     "ShortName": "electro",
     "Color": "{default}",
-    "HammerID": 3039,
+    "HammerID": 19212,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -17,7 +17,7 @@
     "AbilityList": [
       {
         "Name": "plasmid_button_electro",
-        "ButtonID": 3040,
+        "ButtonID": 18285,
         "ButtonClass": "func_button",
         "Filter": "electrouser",
         "Chat_Uses": true,
@@ -31,7 +31,7 @@
     "Name": "incinerate",
     "ShortName": "incinerate",
     "Color": "{default}",
-    "HammerID": 3048,
+    "HammerID": 19211,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -45,13 +45,13 @@
     "AbilityList": [
       {
         "Name": "plasmid_button_incinerate",
-        "ButtonID": 3049,
+        "ButtonID": 18283,
         "ButtonClass": "func_button",
         "Filter": "incinerateuser",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 5
+        "Mode": 4,
+        "MaxUses": 8,
+        "CoolDown": 11
       }
     ]
   },
@@ -59,7 +59,7 @@
     "Name": "cyclone",
     "ShortName": "cyclone",
     "Color": "{default}",
-    "HammerID": 3058,
+    "HammerID": 19210,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -73,12 +73,12 @@
     "AbilityList": [
       {
         "Name": "plasmid_button_cyclone",
-        "ButtonID": 3059,
+        "ButtonID": 18281,
         "ButtonClass": "func_button",
         "Filter": "cycloneuser",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
+        "Mode": 4,
+        "MaxUses": 6,
         "CoolDown": 10
       }
     ]
@@ -87,7 +87,7 @@
     "Name": "insect",
     "ShortName": "insect",
     "Color": "{default}",
-    "HammerID": 3145,
+    "HammerID": 19209,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -101,12 +101,12 @@
     "AbilityList": [
       {
         "Name": "plasmid_button_insect",
-        "ButtonID": 3146,
+        "ButtonID": 18220,
         "ButtonClass": "func_button",
         "Filter": "insectuser",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
+        "Mode": 4,
+        "MaxUses": 5,
         "CoolDown": 10
       }
     ]
@@ -115,7 +115,7 @@
     "Name": "tonic flashflare",
     "ShortName": "tonic flashflare",
     "Color": "{default}",
-    "HammerID": 3516,
+    "HammerID": 19216,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -143,7 +143,7 @@
     "Name": "tonic static",
     "ShortName": "tonic static",
     "Color": "{default}",
-    "HammerID": 3521,
+    "HammerID": 19215,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -171,7 +171,7 @@
     "Name": "little sister",
     "ShortName": "little sister",
     "Color": "{default}",
-    "HammerID": 3550,
+    "HammerID": 19214,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -199,7 +199,7 @@
     "Name": "big daddy",
     "ShortName": "big daddy",
     "Color": "{default}",
-    "HammerID": 3557,
+    "HammerID": 19213,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -227,7 +227,7 @@
     "Name": "gravity",
     "ShortName": "gravity",
     "Color": "{default}",
-    "HammerID": 4170,
+    "HammerID": 19208,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -245,8 +245,8 @@
         "ButtonClass": "func_button",
         "Filter": "gravityuser",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
+        "Mode": 4,
+        "MaxUses": 5,
         "CoolDown": 18
       }
     ]
@@ -255,7 +255,7 @@
     "Name": "frost",
     "ShortName": "frost",
     "Color": "{default}",
-    "HammerID": 4182,
+    "HammerID": 19207,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -273,8 +273,8 @@
         "ButtonClass": "func_button",
         "Filter": "frostuser",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
+        "Mode": 4,
+        "MaxUses": 5,
         "CoolDown": 13
       }
     ]
