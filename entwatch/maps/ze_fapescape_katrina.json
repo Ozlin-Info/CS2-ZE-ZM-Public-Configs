@@ -16,13 +16,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 10,
-				"CoolDown": 10
+				"Name": "weinxinbutton",
+		        "ButtonID": 27516,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_weixin:1",
+		        "Chat_Uses": true,
+		        "Mode": 4,
+		        "MaxUses": 10,
+		        "CoolDown": 10
 			}
 		]
 	},
@@ -43,13 +44,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 10,
-				"CoolDown": 10
+				"Name": "qqbutton",
+		        "ButtonID": 27507,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_qq:1",
+		        "Chat_Uses": true,
+		        "Mode": 4,
+		        "MaxUses": 10,
+		        "CoolDown": 10
 			}
 		]
 	},
@@ -70,13 +72,20 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 2,
-				"CoolDown": 50
+				"Name": "heal_button",
+		        "ButtonID": 27708,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_heal:1",
+		        "Chat_Uses": true,
+		        "Mode": 7,
+		        "MaxUses": 0,
+		        "CoolDown": 0,
+		        "Ignore": false,
+		        "LockItem": false,
+		        "MathID": 27702,
+		        "MathNameFix": false,
+		        "MathFindSpawned": true,
+		        "MathDontShowMax": true
 			}
 		]
 	},
@@ -97,13 +106,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 5
+				"Name": "sword_button",
+		        "ButtonID": 27965,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_sword:1",
+		        "Chat_Uses": false,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 5
 			}
 		]
 	},
@@ -124,13 +134,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 28063,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 6,
-				"CoolDown": 8
+				"Name": "dilei_button1",
+		        "ButtonID": 28063,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_dilei:1",
+		        "Chat_Uses": true,
+		        "Mode": 4,
+		        "MaxUses": 6,
+		        "CoolDown": 8
 			}
 		]
 	},
@@ -151,13 +162,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 8,
-				"CoolDown": 15
+				"Name": "basketball_button",
+		        "ButtonID": 28103,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_basketball:1",
+		        "Chat_Uses": true,
+		        "Mode": 4,
+		        "MaxUses": 8,
+		        "CoolDown": 15
 			}
 		]
 	},
@@ -178,13 +190,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 45
+				"Name": "flame_button",
+		        "ButtonID": 28143,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_flame:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 45
 			}
 		]
 	},
@@ -205,13 +218,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 40
+				"Name": "pushgun_button",
+		        "ButtonID": 28179,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_pushgun:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 40
 			}
 		]
 	},
@@ -232,13 +246,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 4,
-				"MaxUses": 10,
-				"CoolDown": 2
+				"Name": "legowall_button",
+		        "ButtonID": 28231,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_wall:1",
+		        "Chat_Uses": true,
+		        "Mode": 4,
+		        "MaxUses": 10,
+		        "CoolDown": 2
 			}
 		]
 	},
@@ -259,13 +274,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 2
+				"Name": "rpg_button",
+		        "ButtonID": 28280,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_rpg:1",
+		        "Chat_Uses": false,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 2
 			}
 		]
 	},
@@ -286,13 +302,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 100
+				"Name": "zuolao_button",
+		        "ButtonID": 28312,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_zuolao:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 100
 			}
 		]
 	},
@@ -313,13 +330,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
+				"Name": "Item_Button",
+		        "ButtonID": 27777,
+		        "ButtonClass": "func_button",
+		        "Filter": "filter_item_ammo:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 60
 			}
 		]
 	}
