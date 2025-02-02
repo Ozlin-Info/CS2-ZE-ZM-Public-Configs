@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Water",    
+        "Name": "Water",
         "ShortName": "Water",
         "Color": "{default}",
         "HammerID": 2928,
@@ -14,11 +14,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Staff_Water_Button",
                 "ButtonID": 2923,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Staff_Water",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -27,7 +28,7 @@
         ]
     },
     {
-        "Name": "Electro",    
+        "Name": "Electro",
         "ShortName": "Electro",
         "Color": "{default}",
         "HammerID": 2966,
@@ -41,11 +42,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Staff_Electro_Button",
                 "ButtonID": 2970,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Staff_Electro",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -54,7 +56,7 @@
         ]
     },
     {
-        "Name": "Fire",    
+        "Name": "Fire",
         "ShortName": "Fire",
         "Color": "{default}",
         "HammerID": 2936,
@@ -68,11 +70,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Staff_Fire_Button",
                 "ButtonID": 2941,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Staff_Fire",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -81,7 +84,7 @@
         ]
     },
     {
-        "Name": "Holy",    
+        "Name": "Holy",
         "ShortName": "Holy",
         "Color": "{default}",
         "HammerID": 2950,
@@ -95,11 +98,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Staff_Holy_Button",
                 "ButtonID": 2943,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Staff_Holy",
                 "Chat_Uses": true,
                 "Mode": 3,
                 "MaxUses": 1,
@@ -108,7 +112,7 @@
         ]
     },
     {
-        "Name": "Earth",    
+        "Name": "Earth",
         "ShortName": "Earth",
         "Color": "{default}",
         "HammerID": 2961,
@@ -122,11 +126,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Staff_Earth_Button",
                 "ButtonID": 2930,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Staff_Earth",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -135,7 +140,7 @@
         ]
     },
     {
-        "Name": "heal",    
+        "Name": "Heal",
         "ShortName": "Heal",
         "Color": "{default}",
         "HammerID": 2955,
@@ -149,11 +154,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Staff_Heal_Button",
                 "ButtonID": 2956,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Staff_Heal",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -162,7 +168,7 @@
         ]
     },
     {
-        "Name": "Wind",    
+        "Name": "Wind",
         "ShortName": "Wind",
         "Color": "{default}",
         "HammerID": 2976,
@@ -176,11 +182,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Staff_Wind_Button",
                 "ButtonID": 2973,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Staff_Wind",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -189,7 +196,7 @@
         ]
     },
     {
-        "Name": "ZM Blind",    
+        "Name": "ZM Blind",
         "ShortName": "ZM Blind",
         "Color": "{default}",
         "HammerID": 2917,
@@ -197,17 +204,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 3075,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Knife_Blind_Button",
                 "ButtonID": 2918,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Knife_Blind",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -216,25 +224,26 @@
         ]
     },
     {
-        "Name": "ZM Invisable",    
-        "ShortName": "ZM Invisable",
+        "Name": "ZM Invisible",
+        "ShortName": "ZM Invisible",
         "Color": "{default}",
         "HammerID": 3007,
         "GlowColor": [250,2,246,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 3008,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Knife_Invis_Button",
                 "ButtonID": 3004,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Knife_Invis",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -243,7 +252,7 @@
         ]
     },
     {
-        "Name": "ZM Warp",    
+        "Name": "ZM Warp",
         "ShortName": "ZM Warp",
         "Color": "{default}",
         "HammerID": 2998,
@@ -251,17 +260,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 3073,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Knife_Warp_Button",
                 "ButtonID": 2999,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Knife_Warp",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -270,7 +280,7 @@
         ]
     },
     {
-        "Name": "ZM Lure",    
+        "Name": "ZM Lure",
         "ShortName": "ZM Lure",
         "Color": "{default}",
         "HammerID": 2901,
@@ -278,17 +288,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 3077,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Knife_Lure_Button",
                 "ButtonID": 2905,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Knife_Lure",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -297,7 +308,7 @@
         ]
     },
     {
-        "Name": "ZM Shield",    
+        "Name": "ZM Shield",
         "ShortName": "ZM Shield",
         "Color": "{default}",
         "HammerID": 3042,
@@ -305,17 +316,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 3040,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Knife_Shield_Button",
                 "ButtonID": 3044,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Knife_Shield",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -324,7 +336,7 @@
         ]
     },
     {
-        "Name": "ZM Heal",    
+        "Name": "ZM Heal",
         "ShortName": "ZM Heal",
         "Color": "{default}",
         "HammerID": 3090,
@@ -332,17 +344,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 3082,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Knife_Heal_Button",
                 "ButtonID": 3084,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Knife_Heal",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -351,7 +364,7 @@
         ]
     },
     {
-        "Name": "ZM Fire",    
+        "Name": "ZM Fire",
         "ShortName": "ZM Fire",
         "Color": "{default}",
         "HammerID": 3112,
@@ -359,17 +372,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 3122,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Knife_Fire_Button",
                 "ButtonID": 3108,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Knife_Fire",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -378,7 +392,7 @@
         ]
     },
     {
-        "Name": "ZM Frost",    
+        "Name": "ZM Frost",
         "ShortName": "ZM Frost",
         "Color": "{default}",
         "HammerID": 3114,
@@ -386,17 +400,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 3120,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Knife_Frost_Button",
                 "ButtonID": 3117,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Knife_Frost",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -405,7 +420,7 @@
         ]
     },
     {
-        "Name": "Bonus Knife",    
+        "Name": "Bonus Knife",
         "ShortName": "Bonus Knife",
         "Color": "{default}",
         "HammerID": 7117,
@@ -419,11 +434,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "Bonus_Knife_Button",
                 "ButtonID": 7115,
                 "ButtonClass": "",
+                "Filter": "",
                 "Chat_Uses": true,
                 "Mode": 1,
                 "MaxUses": 0,
