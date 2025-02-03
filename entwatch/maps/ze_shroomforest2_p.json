@@ -19,7 +19,8 @@
             {
                 "Name": "Item_Fire_Button",
                 "ButtonID": 5452,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Fire",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -44,9 +45,10 @@
         "UsePriority": true,
         "AbilityList": [    
             {
-                "Name": "item_heal_button",
+                "Name": "Item_Heal_Button",
                 "ButtonID": 5476,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Heal",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -71,9 +73,10 @@
         "UsePriority": true,
         "AbilityList": [    
             {
-                "Name": "item_earth_button",
+                "Name": "Item_Earth_Button",
                 "ButtonID": 5458,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Earth",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -98,9 +101,10 @@
         "UsePriority": true,
         "AbilityList": [    
             {
-                "Name": "item_ice_button",
+                "Name": "Item_Ice_Button",
                 "ButtonID": 5488,
-                "ButtonClass": "",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Ice",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -125,9 +129,10 @@
         "UsePriority": true,
         "AbilityList": [    
             {
-                "Name": "item_wind_button",
+                "Name": "Item_Wind_Button",
                 "ButtonID": 5472,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Wind",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -152,9 +157,10 @@
         "UsePriority": true,
         "AbilityList": [    
             {
-                "Name": "item_gravity_button",
+                "Name": "Item_Gravity_Button",
                 "ButtonID": 5469,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Gravity",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -179,13 +185,20 @@
         "UsePriority": true,
         "AbilityList": [    
             {
-                "Name": "item_mines_button",
+                "Name": "Item_Mines_Button",
                 "ButtonID": 5777,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Mines",
                 "Chat_Uses": true,
-                "Mode": 4,
-                "MaxUses": 6,
-                "CoolDown": 3
+                "Mode": 7,
+                "MaxUses": 0,
+                "CoolDown": 0,
+                "Ignore": false,
+                "LockItem": false,
+                "MathID": 5779,
+                "MathNameFix": false,
+                "MathFindSpawned": true,
+                "MathDontShowMax": true
             }
         ]
     },
@@ -208,7 +221,8 @@
             {
                 "Name": "Item_Water_Button",
                 "ButtonID": 5980,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Water",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -235,7 +249,8 @@
             {
                 "Name": "Item_Ammo_Button",
                 "ButtonID": 6165,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Ammo",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -252,8 +267,8 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
         "TriggerID": 0,
@@ -262,7 +277,8 @@
             {
                 "Name": "Item_Cloud_Button",
                 "ButtonID": 6345,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Zombie_Cloud",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -279,8 +295,8 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
         "TriggerID": 0,
@@ -289,7 +305,8 @@
             {
                 "Name": "Item_Shroom_Button",
                 "ButtonID": 6352,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Zombie_Item",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
