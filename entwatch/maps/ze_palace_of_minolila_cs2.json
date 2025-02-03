@@ -204,11 +204,11 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 192,
         "UsePriority": true,
         "AbilityList": [
           {
@@ -232,11 +232,11 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 214,
         "UsePriority": true,
         "AbilityList": [
           {
@@ -260,11 +260,11 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 224,
         "UsePriority": true,
         "AbilityList": [
           {
@@ -288,11 +288,11 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 246,
         "UsePriority": true,
         "AbilityList": [
           {
