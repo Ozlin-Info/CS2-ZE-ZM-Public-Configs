@@ -1,10 +1,12 @@
 [
   {
-    "Name": "weapon_hol&0000",
-    "ShortName": "weapon_hol&0000",
+    "Name": "VendingMachine",
+    "ShortName": "VendingMachine",
     "Color": "{default}",
-    "HammerID": "365",
+    "HammerID": 365,
     "GlowColor": [0,255,0,1],
+    "FilterID": 0,
+    "FilterValue": "",
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
@@ -14,11 +16,39 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
+        "Name": "button_hol",
+        "ButtonID": 369,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "hol_user",
         "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "SquidBall",
+    "ShortName": "SquidBall",
+    "Color": "{default}",
+    "HammerID": 464,
+    "GlowColor": [0,255,0,1],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "button_shar",
+        "ButtonID": 466,
+        "ButtonClass": "func_button",
+        "Filter": "shar_user",
+        "Chat_Uses": false,
         "Mode": 1,
         "MaxUses": 0,
         "CoolDown": 0
@@ -26,11 +56,13 @@
     ]
   },
   {
-    "Name": "weapon_shar",
-    "ShortName": "weapon_shar",
+    "Name": "Box",
+    "ShortName": "Box",
     "Color": "{default}",
-    "HammerID": "464",
+    "HammerID": 476,
     "GlowColor": [0,255,0,1],
+    "FilterID": 0,
+    "FilterValue": "",
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
@@ -40,23 +72,25 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
+        "Name": "button_box",
+        "ButtonID": 481,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "box_user",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
   },
   {
-    "Name": "weapon_box&0000",
-    "ShortName": "weapon_box&0000",
+    "Name": "Scaffold",
+    "ShortName": "Scaffold",
     "Color": "{default}",
-    "HammerID": "476",
+    "HammerID": 487,
     "GlowColor": [0,255,0,1],
+    "FilterID": 0,
+    "FilterValue": "",
     "BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
@@ -66,39 +100,13 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
+        "Name": "button_pol",
+        "ButtonID": 489,
         "ButtonClass": "func_button",
-        "Filter": "",
+        "Filter": "pol_user",
         "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
-        "CoolDown": 0
-      }
-    ]
-  },
-  {
-    "Name": "weapon_pol&0000",
-    "ShortName": "weapon_pol&0000",
-    "Color": "{default}",
-    "HammerID": "487",
-    "GlowColor": [0,255,0,1],
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "weapon_elite",
-        "ButtonID": 0,
-        "ButtonClass": "func_button",
-        "Filter": "",
-        "Chat_Uses": true,
-        "Mode": 1,
-        "MaxUses": 0,
+        "Mode": 3,
+        "MaxUses": 1,
         "CoolDown": 0
       }
     ]
