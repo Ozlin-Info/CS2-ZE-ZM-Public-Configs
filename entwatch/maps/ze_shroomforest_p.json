@@ -19,6 +19,7 @@
                 "Name": "",
                 "ButtonID": 0,
                 "ButtonClass": "",
+                "Filter": "Rot_Phys_Detect",
                 "Chat_Uses": true,
                 "Mode": 0,
                 "MaxUses": 0,
@@ -45,7 +46,8 @@
             {
                 "Name": "Item_Ammo_Button",
                 "ButtonID": 1056,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Ammo:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -72,7 +74,8 @@
             {
                 "Name": "Item_Heal_Button",
                 "ButtonID": 1121,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Heal:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -99,11 +102,18 @@
             {
                 "Name": "Item_Mines_Button",
                 "ButtonID": 1132,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Mines:1",
                 "Chat_Uses": true,
-                "Mode": 4,
-                "MaxUses": 6,
-                "CoolDown": 3
+                "Mode": 7,
+                "MaxUses": 0,
+                "CoolDown": 0,
+                "Ignore": false,
+                "LockItem": false,
+                "MathID": 1135,
+                "MathNameFix": false,
+                "MathFindSpawned": false,
+                "MathDontShowMax": true
             }
         ]
     },
@@ -126,7 +136,8 @@
             {
                 "Name": "Item_Earth_Button",
                 "ButtonID": 1149,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Earth:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -154,6 +165,7 @@
                 "Name": "",
                 "ButtonID": 0,
                 "ButtonClass": "",
+                "Filter": "Player_Key",
                 "Chat_Uses": true,
                 "Mode": 0,
                 "MaxUses": 0,
@@ -178,9 +190,10 @@
         "UsePriority": true,
         "AbilityList": [    
             {
-                "Name": "Item_Fire_Pistol",
+                "Name": "Item_Fire_Button",
                 "ButtonID": 1173,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Fire",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -207,7 +220,8 @@
             {
                 "Name": "Item_Gravity_Button",
                 "ButtonID": 1183,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Gravity",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -234,7 +248,8 @@
             {
                 "Name": "Item_Wind_Button",
                 "ButtonID": 1192,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Wind",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -261,7 +276,8 @@
             {
                 "Name": "Item_Ice_Button",
                 "ButtonID": 1201,
-                "ButtonClass": "func_button",
+                "ButtonClass": "func_physbox",
+                "Filter": "Player_Ice",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -289,6 +305,7 @@
                 "Name": "Item_Ultima_Pistol",
                 "ButtonID": 917,
                 "ButtonClass": "func_button",
+                "Filter": "Player_Ultima",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,

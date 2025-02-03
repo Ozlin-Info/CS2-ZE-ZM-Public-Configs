@@ -404,8 +404,8 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
+		"TriggerID": 7535,
+		"UsePriority": true,
 		"AbilityList": [
 			{
 				"Name": "",
@@ -601,7 +601,7 @@
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
-		"UsePriority": false,
+		"UsePriority": true,
 		"AbilityList": [
 			{
 				"Name": "",
@@ -628,8 +628,8 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
+		"TriggerID": 6430,
+		"UsePriority": true,
 		"AbilityList": [
 			{
 				"Name": "",
@@ -656,8 +656,8 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
+		"TriggerID": 6441,
+		"UsePriority": true,
 		"AbilityList": [
 			{
 				"Name": "",
@@ -684,8 +684,8 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
+		"TriggerID": 6457,
+		"UsePriority": true,
 		"AbilityList": [
 			{
 				"Name": "",
@@ -712,8 +712,8 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
-		"UsePriority": false,
+		"TriggerID": 6512,
+		"UsePriority": true,
 		"AbilityList": [
 			{
 				"Name": "",
@@ -739,7 +739,7 @@
 		"Chat": false,
 		"Hud": true,
 		"TriggerID": 8234,
-		"UsePriority": false,
+		"UsePriority": true,
 		"AbilityList": [
 			{
 				"Name": "",

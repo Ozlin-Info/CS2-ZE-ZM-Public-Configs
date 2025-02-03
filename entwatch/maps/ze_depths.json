@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Fuel",    
+        "Name": "Fuel",
         "ShortName": "Fuel",
         "Color": "{default}",
         "HammerID": 5363,
@@ -14,12 +14,13 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "",
                 "ButtonID": 0,
                 "ButtonClass": "",
-                "Chat_Uses": true,
+                "Filter": "",
+                "Chat_Uses": false,
                 "Mode": 0,
                 "MaxUses": 0,
                 "CoolDown": 0
@@ -27,7 +28,7 @@
         ]
     },
     {
-        "Name": "Push",    
+        "Name": "Push",
         "ShortName": "Push",
         "Color": "{default}",
         "HammerID": 11782,
@@ -41,20 +42,21 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
-                "Name": "[PR#]i_push_button",
+                "Name": "i_push_button",
                 "ButtonID": 11783,
-                "ButtonClass": "func_button",
-                "Chat_Uses": true,
-                "Mode": 1,
+                "ButtonClass": "func_physbox",
+                "Filter": "push_user:1",
+                "Chat_Uses": false,
+                "Mode": 2,
                 "MaxUses": 0,
-                "CoolDown": 0
+                "CoolDown": 40
             }
         ]
     },
     {
-        "Name": "Trail",    
+        "Name": "Trail",
         "ShortName": "Trail",
         "Color": "{default}",
         "HammerID": 12016,
@@ -68,12 +70,13 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "",
                 "ButtonID": 0,
                 "ButtonClass": "",
-                "Chat_Uses": true,
+                "Filter": "",
+                "Chat_Uses": false,
                 "Mode": 0,
                 "MaxUses": 0,
                 "CoolDown": 0

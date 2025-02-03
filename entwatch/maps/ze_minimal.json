@@ -3,7 +3,7 @@
     "Name": "push",
     "ShortName": "push",
     "Color": "{default}",
-    "HammerID": "3926",
+    "HammerID": 3926,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -31,7 +31,7 @@
     "Name": "gravity",
     "ShortName": "gravity",
     "Color": "{default}",
-    "HammerID": "3961",
+    "HammerID": 3961,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -59,7 +59,7 @@
     "Name": "ZM Gravity",
     "ShortName": "ZM Gravity",
     "Color": "{default}",
-    "HammerID": "3987",
+    "HammerID": 3987,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -68,7 +68,7 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 3991,
     "UsePriority": true,
     "AbilityList": [
       {
@@ -87,7 +87,7 @@
     "Name": "ZM Heal/Speed",
     "ShortName": "ZM Heal/Speed",
     "Color": "{default}",
-    "HammerID": "3999",
+    "HammerID": 3999,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -96,7 +96,7 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 3997,
     "UsePriority": true,
     "AbilityList": [
       {
@@ -115,7 +115,7 @@
     "Name": "laser wall",
     "ShortName": "laser wall",
     "Color": "{default}",
-    "HammerID": "4010",
+    "HammerID": 4010,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -143,7 +143,7 @@
     "Name": "freezer",
     "ShortName": "freezer",
     "Color": "{default}",
-    "HammerID": "4040",
+    "HammerID": 4040,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -171,7 +171,7 @@
     "Name": "ZM Ring",
     "ShortName": "ZM Ring",
     "Color": "{default}",
-    "HammerID": "4046",
+    "HammerID": 4046,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -199,7 +199,7 @@
     "Name": "ZM Freeze",
     "ShortName": "ZM Freeze",
     "Color": "{default}",
-    "HammerID": "4083",
+    "HammerID": 4083,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -208,7 +208,7 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4085,
     "UsePriority": true,
     "AbilityList": [
       {
@@ -227,7 +227,7 @@
     "Name": "ZM Fire",
     "ShortName": "ZM Fire",
     "Color": "{default}",
-    "HammerID": "4101",
+    "HammerID": 4101,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -236,18 +236,18 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4103,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "zfire_button",
+        "ButtonID": 4098,
+        "ButtonClass": "func_button",
+        "Filter": "zfire_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 25
       }
     ]
   },
@@ -255,7 +255,7 @@
     "Name": "ammo",
     "ShortName": "ammo",
     "Color": "{default}",
-    "HammerID": "4124",
+    "HammerID": 4124,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -268,14 +268,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "ammo_button",
+        "ButtonID": 4119,
+        "ButtonClass": "func_button",
+        "Filter": "ammo_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 70
       }
     ]
   },
@@ -283,7 +283,7 @@
     "Name": "Slow",
     "ShortName": "Slow",
     "Color": "{default}",
-    "HammerID": "4167",
+    "HammerID": 4167,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -296,14 +296,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "human_canon_slow_button",
+        "ButtonID": 4164,
+        "ButtonClass": "func_button",
+        "Filter": "canon_slow_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 4
       }
     ]
   },
@@ -311,7 +311,7 @@
     "Name": "ZM Slow",
     "ShortName": "ZM Slow",
     "Color": "{default}",
-    "HammerID": "4182",
+    "HammerID": 4182,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -320,18 +320,18 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 4184,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "weapon_knife",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "zslow_button",
+        "ButtonID": 4179,
+        "ButtonClass": "func_button",
+        "Filter": "zslow_user",
         "Chat_Uses": true,
-        "Mode": 1,
+        "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 4
       }
     ]
   }

@@ -1,9 +1,9 @@
 [
   {
-    "Name": "bike",
-    "ShortName": "bike",
+    "Name": "Fire Extinguisher",
+    "ShortName": "FExt",
     "Color": "{default}",
-    "HammerID": 3327,
+    "HammerID": 394,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -19,7 +19,7 @@
         "Name": "",
         "ButtonID": 0,
         "ButtonClass": "",
-        "Filter": "",
+        "Filter": "fireman",
         "Chat_Uses": true,
         "Mode": 0,
         "MaxUses": 0,
@@ -28,10 +28,10 @@
     ]
   },
   {
-    "Name": "Obito",
-    "ShortName": "Obito",
+    "Name": "Heal",
+    "ShortName": "Heal",
     "Color": "{default}",
-    "HammerID": 11950,
+    "HammerID": 410,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -44,14 +44,20 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 0,
-        "ButtonClass": "",
-        "Filter": "",
+        "Name": "item_heal_button",
+        "ButtonID": 422,
+        "ButtonClass": "func_button",
+        "Filter": "healer:1",
         "Chat_Uses": true,
-        "Mode": 0,
+        "Mode": 7,
         "MaxUses": 0,
-        "CoolDown": 0
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 11652,
+        "MathNameFix": false,
+        "MathFindSpawned": true,
+        "MathDontShowMax": true
       }
     ]
   }

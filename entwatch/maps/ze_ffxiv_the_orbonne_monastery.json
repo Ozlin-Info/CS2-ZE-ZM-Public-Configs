@@ -1,7 +1,7 @@
 [
   {
-    "Name": "fire",
-    "ShortName": "fire",
+    "Name": "Fire",
+    "ShortName": "Fire",
     "Color": "{default}",
     "HammerID": 1498,
     "GlowColor": [0,255,0,1],

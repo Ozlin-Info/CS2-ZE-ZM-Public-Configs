@@ -1,9 +1,9 @@
 [
   {
-    "Name": "Heal",
-    "ShortName": "Heal",
+    "Name": "Ammo",
+    "ShortName": "Ammo",
     "Color": "{default}",
-    "HammerID": 44496,
+    "HammerID": 9493,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -16,14 +16,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "heal_button",
-        "ButtonID": 44494,
+        "Name": "Item_Button",
+        "ButtonID": 9495,
         "ButtonClass": "func_button",
-        "Filter": "$heal_user",
+        "Filter": "yy:1",
         "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 120
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
       }
     ]
   }

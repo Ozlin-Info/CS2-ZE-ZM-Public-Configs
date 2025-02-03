@@ -4,12 +4,7 @@
         "ShortName": "Earth",
         "Color": "{default}",
         "HammerID": 7218,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -21,9 +16,10 @@
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
-                "ButtonID": 0,
+                "Name": "Item_Earth_Button",
+                "ButtonID": 7219,
                 "ButtonClass": "func_button",
+                "Filter": "player_earth",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -36,12 +32,7 @@
         "ShortName": "Lightning",
         "Color": "{default}",
         "HammerID": 7232,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -53,9 +44,10 @@
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
-                "ButtonID": 0,
+                "Name": "Item_Lightning_Button",
+                "ButtonID": 7233,
                 "ButtonClass": "func_button",
+                "Filter": "player_lightning",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -68,12 +60,7 @@
         "ShortName": "Heal",
         "Color": "{default}",
         "HammerID": 7271,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -85,9 +72,10 @@
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
-                "ButtonID": 0,
+                "Name": "Item_Heal_Button",
+                "ButtonID": 7273,
                 "ButtonClass": "func_button",
+                "Filter": "player_heal",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -100,12 +88,7 @@
         "ShortName": "Water",
         "Color": "{default}",
         "HammerID": 7281,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -117,9 +100,10 @@
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
-                "ButtonID": 0,
+                "Name": "Item_Water_Button",
+                "ButtonID": 7283,
                 "ButtonClass": "func_button",
+                "Filter": "player_water",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -132,12 +116,7 @@
         "ShortName": "Gravity",
         "Color": "{default}",
         "HammerID": 7307,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -149,9 +128,10 @@
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
-                "ButtonID": 0,
+                "Name": "Item_Gravity_Button",
+                "ButtonID": 7310,
                 "ButtonClass": "func_button",
+                "Filter": "player_gravity",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -164,12 +144,7 @@
         "ShortName": "Tornado",
         "Color": "{default}",
         "HammerID": 7337,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -181,9 +156,10 @@
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
-                "ButtonID": 0,
+                "Name": "Item_Wind_Button",
+                "ButtonID": 7339,
                 "ButtonClass": "func_button",
+                "Filter": "player_wind",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -196,12 +172,7 @@
         "ShortName": "Ultima",
         "Color": "{default}",
         "HammerID": 7368,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -213,9 +184,10 @@
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
-                "ButtonID": 0,
+                "Name": "Item_Ultima_Button",
+                "ButtonID": 7370,
                 "ButtonClass": "func_button",
+                "Filter": "player_ultima",
                 "Chat_Uses": true,
                 "Mode": 3,
                 "MaxUses": 1,
@@ -228,12 +200,7 @@
         "ShortName": "Trace",
         "Color": "{default}",
         "HammerID": 7406,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -245,9 +212,10 @@
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
-                "ButtonID": 0,
+                "Name": "Item_Trace_Button",
+                "ButtonID": 7399,
                 "ButtonClass": "func_button",
+                "Filter": "player_trace",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -260,12 +228,7 @@
         "ShortName": "Torch",
         "Color": "{default}",
         "HammerID": 10860,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -280,6 +243,7 @@
                 "Name": "",
                 "ButtonID": 0,
                 "ButtonClass": "",
+                "Filter": "",
                 "Chat_Uses": false,
                 "Mode": 0,
                 "MaxUses": 0,
@@ -292,18 +256,15 @@
         "ShortName": "S_Kirito",
         "Color": "{default}",
         "HammerID": 12869,
-        "GlowColor": [
-            0,
-            255,
-            0,
-            1
-        ],
+        "GlowColor": [0,255,0,1],
+        "FilterID": 0,
+        "FilterValue": "",
         "BlockPickup": false,
         "AllowTransfer": false,
         "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 12887,
         "UsePriority": false,
         "AbilityList": [
             {
@@ -355,18 +316,15 @@
         "ShortName": "Kirito",
         "Color": "{default}",
         "HammerID": 11545,
-        "GlowColor": [
-            0,
-            255,
-            0,
-            1
-        ],
+        "GlowColor": [0,255,0,1],
+        "FilterID": 0,
+        "FilterValue": "",
         "BlockPickup": false,
         "AllowTransfer": false,
         "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 7571,
         "UsePriority": false,
         "AbilityList": [
             {
@@ -418,18 +376,15 @@
         "ShortName": "Asuna",
         "Color": "{default}",
         "HammerID": 11546,
-        "GlowColor": [
-            0,
-            255,
-            0,
-            1
-        ],
+        "GlowColor": [0,255,0,1],
+        "FilterID": 0,
+        "FilterValue": "",
         "BlockPickup": false,
         "AllowTransfer": false,
         "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 11111,
         "UsePriority": false,
         "AbilityList": [
             {
@@ -481,12 +436,7 @@
         "ShortName": "Crystal1",
         "Color": "{default}",
         "HammerID": 6723,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -501,6 +451,7 @@
                 "Name": "",
                 "ButtonID": 0,
                 "ButtonClass": "",
+                "Filter": "",
                 "Chat_Uses": false,
                 "Mode": 0,
                 "MaxUses": 0,
@@ -513,12 +464,7 @@
         "ShortName": "Crystal5",
         "Color": "{default}",
         "HammerID": 10679,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -533,6 +479,7 @@
                 "Name": "",
                 "ButtonID": 0,
                 "ButtonClass": "",
+                "Filter": "",
                 "Chat_Uses": false,
                 "Mode": 0,
                 "MaxUses": 0,
@@ -545,12 +492,7 @@
         "ShortName": "Alice",
         "Color": "{default}",
         "HammerID": 11645,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -565,6 +507,7 @@
                 "Name": "",
                 "ButtonID": 0,
                 "ButtonClass": "",
+                "Filter": "alice:1",
                 "Chat_Uses": false,
                 "Mode": 1,
                 "MaxUses": 0,
@@ -577,12 +520,7 @@
         "ShortName": "ZM Ice",
         "Color": "{default}",
         "HammerID": 11537,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -590,27 +528,29 @@
         "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 9007,
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
+                "Name": "Item_ZMIce_Button_1",
                 "ButtonID": 7428,
                 "ButtonClass": "func_button",
+                "Filter": "player_zice",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
                 "CoolDown": 80
-            },
-            {
-                "Name": "",
+              },
+              {
+                "Name": "Item_ZMIce_Button_2",
                 "ButtonID": 7438,
                 "ButtonClass": "func_button",
+                "Filter": "player_zice",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
                 "CoolDown": 60
-            }
+              }
         ]
     },
     {
@@ -618,12 +558,7 @@
         "ShortName": "ZM Gravity",
         "Color": "{default}",
         "HammerID": 11542,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -631,27 +566,29 @@
         "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 9019,
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
+                "Name": "Item_ZMGravity_Button_1",
                 "ButtonID": 7460,
                 "ButtonClass": "func_button",
+                "Filter": "player_zgravity",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
                 "CoolDown": 80
-            },
-            {
-                "Name": "",
+              },
+              {
+                "Name": "Item_ZMGravity_Button_2",
                 "ButtonID": 7469,
                 "ButtonClass": "func_button",
+                "Filter": "player_zgravity",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
                 "CoolDown": 60
-            }
+              }
         ]
     },
     {
@@ -659,12 +596,7 @@
         "ShortName": "ZM Stealth",
         "Color": "{default}",
         "HammerID": 11543,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -672,27 +604,29 @@
         "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 9023,
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
+                "Name": "Item_ZMStealth_Button_1",
                 "ButtonID": 7498,
                 "ButtonClass": "func_button",
+                "Filter": "player_zstealth",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
                 "CoolDown": 80
-            },
-            {
-                "Name": "",
+              },
+              {
+                "Name": "Item_ZMStealth_Button_2",
                 "ButtonID": 7508,
                 "ButtonClass": "func_button",
+                "Filter": "player_zstealth",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
                 "CoolDown": 60
-            }
+              }
         ]
     },
     {
@@ -700,12 +634,7 @@
         "ShortName": "ZM Shield",
         "Color": "{default}",
         "HammerID": 11544,
-        "GlowColor": [
-            255,
-            255,
-            255,
-            255
-        ],
+        "GlowColor": [255,255,255,255],
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
@@ -713,27 +642,29 @@
         "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 9027,
         "UsePriority": true,
         "AbilityList": [
             {
-                "Name": "",
+                "Name": "Item_ZMShield_Button_1",
                 "ButtonID": 7527,
                 "ButtonClass": "func_button",
+                "Filter": "player_zshield",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
                 "CoolDown": 80
-            },
-            {
-                "Name": "",
+              },
+              {
+                "Name": "Item_ZMShield_Button_2",
                 "ButtonID": 7536,
                 "ButtonClass": "func_button",
+                "Filter": "player_zshield",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
                 "CoolDown": 60
-            }
+              }
         ]
     }
 ]

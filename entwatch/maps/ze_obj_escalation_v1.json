@@ -1,9 +1,9 @@
 [
   {
-    "Name": "Heal",
-    "ShortName": "Heal",
+    "Name": "Claymore",
+    "ShortName": "Claymore",
     "Color": "{default}",
-    "HammerID": 44496,
+    "HammerID": 33091,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -16,10 +16,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "heal_button",
-        "ButtonID": 44494,
+        "Name": "kuojian_anniu",
+        "ButtonID": 33092,
         "ButtonClass": "func_button",
-        "Filter": "$heal_user",
+        "Filter": "dilei_user:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,

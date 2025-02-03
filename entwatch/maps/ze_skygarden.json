@@ -19,6 +19,7 @@
                 "Name": "item_wall2_button",
                 "ButtonID": 262,
                 "ButtonClass": "func_button",
+                "Filter": "wall2_user",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -46,6 +47,7 @@
                 "Name": "item_wall1_button",
                 "ButtonID": 704,
                 "ButtonClass": "func_button",
+                "Filter": "wall1_user",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -73,6 +75,7 @@
                 "Name": "item_wind1_button",
                 "ButtonID": 644,
                 "ButtonClass": "func_button",
+                "Filter": "wind1_user",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -100,6 +103,7 @@
                 "Name": "item_wind2_button",
                 "ButtonID": 627,
                 "ButtonClass": "func_button",
+                "Filter": "wind2_user",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -127,6 +131,7 @@
                 "Name": "item_fire_button",
                 "ButtonID": 845,
                 "ButtonClass": "func_button",
+                "Filter": "fire_user",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -154,6 +159,7 @@
                 "Name": "item_wind3_button",
                 "ButtonID": 1776,
                 "ButtonClass": "func_button",
+                "Filter": "wind3_user",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -181,6 +187,7 @@
                 "Name": "Item_Button",
                 "ButtonID": 2496,
                 "ButtonClass": "func_button",
+                "Filter": "user",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -208,6 +215,7 @@
                 "Name": "Lao Ban",
                 "ButtonID": 0,
                 "ButtonClass": "",
+                "Filter": "",
                 "Chat_Uses": true,
                 "Mode": 0,
                 "MaxUses": 0,
@@ -235,6 +243,7 @@
                 "Name": "Lao Ban 2",
                 "ButtonID": 0,
                 "ButtonClass": "",
+                "Filter": "",
                 "Chat_Uses": true,
                 "Mode": 0,
                 "MaxUses": 0,
@@ -251,19 +260,20 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 1097,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
-                "Name": "ZM Shield",
+                "Name": "",
                 "ButtonID": 0,
                 "ButtonClass": "",
+                "Filter": "",
                 "Chat_Uses": true,
-                "Mode": 0,
+                "Mode": 1,
                 "MaxUses": 0,
                 "CoolDown": 0
             }
@@ -278,22 +288,23 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 1403,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [ 
             {
-                "Name": "Speed Halo",
+                "Name": "",
                 "ButtonID": 0,
                 "ButtonClass": "",
+                "Filter": "zmspeedhalo_user",
                 "Chat_Uses": true,
-                "Mode": 0,
+                "Mode": 1,
                 "MaxUses": 0,
                 "CoolDown": 0
-            }
+              }
         ]
     },
     {
@@ -305,22 +316,23 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 1578,
         "UsePriority": true,
-        "AbilityList": [    
-            {
-                "Name": "ZM Wind",
-                "ButtonID": 0,
-                "ButtonClass": "",
-                "Chat_Uses": true,
-                "Mode": 0,
-                "MaxUses": 0,
-                "CoolDown": 0
-            }
+        "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 0,
+            "ButtonClass": "",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 1,
+            "MaxUses": 0,
+            "CoolDown": 0
+          }
         ]
     },
     {
@@ -340,14 +352,15 @@
         "UsePriority": true,
         "AbilityList": [    
             {
-                "Name": "Core",
+                "Name": "",
                 "ButtonID": 0,
                 "ButtonClass": "",
+                "Filter": "core_user",
                 "Chat_Uses": true,
-                "Mode": 0,
+                "Mode": 1,
                 "MaxUses": 0,
                 "CoolDown": 0
-            }
+              }
         ]
     }
 ]

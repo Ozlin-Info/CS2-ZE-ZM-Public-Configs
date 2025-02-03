@@ -17,12 +17,13 @@
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
+		        "ButtonID": 0,
+		        "ButtonClass": "",
+		        "Filter": "Chocobo_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 1,
+		        "MaxUses": 0,
+		        "CoolDown": 0
 			}
 		]
 	},
@@ -44,21 +45,23 @@
 		"AbilityList": [
 			{
 				"Name": "Item_Berserk_Button",
-				"ButtonID": 4337,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 0
-			},
-			{
-				"Name": "Item_Berserk_Switch",
-				"ButtonID": 11858,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 0
+		        "ButtonID": 4337,
+		        "ButtonClass": "func_button",
+		        "Filter": "Berserk_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 0
+		      },
+		      {
+		        "Name": "Item_Berserk_Switch",
+		        "ButtonID": 11858,
+		        "ButtonClass": "func_button",
+		        "Filter": "Berserk_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 0
 			}
 		]
 	},
@@ -79,13 +82,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
+				"Name": "Item_Fire_Button",
+		        "ButtonID": 2528,
+		        "ButtonClass": "func_button",
+		        "Filter": "Fire_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 55
 			}
 		]
 	},
@@ -106,13 +110,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
+				"Name": "Item_Electro_Button",
+		        "ButtonID": 2561,
+		        "ButtonClass": "func_button",
+		        "Filter": "Electro_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 55
 			}
 		]
 	},
@@ -133,13 +138,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
+				"Name": "Item_Blizzard_Button",
+		        "ButtonID": 2569,
+		        "ButtonClass": "func_button",
+		        "Filter": "Blizzard_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 55
 			}
 		]
 	},
@@ -160,13 +166,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
+				"Name": "Item_Darkaga_Button",
+		        "ButtonID": 2577,
+		        "ButtonClass": "func_button",
+		        "Filter": "Darkaga_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 55
 			}
 		]
 	},
@@ -187,13 +194,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
+				"Name": "Item_Wind_Button",
+		        "ButtonID": 2585,
+		        "ButtonClass": "func_button",
+		        "Filter": "Wind_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 55
 			}
 		]
 	},
@@ -214,13 +222,14 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
+				"Name": "Item_Heal_Button",
+		        "ButtonID": 2522,
+		        "ButtonClass": "func_button",
+		        "Filter": "Heal_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 55
 			}
 		]
 	},
@@ -234,20 +243,21 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
-		"ForceDrop": true,
+    	"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 2609,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": false,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
+				"Name": "Item_Z_Heal_Button",
+		        "ButtonID": 2611,
+		        "ButtonClass": "func_button",
+		        "Filter": "Heal_Z_Owner:1",
+		        "Chat_Uses": false,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 60
 			}
 		]
 	},
@@ -261,20 +271,21 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
-		"ForceDrop": true,
+    	"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 2628,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
+				"Name": "Item_Z_Fire_Button",
+		        "ButtonID": 2631,
+		        "ButtonClass": "func_button",
+		        "Filter": "Fire_Z_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 60
 			}
 		]
 	},
@@ -288,26 +299,27 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
-		"ForceDrop": true,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 2650,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
+				"Name": "Item_Z_Darkaga_Button",
+		        "ButtonID": 2647,
+		        "ButtonClass": "func_button",
+		        "Filter": "Darkaga_Z_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 60
 			}
 		]
 	},
 	{
-		"Name": "ZM秒杀/ZM Flash Kill",
-		"ShortName": "ZM Killer",
+		"Name": "ZM秒杀/ZM Warp Kill",
+		"ShortName": "ZM Warp",
 		"Color": "{pink}",
 		"HammerID": 2663,
 		"GlowColor": [255,255,255,255],
@@ -315,20 +327,21 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
-		"ForceDrop": true,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 2660,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "func_button",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 60
+				"Name": "Item_Z_Warp_Button",
+		        "ButtonID": 2658,
+		        "ButtonClass": "func_button",
+		        "Filter": "Warp_Z_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 2,
+		        "MaxUses": 0,
+		        "CoolDown": 60
 			}
 		]
 	},
@@ -342,20 +355,21 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
-		"ForceDrop": true,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 4356,
 		"UsePriority": true,
 		"AbilityList": [
 			{
 				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
+		        "ButtonID": 0,
+		        "ButtonClass": "",
+		        "Filter": "Chocobo_Z_Owner:1",
+		        "Chat_Uses": true,
+		        "Mode": 1,
+		        "MaxUses": 0,
+		        "CoolDown": 0
 			}
 		]
 	}

@@ -1,13 +1,13 @@
 [
   {
-    "Name": "Wall",
-    "ShortName": "Wall",
+    "Name": "Slow",
+    "ShortName": "Slow",
     "Color": "{default}",
-    "HammerID": 4260,
+    "HammerID": 1805,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
-    "FilterValue": "",
-    "BlockPickup": false,
+	"FilterValue": "",
+	"BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
     "Chat": true,
@@ -16,54 +16,82 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "ladderbutton",
-        "ButtonID": 4262,
+        "Name": "slow_bt",
+        "ButtonID": 1544,
         "ButtonClass": "func_button",
-        "Filter": "gun_user:1",
+        "Filter": "player_slow",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 15
+        "CoolDown": 80
       }
     ]
   },
   {
-    "Name": "ZM Wall",
-    "ShortName": "ZM Wall",
+    "Name": "ZM Fire",
+    "ShortName": "ZM Fire",
     "Color": "{default}",
-    "HammerID": 4517,
+    "HammerID": 1802,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
-    "FilterValue": "",
-    "BlockPickup": false,
+	"FilterValue": "",
+	"BlockPickup": false,
     "AllowTransfer": false,
     "ForceDrop": false,
-    "Chat": false,
+    "Chat": true,
     "Hud": true,
-    "TriggerID": 4519,
+    "TriggerID": 1444,
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "zombiebutton",
-        "ButtonID": 4533,
+        "Name": "z_pain_bt",
+        "ButtonID": 1538,
         "ButtonClass": "func_button",
-        "Filter": "zombie_user:1",
-        "Chat_Uses": false,
+        "Filter": "player_z_pain",
+        "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 8
+        "CoolDown": 40
       }
     ]
   },
   {
-    "Name": "Wall2",
-    "ShortName": "Wall2",
+    "Name": "ZM Slow",
+    "ShortName": "ZM Slow",
     "Color": "{default}",
-    "HammerID": 4588,
+    "HammerID": 1803,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
-    "FilterValue": "",
-    "BlockPickup": false,
+	"FilterValue": "",
+	"BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 1446,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "z_harden_bt",
+        "ButtonID": 1540,
+        "ButtonClass": "func_button",
+        "Filter": "player_z_harden",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "Fire",
+    "ShortName": "Fire",
+    "Color": "{default}",
+    "HammerID": 1804,
+    "GlowColor": [0,255,0,1],
+    "FilterID": 0,
+	"FilterValue": "",
+	"BlockPickup": false,
     "AllowTransfer": true,
     "ForceDrop": true,
     "Chat": true,
@@ -72,42 +100,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "ladderbutton1",
-        "ButtonID": 4589,
+        "Name": "fire_bt",
+        "ButtonID": 1542,
         "ButtonClass": "func_button",
-        "Filter": "gun_user1:1",
+        "Filter": "player_fire",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 15
-      }
-    ]
-  },
-  {
-    "Name": "Wall3",
-    "ShortName": "Wall3",
-    "Color": "{default}",
-    "HammerID": 4620,
-    "GlowColor": [0,255,0,1],
-    "FilterID": 0,
-    "FilterValue": "",
-    "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
-    "Chat": true,
-    "Hud": true,
-    "TriggerID": 0,
-    "UsePriority": true,
-    "AbilityList": [
-      {
-        "Name": "ladderbutton3",
-        "ButtonID": 4621,
-        "ButtonClass": "func_button",
-        "Filter": "gun_user3:1",
-        "Chat_Uses": true,
-        "Mode": 2,
-        "MaxUses": 0,
-        "CoolDown": 15
+        "CoolDown": 40
       }
     ]
   }

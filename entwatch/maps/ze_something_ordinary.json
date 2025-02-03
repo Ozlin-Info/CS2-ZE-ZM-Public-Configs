@@ -1,9 +1,9 @@
 [
   {
-    "Name": "Heal",
-    "ShortName": "Heal",
+    "Name": "LaserWall",
+    "ShortName": "LaserWall",
     "Color": "{default}",
-    "HammerID": 44496,
+    "HammerID": 2286,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -16,14 +16,14 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "heal_button",
-        "ButtonID": 44494,
+        "Name": "laser_wall_button",
+        "ButtonID": 2284,
         "ButtonClass": "func_button",
-        "Filter": "$heal_user",
+        "Filter": "player_laser_wall",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,
-        "CoolDown": 120
+        "CoolDown": 100
       }
     ]
   }
