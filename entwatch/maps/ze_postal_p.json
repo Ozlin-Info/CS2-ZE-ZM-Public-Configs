@@ -3,7 +3,7 @@
     "Name": "Heal",
     "ShortName": "Heal",
     "Color": "{default}",
-    "HammerID": "44496",
+    "HammerID": 44496,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
