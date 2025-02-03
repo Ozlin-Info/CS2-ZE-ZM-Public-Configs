@@ -4,12 +4,7 @@
     "ShortName": "Push",
     "Color": "{default}",
     "HammerID": 427,
-    "GlowColor": [
-      250,
-      2,
-      246,
-      255
-    ],
+    "GlowColor": [250,2,246,255],
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
@@ -37,12 +32,7 @@
     "ShortName": "YEAH",
     "Color": "{default}",
     "HammerID": 1373,
-    "GlowColor": [
-      250,
-      2,
-      246,
-      255
-    ],
+    "GlowColor": [250,2,246,255],
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
@@ -70,12 +60,7 @@
     "ShortName": "Heal",
     "Color": "{default}",
     "HammerID": 1551,
-    "GlowColor": [
-      250,
-      2,
-      246,
-      255
-    ],
+    "GlowColor": [250,2,246,255],
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
@@ -103,12 +88,7 @@
     "ShortName": "Sword",
     "Color": "{default}",
     "HammerID": 1566,
-    "GlowColor": [
-      250,
-      2,
-      246,
-      255
-    ],
+    "GlowColor": [250,2,246,255],
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
@@ -136,12 +116,7 @@
     "ShortName": "ZM Car",
     "Color": "{default}",
     "HammerID": 159,
-    "GlowColor": [
-      250,
-      2,
-      246,
-      255
-    ],
+    "GlowColor": [250,2,246,255],
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
@@ -149,7 +124,7 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 161,
     "UsePriority": true,
     "AbilityList": [
       {
@@ -166,15 +141,10 @@
   },
   {
     "Name": "Food 2",
-    "ShortName": "Food ",
+    "ShortName": "Food 2",
     "Color": "{default}",
     "HammerID": 1319,
-    "GlowColor": [
-      250,
-      2,
-      246,
-      255
-    ],
+    "GlowColor": [250,2,246,255],
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
@@ -202,12 +172,7 @@
     "ShortName": "Food 1",
     "Color": "{default}",
     "HammerID": 1322,
-    "GlowColor": [
-      250,
-      2,
-      246,
-      255
-    ],
+    "GlowColor": [250,2,246,255],
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
@@ -235,12 +200,7 @@
     "ShortName": "Food 4",
     "Color": "{default}",
     "HammerID": 1326,
-    "GlowColor": [
-      250,
-      2,
-      246,
-      255
-    ],
+    "GlowColor": [250,2,246,255],
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
@@ -268,12 +228,7 @@
     "ShortName": "Food 3",
     "Color": "{default}",
     "HammerID": 1329,
-    "GlowColor": [
-      250,
-      2,
-      246,
-      255
-    ],
+    "GlowColor": [250,2,246,255],
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
