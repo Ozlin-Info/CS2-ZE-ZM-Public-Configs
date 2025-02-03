@@ -64,11 +64,11 @@
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 2503,
     "UsePriority": true,
     "AbilityList": [
       {
