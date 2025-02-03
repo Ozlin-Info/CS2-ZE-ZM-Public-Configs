@@ -12,7 +12,7 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 20295,
 		"UsePriority": false,
 		"AbilityList": [
 			{
@@ -40,7 +40,7 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3483,
 		"UsePriority": false,
 		"AbilityList": [
 			{
@@ -96,7 +96,7 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3600,
 		"UsePriority": false,
 		"AbilityList": [
 			{
