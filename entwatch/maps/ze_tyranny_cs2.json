@@ -1,6 +1,6 @@
 [
     {
-        "Name": "Gravity",    
+        "Name": "Gravity",
         "ShortName": "Gravity",
         "Color": "{default}",
         "HammerID": 6123,
@@ -14,11 +14,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "gravity_button",
                 "ButtonID": 5226,
                 "ButtonClass": "func_button",
+                "Filter": "player_gravity",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -27,7 +28,7 @@
         ]
     },
     {
-        "Name": "Fire",    
+        "Name": "Fire",
         "ShortName": "Fire",
         "Color": "{default}",
         "HammerID": 5229,
@@ -41,11 +42,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "fire_button",
                 "ButtonID": 5256,
                 "ButtonClass": "func_button",
+                "Filter": "player_fire",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -54,7 +56,7 @@
         ]
     },
     {
-        "Name": "Ice",    
+        "Name": "Ice",
         "ShortName": "Ice",
         "Color": "{default}",
         "HammerID": 5230,
@@ -68,11 +70,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "ice_button",
                 "ButtonID": 5212,
                 "ButtonClass": "func_button",
+                "Filter": "player_ice",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -81,7 +84,7 @@
         ]
     },
     {
-        "Name": "Heal",    
+        "Name": "Heal",
         "ShortName": "Heal",
         "Color": "{default}",
         "HammerID": 5206,
@@ -95,11 +98,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "heal_button",
                 "ButtonID": 5202,
                 "ButtonClass": "func_button",
+                "Filter": "player_heal",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -108,7 +112,7 @@
         ]
     },
     {
-        "Name": "Lightning",    
+        "Name": "Lightning",
         "ShortName": "Lightning",
         "Color": "{default}",
         "HammerID": 5231,
@@ -122,11 +126,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "lightning_button",
                 "ButtonID": 5190,
                 "ButtonClass": "func_button",
+                "Filter": "player_lightning",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -135,7 +140,7 @@
         ]
     },
     {
-        "Name": "Wind",    
+        "Name": "Wind",
         "ShortName": "Wind",
         "Color": "{default}",
         "HammerID": 5186,
@@ -149,11 +154,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "push_button",
                 "ButtonID": 5187,
                 "ButtonClass": "func_button",
+                "Filter": "player_push",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -162,8 +168,8 @@
         ]
     },
     {
-        "Name": "Hedge",    
-        "ShortName": "hedge",
+        "Name": "Hedge/Wall",
+        "ShortName": "Wall",
         "Color": "{default}",
         "HammerID": 5173,
         "GlowColor": [250,2,246,255],
@@ -176,11 +182,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "hedge_button",
                 "ButtonID": 5174,
                 "ButtonClass": "func_button",
+                "Filter": "player_hedge",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -189,8 +196,8 @@
         ]
     },
     {
-        "Name": "Killer",    
-        "ShortName": "Killer",
+        "Name": "Killer/Holy",
+        "ShortName": "Holy",
         "Color": "{default}",
         "HammerID": 5156,
         "GlowColor": [250,2,246,255],
@@ -203,11 +210,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "killer_button",
                 "ButtonID": 5150,
                 "ButtonClass": "func_button",
+                "Filter": "player_killer",
                 "Chat_Uses": true,
                 "Mode": 3,
                 "MaxUses": 1,
@@ -216,7 +224,7 @@
         ]
     },
     {
-        "Name": "Ammo",    
+        "Name": "Ammo",
         "ShortName": "Ammo",
         "Color": "{default}",
         "HammerID": 5155,
@@ -230,11 +238,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "ammo_button",
                 "ButtonID": 5142,
                 "ButtonClass": "func_button",
+                "Filter": "player_ammo",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -243,7 +252,7 @@
         ]
     },
     {
-        "Name": "ZM Killer",    
+        "Name": "ZM Killer",
         "ShortName": "ZM Killer",
         "Color": "{default}",
         "HammerID": 5232,
@@ -251,17 +260,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 5233,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "zkiller_button",
                 "ButtonID": 5237,
                 "ButtonClass": "func_button",
+                "Filter": "player_zkiller",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -270,7 +280,7 @@
         ]
     },
     {
-        "Name": "ZM Heal",    
+        "Name": "ZM Heal",
         "ShortName": "ZM Heal",
         "Color": "{default}",
         "HammerID": 5242,
@@ -278,17 +288,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 5243,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "zheal_button",
                 "ButtonID": 5247,
                 "ButtonClass": "func_button",
+                "Filter": "player_zheal",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -297,7 +308,7 @@
         ]
     },
     {
-        "Name": "ZM Fire",    
+        "Name": "ZM Fire",
         "ShortName": "ZM Fire",
         "Color": "{default}",
         "HammerID": 5261,
@@ -305,17 +316,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 5262,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "zfire_button",
                 "ButtonID": 5256,
                 "ButtonClass": "func_button",
+                "Filter": "player_zfire",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -324,7 +336,7 @@
         ]
     },
     {
-        "Name": "ZM Poison",    
+        "Name": "ZM Poison",
         "ShortName": "ZM Poison",
         "Color": "{default}",
         "HammerID": 5306,
@@ -332,17 +344,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 5307,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "zpoison_button",
                 "ButtonID": 5309,
                 "ButtonClass": "func_button",
+                "Filter": "player_zpoison",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -351,7 +364,7 @@
         ]
     },
     {
-        "Name": "ZM Gravity",    
+        "Name": "ZM Gravity",
         "ShortName": "ZM Gravity",
         "Color": "{default}",
         "HammerID": 5317,
@@ -359,17 +372,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 5315,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "zgravity_button",
                 "ButtonID": 5282,
                 "ButtonClass": "func_button",
+                "Filter": "player_zgravity",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -378,7 +392,7 @@
         ]
     },
     {
-        "Name": "ZM Drug",    
+        "Name": "ZM Drug",
         "ShortName": "ZM Drug",
         "Color": "{default}",
         "HammerID": 5287,
@@ -386,17 +400,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 5288,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "zdrag_button",
                 "ButtonID": 5292,
                 "ButtonClass": "func_button",
+                "Filter": "player_zdrag",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -405,7 +420,7 @@
         ]
     },
     {
-        "Name": "ZM Invisable",    
+        "Name": "ZM Invisable",
         "ShortName": "ZM Invisable",
         "Color": "{default}",
         "HammerID": 5298,
@@ -413,17 +428,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 5299,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "zinv_button",
                 "ButtonID": 5302,
                 "ButtonClass": "func_button",
+                "Filter": "player_zinv",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
