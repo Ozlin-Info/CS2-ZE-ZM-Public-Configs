@@ -1,6 +1,6 @@
 [
     {
-        "Name": "ZM Cannon 3",    
+        "Name": "ZM Cannon 3",
         "ShortName": "ZM Cannon 3",
         "Color": "{default}",
         "HammerID": 2780,
@@ -8,17 +8,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 2782,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
-                "Name": "z3_button&0000",
+                "Name": "z3_button",
                 "ButtonID": 2749,
                 "ButtonClass": "func_button",
+                "Filter": "z3.cannon_item_user:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -27,7 +28,7 @@
         ]
     },
     {
-        "Name": "ZM Cannon 2",    
+        "Name": "ZM Cannon 2",
         "ShortName": "ZM Cannon 2",
         "Color": "{default}",
         "HammerID": 2837,
@@ -35,17 +36,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 8652,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
-                "Name": "z2_button&0000",
+                "Name": "z2_button",
                 "ButtonID": 2838,
                 "ButtonClass": "func_button",
+                "Filter": "z2.cannon_item_user:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -54,7 +56,7 @@
         ]
     },
     {
-        "Name": "ZM Cannon 1",    
+        "Name": "ZM Cannon 1",
         "ShortName": "ZM Cannon 1",
         "Color": "{default}",
         "HammerID": 2922,
@@ -62,17 +64,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 8650,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
-                "Name": "z1_button&0000",
+                "Name": "z1_button",
                 "ButtonID": 2904,
                 "ButtonClass": "func_button",
+                "Filter": "z1.cannon_item_user:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -81,7 +84,7 @@
         ]
     },
     {
-        "Name": "Plazma",    
+        "Name": "Plazma",
         "ShortName": "Plazma",
         "Color": "{default}",
         "HammerID": 4461,
@@ -95,11 +98,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
-                "Name": "p_button&0000",
+                "Name": "p_button",
                 "ButtonID": 4462,
                 "ButtonClass": "func_button",
+                "Filter": "P.Plazma_item_user:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -108,7 +112,7 @@
         ]
     },
     {
-        "Name": "Yellow Cannon",    
+        "Name": "Yellow Cannon",
         "ShortName": "Yellow Cannon",
         "Color": "{default}",
         "HammerID": 4494,
@@ -122,11 +126,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
-                "Name": "c3_button&0000",
+                "Name": "c3_button",
                 "ButtonID": 4495,
                 "ButtonClass": "func_button",
+                "Filter": "y.cannon_item_user:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -135,7 +140,7 @@
         ]
     },
     {
-        "Name": "Xoly",    
+        "Name": "Xoly",
         "ShortName": "Xoly",
         "Color": "{default}",
         "HammerID": 4749,
@@ -149,20 +154,21 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
-                "Name": "xoly_button&0000",
+                "Name": "xoly_button",
                 "ButtonID": 4742,
                 "ButtonClass": "func_button",
+                "Filter": "xoly_item_user:1",
                 "Chat_Uses": true,
-                "Mode": 3,
+                "Mode": 4,
                 "MaxUses": 1,
-                "CoolDown": 0
+                "CoolDown": 20
             }
         ]
     },
     {
-        "Name": "Blue Cannon",    
+        "Name": "Blue Cannon",
         "ShortName": "Blue Cannon",
         "Color": "{default}",
         "HammerID": 4846,
@@ -176,11 +182,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
-                "Name": "c2_button&0000",
+                "Name": "c2_button",
                 "ButtonID": 4847,
                 "ButtonClass": "func_button",
+                "Filter": "B.cannon_item_user:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -189,7 +196,7 @@
         ]
     },
     {
-        "Name": "Green Cannon",    
+        "Name": "Green Cannon",
         "ShortName": "Green Cannon",
         "Color": "{default}",
         "HammerID": 4967,
@@ -203,11 +210,12 @@
         "Hud": true,
         "TriggerID": 0,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
-                "Name": "c1_button&0000",
+                "Name": "c1_button",
                 "ButtonID": 4964,
                 "ButtonClass": "func_button",
+                "Filter": "G.cannon_item_user:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
@@ -216,7 +224,7 @@
         ]
     },
     {
-        "Name": "ZM Speeder",    
+        "Name": "ZM Speeder",
         "ShortName": "ZM Speeder",
         "Color": "{default}",
         "HammerID": 2686,
@@ -224,17 +232,18 @@
         "FilterID": 0,
         "FilterValue": "",
         "BlockPickup": false,
-        "AllowTransfer": true,
-        "ForceDrop": true,
+        "AllowTransfer": false,
+        "ForceDrop": false,
         "Chat": true,
         "Hud": true,
-        "TriggerID": 0,
+        "TriggerID": 8654,
         "UsePriority": true,
-        "AbilityList": [    
+        "AbilityList": [
             {
                 "Name": "zs_button",
                 "ButtonID": 2681,
                 "ButtonClass": "func_button",
+                "Filter": "zs.speeder_item_user:1",
                 "Chat_Uses": true,
                 "Mode": 2,
                 "MaxUses": 0,
