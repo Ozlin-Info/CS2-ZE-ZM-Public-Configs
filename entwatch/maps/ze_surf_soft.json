@@ -1,6 +1,6 @@
 [
 	{
-		"Name": "冰/Ice",	
+		"Name": "冰/Ice",
 		"ShortName": "Ice",
 		"Color": "{default}",
 		"HammerID": 510,
@@ -9,7 +9,7 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": true,
-		"ForceDrop": true,	
+		"ForceDrop": true,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 0,
@@ -17,13 +17,13 @@
 		"AbilityList": [
 			{
 				"Name": "Ice_button",
-				"ButtonID": 512,
-				"ButtonClass": "func_button",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 3,
-				"MaxUses": 1,
-				"CoolDown": 0
+		        "ButtonID": 512,
+		        "ButtonClass": "func_button",
+		        "Filter": "speed_activator:1",
+		        "Chat_Uses": true,
+		        "Mode": 3,
+		        "MaxUses": 1,
+		        "CoolDown": 0
 			}
 		]
 	}
