@@ -148,11 +148,11 @@
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
-    "AllowTransfer": true,
-    "ForceDrop": true,
+    "AllowTransfer": false,
+    "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 66,
     "UsePriority": true,
     "AbilityList": [
       {
