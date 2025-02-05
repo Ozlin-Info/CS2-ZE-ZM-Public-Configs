@@ -25,5 +25,60 @@
     "Translation": "From here you can reach my house directly",
     "M-Bool": false,
     "Value": 0
+  },
+  "Zombie shortcut open": {
+    "Translation": "Zombie shortcut open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "we need hold 40s": {
+    "Translation": "we need hold 40s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "you need hold 20s": {
+    "Translation": "you need hold 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Initiate the zombie side in 4 seconds": {
+    "Translation": "Initiate the zombie side in 4 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wooden boat leaves after 7S": {
+    "Translation": "Wooden boat leaves after 7S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie transfer has started": {
+    "Translation": "Zombie transfer has started",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie transmission also has 13S": {
+    "Translation": "Zombie transmission also has 13S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "hold 20s": {
+    "Translation": "hold 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "you need hold 15s": {
+    "Translation": "you need hold 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies are still transmitted after 7S": {
+    "Translation": "Zombies are still transmitted after 7S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "you need hold 40s": {
+    "Translation": "you need hold 40s",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -15,5 +15,20 @@
     "Translation": "Ver:1.6.12",
     "M-Bool": false,
     "Value": 0
+  },
+  "「Push」": {
+    "Translation": "「Push」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「Function」Push zombies in the direction of the crosshair": {
+    "Translation": "「Function」Push zombies in the direction of the crosshair",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「Duration」6 sec 「Cooldown」50 sec": {
+    "Translation": "「Duration」6 sec 「Cooldown」50 sec",
+    "M-Bool": false,
+    "Value": 0
   }
 }

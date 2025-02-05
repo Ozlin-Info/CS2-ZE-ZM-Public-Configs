@@ -30,5 +30,205 @@
     "Translation": "Take the stairs carefully",
     "M-Bool": false,
     "Value": 0
+  },
+  "Need to knock a nail out of the wall to go further": {
+    "Translation": "Need to knock a nail out of the wall to go further",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Give me a few seconds.": {
+    "Translation": "Give me a few seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold 17 seconds": {
+    "Translation": "Hold 17 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Leave quickly": {
+    "Translation": "Leave quickly",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Be careful, you can easily fall here": {
+    "Translation": "Be careful, you can easily fall here",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We probably won't be able to get into the attic.": {
+    "Translation": "We probably won't be able to get into the attic.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Just give me a few seconds, maybe I can break the bars.": {
+    "Translation": "Just give me a few seconds, maybe I can break the bars.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait a couple more seconds, everything is almost ready": {
+    "Translation": "Wait a couple more seconds, everything is almost ready",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gate is broken, jump into the attic!": {
+    "Translation": "The gate is broken, jump into the attic!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "It's quite dusty here": {
+    "Translation": "It's quite dusty here",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Drop the cans on your way": {
+    "Translation": "Drop the cans on your way",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Need to get this piece of wood out of the way": {
+    "Translation": "Need to get this piece of wood out of the way",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Give me 29 seconds.": {
+    "Translation": "Give me 29 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You can move on.": {
+    "Translation": "You can move on.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This box is too high, you won't be able to climb it just like that": {
+    "Translation": "This box is too high, you won't be able to climb it just like that",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You need to move the book lying on the table to this box": {
+    "Translation": "You need to move the book lying on the table to this box",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Great job, get out of the attic!": {
+    "Translation": "Great job, get out of the attic!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Go down carefully on the black wire": {
+    "Translation": "Go down carefully on the black wire",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We need to get to the red gazebo": {
+    "Translation": "We need to get to the red gazebo",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Give me 29 seconds, I'll stretch the rope": {
+    "Translation": "Give me 29 seconds, I'll stretch the rope",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Run away": {
+    "Translation": "Run away",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This nut is stuck in the pipe": {
+    "Translation": "This nut is stuck in the pipe",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "It's going to take me a while to get him out of there.": {
+    "Translation": "It's going to take me a while to get him out of there.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold 28 seconds": {
+    "Translation": "Hold 28 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Great, the pipe is open, jump down!": {
+    "Translation": "Great, the pipe is open, jump down!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You need to go right into the barn": {
+    "Translation": "You need to go right into the barn",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "There is a box on your way, you need to move it forward to pass": {
+    "Translation": "There is a box on your way, you need to move it forward to pass",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The passage is open, leave through the hole in the wall and go right": {
+    "Translation": "The passage is open, leave through the hole in the wall and go right",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold 14 seconds": {
+    "Translation": "Hold 14 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie tp at 10 seconds": {
+    "Translation": "Zombie tp at 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This pipe is closed, give me 20 seconds to open it": {
+    "Translation": "This pipe is closed, give me 20 seconds to open it",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Level 1 passed!": {
+    "Translation": "Level 1 passed!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Level 2  Sewerage": {
+    "Translation": "Level 2  Sewerage",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Welcome to the sewers!": {
+    "Translation": "Welcome to the sewers!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You need to get into the pipe on the right, which is under water": {
+    "Translation": "You need to get into the pipe on the right, which is under water",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "To do this, you will have to lower the water level": {
+    "Translation": "To do this, you will have to lower the water level",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's get started. First, break the pipe that glows blue": {
+    "Translation": "Let's get started. First, break the pipe that glows blue",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Good job, the water level has started to decrease": {
+    "Translation": "Good job, the water level has started to decrease",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Now go up the ladder on the right": {
+    "Translation": "Now go up the ladder on the right",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Now you need to break two holders, they are marked in blue": {
+    "Translation": "Now you need to break two holders, they are marked in blue",
+    "M-Bool": false,
+    "Value": 0
   }
 }

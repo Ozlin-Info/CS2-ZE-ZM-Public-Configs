@@ -45,5 +45,15 @@
     "Translation": "The door opening in 15s",
     "M-Bool": false,
     "Value": 0
+  },
+  "Power will be cut off in a few moments": {
+    "Translation": "Power will be cut off in a few moments",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Power is OFF": {
+    "Translation": "Power is OFF",
+    "M-Bool": false,
+    "Value": 0
   }
 }

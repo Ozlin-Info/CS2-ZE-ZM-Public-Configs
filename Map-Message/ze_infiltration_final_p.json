@@ -10,5 +10,140 @@
     "Translation": "Map made by Luffaren/Per30010",
     "M-Bool": false,
     "Value": 0
+  },
+  " Door opens in 18 seconds ": {
+    "Translation": " Door opens in 18 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door opens in 15 seconds ": {
+    "Translation": " Door opens in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RESIST 15 SECONDS ": {
+    "Translation": " RESIST 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BLASTDOOR OPENING IN 30 SECONDS ": {
+    "Translation": " BLASTDOOR OPENING IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TRAM LEAVES IN 10 SECONDS ": {
+    "Translation": " TRAM LEAVES IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ELEVATOR 1 LEAVING IN 10 SECONDS ": {
+    "Translation": " ELEVATOR 1 LEAVING IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Resist 20 seconds in the poolroom ": {
+    "Translation": " Resist 20 seconds in the poolroom ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Run to the controlroom and press the button ": {
+    "Translation": " Run to the controlroom and press the button ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Find a spot and resist for 50 seconds ": {
+    "Translation": " Find a spot and resist for 50 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds untill radio scrambler collapses ": {
+    "Translation": " 5 seconds untill radio scrambler collapses ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The zombies are trapped for 15 seconds ": {
+    "Translation": " The zombies are trapped for 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MOVE IT! ": {
+    "Translation": " MOVE IT! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Resist 20 seconds ": {
+    "Translation": " Resist 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Resist 15 seconds ": {
+    "Translation": " Resist 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Opening cargo elevator door ": {
+    "Translation": " Opening cargo elevator door ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Humans are recommended to stay in the elevator": {
+    "Translation": " Humans are recommended to stay in the elevator",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Contacting HQ ": {
+    "Translation": " Contacting HQ ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A helicopter is waiting at the helipad ": {
+    "Translation": " A helicopter is waiting at the helipad ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GET TO THE CHOPPER! ": {
+    "Translation": " GET TO THE CHOPPER! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HQ will send a nuke at your position ": {
+    "Translation": " HQ will send a nuke at your position ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Get away from there A.S.A.P ": {
+    "Translation": " Get away from there A.S.A.P ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HELICOPTER IS LEAVING IN 70 SECONDS ": {
+    "Translation": " HELICOPTER IS LEAVING IN 70 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THIS IS OUR FINAL STAND ": {
+    "Translation": " THIS IS OUR FINAL STAND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RESIST OR DIE ": {
+    "Translation": " RESIST OR DIE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HELICOPTER IS LEAVING IN 10 SECONDS ": {
+    "Translation": " HELICOPTER IS LEAVING IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nuke inbound ": {
+    "Translation": " Nuke inbound ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds untill explosion ": {
+    "Translation": " 10 seconds untill explosion ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -50,5 +50,15 @@
     "Translation": " Congratulations! You have beaten [EASY] ",
     "M-Bool": false,
     "Value": 0
+  },
+  " CARGO LIFT STARTS IN 5 SECONDS ": {
+    "Translation": " CARGO LIFT STARTS IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BARRIER Materia has been found. ": {
+    "Translation": " BARRIER Materia has been found. ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

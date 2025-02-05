@@ -5,5 +5,35 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "Elevator leaving in 40 seconds": {
+    "Translation": "Elevator leaving in 40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator leaving in 25 seconds": {
+    "Translation": "Elevator leaving in 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator leaving in 10 seconds": {
+    "Translation": "Elevator leaving in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Walls will break in 15 seconds": {
+    "Translation": "Walls will break in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK tp in 15 seconds": {
+    "Translation": "AFK tp in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK tp in 10 seconds": {
+    "Translation": "AFK tp in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

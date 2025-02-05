@@ -25,5 +25,20 @@
     "Translation": " From here we should be able to reach either the financial district. ",
     "M-Bool": false,
     "Value": 0
+  },
+  " The distant sound from the underground trains can be heard... ": {
+    "Translation": " The distant sound from the underground trains can be heard... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RESIST! We need to cross one of the abandoned train lines to reach the power plants... ": {
+    "Translation": " RESIST! We need to cross one of the abandoned train lines to reach the power plants... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Keep it up! I can hear the door's engine moving through the wall! ": {
+    "Translation": " Keep it up! I can hear the door's engine moving through the wall! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

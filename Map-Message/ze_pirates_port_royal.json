@@ -6,18 +6,13 @@
       "Value": 0
     }
   },
-  "ze_sky_defend": {
-    "Translation": "ze_sky_defend",
+  "Map made by Puklica": {
+    "Translation": "Map made by Puklica",
     "M-Bool": false,
     "Value": 0
   },
-  "Map by Smurf": {
-    "Translation": "Map by Smurf",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "rot zakroj": {
-    "Translation": "rot zakroj",
+  " LEVEL 1 ": {
+    "Translation": " LEVEL 1 ",
     "M-Bool": false,
     "Value": 0
   }

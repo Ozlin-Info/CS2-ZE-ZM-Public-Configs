@@ -50,5 +50,10 @@
     "Translation": " Zombie Buff : INVIS ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Zombie Buff : GODMODE ": {
+    "Translation": " Zombie Buff : GODMODE ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

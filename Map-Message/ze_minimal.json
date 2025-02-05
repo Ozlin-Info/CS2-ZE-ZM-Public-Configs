@@ -6,18 +6,18 @@
       "Value": 0
     }
   },
-  "ze_sky_defend": {
-    "Translation": "ze_sky_defend",
+  " WARMUP ROUND ": {
+    "Translation": " WARMUP ROUND ",
     "M-Bool": false,
     "Value": 0
   },
-  "Map by Smurf": {
-    "Translation": "Map by Smurf",
+  " Loading simulation.. ": {
+    "Translation": " Loading simulation.. ",
     "M-Bool": false,
     "Value": 0
   },
-  "rot zakroj": {
-    "Translation": "rot zakroj",
+  " Cyan ": {
+    "Translation": " Cyan ",
     "M-Bool": false,
     "Value": 0
   }

@@ -280,5 +280,15 @@
     "Translation": "The troublesome Spirit King has been repelled. Regroup and continue forward!",
     "M-Bool": false,
     "Value": 0
+  },
+  "一位玩家习得寒霜魔法": {
+    "Translation": "一位玩家习得寒霜魔法",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "一位玩家习得抹除魔法": {
+    "Translation": "一位玩家习得抹除魔法",
+    "M-Bool": false,
+    "Value": 0
   }
 }

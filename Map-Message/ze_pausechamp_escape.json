@@ -1,0 +1,79 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "This place has been overrun by zombies!": {
+    "Translation": "This place has been overrun by zombies!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Head over to the extraction point in 4 minutes before the bombers erase this place!": {
+    "Translation": "Head over to the extraction point in 4 minutes before the bombers erase this place!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Break all the PauseChamp walls to proceed to the extraction point!": {
+    "Translation": "Break all the PauseChamp walls to proceed to the extraction point!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Good luck!": {
+    "Translation": "Good luck!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  ":PauseChamp: . . .": {
+    "Translation": ":PauseChamp: . . .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "And special thanks to everyone that helped me and sorry for not including some of you with in game texts because me forgor PepeHands": {
+    "Translation": "And special thanks to everyone that helped me and sorry for not including some of you with in game texts because me forgor PepeHands",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Extra special thanks to Vauff and Ice for helping me out": {
+    "Translation": "Extra special thanks to Vauff and Ice for helping me out",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "with wall breaking and zm tp stuffs respectively": {
+    "Translation": "with wall breaking and zm tp stuffs respectively",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARNING! PINK LANDMINES WILL INSTA KILL YOU! YOU HAVE BEEN WARNED!": {
+    "Translation": "WARNING! PINK LANDMINES WILL INSTA KILL YOU! YOU HAVE BEEN WARNED!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "60 seconds before nuke!": {
+    "Translation": "60 seconds before nuke!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 seconds before nuke!": {
+    "Translation": "30 seconds before nuke!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 SECONDS!": {
+    "Translation": "10 SECONDS!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS!": {
+    "Translation": "5 SECONDS!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARNING! PINK LANDMINES WILL INSTA KILL YOU! YOU HAVE BEEN WARNED": {
+    "Translation": "WARNING! PINK LANDMINES WILL INSTA KILL YOU! YOU HAVE BEEN WARNED",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

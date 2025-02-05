@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map by Kuro": {
+    "Translation": "Map by Kuro",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks:Eternity": {
+    "Translation": "Thanks:Eternity",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "寻找光": {
+    "Translation": "寻找光",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "破碎": {
+    "Translation": "破碎",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "也许两边都需要前往?": {
+    "Translation": "也许两边都需要前往?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "寻找出路": {
+    "Translation": "寻找出路",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

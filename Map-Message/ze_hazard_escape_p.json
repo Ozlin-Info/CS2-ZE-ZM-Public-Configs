@@ -10,5 +10,20 @@
     "Translation": "map made by salem",
     "M-Bool": false,
     "Value": 0
+  },
+  "elevator leaving in 5 sec": {
+    "Translation": "elevator leaving in 5 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "the boat will depart in 10 secs": {
+    "Translation": "the boat will depart in 10 secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "gate will open in 10 secs": {
+    "Translation": "gate will open in 10 secs",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -1,0 +1,64 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "### WELCOME TO : HIDDEN TEMPLE ##": {
+    "Translation": "### WELCOME TO : HIDDEN TEMPLE ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP  50 SECONDS LEFT ###": {
+    "Translation": "### WARMUP  50 SECONDS LEFT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### MAP CREATED BY NARAKA ###": {
+    "Translation": "### MAP CREATED BY NARAKA ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP  40 SECONDS LEFT ###": {
+    "Translation": "### WARMUP  40 SECONDS LEFT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP  30 SECONDS LEFT ###": {
+    "Translation": "### WARMUP  30 SECONDS LEFT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP  20 SECONDS LEFT ###": {
+    "Translation": "### WARMUP  20 SECONDS LEFT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP  10 SECONDS LEFT ###": {
+    "Translation": "### WARMUP  10 SECONDS LEFT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP OVER  RESTARTING ROUND ###": {
+    "Translation": "### WARMUP OVER  RESTARTING ROUND ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### GATES OPEN IN 30 SECONDS ###": {
+    "Translation": "### GATES OPEN IN 30 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### 10 SECOND REMAINING ###": {
+    "Translation": "### 10 SECOND REMAINING ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### DEFEND UNTIL GATES CLOSED ###": {
+    "Translation": "### DEFEND UNTIL GATES CLOSED ###",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

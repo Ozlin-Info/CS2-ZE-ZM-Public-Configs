@@ -75,5 +75,10 @@
     "Translation": "5 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Version:test9": {
+    "Translation": "Version:test9",
+    "M-Bool": false,
+    "Value": 0
   }
 }

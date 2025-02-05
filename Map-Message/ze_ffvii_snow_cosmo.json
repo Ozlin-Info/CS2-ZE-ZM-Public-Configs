@@ -55,5 +55,55 @@
     "Translation": "[Cloud] No problem. I will wait for you in there..",
     "M-Bool": false,
     "Value": 0
+  },
+  "Cover here for 5 seconds before we clear this obstacle": {
+    "Translation": "Cover here for 5 seconds before we clear this obstacle",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We are almost at Cosmo Canyon": {
+    "Translation": "We are almost at Cosmo Canyon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend here for 25 seconds until the gates open": {
+    "Translation": "Defend here for 25 seconds until the gates open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gates are open. Welcome to Cosmo Canyon": {
+    "Translation": "Gates are open. Welcome to Cosmo Canyon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up ELECTRO materia": {
+    "Translation": "A player has picked up ELECTRO materia",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The barman will open the door in 5 seconds": {
+    "Translation": "The barman will open the door in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door ": {
+    "Translation": "Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS LEFT": {
+    "Translation": "5 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FALL BACK": {
+    "Translation": "FALL BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up WIND materia": {
+    "Translation": "A player has picked up WIND materia",
+    "M-Bool": false,
+    "Value": 0
   }
 }

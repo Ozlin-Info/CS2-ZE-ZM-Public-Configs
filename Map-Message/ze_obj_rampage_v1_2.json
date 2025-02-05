@@ -5,5 +5,35 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "Welcome on Objective Rampage": {
+    "Translation": "Welcome on Objective Rampage",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Good Luck !": {
+    "Translation": "Good Luck !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special thanks to Zombieden for testing and people who guiding me on anything": {
+    "Translation": "Special thanks to Zombieden for testing and people who guiding me on anything",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Some of the zombie cage has placed portals to teleport between each zombie cage": {
+    "Translation": "Some of the zombie cage has placed portals to teleport between each zombie cage",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zombies, take advantage of it!": {
+    "Translation": "zombies, take advantage of it!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door opening in 15s": {
+    "Translation": "The door opening in 15s",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -20,5 +20,30 @@
     "Translation": "The Nomai spacesuit has malfunctioned",
     "M-Bool": false,
     "Value": 0
+  },
+  "当前难度：幻梦": {
+    "Translation": "当前难度：幻梦",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "机关不造成伤害 机关通过十六人后关闭": {
+    "Translation": "机关不造成伤害 机关通过十六人后关闭",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第五区域": {
+    "Translation": "已进入第五区域",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第一区域": {
+    "Translation": "已进入第一区域",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第二区域": {
+    "Translation": "已进入第二区域",
+    "M-Bool": false,
+    "Value": 0
   }
 }

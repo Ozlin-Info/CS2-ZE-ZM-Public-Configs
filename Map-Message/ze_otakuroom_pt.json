@@ -75,5 +75,55 @@
     "Translation": "Survive for 30 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Nuke in 5 seconds": {
+    "Translation": "Nuke in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Stage 2": {
+    "Translation": "Stage 2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The trash can lid will open in 15 seconds": {
+    "Translation": "The trash can lid will open in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Jump into the trash can": {
+    "Translation": "Jump into the trash can",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold 10 seconds": {
+    "Translation": "Hold 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The drawer will open in 30 seconds": {
+    "Translation": "The drawer will open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait for 20 seconds": {
+    "Translation": "Wait for 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The batteries will be removed after 30 seconds": {
+    "Translation": "The batteries will be removed after 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The sweeping robot will leave in 35 seconds": {
+    "Translation": "The sweeping robot will leave in 35 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ClearRobot leaving in 10 seconds": {
+    "Translation": "ClearRobot leaving in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ZE_DARK_SOULS ": {
+    "Translation": " ZE_DARK_SOULS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Version 1.0.1.3 ": {
+    "Translation": " Version 1.0.1.3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by HaRyDe. Microsoft. Kotya ": {
+    "Translation": " Map by HaRyDe. Microsoft. Kotya ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Special thanks to Brunelazo343 for custom skins ": {
+    "Translation": " Special thanks to Brunelazo343 for custom skins ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
