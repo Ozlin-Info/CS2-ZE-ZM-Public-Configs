@@ -344,11 +344,11 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 41705,
 		"UsePriority": true,
 		"AbilityList": [
 			{
@@ -376,7 +376,7 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 41704,
 		"UsePriority": true,
 		"AbilityList": [
 			{
@@ -400,7 +400,7 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
@@ -428,7 +428,7 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
+		"AllowTransfer": false,
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
@@ -446,5 +446,61 @@
 				"CoolDown": 30
 			}
 		]
-	}
+	},
+  {
+    "Name": "ZM 加速/ZM Speed",
+    "ShortName": "ZM Speed",
+    "Color": "{default}",
+    "HammerID": 54020,
+    "GlowColor": [0,255,0,1],
+	"FilterID": 0,
+	"FilterValue": "",
+	"BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 54333,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "zm_speed_item_button",
+        "ButtonID": 54021,
+        "ButtonClass": "func_button",
+        "Filter": "zm_speed_user:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 90
+      }
+    ]
+  },
+  {
+    "Name": "Twisted Space",
+    "ShortName": "Twisted Space",
+    "Color": "{default}",
+    "HammerID": 54046,
+    "GlowColor": [0,255,0,1],
+	"FilterID": 0,
+	"FilterValue": "",
+	"BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "item_item_button",
+        "ButtonID": 54044,
+        "ButtonClass": "func_button",
+        "Filter": "time_user:1",
+        "Chat_Uses": true,
+        "Mode": 3,
+        "MaxUses": 1,
+        "CoolDown": 0
+      }
+    ]
+  }
 ]
