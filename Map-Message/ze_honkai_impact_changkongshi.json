@@ -177,7 +177,7 @@
     "Value": 0
   },
   "安全屋里面好像有奇怪的东西进来了，任务失败!!": {
-    "Translation": "安全屋里面好像有奇怪的东西进来了，任务失败!!",
+    "Translation": "Detected something weird in the safehouse. Mission failed!!",
     "M-Bool": false,
     "Value": 0
   }
