@@ -35,5 +35,15 @@
     "Translation": "The next door will open in 25 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "The tesla will be disabled in 20 seconds": {
+    "Translation": "The tesla will be disabled in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The next door will open in 30 seconds": {
+    "Translation": "The next door will open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

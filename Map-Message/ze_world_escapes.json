@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "[MAP INFO]  This map has been created by FuTuRe ": {
+    "Translation": "[MAP INFO]  This map has been created by FuTuRe ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MAP INFO]  Special thanks to Syoudous for helping me with a lot of things! ": {
+    "Translation": "[MAP INFO]  Special thanks to Syoudous for helping me with a lot of things! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WORLD NUKE INCOMING IN 15 SECONDS! ": {
+    "Translation": " WORLD NUKE INCOMING IN 15 SECONDS! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WORLD NUKE INCOMING IN 10 SECONDS! ": {
+    "Translation": " WORLD NUKE INCOMING IN 10 SECONDS! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WORLD NUKE INCOMING IN 5 SECONDS! ": {
+    "Translation": " WORLD NUKE INCOMING IN 5 SECONDS! ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

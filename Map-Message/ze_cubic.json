@@ -75,5 +75,60 @@
     "Translation": " Press all buttons to trigger or defend until the doors to automatically break ",
     "M-Bool": false,
     "Value": 0
+  },
+  " This map requires ZombieReborn (github.com/Source2ZE/ZombieReborn) to be played. ": {
+    "Translation": " This map requires ZombieReborn (github.com/Source2ZE/ZombieReborn) to be played. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Please join a server running the plugin to play Zombie Escape (ze_) maps ": {
+    "Translation": " Please join a server running the plugin to play Zombie Escape (ze_) maps ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Sewer path opens in 10 seconds! ": {
+    "Translation": " Sewer path opens in 10 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door will open in 25 seconds ": {
+    "Translation": " Door will open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Both buttons pressed ": {
+    "Translation": " Both buttons pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Blockade breaks in 20 seconds ": {
+    "Translation": " Blockade breaks in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The blockades will break in 25 seconds ": {
+    "Translation": " The blockades will break in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Red liquid will rise in 10 seconds ": {
+    "Translation": " Red liquid will rise in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The blockade will break in 25 seconds ": {
+    "Translation": " The blockade will break in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Survive for 20 seconds! ": {
+    "Translation": " Survive for 20 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " There's no where left to go! We need to kill the zombies! ": {
+    "Translation": " There's no where left to go! We need to kill the zombies! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

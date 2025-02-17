@@ -55,5 +55,10 @@
     "Translation": " Zombie Buff : GODMODE ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Door 1# will be opened in 90 seconds ! ": {
+    "Translation": " Door 1# will be opened in 90 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

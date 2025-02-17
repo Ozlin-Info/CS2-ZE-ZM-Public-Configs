@@ -15,5 +15,95 @@
     "Translation": "Watch out for traps!!!",
     "M-Bool": false,
     "Value": 0
+  },
+  " 1 Player needs to get into furnace  ": {
+    "Translation": " 1 Player needs to get into furnace  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " keep zombies away for 45 seconds  ": {
+    "Translation": " keep zombies away for 45 seconds  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 more seconds  ": {
+    "Translation": " 5 more seconds  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Keep ZOMBIES away for 60 second ": {
+    "Translation": " Keep ZOMBIES away for 60 second ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " nervegas released in spawn area  ": {
+    "Translation": " nervegas released in spawn area  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator coming in 30 sec": {
+    "Translation": "Elevator coming in 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator leaving in 7 sec": {
+    "Translation": "Elevator leaving in 7 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " nervegas released in first traps  ": {
+    "Translation": " nervegas released in first traps  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door opening in 30 seconds  ": {
+    "Translation": " Door opening in 30 seconds  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold for 50 seconds  ": {
+    "Translation": " Hold for 50 seconds  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " nervegas released in elevator area  ": {
+    "Translation": " nervegas released in elevator area  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " generator room exploding in 75 seconds  ": {
+    "Translation": " generator room exploding in 75 seconds  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30 more seconds  ": {
+    "Translation": " 30 more seconds  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 more seconds  ": {
+    "Translation": " 10 more seconds  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " bomb shelter opening ": {
+    "Translation": " bomb shelter opening ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " shelter door closing!!  ": {
+    "Translation": " shelter door closing!!  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " keep zombies away for 30 seconds  ": {
+    "Translation": " keep zombies away for 30 seconds  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " furnace door opening in 20 sec  ": {
+    "Translation": " furnace door opening in 20 sec  ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

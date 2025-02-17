@@ -20,5 +20,100 @@
     "Translation": "! Zombies will be released soon !",
     "M-Bool": false,
     "Value": 0
+  },
+  "! ドアが開くまで 30 秒 !": {
+    "Translation": "! ドアが開くまで 30 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ドアが開くまで 10 秒 !": {
+    "Translation": "! ドアが開くまで 10 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 足場を上げるまで 30 秒 !": {
+    "Translation": "! 足場を上げるまで 30 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 足場を上げるまで 10 秒 !": {
+    "Translation": "! 足場を上げるまで 10 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 橋を上げるまで 30 秒 !": {
+    "Translation": "! 橋を上げるまで 30 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 橋を上げるまで 10 秒 !": {
+    "Translation": "! 橋を上げるまで 10 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 運搬機の起動まで 40 秒 !": {
+    "Translation": "! 運搬機の起動まで 40 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 運搬機の起動まで 10 秒 !": {
+    "Translation": "! 運搬機の起動まで 10 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 大岩をどかす 10 秒 !": {
+    "Translation": "! 大岩をどかす 10 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 大岩をどかす 20 秒 !": {
+    "Translation": "! 大岩をどかす 20 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 大岩をどかす 30 秒 !": {
+    "Translation": "! 大岩をどかす 30 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 別の起動ボタンも必要のようだ... !": {
+    "Translation": "! 別の起動ボタンも必要のようだ... !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ワイヤーを取り壊すまで 50 秒 !": {
+    "Translation": "! ワイヤーを取り壊すまで 50 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 倒木を取り除いている 30 秒 !": {
+    "Translation": "! 倒木を取り除いている 30 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 倒木を取り除いている 40 秒 !": {
+    "Translation": "! 倒木を取り除いている 40 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ドアが開くまで 40 秒 !": {
+    "Translation": "! ドアが開くまで 40 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 倒木を取り除いている 10 秒 !": {
+    "Translation": "! 倒木を取り除いている 10 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ここが最後の防衛です！ 60 秒 !": {
+    "Translation": "! ここが最後の防衛です！ 60 秒 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ここが最後の防衛です！ 10 秒 !": {
+    "Translation": "! ここが最後の防衛です！ 10 秒 !",
+    "M-Bool": false,
+    "Value": 0
   }
 }

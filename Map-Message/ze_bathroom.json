@@ -55,5 +55,10 @@
     "Translation": "The path is blocked. Fall back!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Sponge builder has been picked up.": {
+    "Translation": "Sponge builder has been picked up.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

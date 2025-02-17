@@ -45,5 +45,10 @@
     "Translation": "Train will leave in 35 sec ",
     "M-Bool": false,
     "Value": 0
+  },
+  "Door open by zombies": {
+    "Translation": "Door open by zombies",
+    "M-Bool": false,
+    "Value": 0
   }
 }

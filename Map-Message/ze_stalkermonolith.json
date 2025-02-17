@@ -35,5 +35,25 @@
     "Translation": "Run Run",
     "M-Bool": false,
     "Value": 0
+  },
+  "A player picked up firegun": {
+    "Translation": "A player picked up firegun",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player picked up freez": {
+    "Translation": "A player picked up freez",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player picked up spikeball": {
+    "Translation": "A player picked up spikeball",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend 30sec": {
+    "Translation": "Defend 30sec",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -15,5 +15,15 @@
     "Translation": " Map by ziomekYOYO ",
     "M-Bool": false,
     "Value": 0
+  },
+  " It seems that the helicopter is damaged ": {
+    "Translation": " It seems that the helicopter is damaged ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " You have to go down to the subway ": {
+    "Translation": " You have to go down to the subway ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

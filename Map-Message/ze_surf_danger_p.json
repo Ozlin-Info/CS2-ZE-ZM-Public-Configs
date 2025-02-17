@@ -20,5 +20,125 @@
     "Translation": "Visit www.nextwin.ru",
     "M-Bool": false,
     "Value": 0
+  },
+  "Defend this place 1 min 15 sec": {
+    "Translation": "Defend this place 1 min 15 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This song is Immediate Music Imperativa": {
+    "Translation": "This song is Immediate Music Imperativa",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting all humans to ZM defend...": {
+    "Translation": "Teleporting all humans to ZM defend...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting all Zombies": {
+    "Translation": "Teleporting all Zombies",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting everyone in 30 sec": {
+    "Translation": "Teleporting everyone in 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting everyone in 5 sec": {
+    "Translation": "Teleporting everyone in 5 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "If you cant pass SURF try to pass XC level": {
+    "Translation": "If you cant pass SURF try to pass XC level",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP: If you will pass XC level You receive 5 frags": {
+    "Translation": "TIP: If you will pass XC level You receive 5 frags",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP: If you will pass SURF level You receive 10 frags": {
+    "Translation": "TIP: If you will pass SURF level You receive 10 frags",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door will open in 30 sec": {
+    "Translation": "Door will open in 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting all humans...": {
+    "Translation": "Teleporting all humans...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporting all Zombies...": {
+    "Translation": "Teleporting all Zombies...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door will Open in 3 sec. PREPARE TO RUN": {
+    "Translation": "Door will Open in 3 sec. PREPARE TO RUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This song is Two step from hell Dragon Rider": {
+    "Translation": "This song is Two step from hell Dragon Rider",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleport enable in 20 sec": {
+    "Translation": "Teleport enable in 20 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "If you can pass final SURF level you receive 10 of frags": {
+    "Translation": "If you can pass final SURF level you receive 10 of frags",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final Door open in 20 sec": {
+    "Translation": "Final Door open in 20 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OK Final door is open : 1 player must go to control room and launch nuke ": {
+    "Translation": "OK Final door is open : 1 player must go to control room and launch nuke ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Self Destruction Actived": {
+    "Translation": "Self Destruction Actived",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Helidoor is opening": {
+    "Translation": "Helidoor is opening",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP:Cargo is open : you can defend in the helicopter": {
+    "Translation": "TIP:Cargo is open : you can defend in the helicopter",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Heli Leaving in 12 sec. Hurry!!!": {
+    "Translation": "Heli Leaving in 12 sec. Hurry!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Oh NO! Barrels with explosive is BURN! Its Will blow up it is Some seconds!": {
+    "Translation": "Oh NO! Barrels with explosive is BURN! Its Will blow up it is Some seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door open in 5 sec": {
+    "Translation": "Door open in 5 sec",
+    "M-Bool": false,
+    "Value": 0
   }
 }

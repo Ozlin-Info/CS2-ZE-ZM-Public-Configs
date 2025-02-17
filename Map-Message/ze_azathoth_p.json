@@ -15,5 +15,50 @@
     "Translation": "20",
     "M-Bool": false,
     "Value": 0
+  },
+  "Zombie Teleport Soon": {
+    "Translation": "Zombie Teleport Soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30": {
+    "Translation": "30",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door Will Open Soon": {
+    "Translation": "Door Will Open Soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "25": {
+    "Translation": "25",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boss Starting Soon": {
+    "Translation": "Boss Starting Soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Escape The Temple": {
+    "Translation": "Escape The Temple",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NUKE 1m 30s": {
+    "Translation": "NUKE 1m 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Keep Zombies In The Temple!!!": {
+    "Translation": "Keep Zombies In The Temple!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NUKE 1m": {
+    "Translation": "NUKE 1m",
+    "M-Bool": false,
+    "Value": 0
   }
 }

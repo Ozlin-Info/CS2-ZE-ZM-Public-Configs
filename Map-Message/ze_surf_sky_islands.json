@@ -80,5 +80,10 @@
     "Translation": "Version:test9",
     "M-Bool": false,
     "Value": 0
+  },
+  "Version:test10": {
+    "Translation": "Version:test10",
+    "M-Bool": false,
+    "Value": 0
   }
 }

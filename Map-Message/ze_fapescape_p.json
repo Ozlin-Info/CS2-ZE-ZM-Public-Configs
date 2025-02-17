@@ -15,5 +15,110 @@
     "Translation": " Turning music on ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Player has picked up Flamethrower ": {
+    "Translation": " Player has picked up Flamethrower ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Player has picked up PushGun ": {
+    "Translation": " Player has picked up PushGun ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Player has picked up Explosive Mines ": {
+    "Translation": " Player has picked up Explosive Mines ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Player has picked up HandCannon ": {
+    "Translation": " Player has picked up HandCannon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Player has picked up Ammo Box ": {
+    "Translation": " Player has picked up Ammo Box ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Player has picked up Grenade Maker ": {
+    "Translation": " Player has picked up Grenade Maker ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door opens in 35 seconds ": {
+    "Translation": " Door opens in 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door opens in 25 seconds ": {
+    "Translation": " Door opens in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds left ": {
+    "Translation": " 10 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door is Opening ": {
+    "Translation": " Door is Opening ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Player has picked up Heal ": {
+    "Translation": " Player has picked up Heal ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Gate opening ": {
+    "Translation": " Gate opening ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door Opening in 25 seconds! ": {
+    "Translation": " Door Opening in 25 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FALL BACK ": {
+    "Translation": " FALL BACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold for 15 seconds! ": {
+    "Translation": " Hold for 15 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold for a bit more! ": {
+    "Translation": " Hold for a bit more! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleporter Activates in 20 Seconds ": {
+    "Translation": " Teleporter Activates in 20 Seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Player has picked up Lego Maker ": {
+    "Translation": " Player has picked up Lego Maker ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door Opens in 30 seconds ": {
+    "Translation": " Door Opens in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " OH NOOES ": {
+    "Translation": " OH NOOES ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " KILL RICK ASTLEY BEFORE HE RICKROLLS US! ": {
+    "Translation": " KILL RICK ASTLEY BEFORE HE RICKROLLS US! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

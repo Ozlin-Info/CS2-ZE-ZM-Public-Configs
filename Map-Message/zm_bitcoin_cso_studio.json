@@ -105,5 +105,10 @@
     "Translation": "[NEWS] Bitcoin delisting...",
     "M-Bool": false,
     "Value": 0
+  },
+  "25 seconds to recharge TimeStopper": {
+    "Translation": "25 seconds to recharge TimeStopper",
+    "M-Bool": false,
+    "Value": 0
   }
 }

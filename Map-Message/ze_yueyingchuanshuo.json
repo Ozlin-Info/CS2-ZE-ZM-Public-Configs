@@ -80,5 +80,75 @@
     "Translation": "you need hold 40s",
     "M-Bool": false,
     "Value": 0
+  },
+  "you need hold 30s": {
+    "Translation": "you need hold 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warning: zombies open near the road": {
+    "Translation": "Warning: zombies open near the road",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Something seems to have disappeared": {
+    "Translation": "Something seems to have disappeared",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "There seems to be no road above": {
+    "Translation": "There seems to be no road above",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "I am optimistic about the road under your feet. How come back? Do you understand?": {
+    "Translation": "I am optimistic about the road under your feet. How come back? Do you understand?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zombie coming watch you back": {
+    "Translation": "zombie coming watch you back",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warning: trap is activated": {
+    "Translation": "Warning: trap is activated",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warning: Zombie launches near the road": {
+    "Translation": "Warning: Zombie launches near the road",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies approaching the road": {
+    "Translation": "Zombies approaching the road",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "tip:You can't pass on the chessboard You must pass on the chess piece": {
+    "Translation": "tip:You can't pass on the chessboard You must pass on the chess piece",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie checkerboard teleport": {
+    "Translation": "Zombie checkerboard teleport",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "you need hold 14s": {
+    "Translation": "you need hold 14s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "you need hold 45s": {
+    "Translation": "you need hold 45s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "you need hold 22s": {
+    "Translation": "you need hold 22s",
+    "M-Bool": false,
+    "Value": 0
   }
 }

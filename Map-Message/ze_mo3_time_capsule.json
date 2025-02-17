@@ -5,5 +5,20 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "作战记录....正在加载": {
+    "Translation": "作战记录....正在加载",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们已经到了指定位置": {
+    "Translation": "我们已经到了指定位置",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们任务目标一:拯救领袖": {
+    "Translation": "我们任务目标一:拯救领袖",
+    "M-Bool": false,
+    "Value": 0
   }
 }

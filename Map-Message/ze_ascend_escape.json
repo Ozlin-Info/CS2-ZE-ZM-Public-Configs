@@ -20,5 +20,10 @@
     "Translation": " HOLD FOR 15 SECONDS ",
     "M-Bool": false,
     "Value": 0
+  },
+  " HOLD FOR 20 SECONDS!! ": {
+    "Translation": " HOLD FOR 20 SECONDS!! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

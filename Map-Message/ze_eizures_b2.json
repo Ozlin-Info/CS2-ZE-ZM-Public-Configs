@@ -5,5 +5,80 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "Map created by BluEgluE": {
+    "Translation": "Map created by BluEgluE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ported by Geronimo": {
+    "Translation": "Ported by Geronimo",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This is my first map. Apologize if there are any bugs": {
+    "Translation": "This is my first map. Apologize if there are any bugs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks for playing, good luck!": {
+    "Translation": "Thanks for playing, good luck!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door open in 25s": {
+    "Translation": "Door open in 25s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Now Playing": {
+    "Translation": "Now Playing",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Donbor  Smoke": {
+    "Translation": "Donbor  Smoke",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Keep defend 30s": {
+    "Translation": "Keep defend 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate open in 30s": {
+    "Translation": "Gate open in 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Keep hold 15s": {
+    "Translation": "Keep hold 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold the defense 30s": {
+    "Translation": "Hold the defense 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door open in 20s": {
+    "Translation": "Door open in 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Keep hold 30s": {
+    "Translation": "Keep hold 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door open 15s": {
+    "Translation": "Door open 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Donbor  Against The Law": {
+    "Translation": "Donbor  Against The Law",
+    "M-Bool": false,
+    "Value": 0
   }
 }

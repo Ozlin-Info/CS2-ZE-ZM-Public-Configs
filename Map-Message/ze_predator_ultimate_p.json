@@ -6,23 +6,18 @@
       "Value": 0
     }
   },
-  " ze_Aware ": {
-    "Translation": " ze_Aware ",
+  "DIFFICULTY  NORMAL": {
+    "Translation": "DIFFICULTY  NORMAL",
     "M-Bool": false,
     "Value": 0
   },
-  " Map by Maqu ": {
-    "Translation": " Map by Maqu ",
+  "THE NUKE HAS EXPLODED": {
+    "Translation": "THE NUKE HAS EXPLODED",
     "M-Bool": false,
     "Value": 0
   },
-  " CS2 Port by @Seth ": {
-    "Translation": " CS2 Port by @Seth ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "30 s left.": {
-    "Translation": "30 s left.",
+  "OH NO! THE NUKE EXPLODED!": {
+    "Translation": "OH NO! THE NUKE EXPLODED!",
     "M-Bool": false,
     "Value": 0
   }

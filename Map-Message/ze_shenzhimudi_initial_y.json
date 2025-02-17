@@ -15,5 +15,15 @@
     "Translation": "Map help:玫瑰少年海苔，Linyan",
     "M-Bool": false,
     "Value": 0
+  },
+  "The road opens in 35 seconds": {
+    "Translation": "The road opens in 35 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The stairs will open in 20 seconds": {
+    "Translation": "The stairs will open in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

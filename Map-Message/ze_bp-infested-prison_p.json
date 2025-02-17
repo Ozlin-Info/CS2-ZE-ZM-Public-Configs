@@ -30,5 +30,100 @@
     "Translation": "[Somebody get through that hole and let the rest of us through.]",
     "M-Bool": false,
     "Value": 0
+  },
+  "[Freezer's Closed!]": {
+    "Translation": "[Freezer's Closed!]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Freezer's Open!]": {
+    "Translation": "[Freezer's Open!]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Open them crazy cells and get us out of here!]": {
+    "Translation": "[Open them crazy cells and get us out of here!]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Spare rifles on that wall for anybody unarmed.]": {
+    "Translation": "[Spare rifles on that wall for anybody unarmed.]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Keep them back while I open this door.]": {
+    "Translation": "[Keep them back while I open this door.]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Don't touch those lasers!]": {
+    "Translation": "[Don't touch those lasers!]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[There's fumes going through the vents! Get out of there!]": {
+    "Translation": "[There's fumes going through the vents! Get out of there!]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Shit! This is going to take some time. Hold them off!]": {
+    "Translation": "[Shit! This is going to take some time. Hold them off!]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Somebody turn right and get us an airstrike!]": {
+    "Translation": "[Somebody turn right and get us an airstrike!]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Get through that gate up ahead and don't let them in.]": {
+    "Translation": "[Get through that gate up ahead and don't let them in.]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Airstrike Inbound: ETA 1 minute.]": {
+    "Translation": "[Airstrike Inbound: ETA 1 minute.]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Grab some 'nades and blow the limbs off 'em.]": {
+    "Translation": "[Grab some 'nades and blow the limbs off 'em.]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[And we need to find a way out of here before that airstrike comes! Hold them off until the door closes.]": {
+    "Translation": "[And we need to find a way out of here before that airstrike comes! Hold them off until the door closes.]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Get in that hole behind the boxes!]": {
+    "Translation": "[Get in that hole behind the boxes!]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[5]": {
+    "Translation": "[5]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[4]": {
+    "Translation": "[4]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[3]": {
+    "Translation": "[3]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[2]": {
+    "Translation": "[2]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[1]": {
+    "Translation": "[1]",
+    "M-Bool": false,
+    "Value": 0
   }
 }

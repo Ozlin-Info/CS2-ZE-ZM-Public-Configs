@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Giant red star is unstable": {
+    "Translation": "Giant red star is unstable",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Go to the top of the station and find scape pods": {
+    "Translation": "Go to the top of the station and find scape pods",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by Eddie": {
+    "Translation": "Map by Eddie",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Special thanks to Kaemon and Hannibal (SPA)": {
+    "Translation": "Special thanks to Kaemon and Hannibal (SPA)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "And also thanks to i3D Community and Supreme Elite Community": {
+    "Translation": "And also thanks to i3D Community and Supreme Elite Community",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

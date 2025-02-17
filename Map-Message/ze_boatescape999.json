@@ -110,5 +110,10 @@
     "Translation": "Mode : Laser or Beam",
     "M-Bool": false,
     "Value": 0
+  },
+  "Ver:5.0.7": {
+    "Translation": "Ver:5.0.7",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -15,5 +15,30 @@
     "Translation": "Thanks to Amigo Enviolinador",
     "M-Bool": false,
     "Value": 0
+  },
+  " Door will open in 30 seconds ": {
+    "Translation": " Door will open in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door is now open ": {
+    "Translation": " Door is now open ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door will open in 25 seconds ": {
+    "Translation": " Door will open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies teleport in 10 seconds ": {
+    "Translation": " Zombies teleport in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Truck will leave in 30 seconds ": {
+    "Translation": " Truck will leave in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

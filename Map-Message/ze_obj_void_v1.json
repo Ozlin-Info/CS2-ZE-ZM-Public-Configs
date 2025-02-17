@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "This is it. ": {
+    "Translation": "This is it. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CSGO Ported/Modified by TuPu ": {
+    "Translation": "CSGO Ported/Modified by TuPu ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The Source of the zombie infection...": {
+    "Translation": "The Source of the zombie infection...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Humans must reach the Core of the facility and destroy the lab": {
+    "Translation": "Humans must reach the Core of the facility and destroy the lab",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You'll have to go to the Maintenance Area to turn off the power first however.": {
+    "Translation": "You'll have to go to the Maintenance Area to turn off the power first however.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "And Optionally take a quick break at the armory to catch supplies before going into the labs.": {
+    "Translation": "And Optionally take a quick break at the armory to catch supplies before going into the labs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Make sure to not stay behind. The Void will consume those who remain alone.": {
+    "Translation": "Make sure to not stay behind. The Void will consume those who remain alone.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Best of luck.": {
+    "Translation": "Best of luck.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Find the main Power Control Room.": {
+    "Translation": "Find the main Power Control Room.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

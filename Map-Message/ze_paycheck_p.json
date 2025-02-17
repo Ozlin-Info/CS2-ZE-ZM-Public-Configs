@@ -10,5 +10,25 @@
     "Translation": "===ze paycheck===",
     "M-Bool": false,
     "Value": 0
+  },
+  "===hold here while guy gets pay check====": {
+    "Translation": "===hold here while guy gets pay check====",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "===ok guy got cash===": {
+    "Translation": "===ok guy got cash===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "===get the cash on table===": {
+    "Translation": "===get the cash on table===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "===we got cash  jump on table===": {
+    "Translation": "===we got cash  jump on table===",
+    "M-Bool": false,
+    "Value": 0
   }
 }

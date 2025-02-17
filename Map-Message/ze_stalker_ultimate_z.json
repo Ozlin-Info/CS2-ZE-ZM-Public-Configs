@@ -1,0 +1,104 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Level 1 ": {
+    "Translation": " Level 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This is a map based on the game STALKER": {
+    "Translation": "This is a map based on the game STALKER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The map isn't eazy. It needs good ZE skills and good teamplay": {
+    "Translation": "The map isn't eazy. It needs good ZE skills and good teamplay",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate 3 will open in 8 seconds": {
+    "Translation": "Gate 3 will open in 8 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player picked up meatchunk": {
+    "Translation": "A player picked up meatchunk",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate 2 will open in 8 seconds": {
+    "Translation": "Gate 2 will open in 8 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate 1 will open in 8 seconds": {
+    "Translation": "Gate 1 will open in 8 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lab door 2 will open in 13 seconds": {
+    "Translation": "Lab door 2 will open in 13 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lab door 1 will open in 11 seconds": {
+    "Translation": "Lab door 1 will open in 11 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lab door 1 will open for zombies in 18 seconds": {
+    "Translation": "Lab door 1 will open for zombies in 18 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lab door 2 will open for zombies in 18 seconds": {
+    "Translation": "Lab door 2 will open for zombies in 18 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player picked up a piece of flesh": {
+    "Translation": "A player picked up a piece of flesh",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player picked up spikeball": {
+    "Translation": "A player picked up spikeball",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The electricity in on. You can push the panels to open the gates": {
+    "Translation": "The electricity in on. You can push the panels to open the gates",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gate 1 will open in 30 seconds": {
+    "Translation": "The gate 1 will open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold this position for 5 seconds": {
+    "Translation": "Hold this position for 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK players will teleport to the grass in ten seconds": {
+    "Translation": "AFK players will teleport to the grass in ten seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold for 10 seconds before the gates open": {
+    "Translation": "Hold for 10 seconds before the gates open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's go. The zombie will be blocked for ten seconds": {
+    "Translation": "Let's go. The zombie will be blocked for ten seconds",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
