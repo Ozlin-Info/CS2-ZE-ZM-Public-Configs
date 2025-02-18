@@ -7,52 +7,52 @@
     }
   },
   "(电流声)": {
-    "Translation": "(电流声)",
+    "Translation": "(Sound of electricity)",
     "M-Bool": false,
     "Value": 0
   },
   "(收音机静静地嘶嘶作响，偶尔伴随着嘈杂的干扰声)": {
-    "Translation": "(收音机静静地嘶嘶作响，偶尔伴随着嘈杂的干扰声)",
+    "Translation": "(The radio quietly crackles, occasionally accompanied by loud static interference)",
     "M-Bool": false,
     "Value": 0
   },
   "……紧急新闻……断断续续的报告显示，多个区域爆发了不明病毒……人们变得极度暴力，感觉不到痛苦……请立即撤离，不要与任何人接触……记住，保持冷静，寻找安全的庇护所……": {
-    "Translation": "……紧急新闻……断断续续的报告显示，多个区域爆发了不明病毒……人们变得极度暴力，感觉不到痛苦……请立即撤离，不要与任何人接触……记住，保持冷静，寻找安全的庇护所……",
+    "Translation": "… Breaking news… intermittent reports indicate that an unidentified virus has broken out in multiple areas… people are becoming extremely violent and feel no pain… please evacuate immediately, do not contact anyone… remember to stay calm and seek safe shelter…",
     "M-Bool": false,
     "Value": 0
   },
   "(声音突然被打断，随后又继续)": {
-    "Translation": "(声音突然被打断，随后又继续)",
+    "Translation": "(The voice is suddenly interrupted, then continues)",
     "M-Bool": false,
     "Value": 0
   },
   "……这是一个前所未有的危机……政府已经启动紧急状态……所有居民请保持警惕，关闭窗户和门，尽量储存食物和水……我们会继续为您更新信息，切勿外出……": {
-    "Translation": "……这是一个前所未有的危机……政府已经启动紧急状态……所有居民请保持警惕，关闭窗户和门，尽量储存食物和水……我们会继续为您更新信息，切勿外出……",
+    "Translation": "… This is an unprecedented crisis… the government has declared a state of emergency… all residents are advised to stay vigilant, close windows and doors, and stock up on food and water… we will continue to update you, do not go outside…",
     "M-Bool": false,
     "Value": 0
   },
   "(收音机声渐渐消失，留下一片死寂)": {
-    "Translation": "(收音机声渐渐消失，留下一片死寂)",
+    "Translation": "(The sound of the radio gradually fades away, leaving a dead silence)",
     "M-Bool": false,
     "Value": 0
   },
   "他们快来了": {
-    "Translation": "他们快来了",
+    "Translation": "They are coming soon.",
     "M-Bool": false,
     "Value": 0
   },
   "地图上显示这里就是要潜入的地方": {
-    "Translation": "地图上显示这里就是要潜入的地方",
+    "Translation": "The map shows this is the place to infiltrate.",
     "M-Bool": false,
     "Value": 0
   },
   "外面雨太大了，能见度过低": {
-    "Translation": "外面雨太大了，能见度过低",
+    "Translation": "It’s raining too heavily outside, visibility is too low.",
     "M-Bool": false,
     "Value": 0
   },
   "得想个办法快点打开这栅栏": {
-    "Translation": "得想个办法快点打开这栅栏",
+    "Translation": "I need to find a way to open this barrier quickly.",
     "M-Bool": false,
     "Value": 0
   }

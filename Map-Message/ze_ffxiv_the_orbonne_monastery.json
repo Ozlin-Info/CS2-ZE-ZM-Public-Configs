@@ -282,12 +282,12 @@
     "Value": 0
   },
   "一位玩家习得寒霜魔法": {
-    "Translation": "一位玩家习得寒霜魔法",
+    "Translation": "A player has learned frost magic",
     "M-Bool": false,
     "Value": 0
   },
   "一位玩家习得抹除魔法": {
-    "Translation": "一位玩家习得抹除魔法",
+    "Translation": "A player has learned erase magic",
     "M-Bool": false,
     "Value": 0
   }
