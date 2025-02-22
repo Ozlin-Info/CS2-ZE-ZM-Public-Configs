@@ -60,5 +60,35 @@
     "Translation": "HOLD THE LINE WHILE THE OTHERS INVESTIGATE THE AREA",
     "M-Bool": false,
     "Value": 0
+  },
+  "UNLOCKING SIDE DOOR...": {
+    "Translation": "UNLOCKING SIDE DOOR...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THAT BUTTON ON THE FLOOR SHOULD OPEN THE DOOR": {
+    "Translation": "THAT BUTTON ON THE FLOOR SHOULD OPEN THE DOOR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WELL DONE. THAT SHOULD OPEN THE DOOR": {
+    "Translation": " WELL DONE. THAT SHOULD OPEN THE DOOR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WATCH OUT THE BUTTON OPENED ALL THE DOORS IN THE AREA": {
+    "Translation": " WATCH OUT THE BUTTON OPENED ALL THE DOORS IN THE AREA",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS LEFT. PREPARE TO RUN": {
+    "Translation": "5 SECONDS LEFT. PREPARE TO RUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE DOOR IS OPENING. RUN": {
+    "Translation": " THE DOOR IS OPENING. RUN",
+    "M-Bool": false,
+    "Value": 0
   }
 }

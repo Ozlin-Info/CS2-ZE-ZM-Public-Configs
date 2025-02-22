@@ -10,5 +10,10 @@
     "Translation": " MAP BY P'A'SS ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Hold until the City Doors Open! ": {
+    "Translation": " Hold until the City Doors Open! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -40,5 +40,125 @@
     "Translation": " TAKE FRONTLEFT DOOR ",
     "M-Bool": false,
     "Value": 0
+  },
+  "DOOR BREAKING IN 20 SECS": {
+    "Translation": "DOOR BREAKING IN 20 SECS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD": {
+    "Translation": "HOLD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR BREAKING IN 25 SECS": {
+    "Translation": "DOOR BREAKING IN 25 SECS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HHOOLLDD": {
+    "Translation": "HHOOLLDD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLDDDD": {
+    "Translation": "HOLDDDD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR BREAKING IN 30 SECS": {
+    "Translation": "DOOR BREAKING IN 30 SECS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR BREAKING IN 15 SECS": {
+    "Translation": "DOOR BREAKING IN 15 SECS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENING 20 SECS": {
+    "Translation": "DOOR OPENING 20 SECS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENING IN 35 SECS": {
+    "Translation": "DOOR OPENING IN 35 SECS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LAST HOLD 18 SECS": {
+    "Translation": "LAST HOLD 18 SECS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WE SECURED ROUTE ONE ": {
+    "Translation": " WE SECURED ROUTE ONE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LETS GO TO ROUTE TWO": {
+    "Translation": "LETS GO TO ROUTE TWO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ROUTE TWO ": {
+    "Translation": " ROUTE TWO ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TAKE FRONTRIGHT DOOR ": {
+    "Translation": " TAKE FRONTRIGHT DOOR ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENING IN 20 SECS": {
+    "Translation": "DOOR OPENING IN 20 SECS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WE MUST FIND AND PRESS THREE HIDDEN BUTTON": {
+    "Translation": "WE MUST FIND AND PRESS THREE HIDDEN BUTTON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TO HET OUT THIS LIBRARY": {
+    "Translation": "TO HET OUT THIS LIBRARY",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GOOD JOB!": {
+    "Translation": "GOOD JOB!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NOW TIME TO HOLD": {
+    "Translation": "NOW TIME TO HOLD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR BREAKING IN 45 SECS": {
+    "Translation": "DOOR BREAKING IN 45 SECS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR BREAKING IN 50 SECS": {
+    "Translation": "DOOR BREAKING IN 50 SECS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN RUN RUN! ": {
+    "Translation": "RUN RUN RUN! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GUARDIAN OF THE RUIN AHEAD ": {
+    "Translation": "GUARDIAN OF THE RUIN AHEAD ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "EXTRA VENTUS ACTIVATED": {
+    "Translation": "EXTRA VENTUS ACTIVATED",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -10,5 +10,20 @@
     "Translation": "Teleport activates in 20 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Resist for 60 seconds": {
+    "Translation": "Resist for 60 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Resist 60 seconds ": {
+    "Translation": " Resist 60 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies are coming!": {
+    "Translation": "Zombies are coming!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

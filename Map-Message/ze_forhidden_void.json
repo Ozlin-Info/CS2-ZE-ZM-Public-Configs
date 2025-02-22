@@ -25,5 +25,95 @@
     "Translation": "We have to take back our devices,Search the missing devices around the crash site!!!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Human_Ammo is picked!": {
+    "Translation": "Human_Ammo is picked!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1/7": {
+    "Translation": "1/7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2/7": {
+    "Translation": "2/7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3/7": {
+    "Translation": "3/7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4/7": {
+    "Translation": "4/7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5/7": {
+    "Translation": "5/7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "6/7": {
+    "Translation": "6/7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "7/7": {
+    "Translation": "7/7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Devices are all collected!!!": {
+    "Translation": "Devices are all collected!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Human_Medical is picked!": {
+    "Translation": "Human_Medical is picked!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "C4 is going to explode [5 sec] !!!": {
+    "Translation": "C4 is going to explode [5 sec] !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "why there are so many dragons at this island?": {
+    "Translation": "why there are so many dragons at this island?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "According to radar before our helicopter crashed,There seems to be a huge building nearby,We need to take a look": {
+    "Translation": "According to radar before our helicopter crashed,There seems to be a huge building nearby,We need to take a look",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gate is opening [6 sec] ": {
+    "Translation": "The gate is opening [6 sec] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "fence is ready to open": {
+    "Translation": "fence is ready to open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "It looks like a church, we need to get in": {
+    "Translation": "It looks like a church, we need to get in",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait for the church gate to open [50 sec] ": {
+    "Translation": "Wait for the church gate to open [50 sec] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Human_Heal is picked!": {
+    "Translation": "Human_Heal is picked!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -100,5 +100,10 @@
     "Translation": "Let's go. The zombie will be blocked for ten seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Gate 4 will open in 8 seconds": {
+    "Translation": "Gate 4 will open in 8 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

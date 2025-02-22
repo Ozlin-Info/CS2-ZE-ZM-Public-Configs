@@ -65,5 +65,40 @@
     "Translation": " The Ring bearer has been corrupted! All hope is lost!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Humans have reached Cirith Ungol tower. One human must open the door pressing the lever at the top of the tower": {
+    "Translation": "Humans have reached Cirith Ungol tower. One human must open the door pressing the lever at the top of the tower",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door is NOW open! Escape from Cirith Ungol!": {
+    "Translation": "The door is NOW open! Escape from Cirith Ungol!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nazgul defeated!": {
+    "Translation": "Nazgul defeated!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nazguls coming to Cirith Ungol tower in 15 s": {
+    "Translation": "Nazguls coming to Cirith Ungol tower in 15 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nazguls coming to camp in 15 s": {
+    "Translation": "Nazguls coming to camp in 15 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano": {
+    "Translation": "THE RING HAS REACHED THE MOUNT DOOM: the ring carrier MUST throw the ring inside the volcano",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The Ring has been destroyed! Escape from Mordor!": {
+    "Translation": "The Ring has been destroyed! Escape from Mordor!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

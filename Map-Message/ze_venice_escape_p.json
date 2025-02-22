@@ -35,5 +35,55 @@
     "Translation": "Boat house door open!",
     "M-Bool": false,
     "Value": 0
+  },
+  "AFK Teleport in 45 seconds!": {
+    "Translation": "AFK Teleport in 45 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Left bridge charges set for 15secs! ": {
+    "Translation": "Left bridge charges set for 15secs! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Helicopter leaving in 75secs!": {
+    "Translation": "Helicopter leaving in 75secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Helicopter leaving in 30secs!": {
+    "Translation": "Helicopter leaving in 30secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Helicopter leaving in 5secs!": {
+    "Translation": "Helicopter leaving in 5secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nukes ready for launch!": {
+    "Translation": "Nukes ready for launch!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nuke in 10secs!": {
+    "Translation": "Nuke in 10secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
   }
 }

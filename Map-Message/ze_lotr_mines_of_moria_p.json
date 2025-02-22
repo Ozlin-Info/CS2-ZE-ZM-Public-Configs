@@ -20,5 +20,35 @@
     "Translation": "Gandalf staff has been picked!",
     "M-Bool": false,
     "Value": 0
+  },
+  "The ring has been picked!": {
+    "Translation": "The ring has been picked!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Humans have reached Balin's tomb! Resist 55 s": {
+    "Translation": "Humans have reached Balin's tomb! Resist 55 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s": {
+    "Translation": "Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Resist 30 s": {
+    "Translation": "Resist 30 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Resist 15 s": {
+    "Translation": "Resist 15 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Go to the KhazadDum bridge!": {
+    "Translation": "Go to the KhazadDum bridge!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

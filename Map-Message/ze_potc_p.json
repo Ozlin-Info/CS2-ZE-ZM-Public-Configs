@@ -20,5 +20,60 @@
     "Translation": "Thanks to Belafarinrod Fuu and Kaemon!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Defend 30 seconds": {
+    "Translation": "Defend 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 seconds left": {
+    "Translation": "5 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUUUUUN": {
+    "Translation": "RUUUUUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds until 1st hold zone gets teleported": {
+    "Translation": "10 seconds until 1st hold zone gets teleported",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD THE MILL 30 SECONDS ": {
+    "Translation": " HOLD THE MILL 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS LEFT ": {
+    "Translation": " 5 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " JUMP ONTO THE WHEEL ": {
+    "Translation": " JUMP ONTO THE WHEEL ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GET ONTO THE BLACK PEARL": {
+    "Translation": "GET ONTO THE BLACK PEARL",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Jungle gettting teleported in 10 seconds": {
+    "Translation": "Jungle gettting teleported in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pearl has been reached": {
+    "Translation": "Pearl has been reached",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Cannons charging. 60 seconds left": {
+    "Translation": "Cannons charging. 60 seconds left",
+    "M-Bool": false,
+    "Value": 0
   }
 }

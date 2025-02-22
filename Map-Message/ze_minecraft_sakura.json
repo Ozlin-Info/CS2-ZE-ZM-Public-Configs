@@ -480,5 +480,15 @@
     "Translation": "Ahhhh! _(:з」∠)_ Something weird crawled out of the toilet!",
     "M-Bool": false,
     "Value": 0
+  },
+  " The treehouse will open in 60 seconds ": {
+    "Translation": " The treehouse will open in 60 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies teleport in 20 seconds. Run! ": {
+    "Translation": " Zombies teleport in 20 seconds. Run! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

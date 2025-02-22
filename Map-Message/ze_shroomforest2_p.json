@@ -90,5 +90,10 @@
     "Translation": " ZOMBIE ABOARD !! YOU FAILED !! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " PLAYER HAS PICKED UP GRAVITY ": {
+    "Translation": " PLAYER HAS PICKED UP GRAVITY ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

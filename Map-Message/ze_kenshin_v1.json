@@ -20,5 +20,90 @@
     "Translation": "Wait for 20 seconds.",
     "M-Bool": false,
     "Value": 0
+  },
+  "僵尸10s后传送": {
+    "Translation": "僵尸10s后传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防守15s": {
+    "Translation": "防守15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防守25s": {
+    "Translation": "防守25s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "推力已被拾起": {
+    "Translation": "推力已被拾起",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸3s后传送": {
+    "Translation": "僵尸3s后传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防守30s": {
+    "Translation": "防守30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "剑核心就绪": {
+    "Translation": "剑核心就绪",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸15s后传送": {
+    "Translation": "僵尸15s后传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防守5s，注意撤退": {
+    "Translation": "防守5s，注意撤退",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Laser!!!": {
+    "Translation": "Laser!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "恢复已被拾起": {
+    "Translation": "恢复已被拾起",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "恢复1/3": {
+    "Translation": "恢复1/3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "恢复已就绪": {
+    "Translation": "恢复已就绪",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "撤退！！！": {
+    "Translation": "撤退！！！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "击碎它": {
+    "Translation": "击碎它",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防守10s": {
+    "Translation": "防守10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "等待30s": {
+    "Translation": "等待30s",
+    "M-Bool": false,
+    "Value": 0
   }
 }
