@@ -450,7 +450,7 @@ zm_exg_hl2_prison:3334235457
 zm_river_city:3334365154
 ze_sky_fantasy_v2:3334864881
 zm_holy_bracelet_ruins:3335646127
-ze_bully_stronghold_assault_m:3335801066
+//ze_bully_stronghold_assault_m:3335801066 //workshop error
 zm_exg_harbor:3336922807
 zm_purification:3336580992
 ze_insanitycity_t:3326176066
@@ -510,7 +510,7 @@ ze_frozen_abyss:3361357611
 ze_apollo_p:3361842183
 ze_stilshrine_of_miriam:3362061557
 ze_depths:3362719311
-ze_breakdream:3363054413
+//ze_breakdream:3363054413 //workshop error
 ze_desert_tour:3363357731
 ze_opti_variety_missions_p:3364323435
 ze_undead_shrine_p:3364699616
@@ -574,7 +574,7 @@ ze_re_sens:3266223534
 ze_bigboo_n64:3300310116
 ze_shenzhimudi_dawn_ysn1:3303404537
 ze_chicago_bean_gassy_fart_life:3336887881
-//ze_obj_goosestep_a1:3367233005 //workshop error
+ze_obj_goosestep_v1:3402037855
 ze_breakdream_v1:3364426323
 ze_tensor_of_ice:3380479672
 ze_scourge_p:3378842690
@@ -590,7 +590,7 @@ ze_light_shadow_cs2:3394921667
 ze_city:3394112519
 ze_colorful:3392374432
 ze_squid_game:3390192395
-//ze_gris:3389982625 //map bug
+ze_gris:3389982625
 ze_hidden_temple:3389448043
 ze_thelostworld_redux_p:3389333194
 ze_lila_panic_escape_p:3387818506
@@ -610,3 +610,26 @@ zm_miao_v7_1_p:3337407617
 zm_re_fantasy_b_0_03_p:3338535761
 zm_fubar_towers_csgo_p:3364450161
 zm_five_16togo_p:3364455322
+
+zm_mts_rooftop:3390876594
+zm_ice_attack:3399305351
+zm_br_swimsuits_r3:3402277859
+zm_chenxijiaotang:3408921971
+zm_shiluoyizhi:3411035933
+zm_hoshistar_maomaoshanzhuang:3411455585
+zm_16chambres:3412338522
+zm_desert_base:3429822666
+zm_summer_house_night:3430766349
+ze_emiya:3369548103
+ze_temple_of_phantom_cs2:3396749014
+ze_ffxii_mt_bur_omisace_v6:3398706540
+ze_bh3rd_babel_z:3399954774
+ze_something_ordinary:3400553142
+ze_radio_building:3400976371
+ze_biohazard2_sewer_004:3404397288
+ze_paradise_t:3404515839
+ze_parking_p:3405314470
+ze_night_club:3405434011
+ze_dnd_hydra_z:3406009899
+ze_obj_ouroboros_aurora_ragnarok:3407901941
+ze_maze:3408443538
