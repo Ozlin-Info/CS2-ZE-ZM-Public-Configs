@@ -45,5 +45,10 @@
     "Translation": " Camouflage weakens shadow ",
     "M-Bool": false,
     "Value": 0
+  },
+  " People only respect the light ": {
+    "Translation": " People only respect the light ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
