@@ -5,5 +5,60 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "Door opens in 15 seconds .": {
+    "Translation": "Door opens in 15 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENS IN 5 SECONDS .": {
+    "Translation": "DOOR OPENS IN 5 SECONDS .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate will be available in 20 seconds keep holding !": {
+    "Translation": "Gate will be available in 20 seconds keep holding !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE WILL BE AVAILABLE IN 5 SECONDS KEEP HOLDING !": {
+    "Translation": "GATE WILL BE AVAILABLE IN 5 SECONDS KEEP HOLDING !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Path will be open in 15 seconds .": {
+    "Translation": "Path will be open in 15 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PATH WILL BE OPEN IN 5 SECONDS .": {
+    "Translation": "PATH WILL BE OPEN IN 5 SECONDS .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door opens in 12 seconds .": {
+    "Translation": "Door opens in 12 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Path will be open in 20 seconds .": {
+    "Translation": "Path will be open in 20 seconds .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "There are 10 seconds left until the wagon departs.": {
+    "Translation": "There are 10 seconds left until the wagon departs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR CLOSES IN 15 SECONDS . KEEP HOLDING !": {
+    "Translation": "DOOR CLOSES IN 15 SECONDS . KEEP HOLDING !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR CLOSES IN 5 SECONDS . KEEP HOLDING !!": {
+    "Translation": "DOOR CLOSES IN 5 SECONDS . KEEP HOLDING !!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

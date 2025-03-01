@@ -170,5 +170,15 @@
     "Translation": "NUKE IN 5 SECONDS",
     "M-Bool": false,
     "Value": 0
+  },
+  " ze_Boatescape_Ultimate  Alpha Ver 2": {
+    "Translation": " ze_Boatescape_Ultimate  Alpha Ver 2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防刷传送PUSH已启用.": {
+    "Translation": "防刷传送PUSH已启用.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -20,5 +20,10 @@
     "Translation": " port by ws ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Hold for 25 seconds ": {
+    "Translation": " Hold for 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -60,5 +60,45 @@
     "Translation": "looks like these tubes can be broken",
     "M-Bool": false,
     "Value": 0
+  },
+  "ok we broke all the tubes": {
+    "Translation": "ok we broke all the tubes",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Erm looks like its flooding": {
+    "Translation": "Erm looks like its flooding",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "uh oh the doors are opening again": {
+    "Translation": "uh oh the doors are opening again",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Pillar ascending in 60s ": {
+    "Translation": " Pillar ascending in 60s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Pillar ascending in 45s ": {
+    "Translation": " Pillar ascending in 45s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Pillar ascending in 30s ": {
+    "Translation": " Pillar ascending in 30s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Pillar ascending in 15s ": {
+    "Translation": " Pillar ascending in 15s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Pillar ascending in 5s ": {
+    "Translation": " Pillar ascending in 5s ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

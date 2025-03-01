@@ -90,5 +90,20 @@
     "Translation": "Wood is a Trap",
     "M-Bool": false,
     "Value": 0
+  },
+  "Defend this position": {
+    "Translation": "Defend this position",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "STAGE 1 Complete": {
+    "Translation": "STAGE 1 Complete",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "STAGE 2": {
+    "Translation": "STAGE 2",
+    "M-Bool": false,
+    "Value": 0
   }
 }

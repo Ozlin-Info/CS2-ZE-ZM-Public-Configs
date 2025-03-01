@@ -25,5 +25,25 @@
     "Translation": "Teleporting bottom area!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Teleporter activating in 7 seconds...": {
+    "Translation": "Teleporter activating in 7 seconds...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The quarantine platform will begin its ascent in 40 seconds!": {
+    "Translation": "The quarantine platform will begin its ascent in 40 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The quarantine platform will begin to rise in 5 seconds!": {
+    "Translation": "The quarantine platform will begin to rise in 5 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nuke has been launched!! 10 seconds until explosion": {
+    "Translation": "Nuke has been launched!! 10 seconds until explosion",
+    "M-Bool": false,
+    "Value": 0
   }
 }

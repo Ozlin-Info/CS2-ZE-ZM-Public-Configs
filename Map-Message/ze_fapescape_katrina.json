@@ -15,5 +15,310 @@
     "Translation": " Turning music on ",
     "M-Bool": false,
     "Value": 0
+  },
+  "AFK player will teleport in 20seconds": {
+    "Translation": "AFK player will teleport in 20seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player pick up legowall,only human can damage it and break it": {
+    "Translation": "A player pick up legowall,only human can damage it and break it",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zombies will teleport into castle soon": {
+    "Translation": "zombies will teleport into castle soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door open in 40 sec": {
+    "Translation": "door open in 40 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door open in 30 sec": {
+    "Translation": "door open in 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door open in 20 sec": {
+    "Translation": "door open in 20 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door open in 10 sec": {
+    "Translation": "door open in 10 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "mian door openning": {
+    "Translation": "mian door openning",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "railings will open in 20seconds": {
+    "Translation": "railings will open in 20seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bigdoor will open in 30seconds": {
+    "Translation": "Bigdoor will open in 30seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " door is charge,opening in 35 seconds ": {
+    "Translation": " door is charge,opening in 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " door is charge,opening in 20 seconds ": {
+    "Translation": " door is charge,opening in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " door is charge,opening in 10 seconds ": {
+    "Translation": " door is charge,opening in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " door is charge,opening in 5 seconds ": {
+    "Translation": " door is charge,opening in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door will open in 30seconds": {
+    "Translation": "door will open in 30seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door will open in 10seconds": {
+    "Translation": "door will open in 10seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player pick up heal,it can heal human ,in ex3 mode,it can use twice": {
+    "Translation": "A player pick up heal,it can heal human ,in ex3 mode,it can use twice",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door opening": {
+    "Translation": "door opening",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door will open in 20seconds": {
+    "Translation": "door will open in 20seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zombie will teleport soon": {
+    "Translation": "zombie will teleport soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5seconds left": {
+    "Translation": "5seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "the last defend,after 20second the bridge will break": {
+    "Translation": "the last defend,after 20second the bridge will break",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage1 Level Completed! ": {
+    "Translation": " Stage1 Level Completed! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Level 2 ": {
+    "Translation": " Level 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player pick up in jail item": {
+    "Translation": "A player pick up in jail item",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player pick up flame,when it use,it need times to charge oil": {
+    "Translation": "A player pick up flame,when it use,it need times to charge oil",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "wait 25second for legobox explore": {
+    "Translation": "wait 25second for legobox explore",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15seconds left": {
+    "Translation": "15seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door will break in 25second": {
+    "Translation": "door will break in 25second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door will break in 15second": {
+    "Translation": "door will break in 15second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door will break in 5second": {
+    "Translation": "door will break in 5second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door wil break in 20second": {
+    "Translation": "door wil break in 20second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door wil break in 5second": {
+    "Translation": "door wil break in 5second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Noob Down": {
+    "Translation": "Noob Down",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "boss door opening in 25sec": {
+    "Translation": "boss door opening in 25sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final door will appear in 20 Seconds": {
+    "Translation": "Final door will appear in 20 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "the last defend,after 20second the heli will take off": {
+    "Translation": "the last defend,after 20second the heli will take off",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage2 Level Completed! ": {
+    "Translation": " Stage2 Level Completed! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Level 3 ": {
+    "Translation": " Level 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player pick mine,player can control when it explore,it can use 6 times": {
+    "Translation": "A player pick mine,player can control when it explore,it can use 6 times",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player pick up pushgun": {
+    "Translation": "A player pick up pushgun",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "army door will open in 20seconds": {
+    "Translation": "army door will open in 20seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "armored car now is charging,wait 25second for start": {
+    "Translation": "armored car now is charging,wait 25second for start",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "armored car now is charging,wait 15second for start": {
+    "Translation": "armored car now is charging,wait 15second for start",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "wait 15second for door break": {
+    "Translation": "wait 15second for door break",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door wil open in 25second": {
+    "Translation": "door wil open in 25second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door wil open in 15second": {
+    "Translation": "door wil open in 15second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door wil open in 5second": {
+    "Translation": "door wil open in 5second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door will open in 20second": {
+    "Translation": "door will open in 20second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door will open in 10second": {
+    "Translation": "door will open in 10second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door will open in 5second": {
+    "Translation": "door will open in 5second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "next door wil open in 25second": {
+    "Translation": "next door wil open in 25second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "next door wil open in 15second": {
+    "Translation": "next door wil open in 15second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "next door wil open in 5second": {
+    "Translation": "next door wil open in 5second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "final boss door will open in 20second": {
+    "Translation": "final boss door will open in 20second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "final boss door will open in 10second": {
+    "Translation": "final boss door will open in 10second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "final boss door will open in 5second": {
+    "Translation": "final boss door will open in 5second",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "hold 25seconds for bridge appear": {
+    "Translation": "hold 25seconds for bridge appear",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "wait 25seconds forplane open engine.": {
+    "Translation": "wait 25seconds forplane open engine.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "engine opening!": {
+    "Translation": "engine opening!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage3 Level Completed! ": {
+    "Translation": " Stage3 Level Completed! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

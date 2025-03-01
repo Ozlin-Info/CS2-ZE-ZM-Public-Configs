@@ -60,5 +60,20 @@
     "Translation": "### DEFEND UNTIL GATES CLOSED ###",
     "M-Bool": false,
     "Value": 0
+  },
+  "### HOLD THIS AREA FOR 30 SECONDS ###": {
+    "Translation": "### HOLD THIS AREA FOR 30 SECONDS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### 10 SECONDS REMAINING ###": {
+    "Translation": "### 10 SECONDS REMAINING ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### FALL BACK NOW !!! ### ": {
+    "Translation": "### FALL BACK NOW !!! ### ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

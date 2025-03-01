@@ -50,5 +50,30 @@
     "Translation": " Door opening in 10 sec ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Gaz turning off in 30 sec ": {
+    "Translation": " Gaz turning off in 30 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Final door opening in 30 sec ": {
+    "Translation": " Final door opening in 30 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Gaz turning off in 10 sec ": {
+    "Translation": " Gaz turning off in 10 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Final door opening in 10 sec ": {
+    "Translation": " Final door opening in 10 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[STAGE 2] Industrial Sewer": {
+    "Translation": "[STAGE 2] Industrial Sewer",
+    "M-Bool": false,
+    "Value": 0
   }
 }
