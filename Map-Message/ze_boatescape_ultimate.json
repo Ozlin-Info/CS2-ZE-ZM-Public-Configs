@@ -177,7 +177,7 @@
     "Value": 0
   },
   "防刷传送PUSH已启用.": {
-    "Translation": "防刷传送PUSH已启用.",
+    "Translation": "Anti-spam teleport PUSH has been enabled.",
     "M-Bool": false,
     "Value": 0
   }
