@@ -72,7 +72,7 @@
     "Value": 0
   },
   "被你发现了,10second left": {
-    "Translation": "被你发现了,10second left",
+    "Translation": "You found it, 10second left",
     "M-Bool": false,
     "Value": 0
   }
