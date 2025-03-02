@@ -22,102 +22,102 @@
     "Value": 0
   },
   "等待30秒教室后门打开": {
-    "Translation": "等待30秒教室后门打开",
+    "Translation": "Wait 30 seconds for the classroom back door to open.",
     "M-Bool": false,
     "Value": 0
   },
   "等待30秒舞蹈室的门打开": {
-    "Translation": "等待30秒舞蹈室的门打开",
+    "Translation": "Wait 30 seconds for the dance room door to open.",
     "M-Bool": false,
     "Value": 0
   },
   "图书室的门还有10秒打开": {
-    "Translation": "图书室的门还有10秒打开",
+    "Translation": "The library door will open in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "图书室的后门在25秒后打开": {
-    "Translation": "图书室的后门在25秒后打开",
+    "Translation": "The back door of the library will open in 25 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "等待10秒教室前门打开": {
-    "Translation": "等待10秒教室前门打开",
+    "Translation": "Wait 10 seconds for the classroom front door to open.",
     "M-Bool": false,
     "Value": 0
   },
   "奇怪，门怎么锁住了，我们再想想其他办法": {
-    "Translation": "奇怪，门怎么锁住了，我们再想想其他办法",
+    "Translation": "Strange, why is the door locked? Let's think of another way.",
     "M-Bool": false,
     "Value": 0
   },
   "那面墙好像坏了，我们看看能不能给它推倒": {
-    "Translation": "那面墙好像坏了，我们看看能不能给它推倒",
+    "Translation": "That wall seems broken; let's see if we can push it down.",
     "M-Bool": false,
     "Value": 0
   },
   "电梯门还有30秒打开": {
-    "Translation": "电梯门还有30秒打开",
+    "Translation": "The elevator door will open in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "舞台将在10秒后开启": {
-    "Translation": "舞台将在10秒后开启",
+    "Translation": "The stage will open in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "找到九名少女开启电梯": {
-    "Translation": "找到九名少女开启电梯",
+    "Translation": "Find nine girls to activate the elevator.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了西条克洛迪娜": {
-    "Translation": "找到了西条克洛迪娜",
+    "Translation": "Found Saijo Clodina.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了天堂真矢": {
-    "Translation": "找到了天堂真矢",
+    "Translation": "Found Amamiya Maya.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了花柳香子": {
-    "Translation": "找到了花柳香子",
+    "Translation": "Found Hanamura Kyoko.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了神乐光": {
-    "Translation": "找到了神乐光",
+    "Translation": "Found Kagura Hikaru.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了露崎真昼": {
-    "Translation": "找到了露崎真昼",
+    "Translation": "Found Ruzaki Mahiru.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了爱城华恋": {
-    "Translation": "找到了爱城华恋",
+    "Translation": "Found Aizawa Karen.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了大场奈奈": {
-    "Translation": "找到了大场奈奈",
+    "Translation": "Found Ooba Nana.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了星见纯那": {
-    "Translation": "找到了星见纯那",
+    "Translation": "Found Hoshimi Junna.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了石动双叶": {
-    "Translation": "找到了石动双叶",
+    "Translation": "Found Ishidou Fuka.",
     "M-Bool": false,
     "Value": 0
   },
   "舞台将在55秒后开启": {
-    "Translation": "舞台将在55秒后开启",
+    "Translation": "The stage will open in 55 seconds.",
     "M-Bool": false,
     "Value": 0
   }
