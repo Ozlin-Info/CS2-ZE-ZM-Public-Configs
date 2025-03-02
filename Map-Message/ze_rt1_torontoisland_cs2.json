@@ -1,4 +1,11 @@
-{
+{  
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
   " 多伦岛发生了异变，情况不明 ": {
     "Translation": " Anomaly occurred on Toronto Island, situation unknown ",
     "M-Bool": false,
@@ -500,357 +507,357 @@
     "Value": 0
   },
   " WAD+右键施展地震波，击飞面前的僵尸 ": {
-    "Translation": " WAD+右键施展地震波，击飞面前的僵尸 ",
+    "Translation": "WAD + Right-click to unleash a shockwave, knocking back zombies in front.",
     "M-Bool": false,
     "Value": 0
   },
   " SAWDAD+右键释放八方光刃(只有一次） ": {
-    "Translation": " SAWDAD+右键释放八方光刃(只有一次） ",
+    "Translation": "SAWDAD + Right-click to unleash the Eight-Direction Blade (only once).",
     "M-Bool": false,
     "Value": 0
   },
   " 这个山洞有些危险，等待兵力集结一并进入吧 ": {
-    "Translation": " 这个山洞有些危险，等待兵力集结一并进入吧 ",
+    "Translation": "This cave is a bit dangerous; let's wait for the troops to gather before entering.",
     "M-Bool": false,
     "Value": 0
   },
   " 道路已经通畅，我们出发 ": {
-    "Translation": " 道路已经通畅，我们出发 ",
+    "Translation": "The road is clear; let's set off.",
     "M-Bool": false,
     "Value": 0
   },
   " 剩余150s ": {
-    "Translation": " 剩余150s ",
+    "Translation": "150 seconds remaining.",
     "M-Bool": false,
     "Value": 0
   },
   " 感谢miluli_提供的模型 ": {
-    "Translation": " 感谢miluli_提供的模型 ",
+    "Translation": "Thanks to miluli_ for providing the model.",
     "M-Bool": false,
     "Value": 0
   },
   " 这是？？ ": {
-    "Translation": " 这是？？ ",
+    "Translation": "What is this??",
     "M-Bool": false,
     "Value": 0
   },
   " 恶魔！他怎么会在这里，开枪击溃他 ": {
-    "Translation": " 恶魔！他怎么会在这里，开枪击溃他 ",
+    "Translation": "Demon! How could he be here? Shoot him down!",
     "M-Bool": false,
     "Value": 0
   },
   " 他逃走了. ": {
-    "Translation": " 他逃走了. ",
+    "Translation": "He escaped.",
     "M-Bool": false,
     "Value": 0
   },
   " 10s后门开 ": {
-    "Translation": " 10s后门开 ",
+    "Translation": "The door will open in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 但是这一切都太过蹊跷了 ": {
-    "Translation": " 但是这一切都太过蹊跷了 ",
+    "Translation": "But everything seems too suspicious.",
     "M-Bool": false,
     "Value": 0
   },
   " 坚守60s ": {
-    "Translation": " 坚守60s ",
+    "Translation": "Hold for 60 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 那个恶魔一定在筹划着什么，决不能让他得逞 ": {
-    "Translation": " 那个恶魔一定在筹划着什么，决不能让他得逞 ",
+    "Translation": "That demon must be plotting something; we cannot let him succeed.",
     "M-Bool": false,
     "Value": 0
   },
   " Level 3 ": {
-    "Translation": " Level 3 ",
+    "Translation": "Level 3",
     "M-Bool": false,
     "Value": 0
   },
   " 第二关_通关 ": {
-    "Translation": " 第二关_通关 ",
+    "Translation": "Second Level_Completion",
     "M-Bool": false,
     "Value": 0
   },
   " 第三章 ": {
-    "Translation": " 第三章 ",
+    "Translation": "Chapter 3",
     "M-Bool": false,
     "Value": 0
   },
   " 因为恶魔的出现，我们的计划被彻底打乱 ": {
-    "Translation": " 因为恶魔的出现，我们的计划被彻底打乱 ",
+    "Translation": "Our plan has been completely disrupted by the demon's appearance.",
     "M-Bool": false,
     "Value": 0
   },
   " 那家伙一定和这次的异变有关，十分危险 ": {
-    "Translation": " 那家伙一定和这次的异变有关，十分危险 ",
+    "Translation": "That guy must be related to this mutation; he's very dangerous.",
     "M-Bool": false,
     "Value": 0
   },
   " 我们放弃回到洛丹伦，再次来到这里 ": {
-    "Translation": " 我们放弃回到洛丹伦，再次来到这里 ",
+    "Translation": "We gave up returning to Lordaeron and came back here again.",
     "M-Bool": false,
     "Value": 0
   },
   " 根据情报，恶魔就盘踞在岛屿的地下城内 ": {
-    "Translation": " 根据情报，恶魔就盘踞在岛屿的地下城内 ",
+    "Translation": "According to intelligence, the demon is lurking in the underground city of the island.",
     "M-Bool": false,
     "Value": 0
   },
   " 我们要发动攻击，击败恶魔 ": {
-    "Translation": " 我们要发动攻击，击败恶魔 ",
+    "Translation": "We need to launch an attack and defeat the demon.",
     "M-Bool": false,
     "Value": 0
   },
   " 但愿这是最后一战，为了洛丹伦 ": {
-    "Translation": " 但愿这是最后一战，为了洛丹伦 ",
+    "Translation": "I hope this is the final battle, for Lordaeron.",
     "M-Bool": false,
     "Value": 0
   },
   " 坚守45s ": {
-    "Translation": " 坚守45s ",
+    "Translation": "Hold for 45 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 双子大门15s后打开": {
-    "Translation": " 双子大门15s后打开",
+    "Translation": "The Twin Gates will open in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 废弃的地下城仍在运行 ": {
-    "Translation": " 废弃的地下城仍在运行 ",
+    "Translation": "The abandoned underground city is still operational.",
     "M-Bool": false,
     "Value": 0
   },
   " 不安.. ": {
-    "Translation": " 不安.. ",
+    "Translation": "Uneasy..",
     "M-Bool": false,
     "Value": 0
   },
   " 20s铁门打开 ": {
-    "Translation": " 20s铁门打开 ",
+    "Translation": "The iron gate will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 录入访客信息... ": {
-    "Translation": " 录入访客信息... ",
+    "Translation": "Entering visitor information...",
     "M-Bool": false,
     "Value": 0
   },
   " 信息上传中... ": {
-    "Translation": " 信息上传中... ",
+    "Translation": "Uploading information...",
     "M-Bool": false,
     "Value": 0
   },
   " 解锁下一个大门，等待15s ": {
-    "Translation": " 解锁下一个大门，等待15s ",
+    "Translation": "Unlock the next gate, wait for 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 注意测路的恶灵 ": {
-    "Translation": " 注意测路的恶灵 ",
+    "Translation": "Beware of the path-testing spirits.",
     "M-Bool": false,
     "Value": 0
   },
   " 解锁失败，大门被锁定 ": {
-    "Translation": " 解锁失败，大门被锁定 ",
+    "Translation": "Unlock failed, the gate is locked.",
     "M-Bool": false,
     "Value": 0
   },
   " 更换方式..大门破译中.. ": {
-    "Translation": " 更换方式..大门破译中.. ",
+    "Translation": "Changing method.. decrypting the gate..",
     "M-Bool": false,
     "Value": 0
   },
   " 访问成功，大门10s后开启 ": {
-    "Translation": " 访问成功，大门10s后开启 ",
+    "Translation": "Access successful, the gate will open in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 道路被切断了，这是个阴谋 ": {
-    "Translation": " 道路被切断了，这是个阴谋 ",
+    "Translation": "The road has been cut off; this is a conspiracy.",
     "M-Bool": false,
     "Value": 0
   },
   " 未获得许可 等待.. ": {
-    "Translation": " 未获得许可 等待.. ",
+    "Translation": "Permission not granted; waiting..",
     "M-Bool": false,
     "Value": 0
   },
   " 前方未知，但我们只能继续前进": {
-    "Translation": " 前方未知，但我们只能继续前进",
+    "Translation": "Unknown ahead, but we can only move forward.",
     "M-Bool": false,
     "Value": 0
   },
   " 已准许，可进入 ": {
-    "Translation": " 已准许，可进入 ",
+    "Translation": "Permission granted; you may enter.",
     "M-Bool": false,
     "Value": 0
   },
   " 20s后大门打开 ": {
-    "Translation": " 20s后大门打开 ",
+    "Translation": "The gate will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 该死，我们被包围了 ": {
-    "Translation": " 该死，我们被包围了 ",
+    "Translation": "Damn it, we are surrounded.",
     "M-Bool": false,
     "Value": 0
   },
   " 第一开关按下，解锁大门 ": {
-    "Translation": " 第一开关按下，解锁大门 ",
+    "Translation": "First switch pressed, unlocking the gate.",
     "M-Bool": false,
     "Value": 0
   },
   " 大门即将锁闭，阻挡他们 ": {
-    "Translation": " 大门即将锁闭，阻挡他们 ",
+    "Translation": "The gate is about to close; block them.",
     "M-Bool": false,
     "Value": 0
   },
   " 第二开关已按下，解锁大门 ": {
-    "Translation": " 第二开关已按下，解锁大门 ",
+    "Translation": "Second switch pressed, unlocking the gate.",
     "M-Bool": false,
     "Value": 0
   },
   " 不要让他们穿过大门，坚持 ": {
-    "Translation": " 不要让他们穿过大门，坚持 ",
+    "Translation": "Don't let them through the gate; hold firm.",
     "M-Bool": false,
     "Value": 0
   },
   " 大门5s后开启 ": {
-    "Translation": " 大门5s后开启 ",
+    "Translation": "The gate will open in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 后 ": {
-    "Translation": " 后 ",
+    "Translation": "Back",
     "M-Bool": false,
     "Value": 0
   },
   " 左 ": {
-    "Translation": " 左 ",
+    "Translation": "Left",
     "M-Bool": false,
     "Value": 0
   },
   " 又是他，为什么还活着 ": {
-    "Translation": " 又是他，为什么还活着 ",
+    "Translation": "It's him again; why is he still alive?",
     "M-Bool": false,
     "Value": 0
   },
   " 他想要折磨我们 ": {
-    "Translation": " 他想要折磨我们 ",
+    "Translation": "He wants to torment us.",
     "M-Bool": false,
     "Value": 0
   },
   " 暂时击退他了，快跑 ": {
-    "Translation": " 暂时击退他了，快跑 ",
+    "Translation": "We temporarily pushed him back; run!",
     "M-Bool": false,
     "Value": 0
   },
   " 快去激活传送水晶 ": {
-    "Translation": " 快去激活传送水晶 ",
+    "Translation": "Quick, activate the teleport crystal!",
     "M-Bool": false,
     "Value": 0
   },
   " 40s后将对恶灵降下天罚 ": {
-    "Translation": " 40s后将对恶灵降下天罚 ",
+    "Translation": "After 40 seconds, divine punishment will befall the evil spirit.",
     "M-Bool": false,
     "Value": 0
   },
   " 似乎有不洁者在干扰施法 ": {
-    "Translation": " 似乎有不洁者在干扰施法 ",
+    "Translation": "It seems there are unclean beings interfering with the spell.",
     "M-Bool": false,
     "Value": 0
   },
   " 坚持住，我们以另一种方法转移 ": {
-    "Translation": " 坚持住，我们以另一种方法转移 ",
+    "Translation": "Hold on; we will transfer using another method.",
     "M-Bool": false,
     "Value": 0
   },
   " 10s后打开传送水晶 ": {
-    "Translation": " 10s后打开传送水晶 ",
+    "Translation": "The teleport crystal will open in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 第三关_结束 ": {
-    "Translation": " 第三关_结束 ",
+    "Translation": "Level 3_End",
     "M-Bool": false,
     "Value": 0
   },
   " Level 4 ": {
-    "Translation": " Level 4 ",
+    "Translation": "Level 4",
     "M-Bool": false,
     "Value": 0
   },
   " 坚守50s ": {
-    "Translation": " 坚守50s ",
+    "Translation": "Hold for 50 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 娱乐关 ": {
-    "Translation": " 娱乐关 ",
+    "Translation": "Fun Level",
     "M-Bool": false,
     "Value": 0
   },
   " 坚守30s ": {
-    "Translation": " 坚守30s ",
+    "Translation": "Hold for 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 不要让僵尸靠近，10s后传送 ": {
-    "Translation": " 不要让僵尸靠近，10s后传送 ",
+    "Translation": "Do not let the zombies get close; teleport in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 坚守47s ": {
-    "Translation": " 坚守47s ",
+    "Translation": "Hold for 47 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 30s后石墙爆炸 ": {
-    "Translation": " 30s后石墙爆炸 ",
+    "Translation": "The stone wall will explode in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 10s后门关 ": {
-    "Translation": " 10s后门关 ",
+    "Translation": "The door will close in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 门50s后开启 ": {
-    "Translation": " 门50s后开启 ",
+    "Translation": "The door will open in 50 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " Level ZM ": {
-    "Translation": " Level ZM ",
+    "Translation": "Level ZM",
     "M-Bool": false,
     "Value": 0
   },
   " 娱乐关_结束  ": {
-    "Translation": " 娱乐关_结束  ",
+    "Translation": "Fun Level_End",
     "M-Bool": false,
     "Value": 0
   },
   " [ZM]  ": {
-    "Translation": " [ZM]  ",
+    "Translation": "[ZM]",
     "M-Bool": false,
     "Value": 0
   },
   " 坚守200s ": {
-    "Translation": " 坚守200s ",
+    "Translation": "Hold for 200 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 增益启动 ": {
-    "Translation": " 增益启动 ",
+    "Translation": "Buff (low gravity) activated.",
     "M-Bool": false,
     "Value": 0
   },
   " [ZM] 结束 ": {
-    "Translation": " [ZM] 结束 ",
+    "Translation": "[ZM] End",
     "M-Bool": false,
     "Value": 0
   }
