@@ -7,47 +7,47 @@
     }
   },
   "El Son Goku: Barco 2 se va en 10 segs": {
-    "Translation": "El Son Goku: Barco 2 se va en 10 segs",
+    "Translation": "El Son Goku: Boat 2 leaves in 10 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "El Son Goku: El camion sale en 5 segundos": {
-    "Translation": "El Son Goku: El camion sale en 5 segundos",
+    "Translation": "El Son Goku: The truck leaves in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "El Son Goku: La puerta se abrira en 45 segs": {
-    "Translation": "El Son Goku: La puerta se abrira en 45 segs",
+    "Translation": "El Son Goku: The door will open in 45 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "El Son Goku: La puerta se a abierto sal del infierno": {
-    "Translation": "El Son Goku: La puerta se a abierto sal del infierno",
+    "Translation": "El Son Goku: The door has opened; get out of hell.",
     "M-Bool": false,
     "Value": 0
   },
   "El Son Goku: La puerta se abrira en 30 segs": {
-    "Translation": "El Son Goku: La puerta se abrira en 30 segs",
+    "Translation": "El Son Goku: The door will open in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "El Son Goku: La puerta se abrira en 45 segundos a cubrir": {
-    "Translation": "El Son Goku: La puerta se abrira en 45 segundos a cubrir",
+    "Translation": "El Son Goku: The door will open in 45 seconds; cover yourself.",
     "M-Bool": false,
     "Value": 0
   },
   "El Son Goku: Quedan 20 segundos aguanta queda poco": {
-    "Translation": "El Son Goku: Quedan 20 segundos aguanta queda poco",
+    "Translation": "El Son Goku: 20 seconds left; hang on, it's almost done.",
     "M-Bool": false,
     "Value": 0
   },
   "El Son Goku: 5 segundos preparate a correr": {
-    "Translation": "El Son Goku: 5 segundos preparate a correr",
+    "Translation": "El Son Goku: 5 seconds; get ready to run.",
     "M-Bool": false,
     "Value": 0
   },
   "El Son Goku: La puerta se a abierto corre al siguinte nivel": {
-    "Translation": "El Son Goku: La puerta se a abierto corre al siguinte nivel",
+    "Translation": "El Son Goku: The door has opened; run to the next level.",
     "M-Bool": false,
     "Value": 0
   }

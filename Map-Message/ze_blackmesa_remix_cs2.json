@@ -147,12 +147,12 @@
     "Value": 0
   },
   " 变动:奇怪的空间情况——走另一边/没有秘密通道/低重力 ": {
-    "Translation": " 变动:奇怪的空间情况——走另一边/没有秘密通道/低重力 ",
+    "Translation": "Change: Strange spatial conditions — go to the other side / no secret passages / low gravity.",
     "M-Bool": false,
     "Value": 0
   },
   " 变动:突破到另一边——没有电车和前路锁定 ": {
-    "Translation": " 变动:突破到另一边——没有电车和前路锁定 ",
+    "Translation": "Change: Breakthrough to the other side — no trams and the way ahead is locked.",
     "M-Bool": false,
     "Value": 0
   }

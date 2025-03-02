@@ -22,157 +22,157 @@
     "Value": 0
   },
   "我们：这座实验设施的门加密比较严格,我需要一些时间。": {
-    "Translation": "我们：这座实验设施的门加密比较严格,我需要一些时间。",
+    "Translation": "We: The doors of this facility are heavily secured; I need some time.",
     "M-Bool": false,
     "Value": 0
   },
   "我们:在给我一些时间....": {
-    "Translation": "我们:在给我一些时间....",
+    "Translation": "We: Give me some time....",
     "M-Bool": false,
     "Value": 0
   },
   "我们:马上了..马上": {
-    "Translation": "我们:马上了..马上",
+    "Translation": "We: Almost there.. just a moment.",
     "M-Bool": false,
     "Value": 0
   },
   "疾风小队:正在尝试联系领袖...": {
-    "Translation": "疾风小队:正在尝试联系领袖...",
+    "Translation": "Team Gale: Attempting to contact the leader...",
     "M-Bool": false,
     "Value": 0
   },
   "云茹:你们现在正在这座设施的外围.": {
-    "Translation": "云茹:你们现在正在这座设施的外围.",
+    "Translation": "Yunru: You are currently on the outskirts of this facility.",
     "M-Bool": false,
     "Value": 0
   },
   "云茹:我会在内部帮助你们.": {
-    "Translation": "云茹:我会在内部帮助你们.",
+    "Translation": "Yunru: I will assist you from the inside.",
     "M-Bool": false,
     "Value": 0
   },
   "旁边这个门好像有声音?": {
-    "Translation": "旁边这个门好像有声音?",
+    "Translation": "Does that door nearby seem to be making a sound?",
     "M-Bool": false,
     "Value": 0
   },
   "云茹:还有5秒钟": {
-    "Translation": "云茹:还有5秒钟",
+    "Translation": "Yunru: Just 5 seconds left.",
     "M-Bool": false,
     "Value": 0
   },
   "疾风小队:领袖,您的位置坐标...我们搜寻不到": {
-    "Translation": "疾风小队:领袖,您的位置坐标...我们搜寻不到",
+    "Translation": "Team Gale: Leader, we cannot locate your coordinates...",
     "M-Bool": false,
     "Value": 0
   },
   "云茹:周边环境来看,我应该是在地下.": {
-    "Translation": "云茹:周边环境来看,我应该是在地下.",
+    "Translation": "Yunru: Based on the surroundings, I should be underground.",
     "M-Bool": false,
     "Value": 0
   },
   "云茹:具体如何要找到我,要看你们了.": {
-    "Translation": "云茹:具体如何要找到我,要看你们了.",
+    "Translation": "Yunru: How you find me now depends on you.",
     "M-Bool": false,
     "Value": 0
   },
   "云茹:我也会在内部帮助你们的.": {
-    "Translation": "云茹:我也会在内部帮助你们的.",
+    "Translation": "Yunru: I will also help you from the inside.",
     "M-Bool": false,
     "Value": 0
   },
   "云茹:坚持一下,还有5秒钟": {
-    "Translation": "云茹:坚持一下,还有5秒钟",
+    "Translation": "Yunru: Hold on, just 5 more seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "云茹:你们只是看到了这座设施的表面,他真正的真相在地下.": {
-    "Translation": "云茹:你们只是看到了这座设施的表面,他真正的真相在地下.",
+    "Translation": "Yunru: You have only seen the surface of this facility; its true nature lies underground.",
     "M-Bool": false,
     "Value": 0
   },
   "疾风小队:事到如今,我们需要加快速度了.": {
-    "Translation": "疾风小队:事到如今,我们需要加快速度了.",
+    "Translation": "Team Gale: At this point, we need to speed up.",
     "M-Bool": false,
     "Value": 0
   },
   "疾风小队:小心一些.这里没我们想想的那么简单.": {
-    "Translation": "疾风小队:小心一些.这里没我们想想的那么简单.",
+    "Translation": "Team Gale: Be careful. It's not as simple here as we thought.",
     "M-Bool": false,
     "Value": 0
   },
   "我们感觉我们已经暴露了,领袖被转移了": {
-    "Translation": "我们感觉我们已经暴露了,领袖被转移了",
+    "Translation": "We feel we have been exposed; the leader has been relocated.",
     "M-Bool": false,
     "Value": 0
   },
   "云茹:他们找到我了,正在将我带走.": {
-    "Translation": "云茹:他们找到我了,正在将我带走.",
+    "Translation": "Yunru: They found me; they are taking me away.",
     "M-Bool": false,
     "Value": 0
   },
   "疾风小队:那我们现在怎么办?": {
-    "Translation": "疾风小队:那我们现在怎么办?",
+    "Translation": "Team Gale: What do we do now?",
     "M-Bool": false,
     "Value": 0
   },
   "我们领袖一定在地下,我们要找到地下的路.": {
-    "Translation": "我们领袖一定在地下,我们要找到地下的路.",
+    "Translation": "Our leader must be underground; we need to find the way down.",
     "M-Bool": false,
     "Value": 0
   },
   "我们不用担心,他们不敢将领袖怎么样.": {
-    "Translation": "我们不用担心,他们不敢将领袖怎么样.",
+    "Translation": "We don't have to worry; they wouldn't dare to do anything to the leader.",
     "M-Bool": false,
     "Value": 0
   },
   "我们我需要5秒钟的时间打开这个门.": {
-    "Translation": "我们我需要5秒钟的时间打开这个门.",
+    "Translation": "I need 5 seconds to open this door.",
     "M-Bool": false,
     "Value": 0
   },
   "疾风小队:来到这里之后信号完全断了": {
-    "Translation": "疾风小队:来到这里之后信号完全断了",
+    "Translation": "Team Gale: The signal has completely cut off since we arrived here.",
     "M-Bool": false,
     "Value": 0
   },
   "疾风小队:我们只能靠我们自己了": {
-    "Translation": "疾风小队:我们只能靠我们自己了",
+    "Translation": "Team Gale: We can only rely on ourselves now.",
     "M-Bool": false,
     "Value": 0
   },
   "重装铁骑:我们要先找到领袖..": {
-    "Translation": "重装铁骑:我们要先找到领袖..",
+    "Translation": "Heavy Cavalry: We need to find the leader first..",
     "M-Bool": false,
     "Value": 0
   },
   "根除:我们断了联系,怎么办,上尉.": {
-    "Translation": "根除:我们断了联系,怎么办,上尉.",
+    "Translation": "Eradicate: We've lost contact, what do we do, Captain?",
     "M-Bool": false,
     "Value": 0
   },
   "铁骑:首要任务是找到领袖,离开这个该死的地方.": {
-    "Translation": "铁骑:首要任务是找到领袖,离开这个该死的地方.",
+    "Translation": "Cavalry: Our top priority is to find the leader and get out of this damn place.",
     "M-Bool": false,
     "Value": 0
   },
   "铁骑:你们掩护我一下,我要把这个门给弄开.": {
-    "Translation": "铁骑:你们掩护我一下,我要把这个门给弄开.",
+    "Translation": "Cavalry: Cover me; I need to get this door open.",
     "M-Bool": false,
     "Value": 0
   },
   "铁骑:特么的,这不是一般的门,领袖和它是怎么打开这玩意的.": {
-    "Translation": "铁骑:特么的,这不是一般的门,领袖和它是怎么打开这玩意的.",
+    "Translation": "Cavalry: Damn it, this isn't just any door; how did the leader open this thing?",
     "M-Bool": false,
     "Value": 0
   },
   "铁骑:在给我一些时间": {
-    "Translation": "铁骑:在给我一些时间",
+    "Translation": "Cavalry: Give me some time.",
     "M-Bool": false,
     "Value": 0
   },
   "铁骑:5秒钟后搞定": {
-    "Translation": "铁骑:5秒钟后搞定",
+    "Translation": "Cavalry: Done in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   }

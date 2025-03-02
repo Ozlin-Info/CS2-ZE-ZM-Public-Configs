@@ -1,0 +1,191 @@
+[
+  {
+    "Name": "Shirt",
+    "ShortName": "Shirt",
+    "Color": "{default}",
+    "HammerID": 2321,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "QuestItem_Shirt_Physbox",
+        "ButtonID": 2323,
+        "ButtonClass": "func_physbox",
+        "Filter": "",
+        "Chat_Uses": false,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": true
+      }
+    ]
+  },
+  {
+    "Name": "Microphone",
+    "ShortName": "Microphone",
+    "Color": "{default}",
+    "HammerID": 3204,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "HumanItem_Mic_Button",
+        "ButtonID": 3206,
+        "ButtonClass": "func_button",
+        "Filter": "Mic_Holder",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "Hammer",
+    "ShortName": "Hammer",
+    "Color": "{default}",
+    "HammerID": 3176,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "HumanItem_Hammer_Button",
+        "ButtonID": 3194,
+        "ButtonClass": "func_button",
+        "Filter": "Hammer_Holder",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "Duck",
+    "ShortName": "Duck",
+    "Color": "{default}",
+    "HammerID": 3434,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "HumanItem_Duck_Button",
+        "ButtonID": 3437,
+        "ButtonClass": "func_button",
+        "Filter": "Duck_Holder",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "Heal",
+    "ShortName": "Heal",
+    "Color": "{default}",
+    "HammerID": 3465,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "HumanItem_Heal_Button",
+        "ButtonID": 3468,
+        "ButtonClass": "func_button",
+        "Filter": "Heal_Holder",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 60
+      }
+    ]
+  },
+  {
+    "Name": "LaserGun",
+    "ShortName": "LaserGun",
+    "Color": "{default}",
+    "HammerID": 3497,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": false,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "HumanItem_LaserGun_Button",
+        "ButtonID": 3500,
+        "ButtonClass": "func_button",
+        "Filter": "Beam_Holder",
+        "Chat_Uses": false,
+        "Mode": 7,
+        "MaxUses": 0,
+        "CoolDown": 0,
+        "Ignore": false,
+        "LockItem": false,
+        "MathID": 3514,
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": false
+      }
+    ]
+  },
+  {
+    "Name": "ZM Chainsaw",
+    "ShortName": "ZM Chainsaw",
+    "Color": "{default}",
+    "HammerID": 3220,
+    "GlowColor": [0,255,0,1],
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 3235,
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "ZombieItem_Chainsaw_Button",
+        "ButtonID": 3221,
+        "ButtonClass": "func_button",
+        "Filter": "Chainsaw_Holder",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 70
+      }
+    ]
+  }
+]

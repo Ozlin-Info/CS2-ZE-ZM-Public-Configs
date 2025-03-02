@@ -7,32 +7,32 @@
     }
   },
   "左乐：此次前赴大荒城，有博士协助，想必路途会轻松不少": {
-    "Translation": "左乐：此次前赴大荒城，有博士协助，想必路途会轻松不少",
+    "Translation": "Zuo Le: This time, heading to the Great Wasteland City with the doctor's assistance will surely make the journey much easier.",
     "M-Bool": false,
     "Value": 0
   },
   "左乐:博士，前方道路开放还有20s": {
-    "Translation": "左乐:博士，前方道路开放还有20s",
+    "Translation": "Zuo Le: Doctor, the road ahead will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "左乐:山洞的入口还需要30s开放": {
-    "Translation": "左乐:山洞的入口还需要30s开放",
+    "Translation": "Zuo Le: The entrance to the cave needs another 30 seconds to open.",
     "M-Bool": false,
     "Value": 0
   },
   "左乐:博士，前方的道路还有20s清理，这里的藤蔓可以攀爬，注意脚下": {
-    "Translation": "左乐:博士，前方的道路还有20s清理，这里的藤蔓可以攀爬，注意脚下",
+    "Translation": "Zuo Le: Doctor, the road ahead will take 20 seconds to clear. The vines here can be climbed; watch your step.",
     "M-Bool": false,
     "Value": 0
   },
   "左乐:博士，山洞的出口还需要30s清理": {
-    "Translation": "左乐:博士，山洞的出口还需要30s清理",
+    "Translation": "Zuo Le: Doctor, the exit of the cave still needs 30 seconds to clear.",
     "M-Bool": false,
     "Value": 0
   },
   "左乐:博士，前面就是大荒城了，道路还有30s开放": {
-    "Translation": "左乐:博士，前面就是大荒城了，道路还有30s开放",
+    "Translation": "Zuo Le: Doctor, the Great Wasteland City is just ahead. The road will open in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   }
