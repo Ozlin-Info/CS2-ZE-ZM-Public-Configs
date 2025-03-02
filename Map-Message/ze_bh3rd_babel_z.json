@@ -7,77 +7,77 @@
     }
   },
   "我们已经进入了琪亚娜的记忆中": {
-    "Translation": "我们已经进入了琪亚娜的记忆中",
+    "Translation": "We have entered Kiana's memory.",
     "M-Bool": false,
     "Value": 0
   },
   "环境数据匹配中.....": {
-    "Translation": "环境数据匹配中.....",
+    "Translation": "Matching environmental data.....",
     "M-Bool": false,
     "Value": 0
   },
   "环境数据匹配完成": {
-    "Translation": "环境数据匹配完成",
+    "Translation": "Environmental data matching completed.",
     "M-Bool": false,
     "Value": 0
   },
   "匹配结果:巴比伦实验室!!!!!": {
-    "Translation": "匹配结果:巴比伦实验室!!!!!",
+    "Translation": "Match result: Babylon Laboratory!!!!!",
     "M-Bool": false,
     "Value": 0
   },
   "该死,琪亚娜怎么会有巴比伦实验室的记忆?": {
-    "Translation": "该死,琪亚娜怎么会有巴比伦实验室的记忆?",
+    "Translation": "Damn it, how does Kiana have memories of the Babylon Laboratory?",
     "M-Bool": false,
     "Value": 0
   },
   "检测到大量死士出没!": {
-    "Translation": "检测到大量死士出没!",
+    "Translation": "Detected a large number of undead approaching!",
     "M-Bool": false,
     "Value": 0
   },
   "准备迎战坚守到舱门关闭!": {
-    "Translation": "准备迎战坚守到舱门关闭!",
+    "Translation": "Prepare for battle; hold until the hatch closes!",
     "M-Bool": false,
     "Value": 0
   },
   "舱门已成功关闭!": {
-    "Translation": "舱门已成功关闭!",
+    "Translation": "The hatch has been successfully closed!",
     "M-Bool": false,
     "Value": 0
   },
   "检测到大量死士从后方接近中......": {
-    "Translation": "检测到大量死士从后方接近中......",
+    "Translation": "Detected a large number of undead approaching from behind......",
     "M-Bool": false,
     "Value": 0
   },
   "该死!这些死士到底是从哪里来的?": {
-    "Translation": "该死!这些死士到底是从哪里来的?",
+    "Translation": "Damn it! Where are these undead coming from?",
     "M-Bool": false,
     "Value": 0
   },
   "是第二律者,她正向我们这边传送死士!": {
-    "Translation": "是第二律者,她正向我们这边传送死士!",
+    "Translation": "It's the Second Herrscher; she is sending undead our way!",
     "M-Bool": false,
     "Value": 0
   },
   "往上跑,快快快!": {
-    "Translation": "往上跑,快快快!",
+    "Translation": "Run up, hurry hurry hurry!",
     "M-Bool": false,
     "Value": 0
   },
   "该死,上面也有死士出现!": {
-    "Translation": "该死,上面也有死士出现!",
+    "Translation": "Damn it, there are undead appearing above too!",
     "M-Bool": false,
     "Value": 0
   },
   "快到桥上!": {
-    "Translation": "快到桥上!",
+    "Translation": "Quick, to the bridge!",
     "M-Bool": false,
     "Value": 0
   },
   "趁下一波攻击到来前,赶紧离开这里": {
-    "Translation": "趁下一波攻击到来前,赶紧离开这里",
+    "Translation": "Hurry and leave before the next wave of attacks comes!",
     "M-Bool": false,
     "Value": 0
   }
