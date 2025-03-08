@@ -20,5 +20,95 @@
     "Translation": "OH NO! THE NUKE EXPLODED!",
     "M-Bool": false,
     "Value": 0
+  },
+  "INFILTRATE AND DEFEND THE GUERILLA COMPOUND": {
+    "Translation": "INFILTRATE AND DEFEND THE GUERILLA COMPOUND",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD FOR 50 SECONDS": {
+    "Translation": "HOLD FOR 50 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FALL BACK": {
+    "Translation": "FALL BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS LEFT": {
+    "Translation": "5 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4 SECONDS LEFT": {
+    "Translation": "4 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 SECONDS LEFT": {
+    "Translation": "3 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2 SECONDS LEFT": {
+    "Translation": "2 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1 SECONDS LEFT": {
+    "Translation": "1 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN": {
+    "Translation": "RUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TELEPORTING EVERYONE TO COMPOUND": {
+    "Translation": "TELEPORTING EVERYONE TO COMPOUND",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD THIS AREA FOR 10 SECONDS": {
+    "Translation": "HOLD THIS AREA FOR 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MOVE IT": {
+    "Translation": "MOVE IT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ITS A PREDATOR!": {
+    "Translation": "ITS A PREDATOR!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "KILL IT": {
+    "Translation": "KILL IT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DODGE THE LASERS": {
+    "Translation": "DODGE THE LASERS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES ARE RELEASED!": {
+    "Translation": "ZOMBIES ARE RELEASED!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YOU TOOK TOO LONG!": {
+    "Translation": "YOU TOOK TOO LONG!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FIRST AID PICKED UP": {
+    "Translation": "FIRST AID PICKED UP",
+    "M-Bool": false,
+    "Value": 0
   }
 }

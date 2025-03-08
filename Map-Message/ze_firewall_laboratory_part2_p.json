@@ -15,5 +15,80 @@
     "Translation": "PoleRider machine leaving in 9 seconds...",
     "M-Bool": false,
     "Value": 0
+  },
+  "Cable Car leaving in 7 seconds...": {
+    "Translation": "Cable Car leaving in 7 seconds...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boat leaving in 6 seconds!": {
+    "Translation": "Boat leaving in 6 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Truck leaving in 15 seconds!": {
+    "Translation": "Truck leaving in 15 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Station doors will open in 25 seconds.": {
+    "Translation": "Station doors will open in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie outbreak has been detected.": {
+    "Translation": "Zombie outbreak has been detected.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Emergency protection barriers activated.": {
+    "Translation": "Emergency protection barriers activated.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MASS TP IN 20 SECONDS": {
+    "Translation": "MASS TP IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Station doors have opened!": {
+    "Translation": "Station doors have opened!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gates will open in 25 seconds.": {
+    "Translation": "The gates will open in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold out the zombies at the ticket gates!": {
+    "Translation": "Hold out the zombies at the ticket gates!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The teleporters at the spawn area are now working!": {
+    "Translation": "The teleporters at the spawn area are now working!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Activate the emergency button!!!": {
+    "Translation": "Activate the emergency button!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Emergency button has been activated! Emergency doors closing...": {
+    "Translation": "Emergency button has been activated! Emergency doors closing...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Train arriving in approximately 35 seconds...": {
+    "Translation": "Train arriving in approximately 35 seconds...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Train arriving in approximately 20 seconds...": {
+    "Translation": "Train arriving in approximately 20 seconds...",
+    "M-Bool": false,
+    "Value": 0
   }
 }

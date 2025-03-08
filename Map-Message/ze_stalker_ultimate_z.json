@@ -105,5 +105,15 @@
     "Translation": "Gate 4 will open in 8 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "地图授权来自Ruby": {
+    "Translation": "地图授权来自Ruby",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "地图更改意见出自Ruby": {
+    "Translation": "地图更改意见出自Ruby",
+    "M-Bool": false,
+    "Value": 0
   }
 }

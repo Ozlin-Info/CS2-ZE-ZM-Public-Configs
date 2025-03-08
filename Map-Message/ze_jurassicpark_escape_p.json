@@ -10,5 +10,15 @@
     "Translation": "MAP By thegregster101",
     "M-Bool": false,
     "Value": 0
+  },
+  "MAKE YOUR WAY TO THE EXTRACTION POINT": {
+    "Translation": "MAKE YOUR WAY TO THE EXTRACTION POINT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TRUCK LEAVING 8 SECONDS": {
+    "Translation": "TRUCK LEAVING 8 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map by Reflelia": {
+    "Translation": "Map by Reflelia",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Particle Effect by Airvulpes": {
+    "Translation": "Particle Effect by Airvulpes",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks to Shizuru[idea] / uuz[model]": {
+    "Translation": "Thanks to Shizuru[idea] / uuz[model]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CURRENT LEVEL  1 ": {
+    "Translation": "CURRENT LEVEL  1 ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

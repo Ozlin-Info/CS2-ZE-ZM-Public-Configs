@@ -15,5 +15,10 @@
     "Translation": " doors open 10 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " doors open 40 seconds ": {
+    "Translation": " doors open 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

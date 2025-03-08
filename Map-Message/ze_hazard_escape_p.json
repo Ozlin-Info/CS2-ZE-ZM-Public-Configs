@@ -25,5 +25,55 @@
     "Translation": "gate will open in 10 secs",
     "M-Bool": false,
     "Value": 0
+  },
+  "the truck will go in 5 secs": {
+    "Translation": "the truck will go in 5 secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "the door will open in 30 seconds": {
+    "Translation": "the door will open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "the security door will open in 20 secs": {
+    "Translation": "the security door will open in 20 secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "security door has been opened": {
+    "Translation": "security door has been opened",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the hazard door will open in 20 secs ": {
+    "Translation": " the hazard door will open in 20 secs ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "the final door will open now": {
+    "Translation": "the final door will open now",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "get safely into the bunker and launch the nuke!": {
+    "Translation": "get safely into the bunker and launch the nuke!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the nerve gas will be enabled in 30 Seconds ": {
+    "Translation": " the nerve gas will be enabled in 30 Seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD ZOMBIES BACK! BUNKER DOOR WILL CLOSE SOON! ": {
+    "Translation": "HOLD ZOMBIES BACK! BUNKER DOOR WILL CLOSE SOON! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " the nerve gas will be enabled in 15 Seconds ": {
+    "Translation": " the nerve gas will be enabled in 15 Seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "## STAGE 1/3  EASY ##": {
+    "Translation": "## STAGE 1/3  EASY ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## MAP CREATED BY SILEX ##": {
+    "Translation": "## MAP CREATED BY SILEX ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## DOORS OPEN! ##": {
+    "Translation": "## DOORS OPEN! ##",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

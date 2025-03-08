@@ -25,5 +25,25 @@
     "Translation": "Arona-sensei, we need to find a way to take back the school.",
     "M-Bool": false,
     "Value": 0
+  },
+  "30s": {
+    "Translation": "30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10s": {
+    "Translation": "10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5s": {
+    "Translation": "5s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿罗娜竟然把学校破坏成这样...": {
+    "Translation": "阿罗娜竟然把学校破坏成这样...",
+    "M-Bool": false,
+    "Value": 0
   }
 }

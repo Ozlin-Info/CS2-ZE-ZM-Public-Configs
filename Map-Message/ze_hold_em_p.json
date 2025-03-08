@@ -25,5 +25,205 @@
     "Translation": " DOOR #1 OPENING IN 5 SECONDS ",
     "M-Bool": false,
     "Value": 0
+  },
+  " DOOR #2 OPENING IN 50 SECONDS ": {
+    "Translation": " DOOR #2 OPENING IN 50 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TELEPORT #1 ACTIVATE IN 10 SECONDS ": {
+    "Translation": " TELEPORT #1 ACTIVATE IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #2 OPENING IN 40 SECONDS ": {
+    "Translation": " DOOR #2 OPENING IN 40 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TELEPORT #1 ON ": {
+    "Translation": " TELEPORT #1 ON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #2 OPENING IN 30 SECONDS ": {
+    "Translation": " DOOR #2 OPENING IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #2 OPENING IN 20 SECONDS ": {
+    "Translation": " DOOR #2 OPENING IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #2 OPENING IN 10 SECONDS ": {
+    "Translation": " DOOR #2 OPENING IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #2 OPENING IN 5 SECONDS ": {
+    "Translation": " DOOR #2 OPENING IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #3 OPENING IN 50 SECONDS ": {
+    "Translation": " DOOR #3 OPENING IN 50 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TELEPORT #2 ACTIVATE IN 10 SECONDS ": {
+    "Translation": " TELEPORT #2 ACTIVATE IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #3 OPENING IN 40 SECONDS ": {
+    "Translation": " DOOR #3 OPENING IN 40 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TELEPORT #2 ON ": {
+    "Translation": " TELEPORT #2 ON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #3 OPENING IN 30 SECONDS ": {
+    "Translation": " DOOR #3 OPENING IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #3 OPENING IN 20 SECONDS ": {
+    "Translation": " DOOR #3 OPENING IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #3 OPENING IN 10 SECONDS ": {
+    "Translation": " DOOR #3 OPENING IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #3 OPENING IN 5 SECONDS ": {
+    "Translation": " DOOR #3 OPENING IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #4 OPENING IN 50 SECONDS ": {
+    "Translation": " DOOR #4 OPENING IN 50 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TELEPORT #3 ACTIVATE IN 10 SECONDS ": {
+    "Translation": " TELEPORT #3 ACTIVATE IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #4 OPENING IN 40 SECONDS ": {
+    "Translation": " DOOR #4 OPENING IN 40 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TELEPORT #3 ON ": {
+    "Translation": " TELEPORT #3 ON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #4 OPENING IN 30 SECONDS ": {
+    "Translation": " DOOR #4 OPENING IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #4 OPENING IN 20 SECONDS ": {
+    "Translation": " DOOR #4 OPENING IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #4 OPENING IN 10 SECONDS ": {
+    "Translation": " DOOR #4 OPENING IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #4 OPENING IN 5 SECONDS ": {
+    "Translation": " DOOR #4 OPENING IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #5 OPENING IN 50 SECONDS ": {
+    "Translation": " DOOR #5 OPENING IN 50 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TELEPORT #4 ACTIVATE IN 10 SECONDS ": {
+    "Translation": " TELEPORT #4 ACTIVATE IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #5 OPENING IN 40 SECONDS ": {
+    "Translation": " DOOR #5 OPENING IN 40 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TELEPORT #4 ON ": {
+    "Translation": " TELEPORT #4 ON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #5 OPENING IN 30 SECONDS ": {
+    "Translation": " DOOR #5 OPENING IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #5 OPENING IN 20 SECONDS ": {
+    "Translation": " DOOR #5 OPENING IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #5 OPENING IN 10 SECONDS ": {
+    "Translation": " DOOR #5 OPENING IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #5 OPENING IN 5 SECONDS ": {
+    "Translation": " DOOR #5 OPENING IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #6 OPENING IN 50 SECONDS ": {
+    "Translation": " DOOR #6 OPENING IN 50 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TELEPORT #5 ACTIVATE IN 10 SECONDS ": {
+    "Translation": " TELEPORT #5 ACTIVATE IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #6 OPENING IN 40 SECONDS ": {
+    "Translation": " DOOR #6 OPENING IN 40 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TELEPORT #5 ON ": {
+    "Translation": " TELEPORT #5 ON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #6 OPENING IN 30 SECONDS ": {
+    "Translation": " DOOR #6 OPENING IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #6 OPENING IN 20 SECONDS ": {
+    "Translation": " DOOR #6 OPENING IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #6 OPENING IN 10 SECONDS ": {
+    "Translation": " DOOR #6 OPENING IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR #6 OPENING IN 5 SECONDS ": {
+    "Translation": " DOOR #6 OPENING IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

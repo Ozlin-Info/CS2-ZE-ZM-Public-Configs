@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "WARMUP ROUND: 120 SECONDS": {
+    "Translation": "WARMUP ROUND: 120 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL 1 : EVACUATION POINT : ELEVATORS": {
+    "Translation": "LEVEL 1 : EVACUATION POINT : ELEVATORS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You are the last survivors of the zombie infection": {
+    "Translation": "You are the last survivors of the zombie infection",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The last messages of the army invite us to evacuate to the parking in the middle of the city": {
+    "Translation": "The last messages of the army invite us to evacuate to the parking in the middle of the city",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "But they won't wait for long time !": {
+    "Translation": "But they won't wait for long time !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's go ! but be carefull ! there are still some zombies around us": {
+    "Translation": "Let's go ! but be carefull ! there are still some zombies around us",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAP BY LeGrem": {
+    "Translation": "MAP BY LeGrem",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thx to JorisCeoen for help with models": {
+    "Translation": "Thx to JorisCeoen for help with models",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

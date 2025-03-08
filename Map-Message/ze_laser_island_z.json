@@ -40,5 +40,80 @@
     "Translation": "Difficulty: Easy",
     "M-Bool": false,
     "Value": 0
+  },
+  "人类掌握了治愈元素的力量": {
+    "Translation": "人类掌握了治愈元素的力量",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们需要30秒的时间来部署炸药": {
+    "Translation": "我们需要30秒的时间来部署炸药",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门开了，走了！": {
+    "Translation": "门开了，走了！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "房子的出口有个木门，炸掉它！": {
+    "Translation": "房子的出口有个木门，炸掉它！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快跑！！": {
+    "Translation": "快跑！！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "没有后退的路了!!": {
+    "Translation": "没有后退的路了!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "地面的泥土很松软，快找找下面有什么": {
+    "Translation": "地面的泥土很松软，快找找下面有什么",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快走！": {
+    "Translation": "快走！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "地下实验室？": {
+    "Translation": "地下实验室？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "25秒后打开实验室大门": {
+    "Translation": "25秒后打开实验室大门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门开了，快跑！": {
+    "Translation": "门开了，快跑！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这道门还要15秒才能打开": {
+    "Translation": "这道门还要15秒才能打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ok,Let's gogogo": {
+    "Translation": "ok,Let's gogogo",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "有一块石头挡住了去路": {
+    "Translation": "有一块石头挡住了去路",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "想办法开路，快！": {
+    "Translation": "想办法开路，快！",
+    "M-Bool": false,
+    "Value": 0
   }
 }

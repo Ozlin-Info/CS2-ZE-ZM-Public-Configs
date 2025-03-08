@@ -55,5 +55,160 @@
     "Translation": "NOW FIND THE FINAL LEVER",
     "M-Bool": false,
     "Value": 0
+  },
+  "BOTH LEVERS HAVE BEEN PRESSED": {
+    "Translation": "BOTH LEVERS HAVE BEEN PRESSED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATE WILL OPEN IN 30 SECONDS": {
+    "Translation": "THE GATE WILL OPEN IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATE IS OPENING": {
+    "Translation": "THE GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FALL BACK": {
+    "Translation": "FALL BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE ELEVATOR IS LEAVING IN 15 SECONDS": {
+    "Translation": "THE ELEVATOR IS LEAVING IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE ELEVATOR IS LEAVING": {
+    "Translation": "THE ELEVATOR IS LEAVING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATE WILL OPEN IN 60 SECONDS": {
+    "Translation": "THE GATE WILL OPEN IN 60 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FIND A HIDING SPOT AND HOLD OUT UNTIL THEN": {
+    "Translation": "FIND A HIDING SPOT AND HOLD OUT UNTIL THEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 SECONDS LEFT": {
+    "Translation": "10 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATE IS OPEN": {
+    "Translation": "THE GATE IS OPEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD HERE UNTIL THE DOORS OPEN": {
+    "Translation": "HOLD HERE UNTIL THE DOORS OPEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATE WILL OPEN IN 10 SECONDS": {
+    "Translation": "THE GATE WILL OPEN IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE OUTER GATE WILL OPEN IN 10 SECONDS": {
+    "Translation": "THE OUTER GATE WILL OPEN IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE OUTER GATE IS OPENING": {
+    "Translation": "THE OUTER GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD FOR 20 SECONDS": {
+    "Translation": "HOLD FOR 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR IS LEAVING IN 10 SECONDS": {
+    "Translation": "ELEVATOR IS LEAVING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR IS LEAVING IN 5 SECONDS": {
+    "Translation": "ELEVATOR IS LEAVING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR IS LEAVING": {
+    "Translation": "ELEVATOR IS LEAVING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATES WILL OPEN IN 10 SECONDS": {
+    "Translation": "THE GATES WILL OPEN IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE TOWER GATE WILL OPEN IN 15 SECONDS": {
+    "Translation": "THE TOWER GATE WILL OPEN IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE TOWER GATE IS OPEN": {
+    "Translation": "THE TOWER GATE IS OPEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE UPPER TOWER GATE WILL OPEN IN 20 SECONDS": {
+    "Translation": "THE UPPER TOWER GATE WILL OPEN IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE UPPER TOWER GATE IS OPEN": {
+    "Translation": "THE UPPER TOWER GATE IS OPEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATE WILL OPEN IN 15 SECONDS": {
+    "Translation": "THE GATE WILL OPEN IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FIND A HIDING SPOT AND HOLD OUT FOR 60 SECONDS": {
+    "Translation": "FIND A HIDING SPOT AND HOLD OUT FOR 60 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CLIMB THE TOWER": {
+    "Translation": "CLIMB THE TOWER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD FOR 15 SECONDS": {
+    "Translation": "HOLD FOR 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FALL BACK TOWARDS THE TOP": {
+    "Translation": "FALL BACK TOWARDS THE TOP",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "IT'S COMING": {
+    "Translation": "IT'S COMING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PREPARE YOURSELF": {
+    "Translation": "PREPARE YOURSELF",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE ZOMBIE CAGE IS OPEN": {
+    "Translation": "THE ZOMBIE CAGE IS OPEN",
+    "M-Bool": false,
+    "Value": 0
   }
 }

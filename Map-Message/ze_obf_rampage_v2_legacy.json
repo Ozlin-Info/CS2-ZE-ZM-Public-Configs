@@ -55,5 +55,10 @@
     "Translation": "Power is OFF",
     "M-Bool": false,
     "Value": 0
+  },
+  "Find a way to turn off the gas": {
+    "Translation": "Find a way to turn off the gas",
+    "M-Bool": false,
+    "Value": 0
   }
 }

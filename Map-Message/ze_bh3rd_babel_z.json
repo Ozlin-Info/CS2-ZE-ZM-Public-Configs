@@ -80,5 +80,145 @@
     "Translation": "Hurry and leave before the next wave of attacks comes!",
     "M-Bool": false,
     "Value": 0
+  },
+  "门被锁住了,我们没有磁卡需要时间破解!": {
+    "Translation": "门被锁住了,我们没有磁卡需要时间破解!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "闸门破解完成!": {
+    "Translation": "闸门破解完成!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这么高的崩坏能浓度是怎么回事!": {
+    "Translation": "这么高的崩坏能浓度是怎么回事!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快启动安全系统降低崩坏能浓度不然我们无法继续前进!": {
+    "Translation": "快启动安全系统降低崩坏能浓度不然我们无法继续前进!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "系统启动中.......崩坏能浓度正在下降......": {
+    "Translation": "系统启动中.......崩坏能浓度正在下降......",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "崩坏能浓度已降低至安全水平!": {
+    "Translation": "崩坏能浓度已降低至安全水平!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ok!现在我们去把那个该死的崩坏炉关掉否者第二律者会更加强大": {
+    "Translation": "ok!现在我们去把那个该死的崩坏炉关掉否者第二律者会更加强大",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "崩坏炉关闭程序启动中!": {
+    "Translation": "崩坏炉关闭程序启动中!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住这里,直到崩坏炉彻底关闭!": {
+    "Translation": "守住这里,直到崩坏炉彻底关闭!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "崩坏炉已关闭": {
+    "Translation": "崩坏炉已关闭",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "检测到虚数空间波动大量死士接近中!": {
+    "Translation": "检测到虚数空间波动大量死士接近中!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已呼叫电梯！等待40秒": {
+    "Translation": "已呼叫电梯！等待40秒",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "去控制中心调查一下是怎么回事!": {
+    "Translation": "去控制中心调查一下是怎么回事!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住!等待电梯到来!": {
+    "Translation": "守住!等待电梯到来!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "里面就是控制中心了坚持到闸门破解完成!": {
+    "Translation": "里面就是控制中心了坚持到闸门破解完成!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快利用控制台关闭闸门": {
+    "Translation": "快利用控制台关闭闸门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "闸门已关闭数据传输中......": {
+    "Translation": "闸门已关闭数据传输中......",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "该死!她发现我们了": {
+    "Translation": "该死!她发现我们了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住,等待数据传输完成": {
+    "Translation": "守住,等待数据传输完成",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "数据传输已完成!": {
+    "Translation": "数据传输已完成!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住这里!等待电梯到来": {
+    "Translation": "守住这里!等待电梯到来",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快撤!快撤!赶紧进电梯!": {
+    "Translation": "快撤!快撤!赶紧进电梯!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "上面被不知名的力量封锁了,正在尝试破解": {
+    "Translation": "上面被不知名的力量封锁了,正在尝试破解",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "封锁已解除！ ": {
+    "Translation": "封锁已解除！ ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "是琪亚娜!": {
+    "Translation": "是琪亚娜!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "她的情况不对劲！": {
+    "Translation": "她的情况不对劲！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "她向我们发动攻击了！ ": {
+    "Translation": "她向我们发动攻击了！ ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快还击她是第二律者！": {
+    "Translation": "快还击她是第二律者！",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -85,5 +85,35 @@
     "Translation": "Version:test10",
     "M-Bool": false,
     "Value": 0
+  },
+  "OCEAN": {
+    "Translation": "OCEAN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend for 20 seconds": {
+    "Translation": "Defend for 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player picked up flame magic": {
+    "Translation": "A player picked up flame magic",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player used flame magic": {
+    "Translation": "A player used flame magic",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend for another 30 seconds": {
+    "Translation": "Defend for another 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Jump": {
+    "Translation": "Jump",
+    "M-Bool": false,
+    "Value": 0
   }
 }

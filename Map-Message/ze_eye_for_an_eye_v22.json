@@ -25,5 +25,15 @@
     "Translation": "CS2 port by gan and lingdu",
     "M-Bool": false,
     "Value": 0
+  },
+  "If you find the background music very noisy": {
+    "Translation": "If you find the background music very noisy",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Please enter snd_musicvolume 0~1 on the console to adjust": {
+    "Translation": "Please enter snd_musicvolume 0~1 on the console to adjust",
+    "M-Bool": false,
+    "Value": 0
   }
 }

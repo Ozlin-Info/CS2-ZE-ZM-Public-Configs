@@ -5,5 +5,50 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "One wheel has been found.": {
+    "Translation": "One wheel has been found.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Our popkart will be ready in 25 seconds.": {
+    "Translation": "Our popkart will be ready in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Our popkart is ready!Let's go!": {
+    "Translation": "Our popkart is ready!Let's go!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will be open in 30 seconds.": {
+    "Translation": "The door will be open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We can pass here in 30 seconds.": {
+    "Translation": "We can pass here in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The street will be clear in 8 seconds.": {
+    "Translation": "The street will be clear in 8 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The popkart will leave in 45 seconds.": {
+    "Translation": "The popkart will leave in 45 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Get in the kart now!": {
+    "Translation": "Get in the kart now!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Look out the zombies on the street.": {
+    "Translation": "Look out the zombies on the street.",
+    "M-Bool": false,
+    "Value": 0
   }
 }
