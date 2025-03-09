@@ -142,27 +142,27 @@
     "Value": 0
   },
   "管理员按下重启本回合按钮 5秒后重启": {
-    "Translation": "管理员按下重启本回合按钮 5秒后重启",
+    "Translation": "Admin pressed restart round, restart in 5s",
     "M-Bool": false,
     "Value": 0
   },
   "管理员按下重启本回合按钮 4秒后重启": {
-    "Translation": "管理员按下重启本回合按钮 4秒后重启",
+    "Translation": "Admin pressed restart round, restart in 4s",
     "M-Bool": false,
     "Value": 0
   },
   "管理员按下重启本回合按钮 3秒后重启": {
-    "Translation": "管理员按下重启本回合按钮 3秒后重启",
+    "Translation": "Admin pressed restart round, restart in 3s",
     "M-Bool": false,
     "Value": 0
   },
   "管理员按下重启本回合按钮 2秒后重启": {
-    "Translation": "管理员按下重启本回合按钮 2秒后重启",
+    "Translation": "Admin pressed restart round, restart in 2s",
     "M-Bool": false,
     "Value": 0
   },
   "管理员按下重启本回合按钮 1秒后重启": {
-    "Translation": "管理员按下重启本回合按钮 1秒后重启",
+    "Translation": "Admin pressed restart round, restart in 1s",
     "M-Bool": false,
     "Value": 0
   },

@@ -107,12 +107,12 @@
     "Value": 0
   },
   "地图授权来自Ruby": {
-    "Translation": "地图授权来自Ruby",
+    "Translation": "Map port authorised by Ruby",
     "M-Bool": false,
     "Value": 0
   },
   "地图更改意见出自Ruby": {
-    "Translation": "地图更改意见出自Ruby",
+    "Translation": "Map update suggestions from Ruby",
     "M-Bool": false,
     "Value": 0
   }
