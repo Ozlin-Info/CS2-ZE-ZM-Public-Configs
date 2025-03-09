@@ -50,5 +50,10 @@
     "Translation": "INCOMING TOAST  RIGHT CHAMBER",
     "M-Bool": false,
     "Value": 0
+  },
+  "THE PEANUT BUTTER HAS BEEN PICKED UP": {
+    "Translation": "THE PEANUT BUTTER HAS BEEN PICKED UP",
+    "M-Bool": false,
+    "Value": 0
   }
 }

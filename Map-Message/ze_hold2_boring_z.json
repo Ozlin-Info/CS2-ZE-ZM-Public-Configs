@@ -60,5 +60,105 @@
     "Translation": " Door 1# will be opened in 90 seconds ! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Musicbox picker up ": {
+    "Translation": " Musicbox picker up ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Sound Playing  Snowdrop ": {
+    "Translation": " Sound Playing  Snowdrop ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Sound Playing  Subway ": {
+    "Translation": " Sound Playing  Subway ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 1# will be opened in 60 seconds ! ": {
+    "Translation": " Door 1# will be opened in 60 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 1# will be opened in 30 seconds ! ": {
+    "Translation": " Door 1# will be opened in 30 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 1# will be opened in 10 seconds ! ": {
+    "Translation": " Door 1# will be opened in 10 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 2# will be opened in 90 seconds ! ": {
+    "Translation": " Door 2# will be opened in 90 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 2# will be opened in 60 seconds ! ": {
+    "Translation": " Door 2# will be opened in 60 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 2# will be opened in 30 seconds ! ": {
+    "Translation": " Door 2# will be opened in 30 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 2# will be opened in 10 seconds ! ": {
+    "Translation": " Door 2# will be opened in 10 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 3# will be opened in 90 seconds ! ": {
+    "Translation": " Door 3# will be opened in 90 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 3# will be opened in 60 seconds ! ": {
+    "Translation": " Door 3# will be opened in 60 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 3# will be opened in 30 seconds ! ": {
+    "Translation": " Door 3# will be opened in 30 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 3# will be opened in 10 seconds ! ": {
+    "Translation": " Door 3# will be opened in 10 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 4# will be opened in 90 seconds ! ": {
+    "Translation": " Door 4# will be opened in 90 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 4# will be opened in 60 seconds ! ": {
+    "Translation": " Door 4# will be opened in 60 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 4# will be opened in 30 seconds ! ": {
+    "Translation": " Door 4# will be opened in 30 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door 4# will be opened in 10 seconds ! ": {
+    "Translation": " Door 4# will be opened in 10 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold here 20s ! ": {
+    "Translation": " Hold here 20s ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Level 2  Hard ": {
+    "Translation": " Level 2  Hard ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
