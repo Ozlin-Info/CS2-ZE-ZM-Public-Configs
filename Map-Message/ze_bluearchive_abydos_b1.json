@@ -42,6 +42,7 @@
     "Value": 0
   },
   "阿罗娜竟然把学校破坏成这样...": {
+<<<<<<< HEAD
     "Translation": "Arona: can't believe they destroyed the school like this...",
     "M-Bool": false,
     "Value": 0
@@ -118,6 +119,9 @@
   },
   "阿罗娜侦测到大范围波动,sensei请找掩体躲避沙尘暴": {
     "Translation": "Arona: detected a large-scale fluctuation, sensei, please find cover to avoid the sandstorm.",
+=======
+    "Translation": "Can't believe Arona broke the school like this...",
+>>>>>>> 6ecdef0264abc058c74d75517102643816007c52
     "M-Bool": false,
     "Value": 0
   }
