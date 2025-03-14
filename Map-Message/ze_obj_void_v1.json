@@ -50,5 +50,10 @@
     "Translation": "Find the main Power Control Room.",
     "M-Bool": false,
     "Value": 0
+  },
+  "The Door will open in 30s": {
+    "Translation": "The Door will open in 30s",
+    "M-Bool": false,
+    "Value": 0
   }
 }

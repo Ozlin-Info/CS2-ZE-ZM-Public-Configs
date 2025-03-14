@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Climb this radio building ": {
+    "Translation": " Climb this radio building ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Entrance will open in 15 seconds ": {
+    "Translation": " Entrance will open in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map created by thas ": {
+    "Translation": " Map created by thas ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Entrance is opening ": {
+    "Translation": " Entrance is opening ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
