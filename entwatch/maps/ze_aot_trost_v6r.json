@@ -955,7 +955,7 @@
     "Name": "VIP Mech 2",
     "ShortName": "VIP Mech 2",
     "Color": "{default}",
-    "HammerID": 2940",
+    "HammerID": 2940,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
