@@ -7,207 +7,207 @@
     }
   },
   " 最终幻想14：天狼星灯塔": {
-    "Translation": " 最终幻想14：天狼星灯塔",
+    "Translation": "Final Fantasy XIV: Sirius Lighthouse",
     "M-Bool": false,
     "Value": 0
   },
   " 地图和模型：史克威尔": {
-    "Translation": " 地图和模型：史克威尔",
+    "Translation": "Map and Models: Square Enix",
     "M-Bool": false,
     "Value": 0
   },
   " 其他：天笠": {
-    "Translation": " 其他：天笠",
+    "Translation": "Others: Amano",
     "M-Bool": false,
     "Value": 0
   },
   " 讨伐目标：保镖": {
-    "Translation": " 讨伐目标：保镖",
+    "Translation": "Target: Bodyguard",
     "M-Bool": false,
     "Value": 0
   },
   " 一名玩家获得了火元素": {
-    "Translation": " 一名玩家获得了火元素",
+    "Translation": "A player has obtained the Fire Element.",
     "M-Bool": false,
     "Value": 0
   },
   " 一名玩家获得了黑元素": {
-    "Translation": " 一名玩家获得了黑元素",
+    "Translation": "A player has obtained the Dark Element.",
     "M-Bool": false,
     "Value": 0
   },
   " 黑元素已被升级 !": {
-    "Translation": " 黑元素已被升级 !",
+    "Translation": "The Dark Element has been upgraded!",
     "M-Bool": false,
     "Value": 0
   },
   " 一名玩家获得了电元素": {
-    "Translation": " 一名玩家获得了电元素",
+    "Translation": "A player has obtained the Electric Element.",
     "M-Bool": false,
     "Value": 0
   },
   " 这道栅栏门将于30秒后打开": {
-    "Translation": " 这道栅栏门将于30秒后打开",
+    "Translation": "This barrier gate will open in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 一名玩家获得了奶元素": {
-    "Translation": " 一名玩家获得了奶元素",
+    "Translation": "A player has obtained the Healing Element.",
     "M-Bool": false,
     "Value": 0
   },
   " 奶可以对抗吞噬魔法": {
-    "Translation": " 奶可以对抗吞噬魔法",
+    "Translation": "Healing can counter devouring magic.",
     "M-Bool": false,
     "Value": 0
   },
   " 这道门将于25秒后打开": {
-    "Translation": " 这道门将于25秒后打开",
+    "Translation": "This door will open in 25 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 一名玩家获得了冰元素": {
-    "Translation": " 一名玩家获得了冰元素",
+    "Translation": "A player has obtained the Ice Element.",
     "M-Bool": false,
     "Value": 0
   },
   " 手雷可以造成更高伤害": {
-    "Translation": " 手雷可以造成更高伤害",
+    "Translation": "Grenades can deal higher damage.",
     "M-Bool": false,
     "Value": 0
   },
   " 这道屏障将于20秒后解除": {
-    "Translation": " 这道屏障将于20秒后解除",
+    "Translation": "This barrier will be lifted in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 最后的栅栏门将于30秒后打开": {
-    "Translation": " 最后的栅栏门将于30秒后打开",
+    "Translation": "The final barrier gate will open in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 【保镖】讨伐成功？": {
-    "Translation": " 【保镖】讨伐成功？",
+    "Translation": "Is the target 【Bodyguard】 defeated?",
     "M-Bool": false,
     "Value": 0
   },
   " 讨伐目标：暴君": {
-    "Translation": " 讨伐目标：暴君",
+    "Translation": "Target: Tyrant",
     "M-Bool": false,
     "Value": 0
   },
   " 冰元素已被升级 !": {
-    "Translation": " 冰元素已被升级 !",
+    "Translation": "The Ice Element has been upgraded!",
     "M-Bool": false,
     "Value": 0
   },
   " 这道屏障将于40秒后解除": {
-    "Translation": " 这道屏障将于40秒后解除",
+    "Translation": "This barrier will be lifted in 40 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 这道屏障将于25秒后解除": {
-    "Translation": " 这道屏障将于25秒后解除",
+    "Translation": "This barrier will be lifted in 25 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 这道屏障将于35秒后解除": {
-    "Translation": " 这道屏障将于35秒后解除",
+    "Translation": "This barrier will be lifted in 35 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 这道屏障将于30秒后解除": {
-    "Translation": " 这道屏障将于30秒后解除",
+    "Translation": "This barrier will be lifted in 30 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 【暴君】讨伐成功！": {
-    "Translation": " 【暴君】讨伐成功！",
+    "Translation": "Target 【Tyrant】 defeated!",
     "M-Bool": false,
     "Value": 0
   },
   " 讨伐目标：罗波那": {
-    "Translation": " 讨伐目标：罗波那",
+    "Translation": "Target: Robona",
     "M-Bool": false,
     "Value": 0
   },
   " 火元素已被升级 !": {
-    "Translation": " 火元素已被升级 !",
+    "Translation": "The Fire Element has been upgraded!",
     "M-Bool": false,
     "Value": 0
   },
   " 电元素已被升级 !": {
-    "Translation": " 电元素已被升级 !",
+    "Translation": "The Electric Element has been upgraded!",
     "M-Bool": false,
     "Value": 0
   },
   " 与罗波那的战斗将在40秒后开始": {
-    "Translation": " 与罗波那的战斗将在40秒后开始",
+    "Translation": "The battle with Robona will begin in 40 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   " 罗波那处于进攻姿态时免疫手雷伤害！": {
-    "Translation": " 罗波那处于进攻姿态时免疫手雷伤害！",
+    "Translation": "Robona is immune to grenade damage while in an offensive stance!",
     "M-Bool": false,
     "Value": 0
   },
   " 你能看穿这个体势？！": {
-    "Translation": " 你能看穿这个体势？！",
+    "Translation": "Can you see through this stance?!",
     "M-Bool": false,
     "Value": 0
   },
   " 这就是后发制人！": {
-    "Translation": " 这就是后发制人！",
+    "Translation": "This is counter-attacking!",
     "M-Bool": false,
     "Value": 0
   },
   " 攻势如火！": {
-    "Translation": " 攻势如火！",
+    "Translation": "The offensive is fierce!",
     "M-Bool": false,
     "Value": 0
   },
   " 起始于“序”！": {
-    "Translation": " 起始于“序”！",
+    "Translation": "Begins with 'Prologue'!",
     "M-Bool": false,
     "Value": 0
   },
   " 经流至“破”！": {
-    "Translation": " 经流至“破”！",
+    "Translation": "Flows through to 'Break'!",
     "M-Bool": false,
     "Value": 0
   },
   " 做好觉悟！": {
-    "Translation": " 做好觉悟！",
+    "Translation": "Be prepared!",
     "M-Bool": false,
     "Value": 0
   },
   " 武学真髓！": {
-    "Translation": " 武学真髓！",
+    "Translation": "The essence of martial arts!",
     "M-Bool": false,
     "Value": 0
   },
   " 守势如土！": {
-    "Translation": " 守势如土！",
+    "Translation": "Defend like earth!",
     "M-Bool": false,
     "Value": 0
   },
   " 咆哮吧，我的斗气！": {
-    "Translation": " 咆哮吧，我的斗气！",
+    "Translation": "Roar, my fighting spirit!",
     "M-Bool": false,
     "Value": 0
   },
   " 你无法跳过最高的刀光！": {
-    "Translation": " 你无法跳过最高的刀光！",
+    "Translation": "You cannot jump over the highest blade light!",
     "M-Bool": false,
     "Value": 0
   },
   " 【罗波那】讨伐成功！": {
-    "Translation": " 【罗波那】讨伐成功！",
+    "Translation": "Target 【Robona】 defeated!",
     "M-Bool": false,
     "Value": 0
   },
   " 奶元素已被升级 !": {
-    "Translation": " 奶元素已被升级 !",
+    "Translation": "The Healing Element has been upgraded!",
     "M-Bool": false,
     "Value": 0
   }
