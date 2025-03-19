@@ -7,107 +7,107 @@
     }
   },
   "- 20S后僵尸出笼 -": {
-    "Translation": "- 20S后僵尸出笼 -",
+    "Translation": "- Zombies will release in 20 seconds -",
     "M-Bool": false,
     "Value": 0
   },
   "- 15S后僵尸出笼 -": {
-    "Translation": "- 15S后僵尸出笼 -",
+    "Translation": "- Zombies will release in 15 seconds -",
     "M-Bool": false,
     "Value": 0
   },
   "- 小游戏时间 -": {
-    "Translation": "- 小游戏时间 -",
+    "Translation": "- Mini-game time -",
     "M-Bool": false,
     "Value": 0
   },
   "- 正在抽取小游戏 -": {
-    "Translation": "- 正在抽取小游戏 -",
+    "Translation": "- Choosing mini-game -",
     "M-Bool": false,
     "Value": 0
   },
   "- 速降 -": {
-    "Translation": "- 速降 -",
+    "Translation": "- Rapid descent -",
     "M-Bool": false,
     "Value": 0
   },
   "- 在时限内到达终点 -": {
-    "Translation": "- 在时限内到达终点 -",
+    "Translation": "- Reach the finish line within the time limit -",
     "M-Bool": false,
     "Value": 0
   },
   "- 每一位人类玩家到达终点，人类阵营+5HP -": {
-    "Translation": "- 每一位人类玩家到达终点，人类阵营+5HP -",
+    "Translation": "- Each human player reaching the finish line grants +5HP to the human side -",
     "M-Bool": false,
     "Value": 0
   },
   "- 每一位僵尸玩家到达终点，人类阵营-15HP -": {
-    "Translation": "- 每一位僵尸玩家到达终点，人类阵营-15HP -",
+    "Translation": "- Each zombie player reaching the finish line deducts -15HP from the human side -",
     "M-Bool": false,
     "Value": 0
   },
   "- 小游戏结束，血量修正中 -": {
-    "Translation": "- 小游戏结束，血量修正中 -",
+    "Translation": "- Mini-game finished, adjusting health -",
     "M-Bool": false,
     "Value": 0
   },
   "- 即将返回小屋 -": {
-    "Translation": "- 即将返回小屋 -",
+    "Translation": "- Returning to the cabin soon -",
     "M-Bool": false,
     "Value": 0
   },
   "- 七色花 -": {
-    "Translation": "- 七色花 -",
+    "Translation": "- Seven-colored flower -",
     "M-Bool": false,
     "Value": 0
   },
   "- 与四周颜色不同的板子会碎裂 -": {
-    "Translation": "- 与四周颜色不同的板子会碎裂 -",
+    "Translation": "- Boards with different colors from the surroundings will break -",
     "M-Bool": false,
     "Value": 0
   },
   "- 僵尸阵营全军覆没 -": {
-    "Translation": "- 僵尸阵营全军覆没 -",
+    "Translation": "- Zombie side has been completely wiped out -",
     "M-Bool": false,
     "Value": 0
   },
   "- 人类阵营+20HP -": {
-    "Translation": "- 人类阵营+20HP -",
+    "Translation": "- Human side +20HP -",
     "M-Bool": false,
     "Value": 0
   },
   "- 扔手雷 -": {
-    "Translation": "- 扔手雷 -",
+    "Translation": "- Throw grenades (Spam E to get nades) -",
     "M-Bool": false,
     "Value": 0
   },
   "- 在时限内，用手雷命中移动方块，并达到规定次数 -": {
-    "Translation": "- 在时限内，用手雷命中移动方块，并达到规定次数 -",
+    "Translation": "- Hit the moving blocks with grenades within the time limit, and reach the required number -",
     "M-Bool": false,
     "Value": 0
   },
   "- 雷杀失败 -": {
-    "Translation": "- 雷杀失败 -",
+    "Translation": "- Grenade kill failed -",
     "M-Bool": false,
     "Value": 0
   },
   "- 人类阵营-20HP -": {
-    "Translation": "- 人类阵营-20HP -",
+    "Translation": "- Human side -20HP -",
     "M-Bool": false,
     "Value": 0
   },
   "- 小游戏结束 -": {
-    "Translation": "- 小游戏结束 -",
+    "Translation": "- Mini-game ended -",
     "M-Bool": false,
     "Value": 0
   },
   "- 5S后传送 -": {
-    "Translation": "- 5S后传送 -",
+    "Translation": "- Teleport in 5 seconds -",
     "M-Bool": false,
     "Value": 0
   },
   "- 10S后僵尸出笼 -": {
-    "Translation": "- 10S后僵尸出笼 -",
+    "Translation": "- Zombies will emerge in 10 seconds -",
     "M-Bool": false,
     "Value": 0
   },
@@ -117,7 +117,7 @@
     "Value": 0
   },
   "- 30S后启用传送门 -": {
-    "Translation": "- 30S后启用传送门 -",
+    "Translation": "- Portal will be activated in 30 seconds -",
     "M-Bool": false,
     "Value": 0
   }
