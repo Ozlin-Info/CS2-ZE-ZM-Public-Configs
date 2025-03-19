@@ -1,0 +1,214 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " 最终幻想14：天狼星灯塔": {
+    "Translation": " 最终幻想14：天狼星灯塔",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 地图和模型：史克威尔": {
+    "Translation": " 地图和模型：史克威尔",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 其他：天笠": {
+    "Translation": " 其他：天笠",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 讨伐目标：保镖": {
+    "Translation": " 讨伐目标：保镖",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一名玩家获得了火元素": {
+    "Translation": " 一名玩家获得了火元素",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一名玩家获得了黑元素": {
+    "Translation": " 一名玩家获得了黑元素",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 黑元素已被升级 !": {
+    "Translation": " 黑元素已被升级 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一名玩家获得了电元素": {
+    "Translation": " 一名玩家获得了电元素",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这道栅栏门将于30秒后打开": {
+    "Translation": " 这道栅栏门将于30秒后打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一名玩家获得了奶元素": {
+    "Translation": " 一名玩家获得了奶元素",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 奶可以对抗吞噬魔法": {
+    "Translation": " 奶可以对抗吞噬魔法",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这道门将于25秒后打开": {
+    "Translation": " 这道门将于25秒后打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一名玩家获得了冰元素": {
+    "Translation": " 一名玩家获得了冰元素",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 手雷可以造成更高伤害": {
+    "Translation": " 手雷可以造成更高伤害",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这道屏障将于20秒后解除": {
+    "Translation": " 这道屏障将于20秒后解除",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 最后的栅栏门将于30秒后打开": {
+    "Translation": " 最后的栅栏门将于30秒后打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 【保镖】讨伐成功？": {
+    "Translation": " 【保镖】讨伐成功？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 讨伐目标：暴君": {
+    "Translation": " 讨伐目标：暴君",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 冰元素已被升级 !": {
+    "Translation": " 冰元素已被升级 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这道屏障将于40秒后解除": {
+    "Translation": " 这道屏障将于40秒后解除",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这道屏障将于25秒后解除": {
+    "Translation": " 这道屏障将于25秒后解除",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这道屏障将于35秒后解除": {
+    "Translation": " 这道屏障将于35秒后解除",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这道屏障将于30秒后解除": {
+    "Translation": " 这道屏障将于30秒后解除",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 【暴君】讨伐成功！": {
+    "Translation": " 【暴君】讨伐成功！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 讨伐目标：罗波那": {
+    "Translation": " 讨伐目标：罗波那",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 火元素已被升级 !": {
+    "Translation": " 火元素已被升级 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 电元素已被升级 !": {
+    "Translation": " 电元素已被升级 !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 与罗波那的战斗将在40秒后开始": {
+    "Translation": " 与罗波那的战斗将在40秒后开始",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 罗波那处于进攻姿态时免疫手雷伤害！": {
+    "Translation": " 罗波那处于进攻姿态时免疫手雷伤害！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 你能看穿这个体势？！": {
+    "Translation": " 你能看穿这个体势？！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这就是后发制人！": {
+    "Translation": " 这就是后发制人！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 攻势如火！": {
+    "Translation": " 攻势如火！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 起始于“序”！": {
+    "Translation": " 起始于“序”！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 经流至“破”！": {
+    "Translation": " 经流至“破”！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 做好觉悟！": {
+    "Translation": " 做好觉悟！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 武学真髓！": {
+    "Translation": " 武学真髓！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 守势如土！": {
+    "Translation": " 守势如土！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 咆哮吧，我的斗气！": {
+    "Translation": " 咆哮吧，我的斗气！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 你无法跳过最高的刀光！": {
+    "Translation": " 你无法跳过最高的刀光！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 【罗波那】讨伐成功！": {
+    "Translation": " 【罗波那】讨伐成功！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 奶元素已被升级 !": {
+    "Translation": " 奶元素已被升级 !",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "++ Ze Floating Rocks Survival ++": {
+    "Translation": "++ Ze Floating Rocks Survival ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Map by Matias-TM ++": {
+    "Translation": "++ Map by Matias-TM ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Sky by komaokc ++": {
+    "Translation": "++ Sky by komaokc ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Teleport in 30 seconds ++": {
+    "Translation": "++ Teleport in 30 seconds ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Teleport in 5 seconds ++": {
+    "Translation": "++ Teleport in 5 seconds ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Stage 01 : House ++": {
+    "Translation": "++ Stage 01 : House ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Defend 120 seconds ++": {
+    "Translation": "++ Defend 120 seconds ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Here comes the zombies! ++": {
+    "Translation": "++ Here comes the zombies! ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Defend 5 seconds ++": {
+    "Translation": "++ Defend 5 seconds ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Stage 02 : Storage ++": {
+    "Translation": "++ Stage 02 : Storage ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Stage 03 : Train Station +": {
+    "Translation": "++ Stage 03 : Train Station +",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Go to the roof! ++": {
+    "Translation": "++ Go to the roof! ++",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

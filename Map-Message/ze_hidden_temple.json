@@ -75,5 +75,35 @@
     "Translation": "### FALL BACK NOW !!! ### ",
     "M-Bool": false,
     "Value": 0
+  },
+  "### WARMUP - 50 SECONDS LEFT ###": {
+    "Translation": "### WARMUP - 50 SECONDS LEFT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP - 40 SECONDS LEFT ###": {
+    "Translation": "### WARMUP - 40 SECONDS LEFT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP - 30 SECONDS LEFT ###": {
+    "Translation": "### WARMUP - 30 SECONDS LEFT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP - 20 SECONDS LEFT ###": {
+    "Translation": "### WARMUP - 20 SECONDS LEFT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP - 10 SECONDS LEFT ###": {
+    "Translation": "### WARMUP - 10 SECONDS LEFT ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP OVER - RESTARTING ROUND ###": {
+    "Translation": "### WARMUP OVER - RESTARTING ROUND ###",
+    "M-Bool": false,
+    "Value": 0
   }
 }

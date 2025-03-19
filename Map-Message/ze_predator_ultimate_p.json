@@ -110,5 +110,10 @@
     "Translation": "FIRST AID PICKED UP",
     "M-Bool": false,
     "Value": 0
+  },
+  "DIFFICULTY --- NORMAL": {
+    "Translation": "DIFFICULTY --- NORMAL",
+    "M-Bool": false,
+    "Value": 0
   }
 }

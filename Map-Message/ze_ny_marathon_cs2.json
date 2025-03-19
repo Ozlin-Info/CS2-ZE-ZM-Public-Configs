@@ -120,5 +120,20 @@
     "Translation": "Defend for another 5 seconds!!!",
     "M-Bool": false,
     "Value": 0
+  },
+  " [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

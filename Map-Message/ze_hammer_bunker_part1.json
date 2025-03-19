@@ -20,5 +20,65 @@
     "Translation": "Elevator will leave after 30 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Elevator going down through 40 seconds": {
+    "Translation": "Elevator going down through 40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "35 seconds to opening the door": {
+    "Translation": "35 seconds to opening the door",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15 seconds to opening the door": {
+    "Translation": "15 seconds to opening the door",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "60 seconds to opening the door": {
+    "Translation": "60 seconds to opening the door",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DESTROY wire for start nuke!!!": {
+    "Translation": "DESTROY wire for start nuke!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds to closing the door": {
+    "Translation": "10 seconds to closing the door",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!!5!!!": {
+    "Translation": "!!!5!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!!4!!!": {
+    "Translation": "!!!4!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!!3!!!": {
+    "Translation": "!!!3!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!!2!!!": {
+    "Translation": "!!!2!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!!1!!!": {
+    "Translation": "!!!1!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!!GO!!!": {
+    "Translation": "!!!GO!!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

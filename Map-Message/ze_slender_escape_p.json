@@ -50,5 +50,15 @@
     "Translation": " Cover 5 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " [STORY] STAGE 1 - PRISON ": {
+    "Translation": " [STORY] STAGE 1 - PRISON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! ": {
+    "Translation": " [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

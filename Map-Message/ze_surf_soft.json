@@ -55,5 +55,30 @@
     "Translation": " survive 40 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Door opens in 10 seconds ": {
+    "Translation": " Door opens in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Go!!! ": {
+    "Translation": " Go!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Snow wall breaks in 40 seconds ": {
+    "Translation": " Snow wall breaks in 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleport starts in 15 seconds ": {
+    "Translation": " Teleport starts in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " sky elevator moves in 20 seconds ": {
+    "Translation": " sky elevator moves in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -60,5 +60,10 @@
     "Translation": "Find a way to turn off the gas",
     "M-Bool": false,
     "Value": 0
+  },
+  "Objective Rampage - Chapter Fire": {
+    "Translation": "Objective Rampage - Chapter Fire",
+    "M-Bool": false,
+    "Value": 0
   }
 }

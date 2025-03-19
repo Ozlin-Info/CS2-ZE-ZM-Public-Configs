@@ -45,5 +45,10 @@
     "Translation": "!!! CURRENT DIFFICULTY : EASY !!!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Naruto will open the way ! Follow him !": {
+    "Translation": "Naruto will open the way ! Follow him !",
+    "M-Bool": false,
+    "Value": 0
   }
 }
