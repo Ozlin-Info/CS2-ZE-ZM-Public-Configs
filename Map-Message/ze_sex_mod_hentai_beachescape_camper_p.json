@@ -240,5 +240,10 @@
     "Translation": "A tribute to willy wilson",
     "M-Bool": false,
     "Value": 0
+  },
+  "DOOR OPENS IN 20 SECONDS -- SHOOT THEM INTO THE CRIPPLE": {
+    "Translation": "DOOR OPENS IN 20 SECONDS -- SHOOT THEM INTO THE CRIPPLE",
+    "M-Bool": false,
+    "Value": 0
   }
 }

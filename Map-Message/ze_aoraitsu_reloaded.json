@@ -115,5 +115,20 @@
     "Translation": "Aoraitsu:Reload  Ver.Swan",
     "M-Bool": false,
     "Value": 0
+  },
+  "Aoraitsu:Reload | Ver.Swan": {
+    "Translation": "Aoraitsu:Reload | Ver.Swan",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| 绝地潜兵空降仓[僵尸] 冷却:120秒(共用) |": {
+    "Translation": "| 绝地潜兵空降仓[僵尸] 冷却:120秒(共用) |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| 作用:将神器的附近僵尸传送到你另一个传送神器身边 |": {
+    "Translation": "| 作用:将神器的附近僵尸传送到你另一个传送神器身边 |",
+    "M-Bool": false,
+    "Value": 0
   }
 }

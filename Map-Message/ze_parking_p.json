@@ -45,5 +45,40 @@
     "Translation": "Thx to JorisCeoen for help with models",
     "M-Bool": false,
     "Value": 0
+  },
+  "WARMUP ROUND: 60 SECONDS": {
+    "Translation": "WARMUP ROUND: 60 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP ROUND: 30 SECONDS": {
+    "Translation": "WARMUP ROUND: 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP ROUND: 5 SECONDS": {
+    "Translation": "WARMUP ROUND: 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP ROUND: 4 SECONDS": {
+    "Translation": "WARMUP ROUND: 4 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP ROUND: 3 SECONDS": {
+    "Translation": "WARMUP ROUND: 3 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP ROUND: 2 SECONDS": {
+    "Translation": "WARMUP ROUND: 2 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP ROUND: 1 SECOND": {
+    "Translation": "WARMUP ROUND: 1 SECOND",
+    "M-Bool": false,
+    "Value": 0
   }
 }

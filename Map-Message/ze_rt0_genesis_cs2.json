@@ -75,5 +75,10 @@
     "Translation": "You stayed for too long",
     "M-Bool": false,
     "Value": 0
+  },
+  " gravity ": {
+    "Translation": " gravity ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

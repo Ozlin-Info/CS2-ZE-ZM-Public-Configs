@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "@@ please wait a learjet!!!! @@": {
+    "Translation": "@@ please wait a learjet!!!! @@",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "@@ no one on island!! @@": {
+    "Translation": "@@ no one on island!! @@",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "@@ Nuke launched! all die!! ha ha ha @@": {
+    "Translation": "@@ Nuke launched! all die!! ha ha ha @@",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

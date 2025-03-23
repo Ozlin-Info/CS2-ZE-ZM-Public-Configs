@@ -70,5 +70,15 @@
     "Translation": "!!! 30 SECONDS !!!",
     "M-Bool": false,
     "Value": 0
+  },
+  "# MISSION 1 - OMINOUS RUMORS #": {
+    "Translation": "# MISSION 1 - OMINOUS RUMORS #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# PART 1 - ESCAPE! #": {
+    "Translation": "# PART 1 - ESCAPE! #",
+    "M-Bool": false,
+    "Value": 0
   }
 }

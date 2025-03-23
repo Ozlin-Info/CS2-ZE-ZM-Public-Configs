@@ -165,5 +165,20 @@
     "Translation": "=Zombies released in 3 seconds=",
     "M-Bool": false,
     "Value": 0
+  },
+  "-=Map By Westsiderain=-": {
+    "Translation": "-=Map By Westsiderain=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=SPECIAL THANKS TO SCA SERVER FOR BETA TESTING!=-": {
+    "Translation": "-=SPECIAL THANKS TO SCA SERVER FOR BETA TESTING!=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-= SCACLAN.COM  50.31.65.61:27015 =-": {
+    "Translation": "-= SCACLAN.COM  50.31.65.61:27015 =-",
+    "M-Bool": false,
+    "Value": 0
   }
 }

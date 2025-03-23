@@ -15,5 +15,15 @@
     "Translation": " Map by @Seth ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Backrooms Deathbed  ver 1.4": {
+    "Translation": " Backrooms Deathbed  ver 1.4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " If the music too loud,Type snd_musicvolume 0 ~ 1 in Console to adjust. ": {
+    "Translation": " If the music too loud,Type snd_musicvolume 0 ~ 1 in Console to adjust. ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
