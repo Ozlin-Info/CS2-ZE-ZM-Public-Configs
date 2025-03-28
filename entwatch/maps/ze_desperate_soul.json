@@ -73,7 +73,7 @@
     "AbilityList": [
       {
         "Name": "Item_ZWater_Button",
-        "ButtonID": 2751,
+        "ButtonID": -1,
         "ButtonClass": "func_button",
         "Filter": "player_zwater",
         "Chat_Uses": true,
@@ -83,7 +83,9 @@
         "Ignore": false,
         "LockItem": false,
         "MathID": 4820,
-        "MathNameFix": false
+        "MathNameFix": false,
+        "MathFindSpawned": false,
+        "MathDontShowMax": true
       },
       {
         "Name": "Item_ZWater_Button",
