@@ -396,7 +396,7 @@
     ]
   },
   {
-    "Name": "ChaosStorm",
+    "Name": "Chaos Storm",
     "ShortName": "ChaosStorm",
     "Color": "{default}",
     "HammerID": 26207,
@@ -440,7 +440,7 @@
     ]
   },
   {
-    "Name": "DarkStorm",
+    "Name": "Dark Storm",
     "ShortName": "DarkStorm",
     "Color": "{default}",
     "HammerID": 26228,
@@ -484,7 +484,7 @@
     ]
   },
   {
-    "Name": "HiddenBody",
+    "Name": "Hidden Body",
     "ShortName": "HiddenBody",
     "Color": "{default}",
     "HammerID": 26250,
@@ -616,7 +616,7 @@
     ]
   },
   {
-    "Name": "PoisonMist",
+    "Name": "Poison Mist",
     "ShortName": "PoisonMist",
     "Color": "{default}",
     "HammerID": 25997,
