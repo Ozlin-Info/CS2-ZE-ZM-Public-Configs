@@ -25,5 +25,50 @@
     "Translation": "Teleport activated",
     "M-Bool": false,
     "Value": 0
+  },
+  "Resist 80 seconds": {
+    "Translation": "Resist 80 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend 80 seconds": {
+    "Translation": "Defend 80 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Try to pass this surf": {
+    "Translation": "Try to pass this surf",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Everyone is immune during this time": {
+    "Translation": "Everyone is immune during this time",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You did it": {
+    "Translation": "You did it",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Now relax and wait for the time to end": {
+    "Translation": "Now relax and wait for the time to end",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Platform breaks in 20 seconds": {
+    "Translation": "Platform breaks in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Watch out for lasers!": {
+    "Translation": "Watch out for lasers!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You won the map congratulations!": {
+    "Translation": "You won the map congratulations!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

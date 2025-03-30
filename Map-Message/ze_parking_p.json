@@ -80,5 +80,35 @@
     "Translation": "WARMUP ROUND: 1 SECOND",
     "M-Bool": false,
     "Value": 0
+  },
+  "FLAMETHROWER PICKED UP": {
+    "Translation": "FLAMETHROWER PICKED UP",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "COVER 30 SECONDS UNTIL C4 EXPLOSION": {
+    "Translation": "COVER 30 SECONDS UNTIL C4 EXPLOSION",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RETURN TO COVER THE DOOR ": {
+    "Translation": " RETURN TO COVER THE DOOR ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PREPARE TO RUN IN 5 SECONDS": {
+    "Translation": "PREPARE TO RUN IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN": {
+    "Translation": "RUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FLOOR UNSTABLE ! TAKE CARE !": {
+    "Translation": "FLOOR UNSTABLE ! TAKE CARE !",
+    "M-Bool": false,
+    "Value": 0
   }
 }

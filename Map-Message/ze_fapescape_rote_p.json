@@ -15,5 +15,25 @@
     "Translation": " Turning music on ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Player has picked up Lego Maker ": {
+    "Translation": " Player has picked up Lego Maker ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It has 10 uses ": {
+    "Translation": " It has 10 uses ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Player has picked up Pushgun ": {
+    "Translation": " Player has picked up Pushgun ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It has unlimited uses ": {
+    "Translation": " It has unlimited uses ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

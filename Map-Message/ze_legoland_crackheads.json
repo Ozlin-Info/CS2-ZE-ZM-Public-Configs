@@ -100,5 +100,20 @@
     "Translation": " 100 %! GO GO GO!!! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " WHITE BLOCKS = PRO WAY | NOOBS HAVE LADDER ": {
+    "Translation": " WHITE BLOCKS = PRO WAY | NOOBS HAVE LADDER ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Cool'R Gun has been picked up. Press +USE (E) to activate. ": {
+    "Translation": " Cool'R Gun has been picked up. Press +USE (E) to activate. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It has a 75 seconds cooldown. ": {
+    "Translation": " It has a 75 seconds cooldown. ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -30,5 +30,60 @@
     "Translation": " ZOMBIES ARE OUT !!! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " ZOMBIES COME OUT AT 25 SECONDS ": {
+    "Translation": " ZOMBIES COME OUT AT 25 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD 53 SECONDS ": {
+    "Translation": " HOLD 53 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD 55 SECONDS ": {
+    "Translation": " HOLD 55 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIES COME OUT AT 30 SECONDS ": {
+    "Translation": " ZOMBIES COME OUT AT 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLATFORM WILL OPEN IN 46 SECONDS ": {
+    "Translation": " PLATFORM WILL OPEN IN 46 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BOSS FIGHT IN 8 SECONDS ": {
+    "Translation": " BOSS FIGHT IN 8 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BOSS FIGHT !!! ": {
+    "Translation": " BOSS FIGHT !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BOSS DIED !!! ": {
+    "Translation": " BOSS DIED !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LASER BOSS FIGHT !!! ": {
+    "Translation": " LASER BOSS FIGHT !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BEHIND !!! ": {
+    "Translation": " BEHIND !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " KILL ALL THE ZOMBIES! !!! ": {
+    "Translation": " KILL ALL THE ZOMBIES! !!! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

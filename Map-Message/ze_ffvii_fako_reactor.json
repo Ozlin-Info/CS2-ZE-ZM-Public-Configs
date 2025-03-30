@@ -330,5 +330,40 @@
     "Translation": "YOU'VE BEATEN FAKO REACTOR!!!!!",
     "M-Bool": false,
     "Value": 0
+  },
+  "t-tifa door #4, my love": {
+    "Translation": "t-tifa door #4, my love",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GATE OPENING IN 15 SECONDS ": {
+    "Translation": " GATE OPENING IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND DEFEND DEFEND ": {
+    "Translation": " DEFEND DEFEND DEFEND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GATE OPENING IN 5 SECONDS ": {
+    "Translation": " GATE OPENING IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ANNOYING BARRIER OPENS IN 15 SECONDS ": {
+    "Translation": " ANNOYING BARRIER OPENS IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ANNOYING BARRIER OPENING ": {
+    "Translation": " ANNOYING BARRIER OPENING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD FOR 30 SECONDS": {
+    "Translation": "HOLD FOR 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }

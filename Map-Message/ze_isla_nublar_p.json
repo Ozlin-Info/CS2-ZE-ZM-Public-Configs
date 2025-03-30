@@ -6,8 +6,8 @@
       "Value": 0
     }
   },
-  "20 seconds until rocks are cleared": {
-    "Translation": "20 seconds until rocks are cleared",
+  "CURRENT DIFFICULTY IS NORMAL": {
+    "Translation": "CURRENT DIFFICULTY IS NORMAL",
     "M-Bool": false,
     "Value": 0
   }

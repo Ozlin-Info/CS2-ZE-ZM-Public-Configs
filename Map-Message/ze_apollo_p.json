@@ -10,5 +10,10 @@
     "Translation": "Tram Leaving Momentarily",
     "M-Bool": false,
     "Value": 0
+  },
+  "Aux Door Opening In 15 Seconds": {
+    "Translation": "Aux Door Opening In 15 Seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

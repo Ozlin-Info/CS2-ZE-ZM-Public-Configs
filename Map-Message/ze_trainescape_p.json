@@ -10,5 +10,35 @@
     "Translation": " Make your way to train station and leave the city. ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Trains are leaving in one minute. ": {
+    "Translation": " Trains are leaving in one minute. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Trains are leaving in 30s. ": {
+    "Translation": " Trains are leaving in 30s. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Generator room will open in 8s. ": {
+    "Translation": " Generator room will open in 8s. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  ".. Train station gate open in 5 seconds!!": {
+    "Translation": ".. Train station gate open in 5 seconds!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Trains are leaving!!! ": {
+    "Translation": " Trains are leaving!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nuke will be launched in 30s. ": {
+    "Translation": " Nuke will be launched in 30s. ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

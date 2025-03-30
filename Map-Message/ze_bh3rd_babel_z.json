@@ -220,5 +220,40 @@
     "Translation": "Quick, strike back! She is the Second Herrscher!",
     "M-Bool": false,
     "Value": 0
+  },
+  "封锁已解除！ ": {
+    "Translation": "封锁已解除！ ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们击败她了": {
+    "Translation": "我们击败她了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "现在,守住这里!": {
+    "Translation": "现在,守住这里!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "返回请求已应答！": {
+    "Translation": "返回请求已应答！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "赶紧上飞机！": {
+    "Translation": "赶紧上飞机！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们成功活下来了": {
+    "Translation": "我们成功活下来了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "现在,我们得让亲爱的主教大人好好解释一下这是怎么回事  ": {
+    "Translation": "现在,我们得让亲爱的主教大人好好解释一下这是怎么回事  ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

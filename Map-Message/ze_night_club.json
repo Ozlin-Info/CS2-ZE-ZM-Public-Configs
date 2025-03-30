@@ -110,5 +110,30 @@
     "Translation": "3  Map Over!  3",
     "M-Bool": false,
     "Value": 0
+  },
+  "3 | Assests | 3": {
+    "Translation": "3 | Assests | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Grand Theft Auto X Night Club | 3": {
+    "Translation": "3 | Grand Theft Auto X Night Club | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | 10 Seconds for opening door | 3": {
+    "Translation": "3 | 10 Seconds for opening door | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | 5 Seconds for opening door | 3": {
+    "Translation": "3 | 5 Seconds for opening door | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Fall Back | 3": {
+    "Translation": "3 | Fall Back | 3",
+    "M-Bool": false,
+    "Value": 0
   }
 }

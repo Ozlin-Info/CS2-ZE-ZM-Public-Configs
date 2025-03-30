@@ -50,5 +50,20 @@
     "Translation": "The toilet is open",
     "M-Bool": false,
     "Value": 0
+  },
+  "-Map by oVo-": {
+    "Translation": "-Map by oVo-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-This is my first map-": {
+    "Translation": "-This is my first map-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-It is not good enough-": {
+    "Translation": "-It is not good enough-",
+    "M-Bool": false,
+    "Value": 0
   }
 }

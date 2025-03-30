@@ -10,5 +10,55 @@
     "Translation": "Map by TheIceTiger!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Door to Tunnels opens in 15 seconds!": {
+    "Translation": "Door to Tunnels opens in 15 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Survive for 25 seconds!": {
+    "Translation": "Survive for 25 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN!": {
+    "Translation": "RUN!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN!!": {
+    "Translation": "RUN!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Someone must make a climb!": {
+    "Translation": "Someone must make a climb!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Once someone makes the climb the elevator will be accessible!": {
+    "Translation": "Once someone makes the climb the elevator will be accessible!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Someone reached the top of the climb": {
+    "Translation": "Someone reached the top of the climb",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator doors open": {
+    "Translation": "Elevator doors open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold for 30 seconds!": {
+    "Translation": "Hold for 30 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Humans have reached the mine field!": {
+    "Translation": "Humans have reached the mine field!",
+    "M-Bool": false,
+    "Value": 0
   }
 }
