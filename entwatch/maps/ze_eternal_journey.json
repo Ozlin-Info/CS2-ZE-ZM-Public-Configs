@@ -16,8 +16,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "fire_button",
+				"ButtonID": 2250,
 				"ButtonClass": "func_button",
 				"Filter": "fire_player",
 				"Chat_Uses": true,
@@ -44,8 +44,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "freeze_button",
+				"ButtonID": 3583,
 				"ButtonClass": "func_button",
 				"Filter": "freeze_player",
 				"Chat_Uses": true,
@@ -72,8 +72,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "heal_button",
+				"ButtonID": 3593,
 				"ButtonClass": "func_button",
 				"Filter": "heal_player",
 				"Chat_Uses": true,
@@ -100,8 +100,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "tornado_button",
+				"ButtonID": 3602,
 				"ButtonClass": "func_button",
 				"Filter": "tornado_player",
 				"Chat_Uses": true,
@@ -128,8 +128,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "earth_button",
+				"ButtonID": 3613,
 				"ButtonClass": "func_button",
 				"Filter": "earth_player",
 				"Chat_Uses": true,
@@ -156,8 +156,8 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "ultimate_button",
+				"ButtonID": 3978,
 				"ButtonClass": "func_button",
 				"Filter": "ultimate_player",
 				"Chat_Uses": true,
@@ -177,15 +177,15 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
-		"ForceDrop": true,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
 		"TriggerID": 3642,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "zmfire_button",
+				"ButtonID": 3636,
 				"ButtonClass": "func_button",
 				"Filter": "zmfire_player",
 				"Chat_Uses": true,
@@ -205,15 +205,15 @@
 		"FilterValue": "",
 		"BlockPickup": false,
 		"AllowTransfer": false,
-		"ForceDrop": true,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3658,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "zmgravity_button",
+				"ButtonID": 3655,
 				"ButtonClass": "func_button",
 				"Filter": "zmgravity_player",
 				"Chat_Uses": true,
@@ -236,12 +236,12 @@
 		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3687,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "zmfreeze_button",
+				"ButtonID": 3682,
 				"ButtonClass": "func_button",
 				"Filter": "zmfreeze_player",
 				"Chat_Uses": true,
