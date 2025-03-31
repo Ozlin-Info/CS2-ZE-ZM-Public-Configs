@@ -252,8 +252,8 @@
 		]
 	},
 	{
-		"Name": "ZM秒杀/ZM Killer",
-		"ShortName": "ZM Killer",
+		"Name": "ZM秒杀/ZM Warp",
+		"ShortName": "ZM Warp",
 		"Color": "{pink}",
 		"HammerID": 1070,
 		"GlowColor": [255,255,255,255],
