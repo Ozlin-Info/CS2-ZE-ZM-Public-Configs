@@ -15,5 +15,160 @@
     "Translation": " Stage1  ",
     "M-Bool": false,
     "Value": 0
+  },
+  "--Defense 35s--": {
+    "Translation": "--Defense 35s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--z_road open in 7s--": {
+    "Translation": "--z_road open in 7s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--z_road open--": {
+    "Translation": "--z_road open--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--Defense 5s--": {
+    "Translation": "--Defense 5s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--Defense 4s--": {
+    "Translation": "--Defense 4s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--Defense 3s--": {
+    "Translation": "--Defense 3s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--Defense 2s--": {
+    "Translation": "--Defense 2s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--Defense 1s--": {
+    "Translation": "--Defense 1s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--GO GO GO--": {
+    "Translation": "--GO GO GO--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--zombie coming in 8s--": {
+    "Translation": "--zombie coming in 8s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--Defense 25s--": {
+    "Translation": "--Defense 25s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--z_road opened--": {
+    "Translation": "--z_road opened--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--zombie coming in 5s--": {
+    "Translation": "--zombie coming in 5s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--zombie coming in 4s--": {
+    "Translation": "--zombie coming in 4s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--zombie coming in 3s--": {
+    "Translation": "--zombie coming in 3s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--zombie coming in 2s--": {
+    "Translation": "--zombie coming in 2s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--zombie coming in 1s--": {
+    "Translation": "--zombie coming in 1s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--zombie coming--": {
+    "Translation": "--zombie coming--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--zombie teleport in 7s--": {
+    "Translation": "--zombie teleport in 7s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--Defense--": {
+    "Translation": "--Defense--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-- Z teleport in 5s  --": {
+    "Translation": "-- Z teleport in 5s  --",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-- Z teleport in 4s  --": {
+    "Translation": "-- Z teleport in 4s  --",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-- Z teleport in 3s  --": {
+    "Translation": "-- Z teleport in 3s  --",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-- Z teleport in 2s  --": {
+    "Translation": "-- Z teleport in 2s  --",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-- Z teleport in 1s  --": {
+    "Translation": "-- Z teleport in 1s  --",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--train leave in 10s--": {
+    "Translation": "--train leave in 10s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--train leave in 5s--": {
+    "Translation": "--train leave in 5s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--train leave in 4s--": {
+    "Translation": "--train leave in 4s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--train leave in 3s--": {
+    "Translation": "--train leave in 3s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--train leave in 2s--": {
+    "Translation": "--train leave in 2s--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--train leave in 1s--": {
+    "Translation": "--train leave in 1s--",
+    "M-Bool": false,
+    "Value": 0
   }
 }

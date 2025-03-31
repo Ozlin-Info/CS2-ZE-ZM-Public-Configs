@@ -15,5 +15,55 @@
     "Translation": " LEVEL 1 (EASY) ",
     "M-Bool": false,
     "Value": 0
+  },
+  " DOOR OPENS IN 10 SECONDS ": {
+    "Translation": " DOOR OPENS IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENS IN 15 SECONDS ": {
+    "Translation": " DOOR OPENS IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 MORE SECONDS LEFT ": {
+    "Translation": " 5 MORE SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button A3 Pressed ": {
+    "Translation": " Button A3 Pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DJ IN DA HOUSE !! ": {
+    "Translation": " DJ IN DA HOUSE !! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " AMMO GUN - 40 sec cooldown ": {
+    "Translation": " AMMO GUN - 40 sec cooldown ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button A1 pressed ": {
+    "Translation": " Button A1 pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button A2 pressed ": {
+    "Translation": " Button A2 pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ALL BUTTONS HAVE BEEN PRESSED ": {
+    "Translation": " ALL BUTTONS HAVE BEEN PRESSED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MUSIC] BLOODHOUND GANG - The Bad Touch": {
+    "Translation": "[MUSIC] BLOODHOUND GANG - The Bad Touch",
+    "M-Bool": false,
+    "Value": 0
   }
 }

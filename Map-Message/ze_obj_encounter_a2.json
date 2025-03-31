@@ -15,5 +15,320 @@
     "Translation": "Thank: 7ychu5 K Seth",
     "M-Bool": false,
     "Value": 0
+  },
+  "整个设施陷入了半停电状态": {
+    "Translation": "整个设施陷入了半停电状态",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "发生什么了": {
+    "Translation": "发生什么了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "...生化病毒发生了泄露？": {
+    "Translation": "...生化病毒发生了泄露？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "识别代码为K-A18 代号：僵尸": {
+    "Translation": "识别代码为K-A18 代号：僵尸",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "如遇到有症状人员，可就地击毙": {
+    "Translation": "如遇到有症状人员，可就地击毙",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "看来事情有点大啊": {
+    "Translation": "看来事情有点大啊",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "给我30秒打开门": {
+    "Translation": "给我30秒打开门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "靠，开门的噪声引来了僵尸": {
+    "Translation": "靠，开门的噪声引来了僵尸",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门开了，快走": {
+    "Translation": "门开了，快走",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门已关闭": {
+    "Translation": "门已关闭",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这边被大火封路了.....": {
+    "Translation": "这边被大火封路了.....",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "来这边！有电梯可以到上一层": {
+    "Translation": "来这边！有电梯可以到上一层",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "不过我们需要扑灭火焰": {
+    "Translation": "不过我们需要扑灭火焰",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "小心，僵尸扒开了大门": {
+    "Translation": "小心，僵尸扒开了大门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住阵地，还有30秒扑灭火焰": {
+    "Translation": "守住阵地，还有30秒扑灭火焰",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸从另一个大门涌来了": {
+    "Translation": "僵尸从另一个大门涌来了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "撤退": {
+    "Translation": "撤退",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "小心从另一边房间来的僵尸": {
+    "Translation": "小心从另一边房间来的僵尸",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯大门将在20秒后开启": {
+    "Translation": "电梯大门将在20秒后开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯大门将在5秒后关闭": {
+    "Translation": "电梯大门将在5秒后关闭",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "呼，终于摆脱掉这些僵尸了": {
+    "Translation": "呼，终于摆脱掉这些僵尸了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "怎么回事？": {
+    "Translation": "怎么回事？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "什么情况": {
+    "Translation": "什么情况",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "人都去哪了？": {
+    "Translation": "人都去哪了？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "该死，僵尸又来了": {
+    "Translation": "该死，僵尸又来了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "大门将在10秒后开启，坚守阵地": {
+    "Translation": "大门将在10秒后开启，坚守阵地",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "大门已开启": {
+    "Translation": "大门已开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "小心侧面僵尸": {
+    "Translation": "小心侧面僵尸",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将在20秒后开启，坚守阵地": {
+    "Translation": "门将在20秒后开启，坚守阵地",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门已开启": {
+    "Translation": "门已开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸扒开了铁网，小心左边": {
+    "Translation": "僵尸扒开了铁网，小心左边",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将在20秒后开启": {
+    "Translation": "门将在20秒后开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门打开了": {
+    "Translation": "门打开了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸从侧面大门涌来了": {
+    "Translation": "僵尸从侧面大门涌来了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "大门将在40秒后开启": {
+    "Translation": "大门将在40秒后开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "木门将在30秒后打开": {
+    "Translation": "木门将在30秒后打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "怎么又是死路": {
+    "Translation": "怎么又是死路",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10秒后墙壁破碎": {
+    "Translation": "10秒后墙壁破碎",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "嘘，有无线电信号": {
+    "Translation": "嘘，有无线电信号",
+    "M-Bool": false,
+    "Value": 0
+  },
+  ".......发生了不明类型灾害": {
+    "Translation": ".......发生了不明类型灾害",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "各类供电与通讯系统严重损坏或失效": {
+    "Translation": "各类供电与通讯系统严重损坏或失效",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "现在已对当前地区实施全面隔离检疫": {
+    "Translation": "现在已对当前地区实施全面隔离检疫",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "为了安全起见 建议收听到此广播的人员立即撤离": {
+    "Translation": "为了安全起见 建议收听到此广播的人员立即撤离",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "请遵循人员手册所标注的疏散路线": {
+    "Translation": "请遵循人员手册所标注的疏散路线",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "如果你出现发烧、咳嗽、恶心、气喘、皮肤脱落或任何类似症状": {
+    "Translation": "如果你出现发烧、咳嗽、恶心、气喘、皮肤脱落或任何类似症状",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "请立即报告给随行的军官、警察或安保人员": {
+    "Translation": "请立即报告给随行的军官、警察或安保人员",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "因为这些症状可能与最近的事件有关": {
+    "Translation": "因为这些症状可能与最近的事件有关",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当前任务：撤离设施": {
+    "Translation": "当前任务：撤离设施",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "给我10秒打开大门": {
+    "Translation": "给我10秒打开大门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯坏了": {
+    "Translation": "电梯坏了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "给我点时间开门": {
+    "Translation": "给我点时间开门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门开了": {
+    "Translation": "门开了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "该死的，疏散路线的这个门怎么开不了": {
+    "Translation": "该死的，疏散路线的这个门怎么开不了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "让我看看手册......靠，没路走了": {
+    "Translation": "让我看看手册......靠，没路走了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我知道这边有个管道，不过不知道是去哪的": {
+    "Translation": "我知道这边有个管道，不过不知道是去哪的",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "算了，走一步看一步了": {
+    "Translation": "算了，走一步看一步了",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这边漏电了....让我想想办法": {
+    "Translation": "这边漏电了....让我想想办法",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电将在10秒后切断": {
+    "Translation": "电将在10秒后切断",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电源已切断": {
+    "Translation": "电源已切断",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "梯子将在10秒后开放": {
+    "Translation": "梯子将在10秒后开放",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "杂物将在20秒后摧毁": {
+    "Translation": "杂物将在20秒后摧毁",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "大门将在30秒后开启": {
+    "Translation": "大门将在30秒后开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "正在想办法打开铁丝网": {
+    "Translation": "正在想办法打开铁丝网",
+    "M-Bool": false,
+    "Value": 0
   }
 }

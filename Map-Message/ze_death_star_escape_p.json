@@ -35,5 +35,50 @@
     "Translation": "Spawn Sections losing air...vacuum in 10 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Zombies detected ! Try to escape from Death-Star": {
+    "Translation": "Zombies detected ! Try to escape from Death-Star",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lightbridge deactivating in 8 sec": {
+    "Translation": "Lightbridge deactivating in 8 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Generator section losing air...vacuum in 10 seconds": {
+    "Translation": "Generator section losing air...vacuum in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold the cantina 25 seconds": {
+    "Translation": "Hold the cantina 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds left": {
+    "Translation": "10 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Left-Lock closing in 10 seconds": {
+    "Translation": "Left-Lock closing in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Inner areas being cleaned in 10 seconds": {
+    "Translation": "Inner areas being cleaned in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Right-Elevator leaving in 10 seconds": {
+    "Translation": "Right-Elevator leaving in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Left-Elevator unlocked": {
+    "Translation": "Left-Elevator unlocked",
+    "M-Bool": false,
+    "Value": 0
   }
 }

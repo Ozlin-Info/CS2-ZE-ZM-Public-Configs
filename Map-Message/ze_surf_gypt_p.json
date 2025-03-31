@@ -50,5 +50,10 @@
     "Translation": " PLAYER HAS PICKED UP RED TRAIL ",
     "M-Bool": false,
     "Value": 0
+  },
+  " THIS MAP HAS BEEN CREATED BY  --- FuTuRe ---": {
+    "Translation": " THIS MAP HAS BEEN CREATED BY  --- FuTuRe ---",
+    "M-Bool": false,
+    "Value": 0
   }
 }

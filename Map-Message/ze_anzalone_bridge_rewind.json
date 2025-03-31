@@ -1,0 +1,79 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "! ドアを開く -- Open the door 30 sec !": {
+    "Translation": "! ドアを開く -- Open the door 30 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "レイザード :": {
+    "Translation": "レイザード :",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「隣町へ荷物届けに行ったは良いものの...」": {
+    "Translation": "「隣町へ荷物届けに行ったは良いものの...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「まさかこんな夜更けになるとはねえ...」": {
+    "Translation": "「まさかこんな夜更けになるとはねえ...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「道具屋のおばちゃん、つかまると話長いの忘れてたよ」": {
+    "Translation": "「道具屋のおばちゃん、つかまると話長いの忘れてたよ」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ドアを開く -- Open the door 10 sec !": {
+    "Translation": "! ドアを開く -- Open the door 10 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「この橋も夜に歩きたくないしなぁ」": {
+    "Translation": "「この橋も夜に歩きたくないしなぁ」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「仕方ない、渡るしかないか」": {
+    "Translation": "「仕方ない、渡るしかないか」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ドアを開く -- Open the door 40 sec !": {
+    "Translation": "! ドアを開く -- Open the door 40 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ドアが閉まる -- Doors close 10 sec !": {
+    "Translation": "! ドアが閉まる -- Doors close 10 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「今日も随分と話し込んじゃったなぁ」": {
+    "Translation": "「今日も随分と話し込んじゃったなぁ」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「さっさと渡って早く村へ帰ろう」": {
+    "Translation": "「さっさと渡って早く村へ帰ろう」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「だけどなんか...嫌な予感がするなあ...」": {
+    "Translation": "「だけどなんか...嫌な予感がするなあ...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「何かに見られているような気がする...」": {
+    "Translation": "「何かに見られているような気がする...」",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

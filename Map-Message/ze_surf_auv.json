@@ -120,5 +120,20 @@
     "Translation": "- Portal will be activated in 30 seconds -",
     "M-Bool": false,
     "Value": 0
+  },
+  "- 看谁滑的远 -": {
+    "Translation": "- 看谁滑的远 -",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "- 人类胜利 -": {
+    "Translation": "- 人类胜利 -",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "- 人类+20HP -": {
+    "Translation": "- 人类+20HP -",
+    "M-Bool": false,
+    "Value": 0
   }
 }

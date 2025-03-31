@@ -60,5 +60,60 @@
     "Translation": "CURRENT MODE CUSTOM",
     "M-Bool": false,
     "Value": 0
+  },
+  "grenade picked up": {
+    "Translation": "grenade picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nuke launched": {
+    "Translation": "Nuke launched",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Jump portal opened": {
+    "Translation": "Jump portal opened",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5": {
+    "Translation": "5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4": {
+    "Translation": "4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Heal picked up": {
+    "Translation": "Heal picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nuke impact": {
+    "Translation": "Nuke impact",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "bunnyhopping enable": {
+    "Translation": "bunnyhopping enable",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -20,5 +20,15 @@
     "Translation": " Hold for 25 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  "- STAGE SQUARE -": {
+    "Translation": "- STAGE SQUARE -",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Current BGM: MAZRDOLL::#V[Sempronius]   -AcuticNotes": {
+    "Translation": "Current BGM: MAZRDOLL::#V[Sempronius]   -AcuticNotes",
+    "M-Bool": false,
+    "Value": 0
   }
 }

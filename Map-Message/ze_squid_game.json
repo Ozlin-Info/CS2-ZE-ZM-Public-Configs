@@ -20,5 +20,30 @@
     "Translation": "ZOMBIES ARE GONE ! GO TO THE DOOR !",
     "M-Bool": false,
     "Value": 0
+  },
+  "DOOR OPENING IN 30 SEC": {
+    "Translation": "DOOR OPENING IN 30 SEC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND ZOMBIES FOR 40 SEC": {
+    "Translation": "DEFEND ZOMBIES FOR 40 SEC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENING IN 60 SEC": {
+    "Translation": "DOOR OPENING IN 60 SEC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SURVIVE 70 SEC": {
+    "Translation": "SURVIVE 70 SEC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENING IN 20 SEC": {
+    "Translation": "DOOR OPENING IN 20 SEC",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -65,5 +65,10 @@
     "Translation": "Teleporting Zombies to spawn in 15 sec",
     "M-Bool": false,
     "Value": 0
+  },
+  "Go to middle-earth map to start playing": {
+    "Translation": "Go to middle-earth map to start playing",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -80,5 +80,90 @@
     "Translation": " sky elevator moves in 20 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Nice! Humans teleport in 5 seconds ": {
+    "Translation": " Nice! Humans teleport in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies teleport in 7 seconds ": {
+    "Translation": " Zombies teleport in 7 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Break glass walls in 50 seconds ": {
+    "Translation": " Break glass walls in 50 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Boss fight in 10 seconds ": {
+    "Translation": " Boss fight in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Shoot! ": {
+    "Translation": " Shoot! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Attack ": {
+    "Translation": " Attack ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Imaginary anti wind ": {
+    "Translation": " Imaginary anti wind ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Imaginary wind ": {
+    "Translation": " Imaginary wind ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " All players teleport in 6 seconds ": {
+    "Translation": " All players teleport in 6 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Boss fight in 8 seconds ": {
+    "Translation": " Boss fight in 8 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Watch out Lasers!!! ": {
+    "Translation": " Watch out Lasers!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Shoot Boss!!": {
+    "Translation": " Shoot Boss!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Last defend!!!! ": {
+    "Translation": " Last defend!!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Last surf in 40 seconds ": {
+    "Translation": " Last surf in 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Open ": {
+    "Translation": " Open ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds ": {
+    "Translation": " 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " thank you for playing!!!! ": {
+    "Translation": " thank you for playing!!!! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -10,5 +10,20 @@
     "Translation": " MAP BY MK!NG & KING BUZZO ",
     "M-Bool": false,
     "Value": 0
+  },
+  " CHARGES ARE SET, EXPLODING IN 15 SECONDS ": {
+    "Translation": " CHARGES ARE SET, EXPLODING IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CHARGES ARE SET, EXPLODING IN 45 SECONDS ": {
+    "Translation": " CHARGES ARE SET, EXPLODING IN 45 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " OR FIND ANOTHER WAY TO OPEN IT FASTER! ": {
+    "Translation": " OR FIND ANOTHER WAY TO OPEN IT FASTER! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

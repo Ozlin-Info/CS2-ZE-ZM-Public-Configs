@@ -20,5 +20,60 @@
     "Translation": "Break crystals",
     "M-Bool": false,
     "Value": 0
+  },
+  "OBJECTIVE - Survive 45 sec": {
+    "Translation": "OBJECTIVE - Survive 45 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " VR-Mission 1 START": {
+    "Translation": " VR-Mission 1 START",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " VR-Mission 1 Complete": {
+    "Translation": " VR-Mission 1 Complete",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "VR-Mission 2 START": {
+    "Translation": "VR-Mission 2 START",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OBJECTIVE - Destroy green floor": {
+    "Translation": "OBJECTIVE - Destroy green floor",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " VR-Mission 2 Complete": {
+    "Translation": " VR-Mission 2 Complete",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "VR-Mission 3 START": {
+    "Translation": "VR-Mission 3 START",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OBJECTIVE - Break crystals": {
+    "Translation": "OBJECTIVE - Break crystals",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " VR-Training complete": {
+    "Translation": " VR-Training complete",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "25 SECONDS TO NUKE": {
+    "Translation": "25 SECONDS TO NUKE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by Mr.Neko": {
+    "Translation": "Map by Mr.Neko",
+    "M-Bool": false,
+    "Value": 0
   }
 }

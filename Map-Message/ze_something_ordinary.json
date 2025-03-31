@@ -20,5 +20,10 @@
     "Translation": "## DOORS OPEN! ##",
     "M-Bool": false,
     "Value": 0
+  },
+  "## STAGE 1/3 - EASY ##": {
+    "Translation": "## STAGE 1/3 - EASY ##",
+    "M-Bool": false,
+    "Value": 0
   }
 }

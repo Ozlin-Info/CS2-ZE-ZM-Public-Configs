@@ -50,5 +50,15 @@
     "Translation": "Go to the KhazadDum bridge!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Bring the ring to Khazad-Dum bridge to win easily": {
+    "Translation": "Bring the ring to Khazad-Dum bridge to win easily",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Go to the Khazad-Dum bridge!": {
+    "Translation": "Go to the Khazad-Dum bridge!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

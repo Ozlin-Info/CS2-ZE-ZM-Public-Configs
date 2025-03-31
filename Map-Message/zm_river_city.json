@@ -30,5 +30,10 @@
     "Translation": "No Lua Unlocker plugin detected, disabling some map functions",
     "M-Bool": false,
     "Value": 0
+  },
+  "'Lua脚本加载成功,版本1.2'": {
+    "Translation": "'Lua脚本加载成功,版本1.2'",
+    "M-Bool": false,
+    "Value": 0
   }
 }

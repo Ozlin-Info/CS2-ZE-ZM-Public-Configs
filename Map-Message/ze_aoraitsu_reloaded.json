@@ -11,108 +11,98 @@
     "M-Bool": false,
     "Value": 0
   },
-  " 绝地潜兵空降仓[僵尸] 冷却:120秒(共用) ": {
-    "Translation": "Drop Pod for Special Forces [Zombies] Cooldown: 120 seconds (shared)",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 作用:将神器的附近僵尸传送到你另一个传送神器身边 ": {
+  "| 作用:将神器的附近僵尸传送到你另一个传送神器身边 |": {
     "Translation": "Effect: Teleport nearby zombies to your other teleport artifact.",
     "M-Bool": false,
     "Value": 0
   },
-  " 绝地潜兵空降仓[人类] 冷却:120秒(共用) ": {
+  "| 绝地潜兵空降仓[僵尸] 冷却:120秒(共用) |": {
     "Translation": "Drop Pod for Special Forces [Humans] Cooldown: 120 seconds (shared)",
     "M-Bool": false,
     "Value": 0
   },
-  " 作用:将神器的附近人类传送到你另一个传送神器身边 ": {
-    "Translation": "Effect: Teleport nearby humans to your other teleport artifact.",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 门将在15秒后打开 ": {
+  "| 门将在15秒后打开 |": {
     "Translation": "The door will open in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
-  " 门已开启 ": {
+  "| 门已开启 |": {
     "Translation": "The door is open.",
     "M-Bool": false,
     "Value": 0
   },
-  " 门将在20秒后打开 ": {
+  "| 门将在20秒后打开 |": {
     "Translation": "The door will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
-  " Door Opend ": {
+  "| Door Opend |": {
     "Translation": "Door Opened",
     "M-Bool": false,
     "Value": 0
   },
-  " 方块墙 冷却:60秒 持续:7秒 ": {
+  "| 方块墙 冷却:60秒 持续:7秒 |": {
     "Translation": "Block Wall: Cooldown: 60 seconds, Duration: 7 seconds",
     "M-Bool": false,
     "Value": 0
   },
-  " 作用:在前方生成阻挡僵尸的方块墙 ": {
+  "| 作用:在前方生成阻挡僵尸的方块墙 |": {
     "Translation": "Effect: Generate a block wall ahead to block zombies.",
     "M-Bool": false,
     "Value": 0
   },
-  " Door will open in 20 Second ": {
+  "| Door will open in 20 Second |": {
     "Translation": "The door will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
-  " 电梯将在15秒后离开 ": {
+  "| 电梯将在15秒后离开 |": {
     "Translation": "The elevator will leave in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
-  " 推力 冷却:60秒 持续:6.5秒 ": {
-    "Translation": "Thrust Cooldown: 60 seconds Duration: 6.5 seconds",
+  "| 推力 冷却:60秒 持续:6.5秒 |": {
+    "Translation": "Thrust Cooldown: 60 seconds, Duration: 6.5 seconds",
     "M-Bool": false,
     "Value": 0
   },
-  " 作用:生成跟随推力风，吹散前方僵尸 ": {
+  "| 作用:生成跟随推力风，吹散前方僵尸 |": {
     "Translation": "Effect: Generate a thrust wind that blows away zombies ahead.",
     "M-Bool": false,
     "Value": 0
   },
-  " 定身球 冷却:35秒 持续:5秒 ": {
-    "Translation": "Stasis Ball Cooldown: 35 seconds Duration: 5 seconds",
+  "| 定身球 冷却:35秒 持续:5秒 |": {
+    "Translation": "Stasis Ball Cooldown: 35 seconds, Duration: 5 seconds",
     "M-Bool": false,
     "Value": 0
   },
-  " 作用:在前方生成球，触碰到的僵尸将无法移动 ": {
+  "| 作用:在前方生成球，触碰到的僵尸将无法移动 |": {
     "Translation": "Effect: Generate a ball ahead; zombies that touch it will be unable to move.",
     "M-Bool": false,
     "Value": 0
   },
-  " 门将在15秒后开启 ": {
+  "| 门将在15秒后开启 |": {
     "Translation": "The door will open in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
-  " 门将在20秒后开启 ": {
+  "| 门将在20秒后开启 |": {
     "Translation": "The door will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
-  " 25 ": {
+  "| 25 |": {
     "Translation": "25",
     "M-Bool": false,
     "Value": 0
   },
-  " 最后的房间已打开.. ": {
+  "| 最后的房间已打开.. |": {
     "Translation": "The final room has been opened..",
     "M-Bool": false,
     "Value": 0
   },
-  "Aoraitsu:Reload  Ver.Swan": {
-    "Translation": "Aoraitsu:Reload  Ver.Swan",
+  "Aoraitsu:Reload | Ver.Swan": {
+    "Translation": "Aoraitsu:Reload | Ver.Swan",
     "M-Bool": false,
     "Value": 0
   }

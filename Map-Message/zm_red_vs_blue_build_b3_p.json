@@ -35,5 +35,10 @@
     "Translation": "Map Test:SakuyaWind and Whitecat",
     "M-Bool": false,
     "Value": 0
+  },
+  "Backbgm:ButterCup-Jack Stauber": {
+    "Translation": "Backbgm:ButterCup-Jack Stauber",
+    "M-Bool": false,
+    "Value": 0
   }
 }

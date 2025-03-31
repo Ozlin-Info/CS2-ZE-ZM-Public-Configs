@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Welcome to ze_Alien Shooter_v7 ": {
+    "Translation": " Welcome to ze_Alien Shooter_v7 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map made DarkRoad ": {
+    "Translation": " Map made DarkRoad ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Special thanks:Moltard & Nostar & Microsoft Edge ": {
+    "Translation": " Special thanks:Moltard & Nostar & Microsoft Edge ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Thanks for the test map: Shiz0 & BalG & Pivogay & GaGaGa & Yuudachi & Bandit": {
+    "Translation": " Thanks for the test map: Shiz0 & BalG & Pivogay & GaGaGa & Yuudachi & Bandit",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

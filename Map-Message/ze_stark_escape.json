@@ -240,5 +240,10 @@
     "Translation": "Zombie doors open",
     "M-Bool": false,
     "Value": 0
+  },
+  "Test Server :  Mapeadores | GFL": {
+    "Translation": "Test Server :  Mapeadores | GFL",
+    "M-Bool": false,
+    "Value": 0
   }
 }
