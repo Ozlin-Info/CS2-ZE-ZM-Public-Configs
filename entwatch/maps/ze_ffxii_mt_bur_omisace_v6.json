@@ -484,11 +484,11 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3203,
 		"UsePriority": true,
 		"AbilityList": [
 			{
@@ -504,24 +504,24 @@
 		]
 	},
 	{
-		"Name": "[ZM]Doris",
-		"ShortName": "[ZM]Doris",
+		"Name": "[ZM]Judge Drace",
+		"ShortName": "[ZM]Drace",
 		"Color": "{default}",
 		"HammerID": 3275,
 		"GlowColor": [0,255,0,1],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3276,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Poison Shield",
+				"ButtonID": 3271,
 				"ButtonClass": "game_ui::PressedAttack",
 				"Filter": "",
 				"Chat_Uses": true,
@@ -530,8 +530,8 @@
 				"CoolDown": 70
 			},
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Plague Summon",
+				"ButtonID": 3270,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Filter": "",
 				"Chat_Uses": true,
@@ -542,7 +542,7 @@
 		]
 	},
 	{
-		"Name": "[ZM]Gabranth",
+		"Name": "[ZM]Judge Gabranth",
 		"ShortName": "[ZM]Gabranth",
 		"Color": "{default}",
 		"HammerID": 3886,
@@ -550,16 +550,16 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3876,
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Speed Up",
+				"ButtonID": 3882,
 				"ButtonClass": "game_ui::PressedAttack",
 				"Filter": "",
 				"Chat_Uses": true,
@@ -568,8 +568,8 @@
 				"CoolDown": 65
 			},
 			{
-				"Name": "",
-				"ButtonID": 0,
+				"Name": "Damage",
+				"ButtonID": 3881,
 				"ButtonClass": "game_ui::PressedAttack2",
 				"Filter": "",
 				"Chat_Uses": true,
@@ -588,11 +588,11 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 4917,
 		"UsePriority": true,
 		"AbilityList": [
 			{
@@ -616,11 +616,11 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3295,
 		"UsePriority": true,
 		"AbilityList": [
 			{
@@ -644,11 +644,11 @@
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
-		"AllowTransfer": true,
-		"ForceDrop": true,
+		"AllowTransfer": false,
+		"ForceDrop": false,
 		"Chat": true,
 		"Hud": true,
-		"TriggerID": 0,
+		"TriggerID": 3100,
 		"UsePriority": true,
 		"AbilityList": [
 			{
