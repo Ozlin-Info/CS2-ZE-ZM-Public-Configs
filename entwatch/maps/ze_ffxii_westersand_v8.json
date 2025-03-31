@@ -105,9 +105,9 @@
                 "ButtonClass": "func_button",
                 "Filter": "Player_Staff_Holy",
                 "Chat_Uses": true,
-                "Mode": 3,
+                "Mode": 4,
                 "MaxUses": 1,
-                "CoolDown": 0
+                "CoolDown": 20
             }
         ]
     },
