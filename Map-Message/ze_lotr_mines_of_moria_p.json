@@ -60,5 +60,90 @@
     "Translation": "Go to the Khazad-Dum bridge!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Balin's door closing/opening in 10 s": {
+    "Translation": "Balin's door closing/opening in 10 s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Stay in the circle! Zombies can't go in!": {
+    "Translation": "Stay in the circle! Zombies can't go in!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Protection ring will close in 15 s ": {
+    "Translation": " Protection ring will close in 15 s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ... ": {
+    "Translation": " ... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Moria is unstable! Run towards the stairs in  ": {
+    "Translation": " Moria is unstable! Run towards the stairs in  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5": {
+    "Translation": "5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4": {
+    "Translation": "4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Go!": {
+    "Translation": "Go!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Balrog coming to BALIN AND COLUMN ZONE in 15s": {
+    "Translation": "Balrog coming to BALIN AND COLUMN ZONE in 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "(Zombies) The door to Khazad-Dum bridge is now open": {
+    "Translation": "(Zombies) The door to Khazad-Dum bridge is now open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Balrog coming to SUPERIOR STAIRS ZONE in 15s": {
+    "Translation": "Balrog coming to SUPERIOR STAIRS ZONE in 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gandalf in the middle": {
+    "Translation": "Gandalf in the middle",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Protect Gandalf during 35s! He must break the bridge! ": {
+    "Translation": "Protect Gandalf during 35s! He must break the bridge! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gandalf is gone!": {
+    "Translation": "Gandalf is gone!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

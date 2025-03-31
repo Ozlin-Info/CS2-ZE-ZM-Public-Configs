@@ -60,5 +60,10 @@
     "Translation": "2 room is ready!",
     "M-Bool": false,
     "Value": 0
+  },
+  "v0.6 - update - 2024.4.26": {
+    "Translation": "v0.6 - update - 2024.4.26",
+    "M-Bool": false,
+    "Value": 0
   }
 }

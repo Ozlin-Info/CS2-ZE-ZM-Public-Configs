@@ -155,5 +155,65 @@
     "Translation": "Change: Breakthrough to the other side — no trams and the way ahead is locked.",
     "M-Bool": false,
     "Value": 0
+  },
+  " 歼灭模式启用:怪物实验室, 开放(32个人类及以上，额外激活1-2个怪物) ": {
+    "Translation": " 歼灭模式启用:怪物实验室, 开放(32个人类及以上，额外激活1-2个怪物) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 变动:散漫的吉米——低重力激活 ": {
+    "Translation": " 变动:散漫的吉米——低重力激活 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " First sector G door opens in 30 seconds ": {
+    "Translation": " First sector G door opens in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " First sector G door opens in 10 seconds ": {
+    "Translation": " First sector G door opens in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Second sector G door opens in 25 seconds ": {
+    "Translation": " Second sector G door opens in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Second sector G door opens in 10 seconds ": {
+    "Translation": " Second sector G door opens in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 电梯20秒后离开 ": {
+    "Translation": " 电梯20秒后离开 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Two minutes left! Stay alive!!! ": {
+    "Translation": " Two minutes left! Stay alive!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Just one minute! RESIST!!! ": {
+    "Translation": " Just one minute! RESIST!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30 seconds to go! C'mon! ": {
+    "Translation": " 30 seconds to go! C'mon! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 毁灭僵尸的细菌将在15秒内释放! ": {
+    "Translation": " 毁灭僵尸的细菌将在15秒内释放! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " YEAH!!! WE DID IT!!! ": {
+    "Translation": " YEAH!!! WE DID IT!!! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

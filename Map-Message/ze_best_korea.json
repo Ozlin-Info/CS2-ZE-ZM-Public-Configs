@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "MAP BY LUFFAREN": {
+    "Translation": "MAP BY LUFFAREN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This is the test version": {
+    "Translation": "This is the test version",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Base on ze_best_korea_css2": {
+    "Translation": "Base on ze_best_korea_css2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUNNING STAGE1": {
+    "Translation": "RUNNING STAGE1",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

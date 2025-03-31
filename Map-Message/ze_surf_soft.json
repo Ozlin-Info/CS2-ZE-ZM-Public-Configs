@@ -165,5 +165,30 @@
     "Translation": " thank you for playing!!!! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Sky tears ": {
+    "Translation": " Sky tears ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Explosion ": {
+    "Translation": " Explosion ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Watch out!!!!! ": {
+    "Translation": " Watch out!!!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ice!!!": {
+    "Translation": "ice!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Ice used ": {
+    "Translation": " Ice used ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

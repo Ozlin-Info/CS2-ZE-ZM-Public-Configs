@@ -60,5 +60,10 @@
     "Translation": " GATE OPENS IN 5 SECONDS ",
     "M-Bool": false,
     "Value": 0
+  },
+  "Stage 1 - Find a way through Paramina Rift and locate the ": {
+    "Translation": "Stage 1 - Find a way through Paramina Rift and locate the ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -20,5 +20,25 @@
     "Translation": "[STAGE 1 NORMAL]",
     "M-Bool": false,
     "Value": 0
+  },
+  " Player has picked up Fire magick. ": {
+    "Translation": " Player has picked up Fire magick. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE MAIN DOOR OPENS IN 35 SECONDS": {
+    "Translation": "THE MAIN DOOR OPENS IN 35 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE MAIN DOOR OPENS IN 5 SECONDS": {
+    "Translation": "THE MAIN DOOR OPENS IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TELEPORT IN 10 SECOND": {
+    "Translation": "AFK TELEPORT IN 10 SECOND",
+    "M-Bool": false,
+    "Value": 0
   }
 }
