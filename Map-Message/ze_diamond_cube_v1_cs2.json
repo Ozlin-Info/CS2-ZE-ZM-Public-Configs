@@ -25,5 +25,15 @@
     "Translation": " Special Thank Miceadf , Reflelia , Kizan ",
     "M-Bool": false,
     "Value": 0
+  },
+  " wall picked up (Cool Time : 35 ) ": {
+    "Translation": " wall picked up (Cool Time : 35 ) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " door opening in 30 seconds ": {
+    "Translation": " door opening in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

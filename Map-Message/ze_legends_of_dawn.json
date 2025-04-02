@@ -10,5 +10,20 @@
     "Translation": "Enter the lost land in 20 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "zombieTP 20": {
+    "Translation": "zombieTP 20",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We need to defend for 20 seconds": {
+    "Translation": "We need to defend for 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zombieTP 30": {
+    "Translation": "zombieTP 30",
+    "M-Bool": false,
+    "Value": 0
   }
 }
