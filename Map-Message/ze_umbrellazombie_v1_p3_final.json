@@ -25,5 +25,105 @@
     "Translation": " DEFENSE AREAS WILL APPEAR AS BLUE PROTECTION ",
     "M-Bool": false,
     "Value": 0
+  },
+  " THE DOOR WILL OPEN IN 20 SECONDS  ": {
+    "Translation": " THE DOOR WILL OPEN IN 20 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE TELEPORT 5 SECONDS  ": {
+    "Translation": " ZOMBIE TELEPORT 5 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENING  ": {
+    "Translation": " DOOR OPENING  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE DOOR WILL OPEN IN 30 SECONDS  ": {
+    "Translation": " THE DOOR WILL OPEN IN 30 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE DOOR WILL OPEN IN 25 SECONDS  ": {
+    "Translation": " THE DOOR WILL OPEN IN 25 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE DOOR WILL OPEN IN 5 SECONDS, GO BACK  ": {
+    "Translation": " THE DOOR WILL OPEN IN 5 SECONDS, GO BACK  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENING , GO BACK ": {
+    "Translation": " DOOR OPENING , GO BACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE DOOR WILL OPEN IN 35 SECONDS  ": {
+    "Translation": " THE DOOR WILL OPEN IN 35 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENING! ,GO TO THE NEXT DEFENSE AREA  ": {
+    "Translation": " DOOR OPENING! ,GO TO THE NEXT DEFENSE AREA  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO BACK!! GO TO THE NEXT DEFENSE AREA ": {
+    "Translation": " GO BACK!! GO TO THE NEXT DEFENSE AREA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE TELEPORT 5 SECONDS ": {
+    "Translation": " ZOMBIE TELEPORT 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENING, GO BACK ": {
+    "Translation": " DOOR OPENING, GO BACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE DOOR WILL OPEN IN 15 SECONDS  ": {
+    "Translation": " THE DOOR WILL OPEN IN 15 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENING, GO BACK  ": {
+    "Translation": " DOOR OPENING, GO BACK  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR WILL CLOSE AFTER 10 SECONDS RUN RUN RUN ": {
+    "Translation": " DOOR WILL CLOSE AFTER 10 SECONDS RUN RUN RUN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR CLOSING  ": {
+    "Translation": " DOOR CLOSING  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DESTROY YOUR MACHINE  ": {
+    "Translation": " DESTROY YOUR MACHINE  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WATCH OUT FOR FIRES AND ZOMBIE CAGES ": {
+    "Translation": " WATCH OUT FOR FIRES AND ZOMBIE CAGES ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE GATES OPENING, DEFEND ": {
+    "Translation": " ZOMBIE GATES OPENING, DEFEND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ACTIVATING FLAME LAUNCH ": {
+    "Translation": " ACTIVATING FLAME LAUNCH ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -15,5 +15,115 @@
     "Translation": " WE WILL BE FREE IN 20 SECONDS ! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " WAIT 20 SECONDS FOR THE ICE TO MELT ": {
+    "Translation": " WAIT 20 SECONDS FOR THE ICE TO MELT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE PATH IS CLEAR ! GO GO GO ! ": {
+    "Translation": " THE PATH IS CLEAR ! GO GO GO ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WAIT 15 SECONDS ": {
+    "Translation": " WAIT 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SO LONG EH SNOW WAVES ! ": {
+    "Translation": " SO LONG EH SNOW WAVES ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SHOOT THE BOX ! ": {
+    "Translation": " SHOOT THE BOX ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE GIANT SHELL WILL MOVE IN 15 SECONDS ": {
+    "Translation": " THE GIANT SHELL WILL MOVE IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " COLLECT THE 8 RED COINS TO OPEN THE DOOR ": {
+    "Translation": " COLLECT THE 8 RED COINS TO OPEN THE DOOR ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ELEVATOR WILL MOVE IN 15 SECONDS ": {
+    "Translation": " ELEVATOR WILL MOVE IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE ICE ON THE LADDER WILL MELT IN 20 SECONDS ": {
+    "Translation": " THE ICE ON THE LADDER WILL MELT IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIES TP TO THE PENGUIN IN 15 SECONDS ": {
+    "Translation": " ZOMBIES TP TO THE PENGUIN IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WE FOUND THE STAR ! ": {
+    "Translation": " WE FOUND THE STAR ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND THE SNOWMAN'S HEAD FOR 20 SECONDS ": {
+    "Translation": " DEFEND THE SNOWMAN'S HEAD FOR 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE GREAT COLD WILL KILL EVERYTHING BELOW ": {
+    "Translation": " THE GREAT COLD WILL KILL EVERYTHING BELOW ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE ELEVATOR WILL BE ACCESSIBLE IN 10 SECONDS ": {
+    "Translation": " THE ELEVATOR WILL BE ACCESSIBLE IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE ELEVATOR WILL MOVE IN 10 SECONDS ": {
+    "Translation": " THE ELEVATOR WILL MOVE IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE FLOWER PUSH WILL START IN 20 SECONDS ": {
+    "Translation": " THE FLOWER PUSH WILL START IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LET'S FLY ! ": {
+    "Translation": " LET'S FLY ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE ICE WALL WILL BREAK IN 20 SECONDS ! ": {
+    "Translation": " THE ICE WALL WILL BREAK IN 20 SECONDS ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LET'S A-GO ! ": {
+    "Translation": " LET'S A-GO ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND 25 SECONDS 'TILL THE SNOWMAN MELT ": {
+    "Translation": " DEFEND 25 SECONDS 'TILL THE SNOWMAN MELT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FALL BACK ": {
+    "Translation": " FALL BACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND UNTIL THE CHIMNEY IS REACHABLE ": {
+    "Translation": " DEFEND UNTIL THE CHIMNEY IS REACHABLE ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

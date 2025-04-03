@@ -25,5 +25,20 @@
     "Translation": "Laser Mode",
     "M-Bool": false,
     "Value": 0
+  },
+  "Watch Out!!": {
+    "Translation": "Watch Out!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Rock break in 25seconds": {
+    "Translation": "Rock break in 25seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AirBoat Leaving in 30seconds": {
+    "Translation": "AirBoat Leaving in 30seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

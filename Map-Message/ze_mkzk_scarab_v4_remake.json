@@ -1,0 +1,74 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ze_MkZk_Scarab 重置版": {
+    "Translation": "ze_MkZk_Scarab 重置版",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "进入大门，跟随眼睛的指引找到古代传送门": {
+    "Translation": "进入大门，跟随眼睛的指引找到古代传送门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "请设置僵尸在开局45秒后尸变": {
+    "Translation": "请设置僵尸在开局45秒后尸变",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "但需要注意...": {
+    "Translation": "但需要注意...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "...死亡会降临到那些看不到圣甲虫的人身上": {
+    "Translation": "...死亡会降临到那些看不到圣甲虫的人身上",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "剩余二十秒": {
+    "Translation": "剩余二十秒",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "最后五秒!": {
+    "Translation": "最后五秒!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5": {
+    "Translation": "5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4": {
+    "Translation": "4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "清剿所有僵尸以获得胜利!": {
+    "Translation": "清剿所有僵尸以获得胜利!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
