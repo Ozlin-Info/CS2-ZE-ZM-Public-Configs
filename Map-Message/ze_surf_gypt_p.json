@@ -55,5 +55,50 @@
     "Translation": " THIS MAP HAS BEEN CREATED BY  --- FuTuRe ---",
     "M-Bool": false,
     "Value": 0
+  },
+  " WOODEN BLOCK WILL BE DESTROYED SOON, ACTIVATE C4 WHEN POSSIBLE! ": {
+    "Translation": " WOODEN BLOCK WILL BE DESTROYED SOON, ACTIVATE C4 WHEN POSSIBLE! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ": {
+    "Translation": " EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS LEFT UNTIL DETONATION! ": {
+    "Translation": " 5 SECONDS LEFT UNTIL DETONATION! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " C4 DETONATED, GO GO GO! ": {
+    "Translation": " C4 DETONATED, GO GO GO! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ACTIVATE THE CONSOLE AFTER THE LAVA": {
+    "Translation": " ACTIVATE THE CONSOLE AFTER THE LAVA",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WALL WILL BREAK DOWN IN 30 SECONDS  DEFEND THE LAVA ": {
+    "Translation": " WALL WILL BREAK DOWN IN 30 SECONDS  DEFEND THE LAVA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WALL BREAKS IN 5 SECONDS ": {
+    "Translation": " WALL BREAKS IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WALL HAS BROKEN DOWN, RUN TO THE TELEPORT ": {
+    "Translation": " WALL HAS BROKEN DOWN, RUN TO THE TELEPORT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE TELEPORT IN 16 SECONDS ": {
+    "Translation": " ZOMBIE TELEPORT IN 16 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

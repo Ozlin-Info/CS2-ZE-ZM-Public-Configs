@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map by Airvulpes ": {
+    "Translation": " Map by Airvulpes ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " css port by xen ": {
+    "Translation": " css port by xen ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " csgo backport by koen ": {
+    "Translation": " csgo backport by koen ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " cs2 port by Tenshi. ": {
+    "Translation": " cs2 port by Tenshi. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage - B ": {
+    "Translation": " Stage - B ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage - C ": {
+    "Translation": " Stage - C ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
