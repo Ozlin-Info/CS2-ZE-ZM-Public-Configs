@@ -65,5 +65,35 @@
     "Translation": "GOGOGO!!!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Hold for 30 sec": {
+    "Translation": "Hold for 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold for 5 sec": {
+    "Translation": "Hold for 5 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Break 7 red targets to continue": {
+    "Translation": "Break 7 red targets to continue",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Good... Now climb on the towers and wait for rescue": {
+    "Translation": "Good... Now climb on the towers and wait for rescue",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "wait 10 sec": {
+    "Translation": "wait 10 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Rescue is here... Jump on!!!": {
+    "Translation": "Rescue is here... Jump on!!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

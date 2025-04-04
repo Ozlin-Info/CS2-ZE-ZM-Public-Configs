@@ -20,5 +20,65 @@
     "Translation": "The road will open in 25 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "-Map by Sea_Sedge-": {
+    "Translation": "-Map by Sea_Sedge-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-Ported by oVo-": {
+    "Translation": "-Ported by oVo-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The road will open in 30 seconds": {
+    "Translation": "The road will open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zombie teleport in 5S": {
+    "Translation": "zombie teleport in 5S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The castle will open in 20 seconds": {
+    "Translation": "The castle will open in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The room will be open in 25 seconds": {
+    "Translation": "The room will be open in 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Howdy,Frisk!": {
+    "Translation": "Howdy,Frisk!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You finally made it home.": {
+    "Translation": "You finally made it home.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Remember when we used to play here?": {
+    "Translation": "Remember when we used to play here?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hee hee hee...": {
+    "Translation": "Hee hee hee...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boy!": {
+    "Translation": "Boy!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Today's gonna be just as fun.": {
+    "Translation": "Today's gonna be just as fun.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

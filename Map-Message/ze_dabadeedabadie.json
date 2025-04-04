@@ -11,28 +11,28 @@
     "M-Bool": false,
     "Value": 0
   },
-  " Ok, where are we now ? ": {
-    "Translation": " Ok, where are we now ? ",
+  " There's something strange with this place... ": {
+    "Translation": " There's something strange with this place... ",
     "M-Bool": false,
     "Value": 0
   },
-  " It's so hot in here. We must get out of this place. ": {
-    "Translation": " It's so hot in here. We must get out of this place. ",
+  " Why is everything so... blue ?": {
+    "Translation": " Why is everything so... blue ?",
     "M-Bool": false,
     "Value": 0
   },
-  " Door opens in 10 seconds ": {
-    "Translation": " Door opens in 10 seconds ",
+  " The door is open and the block is gone ! ": {
+    "Translation": " The door is open and the block is gone ! ",
     "M-Bool": false,
     "Value": 0
   },
-  " Zombies shortcut will open in 20 seconds ": {
-    "Translation": " Zombies shortcut will open in 20 seconds ",
+  " Zombies TP in 10 seconds ": {
+    "Translation": " Zombies TP in 10 seconds ",
     "M-Bool": false,
     "Value": 0
   },
-  " Please wait 15 seconds ": {
-    "Translation": " Please wait 15 seconds ",
+  " DOOR OPENS IN 10 SECONDS ": {
+    "Translation": " DOOR OPENS IN 10 SECONDS ",
     "M-Bool": false,
     "Value": 0
   }

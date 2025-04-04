@@ -25,5 +25,15 @@
     "Translation": " Special thanks to Brunelazo343 for custom skins ",
     "M-Bool": false,
     "Value": 0
+  },
+  " The Lower Asylum gates will open in 15 seconds ": {
+    "Translation": " The Lower Asylum gates will open in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The Asylum Main gates will open will open in 25 seconds ": {
+    "Translation": " The Asylum Main gates will open will open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

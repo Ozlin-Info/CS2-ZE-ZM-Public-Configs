@@ -35,5 +35,20 @@
     "Translation": "Please enter snd_musicvolume 0~1 on the console to adjust",
     "M-Bool": false,
     "Value": 0
+  },
+  " Door Opens in 30 seconds ": {
+    "Translation": " Door Opens in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Contain leaves in 20 seconds ": {
+    "Translation": " Contain leaves in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Contain leaves in 15 seconds ": {
+    "Translation": " Contain leaves in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

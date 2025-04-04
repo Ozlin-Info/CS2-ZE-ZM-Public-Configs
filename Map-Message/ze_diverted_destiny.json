@@ -50,5 +50,20 @@
     "Translation": "A lever has been pulled",
     "M-Bool": false,
     "Value": 0
+  },
+  "Zombie Flight has been picked up": {
+    "Translation": "Zombie Flight has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Cooldown: 45 Seconds | Duration: 5 Seconds": {
+    "Translation": "Cooldown: 45 Seconds | Duration: 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM Flight item has been used.": {
+    "Translation": "ZM Flight item has been used.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

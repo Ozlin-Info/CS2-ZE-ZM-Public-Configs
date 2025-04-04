@@ -20,5 +20,75 @@
     "Translation": "TRUCK LEAVING 8 SECONDS",
     "M-Bool": false,
     "Value": 0
+  },
+  "C4 EXPLOING IN 10 SECONDS": {
+    "Translation": "C4 EXPLOING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "C4 EXPLODING IN 5 SECONDS": {
+    "Translation": "C4 EXPLODING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LOADING BAY GATE CLOSING IN 20 SECONDS": {
+    "Translation": "LOADING BAY GATE CLOSING IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND THE LOADING BAY 40 SECONDS": {
+    "Translation": "DEFEND THE LOADING BAY 40 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YOU MUST NOW DEFEND THE BOXES": {
+    "Translation": "YOU MUST NOW DEFEND THE BOXES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GO GO! GATE IS NOW OPEN!!": {
+    "Translation": "GO GO! GATE IS NOW OPEN!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DINO TRANSPORTER LEAVING IN 10 SECONDS": {
+    "Translation": "DINO TRANSPORTER LEAVING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CALL THE MAIN LAND...... TELL THEM TO SEND THE DAMN HELICOPTERS": {
+    "Translation": "CALL THE MAIN LAND...... TELL THEM TO SEND THE DAMN HELICOPTERS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND THE HELI PAD": {
+    "Translation": "DEFEND THE HELI PAD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HELI INBOUND 60 SECONDS": {
+    "Translation": "HELI INBOUND 60 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HELI INBOUND 30 SECONDS": {
+    "Translation": "HELI INBOUND 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HELI INBOUND 15 SECONDS": {
+    "Translation": "HELI INBOUND 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HELI INBOUND": {
+    "Translation": "HELI INBOUND",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WIPE OUT GAS INBOUND!": {
+    "Translation": "WIPE OUT GAS INBOUND!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

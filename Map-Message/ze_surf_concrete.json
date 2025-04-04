@@ -20,5 +20,45 @@
     "Translation": "Hold 45 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Zombie tp at 30 seconds": {
+    "Translation": "Zombie tp at 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend 30 seconds": {
+    "Translation": "Defend 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold 30 seconds": {
+    "Translation": "Hold 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "All zm tp at 30 seconds": {
+    "Translation": "All zm tp at 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend the doors": {
+    "Translation": "Defend the doors",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Go down": {
+    "Translation": "Go down",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend 35 seconds": {
+    "Translation": "Defend 35 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend bridge 35 seconds": {
+    "Translation": "Defend bridge 35 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }
