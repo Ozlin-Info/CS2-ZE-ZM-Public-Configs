@@ -594,8 +594,8 @@
 	      ]
 	    },
 	    {
-	      "Name": "Sword Mage",
-	      "ShortName": "Sword Mage",
+	      "Name": "Sword Mage Luyin",
+	      "ShortName": "Luyin",
 	      "Color": "{default}",
 	      "HammerID": 17343,
 	      "GlowColor": [0,255,0,1],
@@ -676,5 +676,31 @@
 	          "CoolDown": 0
 	        }
 	      ]
-	    }
+	    },
+		{
+		  "Name": "Sword Mage Ruijie",
+		  "ShortName": "Ruijie",
+		  "Color": "{default}",
+		  "HammerID": "17724",
+		  "GlowColor": [0,255,0,1],
+		  "BlockPickup": false,
+		  "AllowTransfer": true,
+		  "ForceDrop": true,
+		  "Chat": true,
+		  "Hud": true,
+		  "TriggerID": 17790,
+		  "UsePriority": true,
+		  "AbilityList": [
+			{
+			  "Name": "jianshi2_skill_button",
+			  "ButtonID": 17783,
+			  "ButtonClass": "func_button",
+			  "Filter": "jianshi2_user:1",
+			  "Chat_Uses": true,
+			  "Mode": 4,
+			  "MaxUses": 2,
+			  "CoolDown": 2
+			}
+		  ]
+		}
 	  ]
