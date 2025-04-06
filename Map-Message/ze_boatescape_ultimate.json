@@ -180,5 +180,80 @@
     "Translation": "Anti-spam teleport PUSH has been enabled.",
     "M-Bool": false,
     "Value": 0
+  },
+  " 僵尸深渊监视者/米诺斯突进技能已被暂时锁定,防止超车. ": {
+    "Translation": " 僵尸深渊监视者/米诺斯突进技能已被暂时锁定,防止超车. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Sett is ready to have a showdown!": {
+    "Translation": "Sett is ready to have a showdown!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "新皮肤瑟提 暂为赞助者前瞻测试,待大更新后会加入正常皮肤池中": {
+    "Translation": "新皮肤瑟提 暂为赞助者前瞻测试,待大更新后会加入正常皮肤池中",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has adquired ICE MATERIA ": {
+    "Translation": " A player has adquired ICE MATERIA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Assistance is on the way,Just fucking defend!! ": {
+    "Translation": " Assistance is on the way,Just fucking defend!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 僵尸深渊监视者/米诺斯突进技能已解锁！ ": {
+    "Translation": " 僵尸深渊监视者/米诺斯突进技能已解锁！ ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Warning! Nuke incoming..": {
+    "Translation": " Warning! Nuke incoming..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 当前模式: 幸运盒挑战 ": {
+    "Translation": " 当前模式: 幸运盒挑战 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Current Mode: Luckybox ": {
+    "Translation": " Current Mode: Luckybox ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 用脑袋去顶幸运盒获取惊喜大奖吧. ": {
+    "Translation": " 用脑袋去顶幸运盒获取惊喜大奖吧. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PLAYER PICKED UP ITEM - MINI CANNON": {
+    "Translation": "PLAYER PICKED UP ITEM - MINI CANNON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Metal gate open in 10 sec ": {
+    "Translation": " Metal gate open in 10 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "绯红女皇的技能在8秒后解锁.": {
+    "Translation": "绯红女皇的技能在8秒后解锁.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸追击传送已关闭.": {
+    "Translation": "僵尸追击传送已关闭.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "检测到有僵尸在终点,核爆已锁定.": {
+    "Translation": "检测到有僵尸在终点,核爆已锁定.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

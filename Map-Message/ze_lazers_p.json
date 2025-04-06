@@ -230,5 +230,55 @@
     "Translation": "Now Playing: The Fountain - Pendulum",
     "M-Bool": false,
     "Value": 0
+  },
+  "Now Playing: Witchcraft - Pendulum": {
+    "Translation": "Now Playing: Witchcraft - Pendulum",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Transporters Open in 10 Seconds": {
+    "Translation": "Transporters Open in 10 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Helicopter Leaves in 40 Seconds": {
+    "Translation": "Helicopter Leaves in 40 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Now Playing: 3 Big Balls - DigBar": {
+    "Translation": "Now Playing: 3 Big Balls - DigBar",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Helicopter Leaves in 10 Seconds": {
+    "Translation": "Helicopter Leaves in 10 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Doors Opening in 35 Seconds": {
+    "Translation": "Doors Opening in 35 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Doors Opening in 5 Seconds": {
+    "Translation": "Doors Opening in 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bridge Breaking in 10 Seconds": {
+    "Translation": "Bridge Breaking in 10 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Now Playing: 4 DA TRAP - 645AR": {
+    "Translation": "Now Playing: 4 DA TRAP - 645AR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Now Playing: Little Girls - Oingo Boingo": {
+    "Translation": "Now Playing: Little Girls - Oingo Boingo",
+    "M-Bool": false,
+    "Value": 0
   }
 }
