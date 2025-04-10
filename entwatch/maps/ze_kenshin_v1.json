@@ -40,7 +40,7 @@
     "ForceDrop": true,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 2451,
     "UsePriority": true,
     "AbilityList": [
       {
