@@ -50,5 +50,200 @@
     "Translation": " EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL ",
     "M-Bool": false,
     "Value": 0
+  },
+  " BERSERK COMBO has been acquired": {
+    "Translation": " BERSERK COMBO has been acquired",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE BOARDING PLATFORM EXTENDS IN 35 SECONDS ": {
+    "Translation": " THE BOARDING PLATFORM EXTENDS IN 35 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE BOARDING PLATFORM EXTENDS IN 15 SECONDS ": {
+    "Translation": " THE BOARDING PLATFORM EXTENDS IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE BOARDING PLATFORM EXTENDS IN 5 SECONDS ": {
+    "Translation": " THE BOARDING PLATFORM EXTENDS IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE BOARDING PLATFORM HAS BEEN EXTENDED ": {
+    "Translation": " THE BOARDING PLATFORM HAS BEEN EXTENDED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DESTROY THE DOOR OF THE REPAIR VESSEL ": {
+    "Translation": " DESTROY THE DOOR OF THE REPAIR VESSEL ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE EXPLOSIVES ARE IN PLACE! ": {
+    "Translation": " THE EXPLOSIVES ARE IN PLACE! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EXPLOSION IN 40 SECONDS ": {
+    "Translation": " EXPLOSION IN 40 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EXPLOSION IN 20 SECONDS ": {
+    "Translation": " EXPLOSION IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EXPLOSION IN 5 SECONDS ": {
+    "Translation": " EXPLOSION IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL ": {
+    "Translation": " YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tip - You can do this by standing near the lever at the rear part of the vessel": {
+    "Translation": " Tip - You can do this by standing near the lever at the rear part of the vessel",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE REAR DOOR HAS BEEN OPENED ": {
+    "Translation": " THE REAR DOOR HAS BEEN OPENED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " REINFORCEMENTS ARE ON THE WAY! ": {
+    "Translation": " REINFORCEMENTS ARE ON THE WAY! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL ": {
+    "Translation": " YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARNING! INBOUND AIRSTRIKE! ": {
+    "Translation": " WARNING! INBOUND AIRSTRIKE! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! ": {
+    "Translation": " SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SIDE DOORS OPEN IN 45 SECONDS ": {
+    "Translation": " SIDE DOORS OPEN IN 45 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SIDE DOORS OPEN IN 20 SECONDS ": {
+    "Translation": " SIDE DOORS OPEN IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SIDE DOORS OPEN IN 5 SECONDS ": {
+    "Translation": " SIDE DOORS OPEN IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SIDE DOORS ARE OPENING ": {
+    "Translation": " SIDE DOORS ARE OPENING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER ": {
+    "Translation": " YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS ": {
+    "Translation": " N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS ": {
+    "Translation": " N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS ": {
+    "Translation": " N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " N.E.X.U.S. TRAILER HATCH IS OPEN! ": {
+    "Translation": " N.E.X.U.S. TRAILER HATCH IS OPEN! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES ": {
+    "Translation": " YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WE ARE LEAVING IN 10 SECONDS! ": {
+    "Translation": " WE ARE LEAVING IN 10 SECONDS! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 ": {
+    "Translation": " 5 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 4 ": {
+    "Translation": " 4 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 3 ": {
+    "Translation": " 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 2 ": {
+    "Translation": " 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 1 ": {
+    "Translation": " 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE N.E.X.U.S. MISSILES HAVE BEEN SECURED ": {
+    "Translation": " THE N.E.X.U.S. MISSILES HAVE BEEN SECURED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MOVING ON TO EXPERIENCED DIFFICULTY ": {
+    "Translation": " MOVING ON TO EXPERIENCED DIFFICULTY ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EXPERIENCED DIFFICULTY": {
+    "Translation": " EXPERIENCED DIFFICULTY",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE FORWARD WEAPON CACHE HAS BEEN STOLEN! ": {
+    "Translation": " THE FORWARD WEAPON CACHE HAS BEEN STOLEN! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LIGHTNING RIFLE has been acquired": {
+    "Translation": " LIGHTNING RIFLE has been acquired",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Enemies reached the objective": {
+    "Translation": "Enemies reached the objective",
+    "M-Bool": false,
+    "Value": 0
   }
 }

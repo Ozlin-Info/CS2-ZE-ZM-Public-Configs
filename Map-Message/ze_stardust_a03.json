@@ -25,5 +25,15 @@
     "Translation": " ze_Stardust - Ver.a03_f4 ",
     "M-Bool": false,
     "Value": 0
+  },
+  " 40 seconds ": {
+    "Translation": " 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " falltp location has been updated ": {
+    "Translation": " falltp location has been updated ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
