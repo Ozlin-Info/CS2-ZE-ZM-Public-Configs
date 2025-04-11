@@ -1,7 +1,7 @@
 [
   {
-    "Name": "推力",
-    "ShortName": "推力",
+    "Name": "Push",
+    "ShortName": "Push",
     "Color": "{default}",
     "HammerID": 650,
     "GlowColor": [0,255,0,1],
