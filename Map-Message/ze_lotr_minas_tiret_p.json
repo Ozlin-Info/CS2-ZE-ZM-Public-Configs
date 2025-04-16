@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Welcome to Minas Tirith - City of Kings": {
+    "Translation": "Welcome to Minas Tirith - City of Kings",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP BY Limon. [Russian] ": {
+    "Translation": " MAP BY Limon. [Russian] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Your mission: don't let zombies capture all city": {
+    "Translation": "Your mission: don't let zombies capture all city",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate will open in 35 seconds": {
+    "Translation": "Gate will open in 35 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The Gate will open in 5 seconds!": {
+    "Translation": "The Gate will open in 5 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gate is now open!": {
+    "Translation": "Gate is now open!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

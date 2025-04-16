@@ -50,5 +50,10 @@
     "Translation": "Door open by zombies",
     "M-Bool": false,
     "Value": 0
+  },
+  "Door will open in 20 sec or zombies trigger at once ": {
+    "Translation": "Door will open in 20 sec or zombies trigger at once ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

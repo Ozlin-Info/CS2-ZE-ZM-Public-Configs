@@ -50,5 +50,115 @@
     "Translation": "MAP MADE BY N!kO | NickMaps",
     "M-Bool": false,
     "Value": 0
+  },
+  "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 20 SEGUNDOS": {
+    "Translation": "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 20 SEGUNDOS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARNING - BLASTDOOR WILL OPEN IN 20 SECONDS": {
+    "Translation": "WARNING - BLASTDOOR WILL OPEN IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 10 SEGUNDOS": {
+    "Translation": "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 10 SEGUNDOS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARNING - BLASTDOOR WILL OPEN IN 10 SECONDS": {
+    "Translation": "WARNING - BLASTDOOR WILL OPEN IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 30 SEGUNDOS": {
+    "Translation": "ATENÇÃO - O PORTÃO IRÁ ABRIR EM 30 SEGUNDOS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARNING - BLASTDOOR WILL OPEN IN 30 SECONDS": {
+    "Translation": "WARNING - BLASTDOOR WILL OPEN IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ATENÇÃO - O ELEVADOR IRÁ SUBIR EM 10 SEGUNDOS": {
+    "Translation": "ATENÇÃO - O ELEVADOR IRÁ SUBIR EM 10 SEGUNDOS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARNING - ELEVATOR WILL START IN 10 SECONDS": {
+    "Translation": "WARNING - ELEVATOR WILL START IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "VOCÊ CHEGOU NA TORRE DE RÁDIO !": {
+    "Translation": "VOCÊ CHEGOU NA TORRE DE RÁDIO !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OS BARCOS IRÃO PARTIR EM 30 SEGUNDOS !": {
+    "Translation": "OS BARCOS IRÃO PARTIR EM 30 SEGUNDOS !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YOU REACHED THE RADIO TOWER !": {
+    "Translation": "YOU REACHED THE RADIO TOWER !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BOATS WILL LEAVE IN 30 SECONDS !": {
+    "Translation": "BOATS WILL LEAVE IN 30 SECONDS !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "O MUNDO ESTARÁ PERDIDO": {
+    "Translation": "O MUNDO ESTARÁ PERDIDO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE WORLD WILL BE LOST": {
+    "Translation": "THE WORLD WILL BE LOST",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MODO DESTRUIÇÃO FOI ATIVADO": {
+    "Translation": "MODO DESTRUIÇÃO FOI ATIVADO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "EXPLOSION OVERRIDE MODE ACTIVATED": {
+    "Translation": "EXPLOSION OVERRIDE MODE ACTIVATED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ATENÇÃO - O ELEVADOR IRÁ SUBIR EM 30 SEGUNDOS": {
+    "Translation": "ATENÇÃO - O ELEVADOR IRÁ SUBIR EM 30 SEGUNDOS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARNING - ELEVATOR WILL START IN 30 SECONDS": {
+    "Translation": "WARNING - ELEVATOR WILL START IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ATENÇÃO - A PORTA IRÁ ABRIR EM 15 SEGUNDOS": {
+    "Translation": "ATENÇÃO - A PORTA IRÁ ABRIR EM 15 SEGUNDOS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARNING - DOOR WILL OPEN IN 15 SECONDS": {
+    "Translation": "WARNING - DOOR WILL OPEN IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ATENÇÃO - A GRADE IRÁ ABRIR EM 30 SEGUNDOS": {
+    "Translation": "ATENÇÃO - A GRADE IRÁ ABRIR EM 30 SEGUNDOS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARNING - GRATE WILL OPEN IN 30 SECONDS": {
+    "Translation": "WARNING - GRATE WILL OPEN IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }

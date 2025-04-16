@@ -1,0 +1,69 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ze_temple_of_phantom_v2 ": {
+    "Translation": " ze_temple_of_phantom_v2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Phase 1 ": {
+    "Translation": " Phase 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Light Summoning Magic has been picked up": {
+    "Translation": "Light Summoning Magic has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Secret Chaos has been picked up": {
+    "Translation": "Secret Chaos has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Release chaotic magic to blind enemies": {
+    "Translation": "Release chaotic magic to blind enemies",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Right click can destroy all human artifact effects instantly": {
+    "Translation": "Right click can destroy all human artifact effects instantly",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Void Mystery has been picked up": {
+    "Translation": "Void Mystery has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Release the Son of Death from the Void and rush towards the target": {
+    "Translation": "Release the Son of Death from the Void and rush towards the target",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Right click to form a Void Shield to resist human attacks": {
+    "Translation": "Right click to form a Void Shield to resist human attacks",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Secret of Ice has been picked up": {
+    "Translation": "Secret of Ice has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Freeze enemies around 5 seconds after release": {
+    "Translation": "Freeze enemies around 5 seconds after release",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Right click to release a small snowstorm to slow down surrounding enemies": {
+    "Translation": "Right click to release a small snowstorm to slow down surrounding enemies",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

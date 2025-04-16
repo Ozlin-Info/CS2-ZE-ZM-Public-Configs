@@ -25,5 +25,10 @@
     "Translation": "STAGE1 Clean",
     "M-Bool": false,
     "Value": 0
+  },
+  "40seconds left": {
+    "Translation": "40seconds left",
+    "M-Bool": false,
+    "Value": 0
   }
 }

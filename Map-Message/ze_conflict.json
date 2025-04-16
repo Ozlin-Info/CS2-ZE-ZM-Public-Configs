@@ -15,5 +15,110 @@
     "Translation": "::: Special Thanks : Hweyeon , Yessi , miceadf :::",
     "M-Bool": false,
     "Value": 0
+  },
+  "::: Hold 30 Seconds :::": {
+    "Translation": "::: Hold 30 Seconds :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 10 seconds left :::": {
+    "Translation": "::: 10 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: Hold 20 Seconds :::": {
+    "Translation": "::: Hold 20 Seconds :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 5 Seconds left :::": {
+    "Translation": "::: 5 Seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: Hold 40 Seconds :::": {
+    "Translation": "::: Hold 40 Seconds :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 20 Seconds left :::": {
+    "Translation": "::: 20 Seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: Hold 25 Seconds :::": {
+    "Translation": "::: Hold 25 Seconds :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: Hold 50 Seconds :::": {
+    "Translation": "::: Hold 50 Seconds :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: Hold 45 Seconds :::": {
+    "Translation": "::: Hold 45 Seconds :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 140 seconds left :::": {
+    "Translation": "::: 140 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 130 seconds left :::": {
+    "Translation": "::: 130 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 120 seconds left :::": {
+    "Translation": "::: 120 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 110 seconds left :::": {
+    "Translation": "::: 110 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 100 seconds left :::": {
+    "Translation": "::: 100 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 90 seconds left :::": {
+    "Translation": "::: 90 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 80 seconds left :::": {
+    "Translation": "::: 80 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 70 seconds left :::": {
+    "Translation": "::: 70 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 60 seconds left :::": {
+    "Translation": "::: 60 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 50 seconds left :::": {
+    "Translation": "::: 50 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 40 seconds left :::": {
+    "Translation": "::: 40 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "::: 30 seconds left :::": {
+    "Translation": "::: 30 seconds left :::",
+    "M-Bool": false,
+    "Value": 0
   }
 }

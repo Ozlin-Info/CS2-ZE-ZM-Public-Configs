@@ -115,5 +115,25 @@
     "Translation": " Door is opening in 20s ",
     "M-Bool": false,
     "Value": 0
+  },
+  " WARM UP - 60 SEC ": {
+    "Translation": " WARM UP - 60 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARM UP - 50 SEC ": {
+    "Translation": " WARM UP - 50 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARM UP - 40 SEC ": {
+    "Translation": " WARM UP - 40 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARM UP - 30 SEC ": {
+    "Translation": " WARM UP - 30 SEC ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

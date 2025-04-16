@@ -25,5 +25,15 @@
     "Translation": " 20 SECONDS ",
     "M-Bool": false,
     "Value": 0
+  },
+  "| PROLOGUE |": {
+    "Translation": "| PROLOGUE |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| 10 SECONDS |": {
+    "Translation": "| 10 SECONDS |",
+    "M-Bool": false,
+    "Value": 0
   }
 }

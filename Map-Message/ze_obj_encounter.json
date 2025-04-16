@@ -165,5 +165,20 @@
     "Translation": "Watch out for the glass.",
     "M-Bool": false,
     "Value": 0
+  },
+  "-..": {
+    "Translation": "-..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--.": {
+    "Translation": "--.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "---": {
+    "Translation": "---",
+    "M-Bool": false,
+    "Value": 0
   }
 }

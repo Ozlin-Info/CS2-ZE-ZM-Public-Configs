@@ -25,5 +25,15 @@
     "Translation": "Please enjoy",
     "M-Bool": false,
     "Value": 0
+  },
+  "The door will open in 40s": {
+    "Translation": "The door will open in 40s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 10s": {
+    "Translation": "The door will open in 10s",
+    "M-Bool": false,
+    "Value": 0
   }
 }

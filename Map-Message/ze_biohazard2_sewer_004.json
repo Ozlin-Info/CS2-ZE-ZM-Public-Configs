@@ -20,5 +20,15 @@
     "Translation": "WWW.SUPREME-ELITE.FR ",
     "M-Bool": false,
     "Value": 0
+  },
+  "START ELEVATOR 15 SEC": {
+    "Translation": "START ELEVATOR 15 SEC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR UP 14 SEC": {
+    "Translation": "ELEVATOR UP 14 SEC",
+    "M-Bool": false,
+    "Value": 0
   }
 }

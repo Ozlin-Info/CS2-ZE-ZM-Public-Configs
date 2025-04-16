@@ -55,5 +55,15 @@
     "Translation": " A player has learned Electro magick. ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Be aware of fake donations - groups and profiles ! ": {
+    "Translation": " Be aware of fake donations - groups and profiles ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has learned Fire magick. ": {
+    "Translation": " A player has learned Fire magick. ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

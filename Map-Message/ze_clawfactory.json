@@ -35,5 +35,90 @@
     "Translation": " Please wait 15 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " The elevator will leave in 25 seconds ": {
+    "Translation": " The elevator will leave in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds left ": {
+    "Translation": " 10 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " This door will open in 20 seconds ": {
+    "Translation": " This door will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies TP in 10 seconds ": {
+    "Translation": " Zombies TP in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It's open ! ": {
+    "Translation": " It's open ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The fan will shut off in 20 seconds ! ": {
+    "Translation": " The fan will shut off in 20 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Only 5 seconds left ! ": {
+    "Translation": " Only 5 seconds left ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies TP in 5 seconds ! ": {
+    "Translation": " Zombies TP in 5 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Let's regroup in the middle room ! ": {
+    "Translation": " Let's regroup in the middle room ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Seems like we're trapped here...": {
+    "Translation": " Seems like we're trapped here...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Wait... What is this song ? ": {
+    "Translation": " Wait... What is this song ? ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Oh no it's them !! FIRE AT SIGHT !! ": {
+    "Translation": " Oh no it's them !! FIRE AT SIGHT !! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We made it ! ": {
+    "Translation": " We made it ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " But we are surounded by zombies, how could we leave ? ": {
+    "Translation": " But we are surounded by zombies, how could we leave ? ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " This magma rock is blocking the path ! ": {
+    "Translation": " This magma rock is blocking the path ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It should be crushed in 20 seconds ": {
+    "Translation": " It should be crushed in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Ok GO GO GO ": {
+    "Translation": " Ok GO GO GO ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

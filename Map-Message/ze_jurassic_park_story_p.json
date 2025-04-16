@@ -50,5 +50,230 @@
     "Translation": "NIGHT",
     "M-Bool": false,
     "Value": 0
+  },
+  "SYSTEM CHECKING PROCESS": {
+    "Translation": "SYSTEM CHECKING PROCESS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR SECURITY SYSTEM : DISABLE": {
+    "Translation": "DOOR SECURITY SYSTEM : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LIGHT POWER GRID : DISABLE": {
+    "Translation": "LIGHT POWER GRID : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PHONE COMMUNICATION : DISABLE": {
+    "Translation": "PHONE COMMUNICATION : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "VIDEO SYSTEM : DISABLE": {
+    "Translation": "VIDEO SYSTEM : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BACKUP SYSTEM : DISABLE": {
+    "Translation": "BACKUP SYSTEM : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CHECKING PADDOCKS": {
+    "Translation": "CHECKING PADDOCKS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TRICERATOPS PADDOCKS : DISABLE": {
+    "Translation": "TRICERATOPS PADDOCKS : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RESERVE PADDOCKS 1 : DISABLE": {
+    "Translation": "RESERVE PADDOCKS 1 : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RESERVE PADDOCKS 2 : DISABLE": {
+    "Translation": "RESERVE PADDOCKS 2 : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DILOPHAUSAURUS PADDOCKS : DISABLE": {
+    "Translation": "DILOPHAUSAURUS PADDOCKS : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BRACHIOSAURUS PADDOCKS : DISABLE": {
+    "Translation": "BRACHIOSAURUS PADDOCKS : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GALLIMIMUS PADDOCKS : DISABLE": {
+    "Translation": "GALLIMIMUS PADDOCKS : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "VISITOR RIDE SYSTEM : DISABLE": {
+    "Translation": "VISITOR RIDE SYSTEM : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "T-REX PADDOCKS : DISABLE": {
+    "Translation": "T-REX PADDOCKS : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GLOBAL FENCE PERIMETER : DISABLE": {
+    "Translation": "GLOBAL FENCE PERIMETER : DISABLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GLOBAL FAILURE OF ALL SYSTEMS": {
+    "Translation": "GLOBAL FAILURE OF ALL SYSTEMS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CT : COVER UNTIL T-REX BREAK THE FENCE": {
+    "Translation": "CT : COVER UNTIL T-REX BREAK THE FENCE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TRIGGER THE C4 TO BLOW UP THE TREE": {
+    "Translation": "TRIGGER THE C4 TO BLOW UP THE TREE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "EXPLOSION IN 25s !": {
+    "Translation": "EXPLOSION IN 25s !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN !": {
+    "Translation": "RUN !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CLIMB TO THE TREE ! TAKE CARE !": {
+    "Translation": "CLIMB TO THE TREE ! TAKE CARE !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES CLIMB THE HILL": {
+    "Translation": "ZOMBIES CLIMB THE HILL",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GO TO THE BUNKER AND RESTORE THE POWER": {
+    "Translation": "GO TO THE BUNKER AND RESTORE THE POWER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RESTART THE POWER IN Jurassic Park": {
+    "Translation": "RESTART THE POWER IN Jurassic Park",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FOLLOW THE RED PIPE": {
+    "Translation": "FOLLOW THE RED PIPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RESTORE THE POWER TO OPEN THE DOOR": {
+    "Translation": "RESTORE THE POWER TO OPEN THE DOOR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GO TO THE CONTROL ROOM RESTART THE SYSTEM": {
+    "Translation": "GO TO THE CONTROL ROOM RESTART THE SYSTEM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FOLLOW THE SIGN ON THE WALL": {
+    "Translation": "FOLLOW THE SIGN ON THE WALL",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Flamethrower has been picked": {
+    "Translation": "Flamethrower has been picked",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SYSTEM ENABLE IN 40s": {
+    "Translation": "SYSTEM ENABLE IN 40s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "COVER THE DOOR": {
+    "Translation": "COVER THE DOOR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THAT WINDOW DON'T LOOK VERY STRONG": {
+    "Translation": "THAT WINDOW DON'T LOOK VERY STRONG",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TAKE CARE !": {
+    "Translation": "TAKE CARE !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SYSTEM ENABLE IN 20s": {
+    "Translation": "SYSTEM ENABLE IN 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SYSTEM ENABLE IN 5s": {
+    "Translation": "SYSTEM ENABLE IN 5s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TAKE THE LADDER ! BREAKING IN 10s": {
+    "Translation": "TAKE THE LADDER ! BREAKING IN 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TAKE THE LADDER ! BREAKING IN 5s": {
+    "Translation": "TAKE THE LADDER ! BREAKING IN 5s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LADDER BROKEN ! YOU ARE DEAD IF YOU STILL THERE": {
+    "Translation": "LADDER BROKEN ! YOU ARE DEAD IF YOU STILL THERE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GO TO THE MAIN DOOR": {
+    "Translation": "GO TO THE MAIN DOOR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WAIT T-REX HELP": {
+    "Translation": "WAIT T-REX HELP",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PREPARE TO COVER": {
+    "Translation": "PREPARE TO COVER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "COVER 6s": {
+    "Translation": "COVER 6s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN. REX BLOCK THE ZOMBIES": {
+    "Translation": "RUN. REX BLOCK THE ZOMBIES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "JEEPS LEAVING IN 5s AND 8s": {
+    "Translation": "JEEPS LEAVING IN 5s AND 8s",
+    "M-Bool": false,
+    "Value": 0
   }
 }

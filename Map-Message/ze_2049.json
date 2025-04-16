@@ -55,5 +55,35 @@
     "Translation": " HEAL ",
     "M-Bool": false,
     "Value": 0
+  },
+  "| 20 |": {
+    "Translation": "| 20 |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| 15 |": {
+    "Translation": "| 15 |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| 10 |": {
+    "Translation": "| 10 |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| 5 |": {
+    "Translation": "| 5 |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| BEAM |": {
+    "Translation": "| BEAM |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| SLOW BALL |": {
+    "Translation": "| SLOW BALL |",
+    "M-Bool": false,
+    "Value": 0
   }
 }

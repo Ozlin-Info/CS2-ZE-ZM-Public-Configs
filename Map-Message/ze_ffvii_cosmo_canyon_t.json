@@ -340,5 +340,20 @@
     "Translation": "[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away..",
     "M-Bool": false,
     "Value": 0
+  },
+  "[Red-XIII] Do not worry. I know this place.. I was born in here..": {
+    "Translation": "[Red-XIII] Do not worry. I know this place.. I was born in here..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave. ": {
+    "Translation": "[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Red-XIII] There I will give you all the stuff you need. ": {
+    "Translation": "[Red-XIII] There I will give you all the stuff you need. ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

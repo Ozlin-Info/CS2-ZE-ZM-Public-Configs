@@ -315,5 +315,35 @@
     "Translation": " [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] ",
     "M-Bool": false,
     "Value": 0
+  },
+  " 公园大门将在20秒后打开! ": {
+    "Translation": " 公园大门将在20秒后打开! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 走吧! 我们得守住公园，直到找到出路! ": {
+    "Translation": " 走吧! 我们得守住公园，直到找到出路! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We could call a Penis-UFO and split the fare... ": {
+    "Translation": " We could call a Penis-UFO and split the fare... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 快了！ Penis-UFO is coming! 坚持住 !!! ": {
+    "Translation": " 快了！ Penis-UFO is coming! 坚持住 !!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO! The penis UFO 的门开了，快进来!!! ": {
+    "Translation": " GO! The penis UFO 的门开了，快进来!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚守20秒!!! ": {
+    "Translation": " 坚守20秒!!! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

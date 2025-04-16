@@ -5,5 +5,220 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "~ Door will open in 15s ~": {
+    "Translation": "~ Door will open in 15s ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Door is now open ~": {
+    "Translation": "~ Door is now open ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Door will open in 25s ~": {
+    "Translation": "~ Door will open in 25s ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Afk tele enable in 10s ~": {
+    "Translation": "~ Afk tele enable in 10s ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Upper door open in 30s ~": {
+    "Translation": "~ Upper door open in 30s ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Upper door is now open ~": {
+    "Translation": "~ Upper door is now open ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Bottom door open in 25s ~": {
+    "Translation": "~ Bottom door open in 25s ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Bottom door is now open ~": {
+    "Translation": "~ Bottom door is now open ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Upper door open in 25s ~": {
+    "Translation": "~ Upper door open in 25s ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Both portals open in 20s ~": {
+    "Translation": "~ Both portals open in 20s ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Both portals are now open ~": {
+    "Translation": "~ Both portals are now open ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Last portal open in 15s ~": {
+    "Translation": "~ Last portal open in 15s ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Last portal is now open ~": {
+    "Translation": "~ Last portal is now open ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Portal will close in 30s ~": {
+    "Translation": "~ Portal will close in 30s ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Last afk tele enable in 5s ~": {
+    "Translation": "~ Last afk tele enable in 5s ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Truth be told": {
+    "Translation": "Truth be told",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "It's a lonely road": {
+    "Translation": "It's a lonely road",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Portal will close in 10s ~": {
+    "Translation": "~ Portal will close in 10s ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Chasing your dreams": {
+    "Translation": "Chasing your dreams",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "And all that we are": {
+    "Translation": "And all that we are",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "And could ever be": {
+    "Translation": "And could ever be",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Is within our reach": {
+    "Translation": "Is within our reach",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ignite the fire": {
+    "Translation": "Ignite the fire",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pure hearts can never expire": {
+    "Translation": "Pure hearts can never expire",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "May the bridges that we burn": {
+    "Translation": "May the bridges that we burn",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Light the way": {
+    "Translation": "Light the way",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "From the ash we rise": {
+    "Translation": "From the ash we rise",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Like phoenix taking flights": {
+    "Translation": "Like phoenix taking flights",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Blaze an immortal": {
+    "Translation": "Blaze an immortal",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "F L A M E": {
+    "Translation": "F L A M E",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Blaze like an immortal flame": {
+    "Translation": "Blaze like an immortal flame",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Shine like the sun": {
+    "Translation": "Shine like the sun",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Piercing the sky": {
+    "Translation": "Piercing the sky",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Die": {
+    "Translation": "Die",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Rise from the fire": {
+    "Translation": "Rise from the fire",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Begin again": {
+    "Translation": "Begin again",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Flame": {
+    "Translation": "Flame",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Blaze an immortal flame": {
+    "Translation": "Blaze an immortal flame",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ 8 ~": {
+    "Translation": "~ 8 ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Waited all our lives": {
+    "Translation": "Waited all our lives",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Just to burn this bright": {
+    "Translation": "Just to burn this bright",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-Map by Chartapilus-": {
+    "Translation": "-Map by Chartapilus-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-Port by 花澪墨音 -": {
+    "Translation": "-Port by 花澪墨音 -",
+    "M-Bool": false,
+    "Value": 0
   }
 }

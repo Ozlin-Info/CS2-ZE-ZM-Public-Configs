@@ -25,5 +25,895 @@
     "Translation": "RUNNING STAGE1",
     "M-Bool": false,
     "Value": 0
+  },
+  "遇到bug请到创意工坊反馈给我": {
+    "Translation": "遇到bug请到创意工坊反馈给我",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WELCOME TO BEST KOREA": {
+    "Translation": "WELCOME TO BEST KOREA",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WE WILL PROCESS YOUR ENTRY REQUEST": {
+    "Translation": "WE WILL PROCESS YOUR ENTRY REQUEST",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PLEASE HOLD": {
+    "Translation": "PLEASE HOLD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PLEASE HOLD.": {
+    "Translation": "PLEASE HOLD.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PLEASE HOLD..": {
+    "Translation": "PLEASE HOLD..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PLEASE HOLD...": {
+    "Translation": "PLEASE HOLD...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WELCOME MY YOUNG BOYS": {
+    "Translation": "WELCOME MY YOUNG BOYS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GUARDS IN THE BACK ARE A BIT SLOW": {
+    "Translation": "THE GUARDS IN THE BACK ARE A BIT SLOW",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "JUST LET THEM THINK FOR A WHILE": {
+    "Translation": "JUST LET THEM THINK FOR A WHILE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THEY WERE THINKING ABOUT PIZZA": {
+    "Translation": "THEY WERE THINKING ABOUT PIZZA",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PATH OPENING IN 30 SECONDS": {
+    "Translation": "PATH OPENING IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PATH OPENING IN 10 SECONDS": {
+    "Translation": "PATH OPENING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PATH OPENING IN 5 SECONDS": {
+    "Translation": "PATH OPENING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PATH IS OPEN": {
+    "Translation": "PATH IS OPEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PATH OPENING IN 20 SECONDS": {
+    "Translation": "PATH OPENING IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YOU NEED TO EAT SOME PRINGLES": {
+    "Translation": "YOU NEED TO EAT SOME PRINGLES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HANG ON WHILE THE DOOR OPENS": {
+    "Translation": "HANG ON WHILE THE DOOR OPENS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS LEFT": {
+    "Translation": "5 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YOU ATE THE PRINGLES": {
+    "Translation": "YOU ATE THE PRINGLES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YOU SCUM": {
+    "Translation": "YOU SCUM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "STEP ON THE TRAM PLEASE": {
+    "Translation": "STEP ON THE TRAM PLEASE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TRAM IS LEAVING IN 10 SECONDS": {
+    "Translation": "TRAM IS LEAVING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TRAM IS LEAVING IN 5 SECONDS": {
+    "Translation": "TRAM IS LEAVING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TRAM IS LEAVING": {
+    "Translation": "TRAM IS LEAVING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND FOR 20 SECONDS": {
+    "Translation": "DEFEND FOR 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WELCOME TO THE BEST KOREAN BALLOON": {
+    "Translation": "WELCOME TO THE BEST KOREAN BALLOON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SPONSORED BY PRINGLES": {
+    "Translation": "SPONSORED BY PRINGLES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BALLOON DOORS WILL OPEN IN 10 SECONDS": {
+    "Translation": "BALLOON DOORS WILL OPEN IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BALLOON DOORS WILL OPEN IN 5 SECONDS": {
+    "Translation": "BALLOON DOORS WILL OPEN IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BALLOON DOORS ARE OPENING": {
+    "Translation": "BALLOON DOORS ARE OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BALLOON IS LEAVING": {
+    "Translation": "BALLOON IS LEAVING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ENJOY THE RIDE WHILE MURDERING": {
+    "Translation": "ENJOY THE RIDE WHILE MURDERING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DESTINATION ETA - 30 SECONDS": {
+    "Translation": "DESTINATION ETA - 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DESTINATION ETA - 20 SECONDS": {
+    "Translation": "DESTINATION ETA - 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DESTINATION ETA - 10 SECONDS": {
+    "Translation": "DESTINATION ETA - 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DESTINATION ETA - 5 SECONDS": {
+    "Translation": "DESTINATION ETA - 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DESTINATION REACHED": {
+    "Translation": "DESTINATION REACHED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR IS LEAVING IN 30 SECONDS": {
+    "Translation": "ELEVATOR IS LEAVING IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR IS COMING IN 10 SECONDS": {
+    "Translation": "ELEVATOR IS COMING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR IS COMING IN 5 SECONDS": {
+    "Translation": "ELEVATOR IS COMING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SOLVE THE BEST KOREAN PUZZLE": {
+    "Translation": "SOLVE THE BEST KOREAN PUZZLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "IF YOU ARE NAUGHTY YOU WILL DIE": {
+    "Translation": "IF YOU ARE NAUGHTY YOU WILL DIE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR IS COMING": {
+    "Translation": "ELEVATOR IS COMING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HAIL BEST KOREA": {
+    "Translation": "HAIL BEST KOREA",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YOU DID IT": {
+    "Translation": "YOU DID IT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BEST KOREA DOOR IS OPENING IN 5 SECONDS": {
+    "Translation": "BEST KOREA DOOR IS OPENING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BEST KOREA DOOR IS CLOSING IN 5 SECONDS": {
+    "Translation": "BEST KOREA DOOR IS CLOSING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BEST KOREA DOOR IS CLOSING": {
+    "Translation": "BEST KOREA DOOR IS CLOSING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "STAGE 1 WON": {
+    "Translation": "STAGE 1 WON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WELCOME...": {
+    "Translation": "WELCOME...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "..TO BEST KOREA!": {
+    "Translation": "..TO BEST KOREA!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENING IN 10 SECONDS": {
+    "Translation": "DOOR OPENING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENING IN 5 SECONDS": {
+    "Translation": "DOOR OPENING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A BOY HAS BLOWN YOU AWAY": {
+    "Translation": "A BOY HAS BLOWN YOU AWAY",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BOMB PLANTED": {
+    "Translation": "BOMB PLANTED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND FOR 40 SECONDS": {
+    "Translation": "DEFEND FOR 40 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND FOR 30 SECONDS": {
+    "Translation": "DEFEND FOR 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND FOR 10 SECONDS": {
+    "Translation": "DEFEND FOR 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND FOR 5 SECONDS": {
+    "Translation": "DEFEND FOR 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FALL BACK": {
+    "Translation": "FALL BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAIN GATE IS OPENING IN 15 SECONDS": {
+    "Translation": "MAIN GATE IS OPENING IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOUBLE DOOBER GATES ARE OPENING IN 30 SECONDS": {
+    "Translation": "DOUBLE DOOBER GATES ARE OPENING IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAIN GATE IS OPENING": {
+    "Translation": "MAIN GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOUBLE DOOBER GATES ARE OPENING IN 15 SECONDS": {
+    "Translation": "DOUBLE DOOBER GATES ARE OPENING IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOUBLE DOOBER GATES ARE OPENING": {
+    "Translation": "DOUBLE DOOBER GATES ARE OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FATHER GATE IS OPENING IN 20 SECONDS": {
+    "Translation": "FATHER GATE IS OPENING IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FATHER GATE IS OPENING IN 5 SECONDS": {
+    "Translation": "FATHER GATE IS OPENING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FATHER GATE IS OPENING": {
+    "Translation": "FATHER GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ALLEY GATE IS OPENING IN 15 SECONDS": {
+    "Translation": "ALLEY GATE IS OPENING IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ALLEY GATE IS OPENING": {
+    "Translation": "ALLEY GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BIG BEST GATE OPENING IN 50 SECONDS": {
+    "Translation": "BIG BEST GATE OPENING IN 50 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BIG BEST GATE OPENING IN 20 SECONDS": {
+    "Translation": "BIG BEST GATE OPENING IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BIG BEST GATE OPENING IN 10 SECONDS": {
+    "Translation": "BIG BEST GATE OPENING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BIG BEST GATE OPENING IN 5 SECONDS": {
+    "Translation": "BIG BEST GATE OPENING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BIG BEST GATE IS OPENING": {
+    "Translation": "BIG BEST GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BIG BEST KIM IS PROUD": {
+    "Translation": "BIG BEST KIM IS PROUD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HAVE TWO PRINGLES": {
+    "Translation": "HAVE TWO PRINGLES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ALLEYWAY GATE IS OPENING IN 20 SECONDS": {
+    "Translation": "ALLEYWAY GATE IS OPENING IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ALLEYWAY GATE IS OPENING IN 5 SECONDS": {
+    "Translation": "ALLEYWAY GATE IS OPENING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ALLEYWAY GATE IS OPENING": {
+    "Translation": "ALLEYWAY GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "APARTMENT DOOR OPENING IN 30 SECONDS": {
+    "Translation": "APARTMENT DOOR OPENING IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WAIT...": {
+    "Translation": "WAIT...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SOMETHING IS ABOUT TO HAPPEN": {
+    "Translation": "SOMETHING IS ABOUT TO HAPPEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WATCH OUT": {
+    "Translation": "WATCH OUT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "IT'S BABY BOY KIM": {
+    "Translation": "IT'S BABY BOY KIM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN FOR IT": {
+    "Translation": "RUN FOR IT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SOLDIERS INCOMING": {
+    "Translation": "SOLDIERS INCOMING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DADDY DOOR IS OPENING IN 30 SECONDS": {
+    "Translation": "DADDY DOOR IS OPENING IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND HARD": {
+    "Translation": "DEFEND HARD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SHORTCUT GATE IS OPENING IN 5 SECONDS": {
+    "Translation": "SHORTCUT GATE IS OPENING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SHORTCUT GATE IS OPENING": {
+    "Translation": "SHORTCUT GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DADDY DOOR IS OPENING IN 5 SECONDS": {
+    "Translation": "DADDY DOOR IS OPENING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DADDY DOOR IS OPENING": {
+    "Translation": "DADDY DOOR IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DID DADDY HURT YA?": {
+    "Translation": "DID DADDY HURT YA?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WHERE DID DADDY DIDDLE YA?": {
+    "Translation": "WHERE DID DADDY DIDDLE YA?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GET TO THE MIDDLE": {
+    "Translation": "GET TO THE MIDDLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YOU WILL BE SAFE THERE": {
+    "Translation": "YOU WILL BE SAFE THERE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "IT IS COMING...": {
+    "Translation": "IT IS COMING...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YOUNG BABY KIM IS DEAD": {
+    "Translation": "YOUNG BABY KIM IS DEAD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TAKE SHELTER INSIDE": {
+    "Translation": "TAKE SHELTER INSIDE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WHAT HAVE YOU DONE...": {
+    "Translation": "WHAT HAVE YOU DONE...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES RELEASE IN 5 SECONDS": {
+    "Translation": "ZOMBIES RELEASE IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES RELEASE IN 4 SECONDS": {
+    "Translation": "ZOMBIES RELEASE IN 4 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES RELEASE IN 3 SECONDS": {
+    "Translation": "ZOMBIES RELEASE IN 3 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES RELEASE IN 2 SECONDS": {
+    "Translation": "ZOMBIES RELEASE IN 2 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES RELEASE IN 1 SECONDS": {
+    "Translation": "ZOMBIES RELEASE IN 1 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES ARE RELEASED": {
+    "Translation": "ZOMBIES ARE RELEASED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR IS CLOSING": {
+    "Translation": "DOOR IS CLOSING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "STAGE 2 WON": {
+    "Translation": "STAGE 2 WON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE SURF PROTECTOR IS NOW ACTIVE": {
+    "Translation": "ZOMBIE SURF PROTECTOR IS NOW ACTIVE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND FOR SOME TIME": {
+    "Translation": "DEFEND FOR SOME TIME",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE GATES WILL OPEN IN BALANCED ORDER": {
+    "Translation": "THE GATES WILL OPEN IN BALANCED ORDER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "UPPER GATE IS OPENING": {
+    "Translation": "UPPER GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MID GATE IS OPENING": {
+    "Translation": "MID GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LOWER GATE IS OPENING": {
+    "Translation": "LOWER GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DRAWBRIDGE IS OPENING IN 40 SECONDS": {
+    "Translation": "DRAWBRIDGE IS OPENING IN 40 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DRAWBRIDGE IS OPENING IN 5 SECONDS": {
+    "Translation": "DRAWBRIDGE IS OPENING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DRAWBRIDGE IS OPENING": {
+    "Translation": "DRAWBRIDGE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RAM RANCH WILL WELCOME YOU IN 30 SECONDS": {
+    "Translation": "RAM RANCH WILL WELCOME YOU IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RAM RANCH WILL WELCOME YOU IN 5 SECONDS": {
+    "Translation": "RAM RANCH WILL WELCOME YOU IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WELCOME TO RAM RANCH": {
+    "Translation": "WELCOME TO RAM RANCH",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE PLACE WHERE MAGIC HAPPENS": {
+    "Translation": "THE PLACE WHERE MAGIC HAPPENS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE INNER RAM DOORS WILL OPEN IN 30 SECONDS": {
+    "Translation": "THE INNER RAM DOORS WILL OPEN IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES HAVE RAMMED ONE OF THE PATHS": {
+    "Translation": "ZOMBIES HAVE RAMMED ONE OF THE PATHS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YOU BETTER DEFEND HARDER NEXT TIME": {
+    "Translation": "YOU BETTER DEFEND HARDER NEXT TIME",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE INNER RAM DOORS WILL OPEN IN 10 SECONDS": {
+    "Translation": "THE INNER RAM DOORS WILL OPEN IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE INNER RAM DOORS WILL OPEN IN 5 SECONDS": {
+    "Translation": "THE INNER RAM DOORS WILL OPEN IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE INNER RAM DOORS ARE BEING RAMMED OPEN": {
+    "Translation": "THE INNER RAM DOORS ARE BEING RAMMED OPEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ONE OF THEM ARE DELAYED DUE TO RAMMING BALANCE": {
+    "Translation": "ONE OF THEM ARE DELAYED DUE TO RAMMING BALANCE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR IS LEAVING IN 20 SECONDS": {
+    "Translation": "ELEVATOR IS LEAVING IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR IS LEAVING IN 10 SECONDS": {
+    "Translation": "ELEVATOR IS LEAVING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ELEVATOR IS LEAVING IN 5 SECONDS": {
+    "Translation": "ELEVATOR IS LEAVING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LAGEVATOR IS LEAVING": {
+    "Translation": "LAGEVATOR IS LEAVING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SAY ADIOS TO RAM RANCH": {
+    "Translation": "SAY ADIOS TO RAM RANCH",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HELLO PEASANTS": {
+    "Translation": "HELLO PEASANTS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "I HAVE A HARD TIME OPENING UP TO YOU BECAUSE FATHER IS HERE": {
+    "Translation": "I HAVE A HARD TIME OPENING UP TO YOU BECAUSE FATHER IS HERE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "COULD YOU PLEASE HELP ME GET RID OF HIM?": {
+    "Translation": "COULD YOU PLEASE HELP ME GET RID OF HIM?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "I'M SURE I'LL BE ABLE TO OPEN UP ONCE HE'S GONE": {
+    "Translation": "I'M SURE I'LL BE ABLE TO OPEN UP ONCE HE'S GONE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "I GET SO EMBARRASSED WHEN DADDY IS WATCHING...": {
+    "Translation": "I GET SO EMBARRASSED WHEN DADDY IS WATCHING...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CASTLE PIECE ADDED (1/6)": {
+    "Translation": "CASTLE PIECE ADDED (1/6)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CASTLE PIECE ADDED (2/6)": {
+    "Translation": "CASTLE PIECE ADDED (2/6)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CASTLE PIECE ADDED (3/6)": {
+    "Translation": "CASTLE PIECE ADDED (3/6)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CASTLE PIECE ADDED (4/6)": {
+    "Translation": "CASTLE PIECE ADDED (4/6)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CASTLE PIECE ADDED (5/6)": {
+    "Translation": "CASTLE PIECE ADDED (5/6)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "JUMP THE SORROWS AWAY": {
+    "Translation": "JUMP THE SORROWS AWAY",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CASTLE PIECE ADDED (6/6)": {
+    "Translation": "CASTLE PIECE ADDED (6/6)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE CASTLE HAS BEEN COMPLETED!": {
+    "Translation": "THE CASTLE HAS BEEN COMPLETED!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BONUS: each jump damages all gravestones": {
+    "Translation": "BONUS: each jump damages all gravestones",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DO YOU WANT SOME PRINGLES?": {
+    "Translation": "DO YOU WANT SOME PRINGLES?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LET ME ROLL TO YOU": {
+    "Translation": "LET ME ROLL TO YOU",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "EAT ME DADDY": {
+    "Translation": "EAT ME DADDY",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MISSILE SILO DOOR OPENS IN 60 SECONDS": {
+    "Translation": "MISSILE SILO DOOR OPENS IN 60 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BE SURE TO DEFEND HARD": {
+    "Translation": "BE SURE TO DEFEND HARD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MISSILE SILO DOOR OPENS IN 30 SECONDS": {
+    "Translation": "MISSILE SILO DOOR OPENS IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MISSILE SILO DOOR OPENS IN 20 SECONDS": {
+    "Translation": "MISSILE SILO DOOR OPENS IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MISSILE SILO DOOR OPENS IN 10 SECONDS": {
+    "Translation": "MISSILE SILO DOOR OPENS IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PRINGLES IS BACK!": {
+    "Translation": "PRINGLES IS BACK!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "QUICK CLIMB THE LADDER!": {
+    "Translation": "QUICK CLIMB THE LADDER!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OUTER DOOR OPENS IN 15 SECONDS": {
+    "Translation": "OUTER DOOR OPENS IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OUTER DOOR OPENS IN 5 SECONDS": {
+    "Translation": "OUTER DOOR OPENS IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OUTER DOOR IS OPENING": {
+    "Translation": "OUTER DOOR IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAKE YOUR WAY TO THE BEST KOREAN SPACE ROCKET": {
+    "Translation": "MAKE YOUR WAY TO THE BEST KOREAN SPACE ROCKET",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND AS YOU SEE FIT ALONG THE WAY": {
+    "Translation": "DEFEND AS YOU SEE FIT ALONG THE WAY",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "IT MAY TAKE A WHILE TO OPEN IT...": {
+    "Translation": "IT MAY TAKE A WHILE TO OPEN IT...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "surf's up dude": {
+    "Translation": "surf's up dude",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SHORTCUT GATE IS OPENING IN 10 SECONDS": {
+    "Translation": "SHORTCUT GATE IS OPENING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SPACE ROCKET DOOR OPENING IN 60 SECONDS": {
+    "Translation": "SPACE ROCKET DOOR OPENING IN 60 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SPACE ROCKET DOOR OPENING IN 20 SECONDS": {
+    "Translation": "SPACE ROCKET DOOR OPENING IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SPACE ROCKET DOOR OPENING IN 10 SECONDS": {
+    "Translation": "SPACE ROCKET DOOR OPENING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SPACE ROCKET DOOR OPENING IN 5 SECONDS": {
+    "Translation": "SPACE ROCKET DOOR OPENING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SPACE ROCKET DOOR IS OPENING": {
+    "Translation": "SPACE ROCKET DOOR IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GET INSIDE THE SPACE ROCKET": {
+    "Translation": "GET INSIDE THE SPACE ROCKET",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 SECONDS LEFT": {
+    "Translation": "20 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 SECONDS LEFT": {
+    "Translation": "10 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "INITIALIZING ROCKET TAKEOFF PROCEDURE": {
+    "Translation": "INITIALIZING ROCKET TAKEOFF PROCEDURE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "STAGE 3 WON": {
+    "Translation": "STAGE 3 WON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THAT'S ALL FOR NOW - MORE STAGES TO COME": {
+    "Translation": "THAT'S ALL FOR NOW - MORE STAGES TO COME",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -180,5 +180,35 @@
     "Translation": "[Map] Detected ZM you have failed",
     "M-Bool": false,
     "Value": 0
+  },
+  "[Map] The door will open in 30 seconds": {
+    "Translation": "[Map] The door will open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] The door open in 30 seconds": {
+    "Translation": "[Map] The door open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] Team Delta has been saved ": {
+    "Translation": "[Map] Team Delta has been saved ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] AFK teleport open in 15 seconds": {
+    "Translation": "[Map] AFK teleport open in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] The door open in 20 seconds": {
+    "Translation": "[Map] The door open in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Map] TowerGuard can press lever now": {
+    "Translation": "[Map] TowerGuard can press lever now",
+    "M-Bool": false,
+    "Value": 0
   }
 }

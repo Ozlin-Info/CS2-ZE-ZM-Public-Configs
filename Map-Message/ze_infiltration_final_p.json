@@ -145,5 +145,15 @@
     "Translation": " 10 seconds untill explosion ",
     "M-Bool": false,
     "Value": 0
+  },
+  "--- RESIST 15 SECONDS ---": {
+    "Translation": "--- RESIST 15 SECONDS ---",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--- ELEVATOR 1 LEAVING IN 10 SECONDS ---": {
+    "Translation": "--- ELEVATOR 1 LEAVING IN 10 SECONDS ---",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -50,5 +50,120 @@
     "Translation": "Naruto will open the way ! Follow him !",
     "M-Bool": false,
     "Value": 0
+  },
+  "HOLD THIS POSTION": {
+    "Translation": "HOLD THIS POSTION",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 SECONDS LEFT": {
+    "Translation": "20 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Cave way will open in 20s !": {
+    "Translation": "Cave way will open in 20s !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 SECONDS LEFT": {
+    "Translation": "10 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Cave way will open in 10s !": {
+    "Translation": "Cave way will open in 10s !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS LEFT": {
+    "Translation": "5 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOORS OPENING NOW": {
+    "Translation": "DOORS OPENING NOW",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD THIS POSITION": {
+    "Translation": "HOLD THIS POSITION",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CITY AFK TELEPORT IN 10s": {
+    "Translation": "CITY AFK TELEPORT IN 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15 SECOND LEFT": {
+    "Translation": "15 SECOND LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 SECOND LEFT": {
+    "Translation": "10 SECOND LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECOND LEFT": {
+    "Translation": "5 SECOND LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FORTRESS AFK TELEPORT IN 10s": {
+    "Translation": "FORTRESS AFK TELEPORT IN 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FORTRESS AFK TELEPORT": {
+    "Translation": "FORTRESS AFK TELEPORT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! NEXT DIFFICULTY : NORMAL !!!": {
+    "Translation": "!!! NEXT DIFFICULTY : NORMAL !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! CURRENT DIFFICULTY : NORMAL !!!": {
+    "Translation": "!!! CURRENT DIFFICULTY : NORMAL !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "25 SECONDS LEFT": {
+    "Translation": "25 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 SECONDS LEFT": {
+    "Translation": "30 SECONDS LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 15 SECONDS": {
+    "Translation": "DOOR WILL OPEN IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 5 SECONDS": {
+    "Translation": "DOOR WILL OPEN IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SECOND DOOR WILL OPEN IN 15 SECONDS": {
+    "Translation": "SECOND DOOR WILL OPEN IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! NEXT DIFFICULTY : HARD !!!": {
+    "Translation": "!!! NEXT DIFFICULTY : HARD !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!!! CURRENT DIFFICULTY : HARD !!!": {
+    "Translation": "!!! CURRENT DIFFICULTY : HARD !!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }
