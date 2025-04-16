@@ -5,5 +5,45 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "! バリケードを破壊 -- Destroying the barricade 30 sec !": {
+    "Translation": "! バリケードを破壊 -- Destroying the barricade 30 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "幽霊少女 :": {
+    "Translation": "幽霊少女 :",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「いつからここにいるのか分からない...」": {
+    "Translation": "「いつからここにいるのか分からない...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「私がなぜ死んでいるのかも分からない...」": {
+    "Translation": "「私がなぜ死んでいるのかも分からない...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「一つ分かることと言えば...」": {
+    "Translation": "「一つ分かることと言えば...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! バリケードを破壊 -- Destroying the barricade 10 sec !": {
+    "Translation": "! バリケードを破壊 -- Destroying the barricade 10 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「渡木トンネルへ行かなければならないということ...」": {
+    "Translation": "「渡木トンネルへ行かなければならないということ...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「そこに私を知るための何かがあるかもしれないから...」": {
+    "Translation": "「そこに私を知るための何かがあるかもしれないから...」",
+    "M-Bool": false,
+    "Value": 0
   }
 }

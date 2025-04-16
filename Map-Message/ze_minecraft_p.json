@@ -15,5 +15,20 @@
     "Translation": "STONE DOOR OPENING",
     "M-Bool": false,
     "Value": 0
+  },
+  "BOAT LEAVES IN 20 SECONDS": {
+    "Translation": "BOAT LEAVES IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BOAT LEAVES IN 10 SECONDS": {
+    "Translation": "BOAT LEAVES IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PATH BLOCKERS BREAK IN 5 SECONDS": {
+    "Translation": "PATH BLOCKERS BREAK IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }

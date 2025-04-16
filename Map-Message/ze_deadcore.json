@@ -35,5 +35,10 @@
     "Translation": " Stage - C ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Stage - A ": {
+    "Translation": " Stage - A ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

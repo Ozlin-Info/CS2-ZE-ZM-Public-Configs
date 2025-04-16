@@ -75,5 +75,15 @@
     "Translation": "Cannons charging. 60 seconds left",
     "M-Bool": false,
     "Value": 0
+  },
+  "15 seconds left": {
+    "Translation": "15 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CANNONS SHOOTING": {
+    "Translation": "CANNONS SHOOTING",
+    "M-Bool": false,
+    "Value": 0
   }
 }

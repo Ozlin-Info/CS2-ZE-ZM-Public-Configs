@@ -25,5 +25,10 @@
     "Translation": "Door opening in 5 seconds...",
     "M-Bool": false,
     "Value": 0
+  },
+  "Map by FW -=LightningZLaser=-": {
+    "Translation": "Map by FW -=LightningZLaser=-",
+    "M-Bool": false,
+    "Value": 0
   }
 }

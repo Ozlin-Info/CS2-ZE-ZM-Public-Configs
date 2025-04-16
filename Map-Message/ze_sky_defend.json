@@ -20,5 +20,20 @@
     "Translation": "rot zakroj",
     "M-Bool": false,
     "Value": 0
+  },
+  "DEFEND 30 SECONDS": {
+    "Translation": "DEFEND 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BACK BACK BACK": {
+    "Translation": "BACK BACK BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM TELEPORT 10 SEC": {
+    "Translation": "ZM TELEPORT 10 SEC",
+    "M-Bool": false,
+    "Value": 0
   }
 }

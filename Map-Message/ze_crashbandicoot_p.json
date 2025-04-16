@@ -10,5 +10,65 @@
     "Translation": "LEVEL 1",
     "M-Bool": false,
     "Value": 0
+  },
+  "HOLD FOR 20 seconds": {
+    "Translation": "HOLD FOR 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GO!GO!GO!": {
+    "Translation": "GO!GO!GO!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SHOOT THE WALL ": {
+    "Translation": " SHOOT THE WALL ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD FOR 30 seconds": {
+    "Translation": "HOLD FOR 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD FOR 10 seconds": {
+    "Translation": "HOLD FOR 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL COMPLETED!!": {
+    "Translation": "LEVEL COMPLETED!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL 2": {
+    "Translation": "LEVEL 2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GO!": {
+    "Translation": "GO!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "STAY ON GLOWING AREA OR...": {
+    "Translation": "STAY ON GLOWING AREA OR...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--- YOU WILL DIE WHEN BALLOON STARTS MOVING": {
+    "Translation": "--- YOU WILL DIE WHEN BALLOON STARTS MOVING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CORTEX DOESNT TAKE DAMAGE FROM BULLETS": {
+    "Translation": "CORTEX DOESNT TAKE DAMAGE FROM BULLETS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TRY TO KILL IT WITH SOMETHING ELSE": {
+    "Translation": "TRY TO KILL IT WITH SOMETHING ELSE",
+    "M-Bool": false,
+    "Value": 0
   }
 }

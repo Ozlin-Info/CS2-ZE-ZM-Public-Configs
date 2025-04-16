@@ -220,5 +220,10 @@
     "Translation": " Elevator will move in 15 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  "- EASY MODE -": {
+    "Translation": "- EASY MODE -",
+    "M-Bool": false,
+    "Value": 0
   }
 }

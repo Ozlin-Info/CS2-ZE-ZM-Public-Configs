@@ -30,5 +30,15 @@
     "Translation": " PLAYER HAS PICKED UP ZOMBIE GRAVITY ",
     "M-Bool": false,
     "Value": 0
+  },
+  " PLAYER HAS PICKED UP ZOMBIE HEAL ": {
+    "Translation": " PLAYER HAS PICKED UP ZOMBIE HEAL ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ROUTE1 : HOLD 20 SECONDS ": {
+    "Translation": " ROUTE1 : HOLD 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

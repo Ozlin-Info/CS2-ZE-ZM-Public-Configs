@@ -135,5 +135,35 @@
     "Translation": "3 | Fall Back | 3",
     "M-Bool": false,
     "Value": 0
+  },
+  "3 | Defend the Right and Left rooms. | 3": {
+    "Translation": "3 | Defend the Right and Left rooms. | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Last 10 Seconds... | 3": {
+    "Translation": "3 | Last 10 Seconds... | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Zombies Teleported in Night Club! | 3": {
+    "Translation": "3 | Zombies Teleported in Night Club! | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Enter the room with the HARDWIRED Logo. | 3": {
+    "Translation": "3 | Enter the room with the HARDWIRED Logo. | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | 30 Seconds Defend For (2 Door) | 3": {
+    "Translation": "3 | 30 Seconds Defend For (2 Door) | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Zombies Teleported in Hardwired Room! | 3": {
+    "Translation": "3 | Zombies Teleported in Hardwired Room! | 3",
+    "M-Bool": false,
+    "Value": 0
   }
 }

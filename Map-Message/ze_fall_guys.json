@@ -6,33 +6,28 @@
       "Value": 0
     }
   },
-  "Map By noob": {
-    "Translation": "Map By noob",
+  "Map By R1cko27": {
+    "Translation": "Map By R1cko27",
     "M-Bool": false,
     "Value": 0
   },
-  "Stage1Easy": {
-    "Translation": "Stage1Easy",
+  "Crazy Rock": {
+    "Translation": "Crazy Rock",
     "M-Bool": false,
     "Value": 0
   },
-  "15": {
-    "Translation": "15",
+  "Skipping Rope": {
+    "Translation": "Skipping Rope",
     "M-Bool": false,
     "Value": 0
   },
-  "Stage1-Easy": {
-    "Translation": "Stage1-Easy",
+  "KZ": {
+    "Translation": "KZ",
     "M-Bool": false,
     "Value": 0
   },
-  "-15-": {
-    "Translation": "-15-",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "-20-": {
-    "Translation": "-20-",
+  "Revolving Platforms": {
+    "Translation": "Revolving Platforms",
     "M-Bool": false,
     "Value": 0
   }

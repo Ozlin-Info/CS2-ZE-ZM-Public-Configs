@@ -30,5 +30,20 @@
     "Translation": "5S",
     "M-Bool": false,
     "Value": 0
+  },
+  "僵尸获得了《束缚》": {
+    "Translation": "僵尸获得了《束缚》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位人类习得了医疗魔法 ": {
+    "Translation": " 一位人类习得了医疗魔法 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸获得了《刀锋》": {
+    "Translation": "僵尸获得了《刀锋》",
+    "M-Bool": false,
+    "Value": 0
   }
 }

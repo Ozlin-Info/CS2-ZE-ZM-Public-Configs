@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map Modified! ": {
+    "Translation": " Map Modified! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| ROCKS WILL BREAK IN 20 SEC |": {
+    "Translation": "| ROCKS WILL BREAK IN 20 SEC |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| FIRST DOOR WILL OPEN IN 15 SEC |": {
+    "Translation": "| FIRST DOOR WILL OPEN IN 15 SEC |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| LIFT WILL MOVE IN 15 SECONDS |": {
+    "Translation": "| LIFT WILL MOVE IN 15 SECONDS |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| WAIT HERE FOR 15 SECONDS |": {
+    "Translation": "| WAIT HERE FOR 15 SECONDS |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| DOORS WILL OPEN IN 10 SEC |": {
+    "Translation": "| DOORS WILL OPEN IN 10 SEC |",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

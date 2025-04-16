@@ -10,5 +10,35 @@
     "Translation": " Special for Fox ",
     "M-Bool": false,
     "Value": 0
+  },
+  "Pudge will disappear in 30 sec": {
+    "Translation": "Pudge will disappear in 30 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pudge will disappear in 5 sec": {
+    "Translation": "Pudge will disappear in 5 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You get vac ban in 60 sec.": {
+    "Translation": "You get vac ban in 60 sec.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Leave from server or you get vac ban.": {
+    "Translation": "Leave from server or you get vac ban.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OMG it's a Fox": {
+    "Translation": "OMG it's a Fox",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Kill him": {
+    "Translation": "Kill him",
+    "M-Bool": false,
+    "Value": 0
   }
 }

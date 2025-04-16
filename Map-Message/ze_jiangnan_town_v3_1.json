@@ -20,5 +20,40 @@
     "Translation": "we can get on the bridge in 30S",
     "M-Bool": false,
     "Value": 0
+  },
+  "we can get out in 30S": {
+    "Translation": "we can get out in 30S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "we should keep 30S": {
+    "Translation": "we should keep 30S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "boat wil leave in 10S": {
+    "Translation": "boat wil leave in 10S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "we can get in to the garden 30S": {
+    "Translation": "we can get in to the garden 30S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "we should keep 45S": {
+    "Translation": "we should keep 45S",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "nuke in 60s": {
+    "Translation": "nuke in 60s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "map by zombielandsaga,hope you like this map of Chinese style.": {
+    "Translation": "map by zombielandsaga,hope you like this map of Chinese style.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

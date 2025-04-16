@@ -490,5 +490,310 @@
     "Translation": " Zombies teleport in 20 seconds. Run! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " The treehouse will open in 10 seconds ": {
+    "Translation": " The treehouse will open in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies are blocked for 5 seconds, run! (o゜▽゜)o☆ ": {
+    "Translation": " Zombies are blocked for 5 seconds, run! (o゜▽゜)o☆ ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Oh, I forgot this was a dead end! Σ( °Д °,)": {
+    "Translation": "Oh, I forgot this was a dead end! Σ( °Д °,)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "˃̶͈ ˂̶͈  Take the secret passage meant for night raids.": {
+    "Translation": "˃̶͈ ˂̶͈  Take the secret passage meant for night raids.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door opens in 30 seconds ": {
+    "Translation": " The door opens in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door opens in 10 seconds ": {
+    "Translation": " The door opens in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Head down from here!": {
+    "Translation": "Head down from here!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "(Zombies teleporting in 5 seconds)": {
+    "Translation": "(Zombies teleporting in 5 seconds)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Keep defending for an extra 40 seconds (/ω＼) ": {
+    "Translation": " Keep defending for an extra 40 seconds (/ω＼) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "40 seconds": {
+    "Translation": "40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door is open!": {
+    "Translation": "The door is open!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The diamond in the bottle is the key ο(=•ω＜=)ρ⌒☆": {
+    "Translation": "The diamond in the bottle is the key ο(=•ω＜=)ρ⌒☆",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The docks open in 30 seconds! ": {
+    "Translation": " The docks open in 30 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's head into the tavern.": {
+    "Translation": "Let's head into the tavern.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ah! ⊙▾⊙ The tavern is overrun by pirates. We'd better take a detour": {
+    "Translation": "Ah! ⊙▾⊙ The tavern is overrun by pirates. We'd better take a detour",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This place's layout is very complicated ( ╯▽╰)": {
+    "Translation": "This place's layout is very complicated ( ╯▽╰)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's figure out where to go!": {
+    "Translation": "Let's figure out where to go!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold for 30 seconds ": {
+    "Translation": " Hold for 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The cabin's 2nd floor has stairs leading to the outpost!": {
+    "Translation": "The cabin's 2nd floor has stairs leading to the outpost!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The switch for the cabin's 2nd floor is near the swing set.": {
+    "Translation": "The switch for the cabin's 2nd floor is near the swing set.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The side road is temporarily closed ~( ╯▽╰)": {
+    "Translation": "The side road is temporarily closed ~( ╯▽╰)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The 2nd floor door opens in 30 seconds, meow! ": {
+    "Translation": " The 2nd floor door opens in 30 seconds, meow! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The side road opens in 15 seconds ": {
+    "Translation": " The side road opens in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Try entering the outpost, then circle back through the tavern!": {
+    "Translation": "Try entering the outpost, then circle back through the tavern!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ooohhhh, it burns so much! φ(゜▽゜)♪": {
+    "Translation": "Ooohhhh, it burns so much! φ(゜▽゜)♪",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "I've been breaking locks for 17 years, so breaking into this chimney is easy!": {
+    "Translation": "I've been breaking locks for 17 years, so breaking into this chimney is easy!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Give Miku 30 seconds to pry open the chimney ": {
+    "Translation": " Give Miku 30 seconds to pry open the chimney ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "It's wasn't even difficult! (≧∀≦)": {
+    "Translation": "It's wasn't even difficult! (≧∀≦)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's head down!": {
+    "Translation": "Let's head down!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ring the bell on top of the outpost": {
+    "Translation": "Ring the bell on top of the outpost",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hitting it might distract the pirates!": {
+    "Translation": "Hitting it might distract the pirates!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies will teleport in 10 seconds ": {
+    "Translation": " Zombies will teleport in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "All the pirates were drawn to the shore!": {
+    "Translation": "All the pirates were drawn to the shore!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's leave the outpost and get outside!": {
+    "Translation": "Let's leave the outpost and get outside!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pull the lever in the guard's room to open the door (/≧▽≦)/": {
+    "Translation": "Pull the lever in the guard's room to open the door (/≧▽≦)/",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door opens in 25 seconds ": {
+    "Translation": " The door opens in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Head into the tavern and grab a drink ( /ω＼)": {
+    "Translation": "Head into the tavern and grab a drink ( /ω＼)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boss, give me two bottles of wine and a plate of fennel beans.": {
+    "Translation": "Boss, give me two bottles of wine and a plate of fennel beans.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's head upstairs!": {
+    "Translation": "Let's head upstairs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "What's the rush to get me into the house~ (/ω＼)": {
+    "Translation": "What's the rush to get me into the house~ (/ω＼)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 minutes later...": {
+    "Translation": "10 minutes later...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "⊙▽⊙ The pirates are back, run!": {
+    "Translation": "⊙▽⊙ The pirates are back, run!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The bottom floor is surrounded!": {
+    "Translation": "The bottom floor is surrounded!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Looks like the only way to go is out the window, meow!": {
+    "Translation": "Looks like the only way to go is out the window, meow!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The glass will break in 25 seconds ": {
+    "Translation": " The glass will break in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The pirates are inside of the tavern.": {
+    "Translation": "The pirates are inside of the tavern.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's take advantage of this situation and take them out ♪(´∇`)": {
+    "Translation": "Let's take advantage of this situation and take them out ♪(´∇`)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Based on my many years of boating experience...": {
+    "Translation": "Based on my many years of boating experience...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The cabin switch must be near the boat's wheel! ^O^": {
+    "Translation": "The cabin switch must be near the boat's wheel! ^O^",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The cabin opens in 40 seconds ": {
+    "Translation": " The cabin opens in 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Time to infiltrate the captain's quarters ヾ(≧O≦)〃": {
+    "Translation": "Time to infiltrate the captain's quarters ヾ(≧O≦)〃",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "There's no way to enter the Captain's quarters through the front door!": {
+    "Translation": "There's no way to enter the Captain's quarters through the front door!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Is there a secret passage?": {
+    "Translation": "Is there a secret passage?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "I told you there was a secret passage underneath ╰(°▽°)╯": {
+    "Translation": "I told you there was a secret passage underneath ╰(°▽°)╯",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The secret passage opens in 30 seconds ": {
+    "Translation": " The secret passage opens in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's make our way to the final room!": {
+    "Translation": "Let's make our way to the final room!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Just hold this gate, and we can make it (/≧▽≦)/": {
+    "Translation": "Just hold this gate, and we can make it (/≧▽≦)/",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Just 30 seconds left! ": {
+    "Translation": " Just 30 seconds left! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Sweet victory!!! φ(≧ω≦)♪": {
+    "Translation": "Sweet victory!!! φ(≧ω≦)♪",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "From here on out, we are going to conquer the world!": {
+    "Translation": "From here on out, we are going to conquer the world!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This is the end, thanks for playing! ~o( =∩ω∩= )m": {
+    "Translation": "This is the end, thanks for playing! ~o( =∩ω∩= )m",
+    "M-Bool": false,
+    "Value": 0
   }
 }

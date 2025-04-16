@@ -70,5 +70,10 @@
     "Translation": "Warmup: 90 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  " ZOMBIES TRIGGERED! YOU LOSE ": {
+    "Translation": " ZOMBIES TRIGGERED! YOU LOSE ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
