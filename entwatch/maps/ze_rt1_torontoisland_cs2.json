@@ -168,7 +168,7 @@
     ]
   },
   {
-    "Name": "ZM Reaper/Gravity",
+    "Name": "ZM Reaper/Blackhole",
     "ShortName": "ZM Reaper",
     "Color": "{default}",
     "HammerID": 8137,
@@ -196,7 +196,7 @@
     ]
   },
   {
-    "Name": "ZM Blade",
+    "Name": "ZM Deporter/Blade",
     "ShortName": "ZM Blade",
     "Color": "{default}",
     "HammerID": 8138,
@@ -252,7 +252,7 @@
     ]
   },
   {
-    "Name": "ZM Gainer",
+    "Name": "ZM Gainer/Low gravity",
     "ShortName": "ZM Gainer",
     "Color": "{default}",
     "HammerID": 8140,
