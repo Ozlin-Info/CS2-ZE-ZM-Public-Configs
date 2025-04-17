@@ -22,7 +22,7 @@
     "Value": 0
   },
   " 尸笼15秒后释放 ": {
-    "Translation": "The corpse cage will be released in 15 seconds.",
+    "Translation": "Zombies will be released in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
