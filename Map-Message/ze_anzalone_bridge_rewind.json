@@ -75,5 +75,85 @@
     "Translation": "「I feel like I'm being watched by something...」",
     "M-Bool": false,
     "Value": 0
+  },
+  " restart Lv1 ": {
+    "translation": " restart Level 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " restart Lv2 ": {
+    "translation": " restart Level 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「この妖精は...ナイアード達か」": {
+    "translation": "Is this... a Naiad fairy?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「そんな妖精を見れるなんてこの橋も捨てたもんじゃないな」": {
+    "translation": "To see such a fairy makes this bridge not so bad after all.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「一人一人の技術が試されるだろう」": {
+    "translation": "Each person's skill will be put to the test.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「今回の相手はいままでと比べ物にならないぞ」": {
+    "translation": "This opponent is nothing like the ones before.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「常に戦況を見据えなければ勝利を掴めない」": {
+    "translation": "You must always keep an eye on the battle situation to grasp victory.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「次に来た時には何か良い事がおこりそうかもな...」": {
+    "translation": "Maybe something good will happen next time I come...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「水辺に現れると言われる幸運の妖精だったかな」": {
+    "translation": "Isn't there a lucky fairy said to appear by the water?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "せんせい :": {
+    "translation": "Teacher:",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! Until the start of the secret Boss 10 sec !": {
+    "translation": "! 10 sec until the secret Boss battle starts !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! Until the start of the secret Boss 30 sec !": {
+    "translation": "! 30 sec until the secret Boss battle starts !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ドアが閉まる... -- Doors close 10 sec !": {
+    "translation": "! Doors closing in 10 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 戦闘勝利！！ !": {
+    "translation": "! Victory in battle!! !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 挑戦状を入手した！ !": {
+    "translation": "! Obtained a challenge letter! !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 次ラウンドがシークレットになる！ !": {
+    "translation": "! The next round will be a secret! !",
+    "M-Bool": false,
+    "Value": 0
   }
 }
