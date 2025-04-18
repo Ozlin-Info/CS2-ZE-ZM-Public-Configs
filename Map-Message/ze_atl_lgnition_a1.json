@@ -15,5 +15,170 @@
     "Translation": "Thank you very much to everyone in the exg community for their contributions to testing this map! Have fun!!!",
     "M-Bool": false,
     "Value": 0
+  },
+  "20s": {
+    "Translation": "20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "40s": {
+    "Translation": "40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15s tp": {
+    "Translation": "15 seconds teleport",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "boss出现了！我们只有两分钟的时间！！！快击败他！！": {
+    "Translation": "The boss has appeared! We only have 120 seconds to defeat him!!! Hurry!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "boss死了！！僵尸出笼！有序撤退！！！！": {
+    "Translation": "The boss is dead!! Zombies are emerging! Retreat in an orderly fashion!!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30s 全体传送！": {
+    "Translation": "30 seconds, all teleport!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30s 门开！10s传送！": {
+    "Translation": "30 seconds, door opens! 10 seconds teleport!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们在更衣室找到了一张设施员工林燕的工作牌！或许他能带领我们在这个地方畅通无阻！": {
+    "Translation": "We found a work badge of facility staff Lin Yan in the changing room! Perhaps he can help us navigate this place smoothly!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "成功了！门开始移动了！！林燕不愧是权王！！！": {
+    "Translation": "Success! The door is starting to move!! Lin Yan truly is the king of power!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "灭火器已经被拿到！坚持住！我们需要把通风管道的火焰灭掉才能通过！": {
+    "Translation": "The fire extinguisher has been obtained! Hold on! We need to extinguish the flames in the ventilation duct to pass!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "灭火器已经使用！火焰已经熄灭！快撤退！": {
+    "Translation": "The fire extinguisher has been used! The flames are out! Retreat quickly!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "坚持住！电梯还有30s才能启动！": {
+    "Translation": "Hold on! The elevator will start in 30 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "坚持住！10秒后电梯上升！": {
+    "Translation": "Hold on! The elevator will rise in 10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "火焰已经被灭火器熄灭！": {
+    "Translation": "The flames have been extinguished by the fire extinguisher!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "梯子将在15s后解锁！": {
+    "Translation": "The ladder will unlock in 15 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "梯子将在5s后解锁！": {
+    "Translation": "The ladder will unlock in 5 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯将在30s后上升！": {
+    "Translation": "The elevator will rise in 30 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯将在5s后上升！": {
+    "Translation": "The elevator will rise in 5 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "消防系统将在30秒后启动！": {
+    "Translation": "The fire suppression system will activate in 30 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "坚持住！10秒后火焰熄灭！": {
+    "Translation": "Hold on! The flames will be extinguished in 10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "奶神器已经被拾取！": {
+    "Translation": "The Heal Artifact has been picked up!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "奶神器已使用！！冷却时间60s！": {
+    "Translation": "Heal Artifact has been used!! Cooldown time 60 seconds!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "奶神器冷却结束！": {
+    "Translation": "Heal Artifact cooldown is over!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "60s": {
+    "Translation": "60 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我要玩obj！！！！！！！！": {
+    "Translation": "I wanna play OBJ!!!!!!!!!!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15s": {
+    "Translation": "15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5s": {
+    "Translation": "5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "秒杀神器已经被拾取！120s冷却！秒杀周围一定范围内的僵尸！": {
+    "Translation": "The One-Hit Artifact has been picked up! 120 seconds cooldown! Instantly kills zombies within a certain range!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "火神器已经被拾取！60s冷却！": {
+    "Translation": "The Fire Artifact has been picked up! 60 seconds cooldown!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "火神器已使用！冷却60s！！！": {
+    "Translation": "Fire Artifact has been used! Cooldown 60 seconds!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "火神器冷却完成！": {
+    "Translation": "Fire Artifact cooldown is complete!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "秒杀神器已使用！！冷却时间120s！": {
+    "Translation": "One-Hit Artifact has been used!! Cooldown time 120 seconds!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "秒杀神器冷却结束！": {
+    "Translation": "One-Hit Artifact cooldown is over!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }
