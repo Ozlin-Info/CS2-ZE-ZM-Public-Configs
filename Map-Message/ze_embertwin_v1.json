@@ -6,11 +6,6 @@
       "Value": 0
     }
   },
-  "已进入第七区域": {
-    "Translation": "Entered Area Seven",
-    "M-Bool": false,
-    "Value": 0
-  },
   "此区域内传送暂时关闭": {
     "Translation": "Teleportation in this area is temporarily disabled",
     "M-Bool": false,
@@ -31,11 +26,6 @@
     "M-Bool": false,
     "Value": 0
   },
-  "已进入第五区域": {
-    "Translation": "Entered Area Five",
-    "M-Bool": false,
-    "Value": 0
-  },
   "已进入第一区域": {
     "Translation": "Entered Area One",
     "M-Bool": false,
@@ -43,6 +33,101 @@
   },
   "已进入第二区域": {
     "Translation": "Entered Area Two",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第三区域": {
+    "Translation": "Entered Area Three",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第四区域": {
+    "Translation": "Entered Area Four",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第五区域": {
+    "Translation": "Entered Area Five",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第六区域": {
+    "Translation": "Entered Area Six",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第七区域": {
+    "Translation": "Entered Area Seven",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第八区域": {
+    "Translation": "Entered Area Eight",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第九区域": {
+    "Translation": "Entered Area Nine",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第十区域": {
+    "Translation": "Entered Area Ten",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第十一区域": {
+    "Translation": "Entered Area Eleven",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第十二区域": {
+    "Translation": "Entered Area Twelve",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第十三区域": {
+    "Translation": "Entered Area Thirteen",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第十四区域": {
+    "Translation": "Entered Area Fourteen",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第十五区域": {
+    "Translation": "Entered Area Fifteen",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第十六区域": {
+    "Translation": "Entered Area Sixteen",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第十七区域": {
+    "Translation": "Entered Area Seventeen",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第十八区域": {
+    "Translation": "Entered Area Eighteen",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第十九区域": {
+    "Translation": "Entered Area Nineteen",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第二十区域": {
+    "Translation": "Entered Area Twenty",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已进入第二十一区域": {
+    "Translation": "Entered Area TwentyOne",
     "M-Bool": false,
     "Value": 0
   }
