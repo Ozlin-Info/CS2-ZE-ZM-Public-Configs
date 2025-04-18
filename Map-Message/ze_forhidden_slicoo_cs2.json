@@ -82,7 +82,7 @@
     "Value": 0
   },
   "也许冰磊可以帮助我们": {
-    "Translation": "Maybe Ice Boulder can help us.",
+    "Translation": "Maybe Ice Barrier Cube can help us.",
     "M-Bool": false,
     "Value": 0
   },
@@ -292,7 +292,7 @@
     "Value": 0
   },
   "也许还需要防守最多10秒 :3 ": {
-    "Translation": "We may need to defend for up to 10 more seconds :3",
+    "Translation": "We may need to defend for 10 more seconds :3",
     "M-Bool": false,
     "Value": 0
   },
@@ -308,6 +308,381 @@
   },
   " 人类!别碰我! ": {
     "Translation": "Human! Dont touch me!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸已经拾取了【冰环】": {
+    "Translation": " A zombie has picked up the [Ice Ring] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "【雷沃尔熊人】已经苏醒了": {
+    "Translation": " The [Revor Bear] has awakened ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们需要摧毁岩石": {
+    "Translation": " We need to destroy the rock ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸已经拾取了【生命分离】": {
+    "Translation": " A zombie has picked up [Life Separation] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "等待封锁解除": {
+    "Translation": " Waiting for the seal to be unlocked ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 狩猎!开始了! ": {
+    "Translation": " Hunt! It has begun! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "右侧门已开放": {
+    "Translation": " The right door has been opened ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "瞭望塔的玻璃会在10秒后破碎": {
+    "Translation": " The glass of the watchtower will shatter in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "捷径路开放": {
+    "Translation": " The shortcut is open ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "精灵法师被击败!": {
+    "Translation": " The Spirit Mage has been defeated! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "一名玩家拾取了【寒霜剑】": {
+    "Translation": " A player has picked up the [Frost Sword] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "晶体被破坏，周围的空气开始凝结": {
+    "Translation": " The crystal has been destroyed, and the surrounding air begins to condense ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当心!阿拉斯的幻影摧毁了桥梁!": {
+    "Translation": " Beware! Alass's apparition has destroyed the bridge! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "剩余20秒": {
+    "Translation": " 20 seconds remaining ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "剩余15秒": {
+    "Translation": " 15 seconds remaining ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 你们犯下了弥天之罪,回来迎接你们的审判吧! ": {
+    "Translation": " You have committed a heinous crime, come back to face your judgment! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 阿拉斯正在注视着你! ": {
+    "Translation": " Arras is watching you! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "70秒后关闭斯狄科雪域大门": {
+    "Translation": " The Slicco Snowfield gate will close in 70 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20秒后迎接最终决战": {
+    "Translation": " Prepare for the final battle in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "星落风暴": {
+    "Translation": " Starfall Storm ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "尾部扫击": {
+    "Translation": " Tail Sweep ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "飞龙吐息": {
+    "Translation": " Dragon's Breath ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "大暴雪": {
+    "Translation": " Blizzards ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "幻影龙车": {
+    "Translation": " Phantom Dragon Cart ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "寒流": {
+    "Translation": " Cold Wave ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "龙刀": {
+    "Translation": " Dragon Blade ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "龙息": {
+    "Translation": " Dragon Breath ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸10秒后到来": {
+    "Translation": " Zombies will arrive in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "由于魔力流失，精灵耗尽最后的魔力,变为普通人,最后仅剩的魔力传输给了[随机]神器": {
+    "Translation": " Due to magic depletion, the elf has exhausted their last magic, turning into a normal person, and the last remaining magic is transferred to a [random] artifact ",
+"M-Bool": false,
+    "Value": 0
+  },
+  "僵尸神器：冰环": {
+    "Translation": " Zombie Artifact: Ice Ring ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "人类神器：冰垒": {
+    "Translation": " Human Artifact: Ice Barrier ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 法阵正在积蓄魔力,再争取一点时间! ": {
+    "Translation": " The magic circle is accumulating power, we need a little more time! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 我们马上就要离开这里了!坚持住! ": {
+    "Translation": " We're about to leave here! Hold on! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 传送门已开启,快离开这里! ": {
+    "Translation": " The portal has opened, hurry and leave! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 传送门正在瓦解,离开这里! ": {
+    "Translation": " The portal is collapsing, leave now! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这不是斯狄科,这是哪里? ": {
+    "Translation": " This is not Slicoo, where is this? ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 无人涉足之地,好在我们已经脱离了危险! ": {
+    "Translation": " An untraveled place, luckily we have escaped danger! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 敬请期待!感谢您的游玩! ": {
+    "Translation": " Stay tuned! Thank you for playing! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸神器：生命分离": {
+    "Translation": " Zombie Artifact: Life Tap ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "剑上的冰已经融化了": {
+    "Translation": " The ice on the sword has melted ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "尸体中隐藏的秘密（x2）": {
+    "Translation": " Secrets hidden in the corpse (x2) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "【雷沃尔熊人】已被消灭 ": {
+    "Translation": " The [Revor Bear] has been eliminated ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "尸体中隐藏的秘密(x1)": {
+    "Translation": " Secrets hidden in the corpse (x1) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "尸体中隐藏的秘密（x3）": {
+    "Translation": " Secrets hidden in the corpse (x3) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到部分神奇的水晶": {
+    "Translation": " Found some magical crystals ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "尸体中隐藏的秘密（x4）": {
+    "Translation": " Secrets hidden in the corpse (x4) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "一名玩家拾取了【恶魔契约】": {
+    "Translation": " A player has picked up the [Demon Contract] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "一名玩家与恶魔签订了契约": {
+    "Translation": " A player has made a contract with a demon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸神器：冰刺": {
+    "Translation": " Zombie Artifact: Ice Spike ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "人类神器：寒风": {
+    "Translation": " Human Artifact: Cold Wind ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "人类神器：寒霜剑": {
+    "Translation": " Human Artifact: Frost Sword ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "人类神器：精灵法师": {
+    "Translation": " Human Artifact: Spirit Mage ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到部分暗淡的水晶": {
+    "Translation": " Found some dim crystals ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "起暴雪了!我们要多加小心!": {
+    "Translation": "A blizzard is starting! We need to be extra careful!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到隐藏的净化水晶!": {
+    "Translation": "Found the hidden purification crystal!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "一名玩家拾取了【寒霜剑2】": {
+    "Translation": " A player has picked up the [Frost Sword 2] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿拉斯已被击败,我们需要尽快去净化精灵身上的诅咒!": {
+    "Translation": "Alass has been defeated; we need to purify the curse on the elf as soon as possible!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "正在净化祭坛[20]": {
+    "Translation": "Purifying the altar [20]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "净化水晶已准备就绪!": {
+    "Translation": "The purification crystal is ready!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸传送点10秒后移动!": {
+    "Translation": "Zombie teleportation point will move in 10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "getin!": {
+    "Translation": "get in!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "剑指权力顶峰,不死不朽!": {
+    "Translation": "The sword points to the peak of power, immortal and undying!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "开始突袭!": {
+    "Translation": "Start the raid!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我不擅长捉弄人,但这次,祝你好运!": {
+    "Translation": "I'm not good at teasing, but this time, good luck!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我接受挑战，来吧，稍后我会追逐你!": {
+    "Translation": "I accept the challenge, come on, I'll chase you later!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "魔王会迎难而上，我亦是如此!": {
+    "Translation": "The Demon Lord will face the challenge, and so will I!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "臣服于我!": {
+    "Translation": "Submit to me!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "不再是不死之身了，为什么是我": {
+    "Translation": "No longer an immortal being, why is it me?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸神器：雷沃尔熊人": {
+    "Translation": " Zombie Artifact: Revor Bear ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们来到了什么地方?": {
+    "Translation": "Where have we arrived?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这里看上去一片死寂": {
+    "Translation": "It looks eerily silent here.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "亡城的屏障将在55秒后升起": {
+    "Translation": "The barrier of the dead city will rise in 55 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们再坚持一会,屏障将于10秒后形成!": {
+    "Translation": "Let's hold on a little longer; the barrier will form in 10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "在天罚面前,跪下!": {
+    "Translation": "Kneel before divine punishment!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "命定之死前的苟延残喘罢了!": {
+    "Translation": "Just a struggle before the destined death!",
     "M-Bool": false,
     "Value": 0
   }
