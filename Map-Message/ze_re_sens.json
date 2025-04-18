@@ -6,34 +6,215 @@
       "Value": 0
     }
   },
-  "Map by Kuro": {
-    "Translation": "Map by Kuro",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "Thanks:Eternity": {
-    "Translation": "Thanks:Eternity",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "寻找光": {
-    "Translation": "Find the light",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "破碎": {
-    "Translation": "breaks",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "也许两边都需要前往?": {
-    "Translation": "Maybe need to go both sides?",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "寻找出路": {
-    "Translation": "Find the way out",
-    "M-Bool": false,
-    "Value": 0
+  
+    " level1 ": {
+      "Translation": " Level 1 ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " level2 ": {
+      "Translation": " Level 2 ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " level3 ": {
+      "Translation": " Level 3 ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 10秒 ": {
+      "Translation": " 10 Seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 10秒后传送僵尸 ": {
+      "Translation": " Zombies teleport in 10 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 10秒后将会传送僵尸 ": {
+      "Translation": " Zombies will teleport in 10 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 10秒后打开门 ": {
+      "Translation": " Door opens in 10 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 10秒后门会关闭 ": {
+      "Translation": " Door closes in 10 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 15秒后会打开大门 ": {
+      "Translation": " Main gate opens in 15 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 15秒后僵尸传送 ": {
+      "Translation": " Zombies teleport in 15 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 20 Seconds": {
+      "Translation": " 20 Seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 20秒后僵尸传送 ": {
+      "Translation": " Zombies teleport in 20 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 20秒后打开门 ": {
+      "Translation": " Door opens in 20 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 20秒后開門 ": {
+      "Translation": " Door opens in 20 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 30秒后打开门 ": {
+      "Translation": " Door opens in 30 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 30秒后激活传送 ": {
+      "Translation": " Teleport activates in 30 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 40秒后门会打开 ": {
+      "Translation": " Door opens in 40 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 50秒后开门 ": {
+      "Translation": " Door opens in 50 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 5秒后僵尸传送 ": {
+      "Translation": " Zombies teleport in 5 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 5秒后光明会带我们离开 ": {
+      "Translation": " The light will take us away in 5 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 60秒后离开 ": {
+      "Translation": " Escape in 60 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 8秒后僵尸传送 ": {
+      "Translation": " Zombies teleport in 8 seconds ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 为什么 光会出现在这里? ": {
+      "Translation": " Why is the light here? ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 光明将会带我们离开 最后的防守 ": {
+      "Translation": " The light will take us away - Final defense ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 最后 15秒？ ": {
+      "Translation": " Final 15 seconds? ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 还有20秒 ": {
+      "Translation": " 20 seconds remaining ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    " 这是光..? ": {
+      "Translation": " Is this... light? ",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "10 Seconds": {
+      "Translation": "10 Seconds",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "15 Seconds": {
+      "Translation": "15 Seconds",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "20 Seconds": {
+      "Translation": "20 Seconds",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "35 Seconds": {
+      "Translation": "35 Seconds",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "40 Seconds": {
+      "Translation": "40 Seconds",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "END Defend": {
+      "Translation": "FINAL DEFENSE",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "也许两边都需要前往?": {
+      "Translation": "Maybe we need to go both ways?",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "关卡一已经完成": {
+      "Translation": "Level 1 completed",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "寻找光": {
+      "Translation": "Seek the light",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "寻找出路": {
+      "Translation": "Find the way out",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "朝着光": {
+      "Translation": "Toward the light",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "破碎": {
+      "Translation": "Broken",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "跟随光": {
+      "Translation": "Follow the light",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "Map by Kuro": {
+      "Translation": "Map by Kuro",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "Thanks:Eternity": {
+      "Translation": "Thanks: Eternity",
+      "M-Bool": false,
+      "Value": 0
+    }
   }
-}
