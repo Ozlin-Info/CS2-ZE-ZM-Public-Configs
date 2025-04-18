@@ -1,0 +1,1019 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "--  序章谢幕开启  --": {
+    "Translation": "--  Prologue curtain opens  --",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--  开启史诗模式  --": {
+    "Translation": "--  Activate epic mode  --",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "   救赎之道    ": {
+    "Translation": "   Path of Redemption    ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  Alei  ": {
+    "Translation": "  Alei  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  序章  ": {
+    "Translation": "  Prologue  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  序章开始  ": {
+    "Translation": "  Prologue begins  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  序章谢幕  ": {
+    "Translation": "  Prologue curtain call  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:传送地遭到干预": {
+    "Translation": "AI: Teleportation site has been interfered with.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:传送正在生成": {
+    "Translation": "AI: Teleportation is being generated.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:传送能量5秒后饱和": {
+    "Translation": "AI: Teleportation energy will saturate in 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:传送还需要10秒": {
+    "Translation": "AI: Teleportation needs another 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:先打开右边的限制接触器才能使用左边的开关": {
+    "Translation": "AI: First, open the right limit contactor to use the left switch.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:先解除左边的安全限制器": {
+    "Translation": "AI: First, disable the safety limiter on the left.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:再打开右边的能量置入器让后面的路开启": {
+    "Translation": "AI: Then open the energy inserter on the right to unlock the path behind.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:压力器已解锁": {
+    "Translation": "AI: Pressure regulator has been unlocked.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:受到干预!正在设定传送!": {
+    "Translation": "AI: Interference detected! Setting up teleportation!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:后方机械门将陆续打开": {
+    "Translation": "AI: The mechanical doors behind will open one after another.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:在同一机体内我无法反抗超级AI": {
+    "Translation": "AI: I cannot resist the super AI within the same body.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:坚持住,请不要放弃": {
+    "Translation": "AI: Hold on, please don't give up.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:大约还需要40秒": {
+    "Translation": "AI: Approximately 40 seconds needed.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:大门已损坏,正在设法破坏": {
+    "Translation": "AI: The main door is damaged, attempting to breach.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:大门正在解锁请等待25秒": {
+    "Translation": "AI: The main door is unlocking, please wait 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:失败!正在强行破坏机械门,还需要30秒": {
+    "Translation": "AI: Failed! Forcing the mechanical door, needs another 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:安全限制器已解除": {
+    "Translation": "AI: Safety limiter has been disabled.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:完成": {
+    "Translation": "AI: Completed.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:密室传送还需要20s": {
+    "Translation": "AI: The secret room teleportation needs another 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:密室还需要20秒开启": {
+    "Translation": "AI: The secret room needs another 20 seconds to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:已接入系统,门还需要15秒开启": {
+    "Translation": "AI: Connected to the system, the door needs another 15 seconds to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:已检测到目的地": {
+    "Translation": "AI: Destination detected.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:已经靠近目的地,正在规划路线": {
+    "Translation": "AI: Approaching destination, planning route.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:我会协助各位": {
+    "Translation": "AI: I will assist you all.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:我是超级AI的衍射机体": {
+    "Translation": "AI: I am the diffraction body of the super AI.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:敌人要来了！": {
+    "Translation": "AI: Enemies are coming!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:机械门被加密,正在破译": {
+    "Translation": "AI: The mechanical door is encrypted, decrypting.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:机械门被锁死了": {
+    "Translation": "AI: The mechanical door is locked.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:机械门还需要35秒开启": {
+    "Translation": "AI: The mechanical door needs another 35 seconds to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:检查到某个地方已解锁 ": {
+    "Translation": "AI: Detected that a certain area has been unlocked.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:检测到传输能量请小心": {
+    "Translation": "AI: Detected transmission energy, please be careful.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:检测到右边墙壁为空心,正在设法破坏": {
+    "Translation": "AI: Detected that the right wall is hollow, attempting to breach.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:检测到墙体后有空间": {
+    "Translation": "AI: Detected space behind the wall.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:检测到敌人靠近": {
+    "Translation": "AI: Detected enemies approaching.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:检测到有部分机体正常且有部分数据": {
+    "Translation": "AI: Detected that part of the body is normal and has data.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:检测到超级AI正在泄露至全球网络": {
+    "Translation": "AI: Detected that the super AI is leaking to the global network.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:检测到门内有可触发电路": {
+    "Translation": "AI: Detected a trigger circuit inside the door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:检测后续大门正在打开": {
+    "Translation": "AI: Subsequent doors are opening.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在关闭大门!大约还需要20秒.": {
+    "Translation": "AI: Closing the main door! Approximately 20 seconds needed.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在启用传送门": {
+    "Translation": "AI: Activating the teleportation portal.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在校对路线,等待中": {
+    "Translation": "AI: Checking the route, please wait.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在校验回归路线": {
+    "Translation": "AI: Verifying return route.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在矫正路线": {
+    "Translation": "AI: Correcting the route.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在破坏其结构": {
+    "Translation": "AI: Damaging its structure.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在解锁": {
+    "Translation": "AI: Unlocking.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在解锁,请稍后": {
+    "Translation": "AI: Unlocking, please wait.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在设法解锁": {
+    "Translation": "AI: Attempting to unlock.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在设法解除结界": {
+    "Translation": "AI: Attempting to lift the barrier.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在设置返回坐标": {
+    "Translation": "AI: Setting return coordinates.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在进入图书馆": {
+    "Translation": "AI: Entering the library.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在远程清理后方道路": {
+    "Translation": "AI: Remotely clearing the road behind.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在通过开关激活机械门": {
+    "Translation": "AI: Activating the mechanical door via switch.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在重启大门": {
+    "Translation": "AI: Restarting the main door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在重新引导各位": {
+    "Translation": "AI: Redirecting you all.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:此机体正在接收": {
+    "Translation": "AI: This body is receiving.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:现在你仍然需要我的协助": {
+    "Translation": "AI: You still need my assistance.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:现在已经分离,我任然具有守护的职责": {
+    "Translation": "AI: Now separated, I still have the duty to guard.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:现在通过另一边的身份验证": {
+    "Translation": "AI: Now proceeding with authentication on the other side.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:破坏!传送点设定完毕!": {
+    "Translation": "AI: Destruction! Teleport point set!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:破坏！": {
+    "Translation": "AI: Destruction!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:系统已经重启": {
+    "Translation": "AI: The system has rebooted.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:能量正在植入": {
+    "Translation": "AI: Energy is being implanted.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:解锁已触发,正在校正回路传送": {
+    "Translation": "AI: Unlock triggered, calibrating circuit teleportation.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:请先解锁右边的压力器": {
+    "Translation": "AI: Please unlock the pressure regulator on the right first.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:请各位不要放弃,只要我们重新获得全球网络的控制权,任然有机会将超级AI的本体压制": {
+    "Translation": "AI: Please don’t give up, as long as we regain control of the global network, we still have a chance to suppress the super AI's entity.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:请等待一会,蓄能中": {
+    "Translation": "AI: Please wait a moment, charging.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:超级AI实体已泄露,机体已损坏.": {
+    "Translation": "AI: The super AI entity has leaked, the body is damaged.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:距离敌人传送还有5秒": {
+    "Translation": "AI: 5 seconds until enemy teleportation.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:距离物体破坏还需要20秒": {
+    "Translation": "AI: 20 seconds until object destruction.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:身份验证已通过": {
+    "Translation": "AI: Authentication passed.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:还需要25秒": {
+    "Translation": "AI: Needs another 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:还需要30秒": {
+    "Translation": "AI: Needs another 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:还需要7秒": {
+    "Translation": "AI: Needs another 7 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:通过!正在回归": {
+    "Translation": "AI: Passed! Returning.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:遭受到外部干预,准备强行破门": {
+    "Translation": "AI: External interference detected, preparing to force the door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:门大概需要10秒开启": {
+    "Translation": "AI: The door will take about 10 seconds to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:门禁需要45秒后开启": {
+    "Translation": "AI: The access control will open in 45 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:限制器已经被解除": {
+    "Translation": "AI: The limiter has been disabled.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:院门需要7秒打开": {
+    "Translation": "AI: The courtyard door needs 7 seconds to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:障碍需要20秒解除": {
+    "Translation": "AI: The obstacle needs 20 seconds to lift.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:预计需要45秒": {
+    "Translation": "AI: Estimated to need 45 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ai:正在解锁机械门": {
+    "Translation": "Ai: Unlocking the mechanical door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ai:距离破译机械门还需要35秒": {
+    "Translation": "Ai: 35 seconds until the mechanical door is decrypted.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Spectr:此处还需要15秒": {
+    "Translation": "Spectr: This place needs another 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Spectra:拖住他们": {
+    "Translation": "Spectra: Hold them off.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Spectra:闪刀变更!": {
+    "Translation": "Spectra: Flash blade change!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "error!": {
+    "Translation": "error!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "primary:敌人快速接近": {
+    "Translation": "primary: Enemies approaching quickly.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "primary:瞭解 Spectra:是": {
+    "Translation": "primary: Understood, Spectra: Yes.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "primary:闪刀启动!": {
+    "Translation": "primary: Flash blade activated!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "soldier:此处还需要15秒": {
+    "Translation": "soldier: This place needs another 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "soldier:还需要20秒左右": {
+    "Translation": "soldier: Needs about another 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:AI的样子视乎和之前不一样了": {
+    "Translation": "α: The AI looks different from before.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:一部分人清理道路其他人保持火力!": {
+    "Translation": "α: Some clear the path, others maintain fire!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:使用修复件修复": {
+    "Translation": "α: Use repair parts to fix.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:保持火力压制": {
+    "Translation": "α: Maintain fire suppression.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:允许闪刀战士进行武装": {
+    "Translation": "α: Allow flash blade warriors to arm themselves.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:别让他们靠近我们,他们身上的特殊武器会影响我们": {
+    "Translation": "α: Don't let them get close; their special weapons will affect us.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:前面有分叉口,平均去人触发机关": {
+    "Translation": "α: There's a fork ahead; spread out to trigger the mechanisms.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:动作要快,携带上最新的人形AI为我们指令": {
+    "Translation": "α: Move quickly, take the latest humanoid AI to give us orders.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:动能机停止了,我们得想办法让他动起来": {
+    "Translation": "α: The kinetic engine has stopped; we need to find a way to get it moving.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:动起来,我们的时间不多了": {
+    "Translation": "α: Move, we don't have much time left.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:发生什么了？！": {
+    "Translation": "α: What happened?!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:在AI打开门之前守住这里": {
+    "Translation": "α: Hold this position until the AI opens the door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:在情况变的更坏之前对AI进行清理": {
+    "Translation": "α: Clean up the AI before things get worse.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:在此之前先坚守此地": {
+    "Translation": "α: Hold this place until then.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:太过安静了": {
+    "Translation": "α: It's too quiet.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:守到Ai替我们打开大门": {
+    "Translation": "α: Hold until AI opens the door for us.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:已经很接近了": {
+    "Translation": "α: We're very close now.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:快点清理掉障碍": {
+    "Translation": "α: Hurry up and clear the obstacles.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:快点离开这里！": {
+    "Translation": "α: Get out of here quickly!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:怎么没路了!": {
+    "Translation": "α: Why is there no way out!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:我为什么要相信你": {
+    "Translation": "α: Why should I trust you?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:我们一定会挽回的": {
+    "Translation": "α: We will definitely recover.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:我们很接近了快速前进": {
+    "Translation": "α: We're close, move forward quickly.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:我们需要带着另一个超级AI制作的肃清程序清除入侵带来的影响": {
+    "Translation": "α: We need to bring another super AI's cleansing program to eliminate the effects of the invasion.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:敌人追的很近,在此构建防御": {
+    "Translation": "α: The enemy is closing in; build defenses here.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:既然如此,先完成任务": {
+    "Translation": "α: In that case, let's complete the task first.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:暂时相信你": {
+    "Translation": "α: I'll trust you for now.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:根据全球运动网络指示超级Ai遭到入侵": {
+    "Translation": "α: According to the global movement network, the super AI has been invaded.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:检查超级AI是否正常": {
+    "Translation": "α: Check if the super AI is functioning normally.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:没时间在这里徘徊了": {
+    "Translation": "α: No time to linger here.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:没路了快破坏这个石头": {
+    "Translation": "α: No way out; quickly destroy this stone.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:破坏桥梁别让他们过来！": {
+    "Translation": "α: Destroy the bridge, don't let them come over!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:管理员不在?": {
+    "Translation": "α: Is the administrator not here?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:装甲门太厚了,想办法开启他": {
+    "Translation": "α: The armored door is too thick; find a way to open it.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:让闪刀战士替我们断后,我们先走": {
+    "Translation": "α: Let the flash blade warriors cover our retreat; we'll go first.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:边打边撤!不要把触发的兄弟们卖了": {
+    "Translation": "α: Fight and withdraw! Don't abandon those who triggered the alarms.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:迅速去触发!": {
+    "Translation": "α: Quickly trigger it!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:这是AI前置的警备系统,居然被启动了吗": {
+    "Translation": "α: Is this the AI's preemptive security system activated?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:这样下去不行,允许启动码语机甲": {
+    "Translation": "α: This won't work; allow the code machine to activate.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:连机器人都被启用了,看来门不会这么轻易的打开": {
+    "Translation": "α: Even the robots have been activated; it seems the door won't open easily.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:门要关了,破坏它": {
+    "Translation": "α: The door is closing; destroy it.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:？！提供的修复件是个陷阱,可恶": {
+    "Translation": "α:?! The provided repair parts are a trap, damn it!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "不快点走会死的哟": {
+    "Translation": "Hurry up or we'll die!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "再次感谢你游玩本地图": {
+    "Translation": "Thank you again for playing this map.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "哼哼哼": {
+    "Translation": "Hmm hmm hmm",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "地图由子沫official制作": {
+    "Translation": "Map created by 子沫official. EN Translation: Allenw @ Ozlin Server",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "希望你有一个好的体验": {
+    "Translation": "Hope you have a good experience.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "感谢所有帮助过我的人": {
+    "Translation": "Thanks to everyone who has helped me.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "感谢所有帮助过我的对我进行指导的人": {
+    "Translation": "Thanks to everyone who has guided me.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "感谢礼绮罗Reikira的粒子特效": {
+    "Translation": "Thanks to Reikira for the particle effects.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "有个衰哥调了第一关": {
+    "Translation": "Someone switched to the first level.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "有个衰哥调了第三关": {
+    "Translation": "Someone switched to the third level.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "有个衰哥调了第二关": {
+    "Translation": "Someone switched to the second level.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "未完待续": {
+    "Translation": "To be continued.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "欢迎来到彩蛋房": {
+    "Translation": "Welcome to the Easter egg room.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这是我的第一张地图": {
+    "Translation": "This is my first map.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:院门需要10秒打开": {
+    "Translation": "AI: The courtyard door needs 10 seconds to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  访问码语者   ": {
+    "Translation": "  Access Code Speaker   ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "检测到传送能量,还需要5秒": {
+    "Translation": "Detected teleportation energy, needs another 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:传送还需要5秒": {
+    "Translation": "AI: Teleportation needs another 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  连线整合  ": {
+    "Translation": "  Connection Integration  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  虎鲨加农炮  ": {
+    "Translation": "  Tiger Shark Cannon  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:还需20秒": {
+    "Translation": "AI: Needs another 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  红箭  ": {
+    "Translation": "  Red Arrow  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "soldier:此处还需要25秒": {
+    "Translation": "soldier: This place needs another 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:武器可以将他提前击碎": {
+    "Translation": "AI: The weapon can shatter it in advance.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  烈火再燃  ": {
+    "Translation": "  Fire Reignited  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:这里有密室,想办法把门打开": {
+    "Translation": "α: There's a secret room here; find a way to open the door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:距离物体破坏还需要30秒": {
+    "Translation": "AI: 30 seconds until object destruction.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:正在设法将门降下,还剩下5秒": {
+    "Translation": "α: Attempting to lower the door; 5 seconds remaining.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在将僵尸传送还需要5秒": {
+    "Translation": "AI: Teleporting zombies, needs another 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "解锁 01 水刀和风刀形态": {
+    "Translation": "Unlock 01 Water Blade and Wind Blade forms.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "解锁 roze 连刀": {
+    "Translation": "Unlock Roze linked blades.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  黑洞  ": {
+    "Translation": "  Black Hole  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  鹰式推进器  ": {
+    "Translation": "  Eagle Propulsor  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  妨碍波纹  ": {
+    "Translation": "  Disruption Wave  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  暴风偏向  ": {
+    "Translation": "  Storm Deflection  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--  能量  --": {
+    "Translation": "--  Energy  --",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:还需要10秒": {
+    "Translation": "AI: Needs another 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--  传送  --": {
+    "Translation": "--  Teleportation  --",
+    "M-Bool": false,
+    "Value": 0
+  },
+"  永恒的观测者  ": {
+    "Translation": "  Eternal Observer  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:还需要25秒": {
+    "Translation": "α: Needs another 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ai:距离破译机械门还需要15秒": {
+    "Translation": "Ai: 15 seconds until the mechanical door is decrypted.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:即将破门而入": {
+    "Translation": "AI: About to break through the door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:保持火力压制,稍后": {
+    "Translation": "α: Maintain fire suppression, for now.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:还需10秒": {
+    "Translation": "AI: Needs another 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:启用！": {
+    "Translation": "AI: Activating!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:机械门还需要5秒开启": {
+    "Translation": "AI: The mechanical door needs another 5 seconds to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:还需要5秒,准备": {
+    "Translation": "AI: Needs another 5 seconds, prepare.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:还需要5秒,准备!": {
+    "Translation": "AI: Needs another 5 seconds, get ready!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:还需要5秒.": {
+    "Translation": "AI: Needs another 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:大门关闭中!": {
+    "Translation": "AI: The main door is closing!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "soldier:还需要15秒左右": {
+    "Translation": "soldier: Needs about another 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "soldier:还需要5秒": {
+    "Translation": "soldier: Needs another 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:已接入系统,门还需要10秒开启": {
+    "Translation": "AI: Connected to the system, the door needs another 10 seconds to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:障碍需要30秒解除": {
+    "Translation": "AI: The obstacle needs 30 seconds to lift.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:密室还需要10秒开启": {
+    "Translation": "AI: The secret room needs another 10 seconds to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:正在远程清理后方道路,还需要40秒": {
+    "Translation": "AI: Remotely clearing the road behind, needs another 40 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:还需要20秒": {
+    "Translation": "AI: Needs another 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AI:坚持住,请不要放弃,还需要20秒": {
+    "Translation": "AI: Hold on, please don't give up, another 20 seconds needed.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:还需要15秒": {
+    "Translation": "α: Needs another 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:还需要5秒": {
+    "Translation": "α: Needs another 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "α:退到林中去": {
+    "Translation": "α: Retreat to the forest.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
