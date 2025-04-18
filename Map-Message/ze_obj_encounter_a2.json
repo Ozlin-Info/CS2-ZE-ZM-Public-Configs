@@ -7,7 +7,7 @@
     }
   },
   "Map By Linyan": {
-    "Translation": "Map By Linyan",
+    "Translation": "Map By Linyan, EN Translation: Allenw @ Ozlin Server",
     "M-Bool": false,
     "Value": 0
   },
@@ -17,82 +17,82 @@
     "Value": 0
   },
   "整个设施陷入了半停电状态": {
-    "Translation": "整个设施陷入了半停电状态",
+    "Translation": "The entire facility has fallen into a partial blackout",
     "M-Bool": false,
     "Value": 0
   },
   "发生什么了": {
-    "Translation": "发生什么了",
+    "Translation": "What happened",
     "M-Bool": false,
     "Value": 0
   },
   "...生化病毒发生了泄露？": {
-    "Translation": "...生化病毒发生了泄露？",
+    "Translation": "...Has the biochemical virus leaked?",
     "M-Bool": false,
     "Value": 0
   },
   "识别代码为K-A18 代号：僵尸": {
-    "Translation": "识别代码为K-A18 代号：僵尸",
+    "Translation": "Identification code is K-A18, Codename: Zombie",
     "M-Bool": false,
     "Value": 0
   },
   "如遇到有症状人员，可就地击毙": {
-    "Translation": "如遇到有症状人员，可就地击毙",
+    "Translation": "If symptomatic individuals are encountered, they may be executed on site",
     "M-Bool": false,
     "Value": 0
   },
   "看来事情有点大啊": {
-    "Translation": "看来事情有点大啊",
+    "Translation": "Looks like this is a big deal",
     "M-Bool": false,
     "Value": 0
   },
   "给我30秒打开门": {
-    "Translation": "给我30秒打开门",
+    "Translation": "Give me 30 seconds to open the door",
     "M-Bool": false,
     "Value": 0
   },
   "靠，开门的噪声引来了僵尸": {
-    "Translation": "靠，开门的噪声引来了僵尸",
+    "Translation": "Damn, the noise of opening the door attracted zombies",
     "M-Bool": false,
     "Value": 0
   },
   "门开了，快走": {
-    "Translation": "门开了，快走",
+    "Translation": "The door is open, hurry up",
     "M-Bool": false,
     "Value": 0
   },
   "门已关闭": {
-    "Translation": "门已关闭",
+    "Translation": "The door has been closed",
     "M-Bool": false,
     "Value": 0
   },
   "这边被大火封路了.....": {
-    "Translation": "这边被大火封路了.....",
+    "Translation": "This side is blocked by fire.....",
     "M-Bool": false,
     "Value": 0
   },
   "来这边！有电梯可以到上一层": {
-    "Translation": "来这边！有电梯可以到上一层",
+    "Translation": "Come over here! There's an elevator to the upper level",
     "M-Bool": false,
     "Value": 0
   },
   "不过我们需要扑灭火焰": {
-    "Translation": "不过我们需要扑灭火焰",
+    "Translation": "But we need to extinguish the flames",
     "M-Bool": false,
     "Value": 0
   },
   "小心，僵尸扒开了大门": {
-    "Translation": "小心，僵尸扒开了大门",
+    "Translation": "Be careful, zombies pried open the door",
     "M-Bool": false,
     "Value": 0
   },
   "守住阵地，还有30秒扑灭火焰": {
-    "Translation": "守住阵地，还有30秒扑灭火焰",
+    "Translation": "Hold the position, 30 seconds left to extinguish the flames",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸从另一个大门涌来了": {
-    "Translation": "僵尸从另一个大门涌来了",
+    "Translation": "Zombies are pouring in from another gate",
     "M-Bool": false,
     "Value": 0
   },
