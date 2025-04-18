@@ -1,0 +1,254 @@
+{  
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "管理员将关卡更改为ZM": {
+    "Translation": "The admin has changed the level to ZM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "管理员将关卡更改为第一关": {
+    "Translation": "The admin has changed the level to the first level",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "管理员将关卡更改为第二关": {
+    "Translation": "The admin has changed the level to the second level",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这是个错误关卡，请联系作者": {
+    "Translation": "This is an incorrect level, please contact the author",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "生存130秒": {
+    "Translation": "Survive for 130 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ME社......雷电龙马......经济犯罪......": {
+    "Translation": "ME Corp...... Thunder Dragon Horse...... Economic crime......",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "仓库调查完毕.最后一块拼图已经集齐!": {
+    "Translation": "Warehouse investigation completed. The last puzzle piece has been gathered!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "保护学院长,直到巫女小姐治疗完毕(别让僵尸碰到德莉莎和八重樱)": {
+    "Translation": "Protect the academy head until the priestess finishes healing (don't let zombies touch Delisa and Yae Sakura)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "分析完成!": {
+    "Translation": "Analysis completed!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "哟哟哟,这不是学援长吗?几天不见这么拉了~": {
+    "Translation": "Yo yo yo, isn't this the academy head? Haven't seen you for a few days, looking so down~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住,直到把汽车移动到指定位置!": {
+    "Translation": "Hold the position until the car is moved to the designated location!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住这里,直到c4爆炸!": {
+    "Translation": "Hold this position until the C4 explodes!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住这里,直到梯子落下!": {
+    "Translation": "Hold this position until the ladder drops!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住这里,直到调查完毕!": {
+    "Translation": "Hold this position until the investigation is completed!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "安保系统已破解!": {
+    "Translation": "Security system has been hacked!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "安全屋门已经打开,速度进入!": {
+    "Translation": "The safe house door is open, hurry in!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "实验室资料搜索完毕.速度进入配电房!": {
+    "Translation": "Laboratory data search completed. Hurry to the distribution room!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已呼叫电梯.": {
+    "Translation": "Elevator has been called.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已经呼叫撤退直升机,撑住!": {
+    "Translation": "Retreat helicopter has been called, hold on!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已经打开长空壁的泄洪阀!": {
+    "Translation": "The floodgate of the Long Sky Wall has been opened!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "征服宝石......第三律者......植入手术......": {
+    "Translation": "Conquering gem...... Third Lawgiver...... Implant surgery......",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "征讨拟似律者的时候翻车了?不愧是你": {
+    "Translation": "Did you crash while dealing with the pseudo-lawgiver? Just like you.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "接到线报,神社下面的实验室可能和大崩坏有关!": {
+    "Translation": "Received intelligence that the laboratory beneath the shrine may be related to the Great Collapse!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "暂时击退死士,速度进入安全屋!": {
+    "Translation": "Temporarily fend off the dead soldiers, hurry into the safe house!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "根据资料显示,这附近还有一个办事处和一个仓库.": {
+    "Translation": "According to the data, there is also an office and a warehouse nearby.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "桥已炸毁,撤退!": {
+    "Translation": "The bridge has been destroyed, retreat!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "检测到有死士进入,灭杀程序启动!": {
+    "Translation": "Detected dead soldiers entering, extermination protocol activated!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "检测到神社下方有生命特征!": {
+    "Translation": "Detected life signs beneath the shrine!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "正在分析内网IP!": {
+    "Translation": "Analyzing internal network IP!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "正在搜查办事处资料......": {
+    "Translation": "Searching office data......",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "正在收集实验室资料!": {
+    "Translation": "Collecting laboratory data!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "正在破解仓库安保系统!": {
+    "Translation": "Hacking the warehouse security system!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "死士从另一边下来了!": {
+    "Translation": "Dead soldiers have come down from the other side!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "死士从另一边来了!": {
+    "Translation": "Dead soldiers are coming from the other side!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "水中崩坏能浓度已达到安全水平!": {
+    "Translation": "The concentration of collapse energy in the water has reached a safe level!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "汽车已移动到指定位置!": {
+    "Translation": "The car has been moved to the designated location!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "没有保护好学援长,任务失败!": {
+    "Translation": "Failed to protect the academy head, mission failed!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯已抵达!": {
+    "Translation": "The elevator has arrived!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "直升机即将到达,我们撤退!": {
+    "Translation": "The helicopter is about to arrive; we are retreating!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "等待水中崩坏能浓度下降!": {
+    "Translation": "Waiting for the concentration of collapse energy in the water to decrease!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "该死!死士上直升机了,任务失败!": {
+    "Translation": "Damn it! The dead soldiers got on the helicopter; mission failed!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "资料搜集完毕!": {
+    "Translation": "Data collection completed!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "跳!": {
+    "Translation": "Jump!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这扇门坚持不了多久,从后门逃离!": {
+    "Translation": "This door won't hold much longer; escape through the back door!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这辆大巴挡住了去路.守住这里,直到c4爆炸!": {
+    "Translation": "This bus is blocking the way. Hold this position until the C4 explodes!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "逆熵......激进派......可可利亚......": {
+    "Translation": "Anti-entropy...... Radicals...... Coccolia......",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当前版本号码为005": {
+    "Translation": "Current version number is 005",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BUG反馈请前往Dc频道": {
+    "Translation": "For bug feedback, please go to the Discord channel",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "discord.gg/eXR7xumCfP": {
+    "Translation": "discord.gg/eXR7xumCfP",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
