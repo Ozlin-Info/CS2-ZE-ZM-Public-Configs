@@ -6,24 +6,105 @@
       "Value": 0
     }
   },
-  "ZE_OVERLORD": {
-    "Translation": "ZE_OVERLORD",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "25": {
-    "Translation": "25",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "10": {
-    "Translation": "10",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "20": {
-    "Translation": "20",
-    "M-Bool": false,
-    "Value": 0
-  }
+  
+    "10": {
+      "Translation": "10s",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "20": {
+      "Translation": "20s",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "25": {
+      "Translation": "25s",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "30": {
+      "Translation": "30s",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "40": {
+      "Translation": "40s",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "60": {
+      "Translation": "60s",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "ZE_OVERLORD": {
+      "Translation": "ZE_OVERLORD The Undead King",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "ZE_OVERLORD Chapter I": {
+      "Translation": "ZE_OVERLORD The Undead King Chapter I",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "ZE_OVERLORD Chapter II": {
+      "Translation": "ZE_OVERLORD The Undead King Chapter II",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "ZE_OVERLORD Chapter III": {
+      "Translation": "ZE_OVERLORD The Undead King Chapter III",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "ZE_OVERLORD Chapter IV MAP BY <佐贺> <Riggin>": {
+      "Translation": "ZE_OVERLORD The Undead King Chapter IV MAP BY <Saga> <Riggin>",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "不死者之王:终焉之时到了!亵渎者,停止胡闹吧!": {
+      "Translation": "Undead King: The end has come! Cease your blasphemy!",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "塔其米:亵渎者,你会后悔的": {
+      "Translation": "Touch Me: You'll regret this blasphemy",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "塔其米:你执意要踏足此地么?": {
+      "Translation": "Touch Me: Do you insist on trespassing here?",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "封印纳萨利里克的亡灵于坟墓之内": {
+      "Translation": "Seal the undead of Nazarick within their tomb",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "测试版本": {
+      "Translation": "Beta Version",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "第六位阶:火焰之翼": {
+      "Translation": "6th Tier: Wings of Flame",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "纳萨力克的亡灵......我无意亵渎此地......愿你安息": {
+      "Translation": "Undead of Nazarick... I meant no desecration... may you rest",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "雅儿贝德:亵渎者,在地狱之火中安息吧!": {
+      "Translation": "Albedo: Blasphemer, burn in hellfire!",
+      "M-Bool": false,
+      "Value": 0
+    },
+    "世界级道具:倾国倾城": {
+      "Translation": "World Item: Downfall of Castle and Country",
+      "M-Bool": false,
+      "Value": 0
+    }
 }
