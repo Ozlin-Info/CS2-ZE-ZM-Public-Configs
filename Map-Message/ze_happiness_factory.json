@@ -21,11 +21,6 @@
     "M-Bool": false,
     "Value": 0
   },
-  "祝，武运昌隆": {
-    "Translation": "Wishing you good fortune in battle.",
-    "M-Bool": false,
-    "Value": 0
-  },
   "门将在 25 秒后打开": {
     "Translation": "The door will open in 25 seconds.",
     "M-Bool": false,
@@ -42,7 +37,7 @@
     "Value": 0
   },
   "compile help by ice & 莫等闲贤咸": {
-    "Translation": "Compile help by ice & Mo Dengkai Xian Xian.",
+    "Translation": "Compile help by ice & Mo DengXian",
     "M-Bool": false,
     "Value": 0
   },
@@ -58,6 +53,136 @@
   },
   "僵尸将在 20 秒后传送": {
     "Translation": "Zombies will teleport in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "祝，武运昌隆": {
+    "translation": "Good luck in your endeavors",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将在 5 秒后打开": {
+    "translation": " The door will open in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 秒": {
+    "translation": " 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将在 20 秒后打开": {
+    "translation": " The door will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将在 10 秒后打开": {
+    "translation": " The door will open in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "钥匙已被拾取": {
+    "translation": "The key has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "管道将在 10 秒后打开": {
+    "translation": " The pipe will open in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯门将在 8 秒后关闭": {
+    "translation": " The elevator door will close in 8 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将在 30 秒后打开": {
+    "translation": " The door will open in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将在 35 秒后打开": {
+    "translation": " The door will open in 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯门将在 25 秒后打开": {
+    "translation": " The elevator door will open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯门将在 5 秒后关闭": {
+    "translation": " The elevator door will close in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "管道在 20 秒后打开": {
+    "translation": " The pipe will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "墙将在 15 秒后被破坏": {
+    "translation": " The wall will be destroyed in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯门将在 20 秒后打开": {
+    "translation": " The elevator door will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将在 4 秒后关闭": {
+    "translation": "The door will close in 4 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸将在 10 秒后传送": {
+    "translation": " Zombies will teleport in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "管道将在 20 秒后打开": {
+    "translation": " The pipe will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们好像失败了?": {
+    "translation": "Do we seem to have failed?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "前面的马路可以离开这里": {
+    "translation": "The road ahead can take us out of here",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "那边似乎还有东西......": {
+    "translation": "There seems to be something over there...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "要去看看吗?": {
+    "translation": "Should we go check it out?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "从这里离开吧": {
+    "translation": "Let's leave from here",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "最后的门将在 20 秒后打开": {
+    "translation": " The last door will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 15 秒": {
+    "translation": " 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将在 65 秒后打开": {
+    "translation": " The door will open in 65 seconds ",
     "M-Bool": false,
     "Value": 0
   }
