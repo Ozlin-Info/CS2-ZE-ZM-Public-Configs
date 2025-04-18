@@ -7,472 +7,472 @@
     }
   },
   "(电流声)": {
-    "translation": "(Static noise)",
+    "Translation": "(Static noise)",
     "M-Bool": false,
     "Value": 0
   },
   "(声音突然被打断，随后又继续)": {
-    "translation": "(Sound suddenly cuts off, then resumes)",
+    "Translation": "(Sound suddenly cuts off, then resumes)",
     "M-Bool": false,
     "Value": 0
   },
   "(收音机声渐渐消失，留下一片死寂)": {
-    "translation": "(Radio static fades into dead silence)",
+    "Translation": "(Radio static fades into dead silence)",
     "M-Bool": false,
     "Value": 0
   },
   "(收音机静静地嘶嘶作响，偶尔伴随着嘈杂的干扰声)": {
-    "translation": "(Radio hisses quietly with occasional interference)",
+    "Translation": "(Radio hisses quietly with occasional interference)",
     "M-Bool": false,
     "Value": 0
   },
   "...": {
-    "translation": "...",
+    "Translation": "...",
     "M-Bool": false,
     "Value": 0
   },
   "……紧急新闻……断断续续的报告显示，多个区域爆发了不明病毒……人们变得极度暴力，感觉不到痛苦……请立即撤离，不要与任何人接触……记住，保持冷静，寻找安全的庇护所……": {
-    "translation": "...Emergency broadcast... Intermittent reports indicate unknown virus outbreaks in multiple zones... Victims exhibit extreme violence and pain insensitivity... Evacuate immediately, avoid all contact... Remain calm and seek secure shelter...",
+    "Translation": "...Emergency broadcast... Intermittent reports indicate unknown virus outbreaks in multiple zones... Victims exhibit extreme violence and pain insensitivity... Evacuate immediately, avoid all contact... Remain calm and seek secure shelter...",
     "M-Bool": false,
     "Value": 0
   },
   "……这是一个前所未有的危机……政府已经启动紧急状态……所有居民请保持警惕，关闭窗户和门，尽量储存食物和水……我们会继续为您更新信息，切勿外出……": {
-    "translation": "...Unprecedented crisis... Government has declared emergency... All civilians remain vigilant, secure windows/doors, stockpile supplies... Updates will follow. Do NOT go outside...",
+    "Translation": "...Unprecedented crisis... Government has declared emergency... All civilians remain vigilant, secure windows/doors, stockpile supplies... Updates will follow. Do NOT go outside...",
     "M-Bool": false,
     "Value": 0
   },
   "一定是通讯器经过辐射区的时候损坏了": {
-    "translation": "Comms must've fried when we passed the radiation zone",
+    "Translation": "Comms must've fried when we passed the radiation zone",
     "M-Bool": false,
     "Value": 0
   },
   "不能让其他小队再次进入这个鬼地方": {
-    "translation": "No more teams should enter this hellhole",
+    "Translation": "No more teams should enter this hellhole",
     "M-Bool": false,
     "Value": 0
   },
   "他们快来了": {
-    "translation": "They're coming",
+    "Translation": "They're coming",
     "M-Bool": false,
     "Value": 0
   },
   "但愿我们可以从那里找到一线生机": {
-    "translation": "Maybe we can find hope there",
+    "Translation": "Maybe we can find hope there",
     "M-Bool": false,
     "Value": 0
   },
   "但我们现在身处与基地下方的下水道区域": {
-    "translation": "But we're now in the sewers beneath the base",
+    "Translation": "But we're now in the sewers beneath the base",
     "M-Bool": false,
     "Value": 0
   },
   "但是...": {
-    "translation": "But...",
+    "Translation": "But...",
     "M-Bool": false,
     "Value": 0
   },
   "先想办法出去再说": {
-    "translation": "Focus on getting out first",
+    "Translation": "Focus on getting out first",
     "M-Bool": false,
     "Value": 0
   },
   "准备上去吧...": {
-    "translation": "Let's head up...",
+    "Translation": "Let's head up...",
     "M-Bool": false,
     "Value": 0
   },
   "前面的辐射物泄露了": {
-    "translation": "Radiation leak ahead",
+    "Translation": "Radiation leak ahead",
     "M-Bool": false,
     "Value": 0
   },
   "前面的门打不开": {
-    "translation": "Door ahead won't open",
+    "Translation": "Door ahead won't open",
     "M-Bool": false,
     "Value": 0
   },
   "只能把地板干开了": {
-    "translation": "Have to break through the floor",
+    "Translation": "Have to break through the floor",
     "M-Bool": false,
     "Value": 0
   },
   "地图上显示这里就是要潜入的地方": {
-    "translation": "Map shows this is our infiltration point",
+    "Translation": "Map shows this is our infiltration point",
     "M-Bool": false,
     "Value": 0
   },
   "地图显示这边好像有一个通向中心区的破旧电梯": {
-    "translation": "Map shows a rundown elevator to central zone here",
+    "Translation": "Map shows a rundown elevator to central zone here",
     "M-Bool": false,
     "Value": 0
   },
   "地板有一块是松的": {
-    "translation": "There's a loose floor panel",
+    "Translation": "There's a loose floor panel",
     "M-Bool": false,
     "Value": 0
   },
   "外面雨太大了，能见度过低": {
-    "translation": "Rain's too heavy outside, visibility zero",
+    "Translation": "Rain's too heavy outside, visibility zero",
     "M-Bool": false,
     "Value": 0
   },
   "得想个办法快点打开这栅栏": {
-    "translation": "Need to open this gate fast",
+    "Translation": "Need to open this gate fast",
     "M-Bool": false,
     "Value": 0
   },
   "得想办法扑灭火焰": {
-    "translation": "Need to put out these flames",
+    "Translation": "Need to put out these flames",
     "M-Bool": false,
     "Value": 0
   },
   "快去把门关上": {
-    "translation": "Close that door now!",
+    "Translation": "Close that door now!",
     "M-Bool": false,
     "Value": 0
   },
   "快进到房间里来": {
-    "translation": "Get in the room now!",
+    "Translation": "Get in the room now!",
     "M-Bool": false,
     "Value": 0
   },
   "感受到了吗": {
-    "translation": "Feel that?",
+    "Translation": "Feel that?",
     "M-Bool": false,
     "Value": 0
   },
   "我们得再快一点了": {
-    "translation": "We need to move faster",
+    "Translation": "We need to move faster",
     "M-Bool": false,
     "Value": 0
   },
   "我们得去打开电源": {
-    "translation": "We need to restore power",
+    "Translation": "We need to restore power",
     "M-Bool": false,
     "Value": 0
   },
   "我们得快点赶过去": {
-    "translation": "We need to get there fast",
+    "Translation": "We need to get there fast",
     "M-Bool": false,
     "Value": 0
   },
   "我们没有退路了...": {
-    "translation": "No way back now...",
+    "Translation": "No way back now...",
     "M-Bool": false,
     "Value": 0
   },
   "我可不想游过去": {
-    "translation": "I'm not swimming through that",
+    "Translation": "I'm not swimming through that",
     "M-Bool": false,
     "Value": 0
   },
   "找到灭火器了": {
-    "translation": "Found a fire extinguisher",
+    "Translation": "Found a fire extinguisher",
     "M-Bool": false,
     "Value": 0
   },
   "无论如何，先到里面去吧": {
-    "translation": "Just get inside first",
+    "Translation": "Just get inside first",
     "M-Bool": false,
     "Value": 0
   },
   "然后通过列车前往最近的巨型风扇口": {
-    "translation": "Then take the train to nearest vent shaft",
+    "Translation": "Then take the train to nearest vent shaft",
     "M-Bool": false,
     "Value": 0
   },
   "看来上天还不想让我们死在这里": {
-    "translation": "Looks like fate's not done with us yet",
+    "Translation": "Looks like fate's not done with us yet",
     "M-Bool": false,
     "Value": 0
   },
   "看来得绕路了": {
-    "translation": "Need to find detour",
+    "Translation": "Need to find detour",
     "M-Bool": false,
     "Value": 0
   },
   "看来此路不通": {
-    "translation": "Dead end here",
+    "Translation": "Dead end here",
     "M-Bool": false,
     "Value": 0
   },
   "终于可以离开这里了": {
-    "translation": "Finally getting out of here",
+    "Translation": "Finally getting out of here",
     "M-Bool": false,
     "Value": 0
   },
   "至少我们得活着把消息带出去": {
-    "translation": "At least we'll live to report this",
+    "Translation": "At least we'll live to report this",
     "M-Bool": false,
     "Value": 0
   },
   "这扇门锁得太死了，让我把它推开": {
-    "translation": "Door's jammed shut - let me force it",
+    "Translation": "Door's jammed shut - let me force it",
     "M-Bool": false,
     "Value": 0
   },
   "这是...?": {
-    "translation": "This is...?",
+    "Translation": "This is...?",
     "M-Bool": false,
     "Value": 0
   },
   "这电梯门卡得太死了": {
-    "translation": "Elevator doors are stuck tight",
+    "Translation": "Elevator doors are stuck tight",
     "M-Bool": false,
     "Value": 0
   },
   "这边已经被全面封锁了": {
-    "translation": "Area's completely locked down",
+    "Translation": "Area's completely locked down",
     "M-Bool": false,
     "Value": 0
   },
   "这里已经没有人了": {
-    "translation": "No one left here",
+    "Translation": "No one left here",
     "M-Bool": false,
     "Value": 0
   },
   "长官我们已经到达了中心区外部": {
-    "translation": "Sir we've reached central zone perimeter",
+    "Translation": "Sir we've reached central zone perimeter",
     "M-Bool": false,
     "Value": 0
   },
   "长官，情况已经确认，我们的目标是阿尔法地下基地的中心区。根据收音机的最新消息，那里是感染最严重的区域，传闻中已经有大量人员被围困": {
-    "translation": "Sir, confirmed - our target is Alpha Base central zone. Radio reports indicate worst infection rates there, rumors of mass containment",
+    "Translation": "Sir, confirmed - our target is Alpha Base central zone. Radio reports indicate worst infection rates there, rumors of mass containment",
     "M-Bool": false,
     "Value": 0
   },
   "长官，我们暂时挡住了追击者": {
-    "translation": "Sir, hostiles temporarily held back",
+    "Translation": "Sir, hostiles temporarily held back",
     "M-Bool": false,
     "Value": 0
   },
   "长官，我们马上到达辐射区，当前电梯速度异常缓慢，不知是否因为外部环境的影响。请问有最新指示吗?": {
-    "translation": "Sir approaching radiation zone, elevator abnormally slow - environmental interference? Any new orders?",
+    "Translation": "Sir approaching radiation zone, elevator abnormally slow - environmental interference? Any new orders?",
     "M-Bool": false,
     "Value": 0
   },
   "主电力系统已经重启": {
-    "translation": "Main power restored",
+    "Translation": "Main power restored",
     "M-Bool": false,
     "Value": 0
   },
   "准备...": {
-    "translation": "Standby...",
+    "Translation": "Standby...",
     "M-Bool": false,
     "Value": 0
   },
   "备用电力系统已经打开了": {
-    "translation": "Backup power activated",
+    "Translation": "Backup power activated",
     "M-Bool": false,
     "Value": 0
   },
   "大门还有10秒开启": {
-    "translation": "Gate opens in 10s",
+    "Translation": "Gate opens in 10s",
     "M-Bool": false,
     "Value": 0
   },
   "大门还有10秒打开": {
-    "translation": "Gate opens in 10s",
+    "Translation": "Gate opens in 10s",
     "M-Bool": false,
     "Value": 0
   },
   "大门还有20秒开启": {
-    "translation": "Gate opens in 20s",
+    "Translation": "Gate opens in 20s",
     "M-Bool": false,
     "Value": 0
   },
   "大门还有20秒打开": {
-    "translation": "Gate opens in 20s",
+    "Translation": "Gate opens in 20s",
     "M-Bool": false,
     "Value": 0
   },
   "大门还有30秒开启": {
-    "translation": "Gate opens in 30s",
+    "Translation": "Gate opens in 30s",
     "M-Bool": false,
     "Value": 0
   },
   "大门还有40秒开启": {
-    "translation": "Gate opens in 40s",
+    "Translation": "Gate opens in 40s",
     "M-Bool": false,
     "Value": 0
   },
   "大门还有50秒开启": {
-    "translation": "Gate opens in 50s",
+    "Translation": "Gate opens in 50s",
     "M-Bool": false,
     "Value": 0
   },
   "快走！！": {
-    "translation": "MOVE NOW!!",
+    "Translation": "MOVE NOW!!",
     "M-Bool": false,
     "Value": 0
   },
   "总电源已经启动": {
-    "translation": "Main power online",
+    "Translation": "Main power online",
     "M-Bool": false,
     "Value": 0
   },
   "激光已关闭": {
-    "translation": "Lasers deactivated",
+    "Translation": "Lasers deactivated",
     "M-Bool": false,
     "Value": 0
   },
   "火焰熄灭了": {
-    "translation": "Fire extinguished",
+    "Translation": "Fire extinguished",
     "M-Bool": false,
     "Value": 0
   },
   "电梯还有10秒开启": {
-    "translation": "Elevator in 10s",
+    "Translation": "Elevator in 10s",
     "M-Bool": false,
     "Value": 0
   },
   "电梯还有40秒开启": {
-    "translation": "Elevator in 40s",
+    "Translation": "Elevator in 40s",
     "M-Bool": false,
     "Value": 0
   },
   "电源已开启": {
-    "translation": "Power activated",
+    "Translation": "Power activated",
     "M-Bool": false,
     "Value": 0
   },
   "管道还有10秒破开": {
-    "translation": "Pipe breach in 10s",
+    "Translation": "Pipe breach in 10s",
     "M-Bool": false,
     "Value": 0
   },
   "管道还有20秒破开": {
-    "translation": "Pipe breach in 20s",
+    "Translation": "Pipe breach in 20s",
     "M-Bool": false,
     "Value": 0
   },
   "蒸汽即将关闭": {
-    "translation": "Steam shutdown imminent",
+    "Translation": "Steam shutdown imminent",
     "M-Bool": false,
     "Value": 0
   },
   "还有10秒大门开启": {
-    "translation": "Gate opens in 10s",
+    "Translation": "Gate opens in 10s",
     "M-Bool": false,
     "Value": 0
   },
   "还有10秒钟开门": {
-    "translation": "Opening in 10s",
+    "Translation": "Opening in 10s",
     "M-Bool": false,
     "Value": 0
   },
   "还有20秒大门开启": {
-    "translation": "Gate opens in 20s",
+    "Translation": "Gate opens in 20s",
     "M-Bool": false,
     "Value": 0
   },
   "还有30秒大门开启": {
-    "translation": "Gate opens in 30s",
+    "Translation": "Gate opens in 30s",
     "M-Bool": false,
     "Value": 0
   },
   "通风口功率已经提高到25%": {
-    "translation": "Vents at 25% capacity",
+    "Translation": "Vents at 25% capacity",
     "M-Bool": false,
     "Value": 0
   },
   "通风口功率已经提高到50%": {
-    "translation": "Vents at 50% capacity",
+    "Translation": "Vents at 50% capacity",
     "M-Bool": false,
     "Value": 0
   },
   "通风口功率已经提高到75%": {
-    "translation": "Vents at 75% capacity",
+    "Translation": "Vents at 75% capacity",
     "M-Bool": false,
     "Value": 0
   },
   "通风口功率已经过载": {
-    "translation": "Ventilation overload",
+    "Translation": "Ventilation overload",
     "M-Bool": false,
     "Value": 0
   },
   "门还有10秒钟开启": {
-    "translation": "Door opens in 10s",
+    "Translation": "Door opens in 10s",
     "M-Bool": false,
     "Value": 0
   },
   "玖神: 我们会在外面接应你们": {
-    "translation": "Jiushen: We'll extract you outside",
+    "Translation": "Jiushen: We'll extract you outside",
     "M-Bool": false,
     "Value": 0
   },
   "玖神: 我们的另外一支小队已经在这片区域安装了炸弹": {
-    "translation": "Jiushen: Another team planted charges here",
+    "Translation": "Jiushen: Another team planted charges here",
     "M-Bool": false,
     "Value": 0
   },
   "玖神: 终于联系上你们小队了": {
-    "translation": "Jiushen: Finally made contact",
+    "Translation": "Jiushen: Finally made contact",
     "M-Bool": false,
     "Value": 0
   },
   "玖神: 自从联系断了之后我就以为你们已经...": {
-    "translation": "Jiushen: After comms died I thought you were...",
+    "Translation": "Jiushen: After comms died I thought you were...",
     "M-Bool": false,
     "Value": 0
   },
   "玖神: 那边有一条通道连接到外面的水道，我在地图上给你们标识出来了": {
-    "translation": "Jiushen: There's a sewer access point - marked on your map",
+    "Translation": "Jiushen: There's a sewer access point - marked on your map",
     "M-Bool": false,
     "Value": 0
   },
   "玖神:一切行动以自保为主。记住，这些人不再是普通人，随时可能变得极端暴力。命令是优先保护队员的生命安全，确保能够带回更多幸存者": {
-    "translation": "Jiushen:Priority is survival. Remember - they're not human anymore, extremely violent. Orders: protect the team, extract survivors",
+    "Translation": "Jiushen:Priority is survival. Remember - they're not human anymore, extremely violent. Orders: protect the team, extract survivors",
     "M-Bool": false,
     "Value": 0
   },
   "玖神:你们先沿着沿途标记的出口前进，确保对周围环境保持敏感。一旦确认出现敌人，合理分配任务，保护队员的安全，同时尽可能寻找幸存者。我们不能留下任何人": {
-    "translation": "Jiushen:Follow marked exit routes, stay alert. Engage hostiles strategically while searching for survivors. Leave no one behind",
+    "Translation": "Jiushen:Follow marked exit routes, stay alert. Engage hostiles strategically while searching for survivors. Leave no one behind",
     "M-Bool": false,
     "Value": 0
   },
   "玖神:对了，中心区可能电能已经耗尽，需要你们自己去启用备用电源": {
-    "translation": "Jiushen:Central zone power likely down - activate backup generators",
+    "Translation": "Jiushen:Central zone power likely down - activate backup generators",
     "M-Bool": false,
     "Value": 0
   },
   "玖神:我们接到的命令是尽快营救幸存者，同时确保病毒不会扩散。你们是目前唯一能够执行这个任务的力量，务必要小心": {
-    "translation": "Jiushen:Orders: rescue survivors and contain outbreak. You're the only team that can do this - be careful",
+    "Translation": "Jiushen:Orders: rescue survivors and contain outbreak. You're the only team that can do this - be careful",
     "M-Bool": false,
     "Value": 0
   },
   "玖神:辐射水平会影响你们的生命安全。你们必须尽快穿过这片区域": {
-    "translation": "Jiushen:Radiation levels lethal - move through this area fast",
+    "Translation": "Jiushen:Radiation levels lethal - move through this area fast",
     "M-Bool": false,
     "Value": 0
   },
   "（电流声）": {
-    "translation": "(Static)",
+    "Translation": "(Static)",
     "M-Bool": false,
     "Value": 0
   },
   "我可不想进去游泳": {
-    "translation": "I'm not swimming in there",
+    "Translation": "I'm not swimming in there",
     "M-Bool": false,
     "Value": 0
   },
   "门还有10秒钟关闭": {
-    "translation": "Door closes in 10s",
+    "Translation": "Door closes in 10s",
     "M-Bool": false,
     "Value": 0
   },
   "通风口已经过载": {
-    "translation": "Ventilation overloaded",
+    "Translation": "Ventilation overloaded",
     "M-Bool": false,
     "Value": 0
   },
   "快进到房间里来!!!": {
-    "translation": "GET IN THE ROOM NOW!!!",
+    "Translation": "GET IN THE ROOM NOW!!!",
     "M-Bool": false,
     "Value": 0
   },
   "门还有20秒钟关闭": {
-    "translation": "Door closes in 20s",
+    "Translation": "Door closes in 20s",
     "M-Bool": false,
     "Value": 0
   }
