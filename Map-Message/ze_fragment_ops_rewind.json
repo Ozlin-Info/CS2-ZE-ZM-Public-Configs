@@ -7,12 +7,12 @@
     }
   },
   "アルビオンだったもの :": {
-    "Translation": "What was Albion:",
+    "Translation": "Formerly Albion:",
     "M-Bool": false,
     "Value": 0
   },
   "「ここがセレスティアルの深層...」": {
-    "Translation": "「This is the depths of Celestial...」 英語翻訳: ChatGPT + AllenW @ Ozlin サーバー",
+    "Translation": "「This is the deep layer of Celestial...」 英語翻訳: ChatGPT + AllenW @ Ozlin サーバー",
     "M-Bool": false,
     "Value": 0
   },
@@ -22,7 +22,7 @@
     "Value": 0
   },
   "「いつまでこの殻が耐えるかわからないけど...」": {
-    "Translation": "「I don’t know how long this shell will hold...」",
+    "Translation": "「I don’t know how long this shell can hold...」",
     "M-Bool": false,
     "Value": 0
   },
@@ -43,6 +43,266 @@
   },
   "! 10 sec !": {
     "Translation": "! 10 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " restart Lv1 ": {
+    "Translation": " restart Level 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " restart Lv2 ": {
+    "Translation": " restart Level 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " restart Lv3 ": {
+    "Translation": " restart Level 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「では今回の最終試練を言い渡そう」": {
+    "Translation": "「Then, I will announce this time's final trial.」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「なにか良からぬことが起きてるは間違いない...」": {
+    "Translation": "「Something bad has definitely happened...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「彼らにもコミュニティが存在するのかしら...」": {
+    "Translation": "「Do they also have their own community...?」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「彼らは何を言っているのかしら...」": {
+    "Translation": "「What are they saying...?」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "せんせい :": {
+    "Translation": "Teacher:",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "セラフィックメイデン :": {
+    "Translation": "Seraphic Maiden:",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "セレスティアルファクターA :": {
+    "Translation": "Celestial Factor A:",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "セレスティアルファクターB :": {
+    "Translation": "Celestial Factor B:",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "セレスティアルファクターC :": {
+    "Translation": "Celestial Factor C:",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "？？？ :": {
+    "Translation": "??? :",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 20 sec !": {
+    "Translation": "! 20 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 3 sec !": {
+    "Translation": "! 3 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 40 sec !": {
+    "Translation": "! 40 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ??? 20 sec !": {
+    "Translation": "! ??? 20 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! アースヒールを習得した！ !": {
+    "Translation": "! Learned Earth Heal! !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! キラークイーン・レリクスを習得した！ !": {
+    "Translation": "! Learned Killer Queen: Relics! !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! フラッシュファイアを習得した！ !": {
+    "Translation": "! Learned Flash Fire! !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ボス戦開始まで 10 sec !": {
+    "Translation": "! 10 sec until boss battle starts !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ボス戦開始まで 60 sec !": {
+    "Translation": "! 60 sec until boss battle starts !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 七支刀プログラムを入手した！ !": {
+    "Translation": "! Obtained the Seven Swords Program! !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 七支刀プログラムを習得した！ !": {
+    "Translation": "! Learned the Seven Swords Program! !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 戦闘勝利！！ !": {
+    "Translation": "! Victory in battle!! !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 挑戦状を入手した！ !": {
+    "Translation": "! Obtained a challenge letter! !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「□〇□△×□？〇×□△△□！！」": {
+    "Translation": "「□〇□△×□？〇×□△△□！！」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「□〇□△×」": {
+    "Translation": "「□〇□△×」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「△□！××〇△□×××」": {
+    "Translation": "「△□！××〇△□×××」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「〇△□〇×□〇△□？」": {
+    "Translation": "「〇△□〇×□〇△□？」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「あなたが...セラフィックメイデン...」": {
+    "Translation": "「You are... the Seraphic Maiden...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「ここは更なる意識レイヤ、集合的無意識を超えた究極深層...」": {
+    "Translation": "「This is a deeper layer of consciousness, the ultimate depth beyond the collective unconscious...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「ここまで意識が保持できることが不思議...」": {
+    "Translation": "「It is a wonder that consciousness can be maintained this far...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「この胸に突き刺さるような憎悪...」": {
+    "Translation": "「A hatred that pierces my heart...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「それはやってみなければ分からない！」": {
+    "Translation": "「You won't know until you try!」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「だけどこの先から...」": {
+    "Translation": "「But from here on...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「だけどもう戻れないという可能性も...」": {
+    "Translation": "「But there's also the possibility that I can't go back...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「とてつもなく憎悪の力を感じる...」": {
+    "Translation": "「I feel an incredible power of hatred...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「まさかこんな深くまで続いているとは...」": {
+    "Translation": "「I never expected it to continue this deep...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「もう少しで...」": {
+    "Translation": "「Just a little more...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「ソンナ カラノゲンソウノタメニ、ワタシハコロサレルノカ。ナカナカオモシロイ。」": {
+    "Translation": "「For such a shell fantasy, will I be killed? How interesting.」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「デハクルガイイ。オノレノ アヤマチヲ オモイシルトイイサ！」": {
+    "Translation": "「Then come. Reflect on your mistakes!」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「ホウ、ヨクココマデ タドリツイタモノダ。」": {
+    "Translation": "「Hmph, it's not easy to come this far.」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「ワタシニ ナマエナドナイ。シカシ アリガタク チョウダイシテオコウ。」": {
+    "Translation": "「I have no name. But thank you for this opportunity.」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「ワタシヲ破壊シタトコロデ、憎悪ガキエルコトハナイ。」": {
+    "Translation": "「Even if you destroy me, hatred will not disappear.」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「今更私に引き返すという選択肢はなかったんだ...」": {
+    "Translation": "「Now there is no option for me to turn back...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「君たちに挑戦してもらう試練はこれだ！」": {
+    "Translation": "「This is the trial you will challenge!」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「憎悪トハ、無ノサキカラウマレシモノ。ヒトガノゾムモノデハナイ。世界ガノゾムノダ。」": {
+    "Translation": "「Hatred is born from the void. It is not what humans desire. It is what the world craves.」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「挑戦状を手に入れたようだな」": {
+    "Translation": "「It seems you have obtained the challenge letter.」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「準備ができた者からそのサークルへ飛び込みなさい」": {
+    "Translation": "「Those who are ready, jump into that circle.」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「研究対象はおそらくこの先...」": {
+    "Translation": "「The research subject is likely ahead...」",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「私はあなたを抹殺しにきた。人々を救うために。」": {
+    "Translation": "「I have come to annihilate you, to save the people.」",
     "M-Bool": false,
     "Value": 0
   }
