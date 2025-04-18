@@ -131,6 +131,11 @@
     "M-Bool": false,
     "Value": 0
   },
+  "- 平局 -": {
+    "Translation": "- Round draw -",
+    "M-Bool": false,
+    "Value": 0
+  },
   "- 人类+20HP -": {
     "Translation": "- Human +20HP -",
     "M-Bool": false,
@@ -138,6 +143,21 @@
   },
   "- 地图制作：咸自矜持 & 金轮的YR -": {
     "Translation": "- Mapper：咸自矜持 & 金轮的YR -",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "- 猪猪炸弹 -": {
+    "Translation": "- Piggy bomb -",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "- 躲避猪头 -": {
+    "Translation": "= Dodge the pigs =",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "- 被炸五次判为失败 -": {
+    "Translation": "- If you hit five times, you fail -",
     "M-Bool": false,
     "Value": 0
   }
