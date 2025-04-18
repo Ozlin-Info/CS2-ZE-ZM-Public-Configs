@@ -62,7 +62,7 @@
     "Value": 0
   },
   "正在加载语音....成功": {
-    "Translation": "Loading voice.... Success",
+    "Translation": "Loading audio.... Success",
     "M-Bool": false,
     "Value": 0
   },
@@ -92,7 +92,7 @@
     "Value": 0
   },
   "僵尸扒开了侧门": {
-    "Translation": "The zombies have pushed open the side door.",
+    "Translation": "The zombies have pried open the side door.",
     "M-Bool": false,
     "Value": 0
   },
@@ -152,7 +152,7 @@
     "Value": 0
   },
   "感觉这个玻璃不是很稳固": {
-    "Translation": "This glass doesn't feel very stable.",
+    "Translation": "Feels like the glass isn't very stable.",
     "M-Bool": false,
     "Value": 0
   },
@@ -180,5 +180,136 @@
     "Translation": "---",
     "M-Bool": false,
     "Value": 0
+  },
+  ".......发生了不明类型灾害": {
+    "Translation": ".......An unidentified disaster occurred",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "各类供电与通讯系统严重损坏或失效": {
+    "Translation": "All power and communication systems severely damaged or failing",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "现在已对当前地区实施全面隔离检疫": {
+    "Translation": "The current area has been fully isolated and quarantined",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "为了安全起见 建议收听到此广播的人员立即撤离": {
+    "Translation": "For safety, it is advised that anyone receiving this broadcast evacuate immediately",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "如果你出现发烧、咳嗽、恶心、气喘、皮肤脱落或任何类似症状": {
+    "Translation": "If you experience fever, coughing, nausea, shortness of breath, skin peeling, or any similar symptoms",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "请立即报告给随行的军官、警察或安保人员": {
+    "Translation": "Please report immediately to accompanying officers, police, or security personnel",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "因为这些症状可能与最近的事件有关": {
+    "Translation": "As these symptoms may be related to recent events",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 无线电终止 ": {
+    "Translation": " Radio communication terminated ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "沟槽的破无线电": {
+    "Translation": "Damn broken radio in the trench",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "给我10秒": {
+    "Translation": "Give me 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "小心触电": {
+    "Translation": "Be careful of electric shock",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "呼，终于摆脱掉这些感染者了": {
+    "Translation": "Whew, finally got rid of those infected",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 50 ": {
+    "Translation": " 50 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 60 ": {
+    "Translation": " 60 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我正在想办法关闭这个破门": {
+    "Translation": "I'm trying to close this damned door",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这个门看样子支撑不了多久": {
+    "Translation": "Looks like this door won't hold for long",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "不管了，我们先撤": {
+    "Translation": "Forget it, let's retreat first",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们的权限不够打开这扇门": {
+    "Translation": "Our access level isn't high enough to open this door",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "看我大力出奇迹": {
+    "Translation": "Watch me perform a miracle with brute force",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快去控制室启动开关": {
+    "Translation": "Quick, go to the control room and activate the switch",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "备用供电系统正在开启": {
+    "Translation": "Backup power system is being activated",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "50%": {
+    "Translation": "50%",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "大门正在打开": {
+    "Translation": "The gate is opening",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "撑住！电梯即将就位": {
+    "Translation": "Hold on! The elevator is about to arrive",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "小心电梯": {
+    "Translation": "Watch out for the elevator",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "未完待续.....": {
+    "Translation": "To be continued.....",
+    "M-Bool": false,
+    "Value": 0
   }
+
 }

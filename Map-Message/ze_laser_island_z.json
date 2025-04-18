@@ -117,242 +117,282 @@
     "Value": 0
   },
   "再坚持10秒！": {
-    "Translation": "再坚持10秒！",
+    "translation": "Hang on for another 10 seconds!",
     "M-Bool": false,
     "Value": 0
   },
   "快跑！": {
-    "Translation": "快跑！",
+    "translation": "Run!",
     "M-Bool": false,
     "Value": 0
   },
   "不对，有东西，快闪开！": {
-    "Translation": "不对，有东西，快闪开！",
+    "translation": "Wait, something's there, quick, dodge!",
     "M-Bool": false,
     "Value": 0
   },
   "快上飞机！不要发呆了！": {
-    "Translation": "快上飞机！不要发呆了！",
+    "translation": "Get on the plane! Don't just stand there!",
     "M-Bool": false,
     "Value": 0
   },
   "给我30秒启动飞机，我们马上就能离开这个鬼地方了！": {
-    "Translation": "给我30秒启动飞机，我们马上就能离开这个鬼地方了！",
+    "translation": "Give me 30 seconds to start the plane, and we can leave this hellhole!",
     "M-Bool": false,
     "Value": 0
   },
   "最后5秒，飞机要走了！": {
-    "Translation": "最后5秒，飞机要走了！",
+    "translation": "Last 5 seconds, the plane is leaving!",
     "M-Bool": false,
     "Value": 0
   },
   "你完成了第一关": {
-    "Translation": "你完成了第一关",
+    "translation": "You have completed the first level",
     "M-Bool": false,
     "Value": 0
   },
   "难度: 普通": {
-    "Translation": "难度: 普通",
+    "translation": "Difficulty: Normal",
     "M-Bool": false,
     "Value": 0
   },
   "冰魔法被一位小可爱学会了": {
-    "Translation": "冰魔法被一位小可爱学会了",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "吉祥物弹药库已被拿起": {
-    "Translation": "吉祥物弹药库已被拿起",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "私人弹药库被V社带走了，现在的弹药只是个吉祥物，他会时不时说几句神志不清的话": {
-    "Translation": "私人弹药库被V社带走了，现在的弹药只是个吉祥物，他会时不时说几句神志不清的话",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "敢惹我，你就是惹到棉花了(つД`)": {
-    "Translation": "敢惹我，你就是惹到棉花了(つД`)",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "地下的入口有许多石头 ": {
-    "Translation": "地下的入口有许多石头 ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "马上去清理，我们时间不多 ": {
-    "Translation": "马上去清理，我们时间不多 ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "前面似乎是死路 ": {
-    "Translation": "前面似乎是死路 ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "那就干脆把路炸开，别犹豫了": {
-    "Translation": "那就干脆把路炸开，别犹豫了",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "人类掌握了火元素的力量": {
-    "Translation": "人类掌握了火元素的力量",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "(｀⌒´メ)": {
-    "Translation": "(｀⌒´メ)",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "铁门挡住了路，解锁眼前的大门！": {
-    "Translation": "铁门挡住了路，解锁眼前的大门！",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "直接炸掉了，走！ ": {
-    "Translation": "直接炸掉了，走！ ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "这块地板下有水流的声音，可能有水路，快想办法给这块砖砸开": {
-    "Translation": "这块地板下有水流的声音，可能有水路，快想办法给这块砖砸开",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "电梯需要45秒的时间来激活，一定要坚持住，我们马上就可以离开了": {
-    "Translation": "电梯需要45秒的时间来激活，一定要坚持住，我们马上就可以离开了",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "水路已经被打开了, 快跑": {
-    "Translation": "水路已经被打开了, 快跑",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "最后10秒": {
-    "Translation": "最后10秒",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "我有鱼鱼枕": {
-    "Translation": "我有鱼鱼枕",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "60秒后我们将引爆炸弹！boom！": {
-    "Translation": "60秒后我们将引爆炸弹！boom！",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "快跑到船上！": {
-    "Translation": "快跑到船上！",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "最后10秒钟": {
-    "Translation": "最后10秒钟",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "Ciallo～(∠・ω )⌒☆": {
-    "Translation": "Ciallo～(∠・ω )⌒☆",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "人类掌握了风元素的力量": {
-    "Translation": "人类掌握了风元素的力量",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "你完成了普通难度": {
-    "Translation": "你完成了普通难度",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "难度: 困难": {
-    "Translation": "难度: 困难",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "ze_laser_island天下第一": {
-    "Translation": "ze_laser_island天下第一",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "这个方向有一条出路": {
-    "Translation": "这个方向有一条出路",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "快跟上，保护好船只！": {
-    "Translation": "快跟上，保护好船只！",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "好大一块石头": {
-    "Translation": "好大一块石头",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "准备爆破，我们上山！": {
-    "Translation": "准备爆破，我们上山！",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "路上的障碍物很多": {
-    "Translation": "路上的障碍物很多",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "快点清理掉障碍物，前面就是山顶了！冲上去！！": {
-    "Translation": "快点清理掉障碍物，前面就是山顶了！冲上去！！",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "逃离岛屿的大门就在眼前": {
-    "Translation": "逃离岛屿的大门就在眼前",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "坚持住，我们马上就可以离开了！": {
-    "Translation": "坚持住，我们马上就可以离开了！",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "传送点将会被移至山谷中部": {
-    "Translation": "传送点将会被移至山谷中部",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "快往下跳！！！": {
-    "Translation": "快往下跳！！！",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "跑向大海！！！": {
-    "Translation": "跑向大海！！！",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "你逃离了跳刀岛...": {
-    "Translation": "你逃离了跳刀岛...",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "感谢游玩": {
-    "Translation": "感谢游玩",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "难度：无限火力": {
-    "Translation": "难度：无限火力",
+    "translation": " A cute one has learned a Ice magic ",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸掌握了神秘的力量！xing(刀声) ": {
-    "Translation": "僵尸掌握了神秘的力量！xing(刀声) ",
+    "translation": "The zombie has mastered mysterious powers! xing (sword sound)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸神力已被拿起": {
+    "translation": "Zombie divine power has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸毒已被拿起": {
+    "translation": "Zombie poison has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸加速已被拿起": {
+    "translation": "Zombie acceleration has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "人类掌握了风元素的力量": {
+    "translation": " Humans have mastered the power of wind elements ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "私人弹药库已被拿起 ": {
+    "translation": "Private ammunition cache has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "地下的入口有许多石头 ": {
+    "translation": "The underground entrance has many stones",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "马上去清理，我们时间不多 ": {
+    "translation": "Go clear it out quickly, we don't have much time",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "前面似乎是死路 ": {
+    "translation": "It seems like a dead end ahead",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "那就干脆把路炸开，别犹豫了": {
+    "translation": "Then let's just blow the path open, don't hesitate",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "人类掌握了火元素的力量": {
+    "translation": " Humans have mastered the power of fire elements ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "铁门挡住了路，解锁眼前的大门！": {
+    "translation": "An iron door blocks the way, unlock the door ahead!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "直接炸掉了，走！ ": {
+    "translation": "Blow it up directly, let's go!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这块地板下有水流的声音，可能有水路，快想办法给这块砖砸开": {
+    "translation": "There’s the sound of water flowing under this floor, there might be a waterway, quickly find a way to break this brick",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "水路已经被打开了, 快跑": {
+    "translation": "The waterway has been opened, run!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯需要45秒的时间来激活，一定要坚持住，我们马上就可以离开了": {
+    "translation": "The elevator needs 45 seconds to activate, hold on, we will leave soon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "最后10秒": {
+    "translation": "Last 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "人类掌握了土元素的力量": {
+    "translation": " Humans have mastered the power of earth elements ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "60秒后我们将引爆炸弹！boom！": {
+    "translation": "The bomb will be detonated in 60 seconds! boom!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快跑到船上！": {
+    "translation": "Run to the boat!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "最后10秒钟": {
+    "translation": "Last 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "你完成了普通难度": {
+    "translation": "You have completed Normal difficulty",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "难度: 困难": {
+    "translation": "Difficulty: Hard",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这个方向有一条出路": {
+    "translation": "There’s an exit in this direction",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快跟上，保护好船只！": {
+    "translation": "Hurry up, protect the boat!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "好大一块石头": {
+    "translation": "What a huge rock",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "准备爆破，我们上山！": {
+    "translation": "Prepare to blow it up, we’re going up the mountain!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "路上的障碍物很多": {
+    "translation": "There are many obstacles on the road",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快点清理掉障碍物，前面就是山顶了！冲上去！！": {
+    "translation": "Quickly clear the obstacles, the mountaintop is just ahead! Charge up!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "逃离岛屿的大门就在眼前": {
+    "translation": "The gate to escape the island is right in front of us",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "坚持住，我们马上就可以离开了！": {
+    "translation": "Hold on, we can leave soon!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "传送点将会被移至山谷中部": {
+    "translation": "The teleport point will be moved to the middle of the valley",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快往下跳！！！": {
+    "translation": "Jump down!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "跑向大海！！！": {
+    "translation": "Run towards the sea!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "你逃离了跳刀岛...": {
+    "translation": "You have escaped from Jump Knife Island...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "感谢游玩": {
+    "translation": "Thank you for playing",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "难度：无限火力": {
+    "translation": "Difficulty: Unlimited Firepower",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "(｀⌒´メ)": {
+    "translation": "(｀⌒´メ)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "": {
+    "translation": "I have a fish pillow",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ze_laser_island天下第一": {
+    "translation": "ze_laser_island is the best in the world",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "敢惹我，你就是惹到棉花了(つД`)": {
+    "translation": "If you provoke me, you'll be messing with cotton (つД`)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ciallo～(∠・ω )⌒☆": {
+    "translation": "Ciallo～(∠・ω )⌒☆",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "吉祥物弹药库已被拿起": {
+    "translation": "Mascot ammunition cache has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "私人弹药库被V社带走了，现在的弹药只是个吉祥物，他会时不时说几句神志不清的话": {
+    "translation": "The private ammo cache has been taken away by Volvo; now the ammo is just a mascot that occasionally says nonsensical things",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸登上了飞机": {
+    "translation": "The zombie has boarded the plane",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "本关失败": {
+    "translation": "Mission failed",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸上船了，本关失败": {
+    "translation": "The zombie boarded the ship, mission failed",
     "M-Bool": false,
     "Value": 0
   }

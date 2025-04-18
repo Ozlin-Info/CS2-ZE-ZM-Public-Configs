@@ -96,113 +96,13 @@
     "M-Bool": false,
     "Value": 0
   },
-  " 噢,不!隧道被锁上了!我们得等一会儿(30s) ": {
-    "Translation": "Oh no! The tunnel is locked! We have to wait a moment (30s)",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 还剩15秒!继续防守! ": {
-    "Translation": "15 seconds left! Keep defending!",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 最后5秒 ": {
-    "Translation": "Last 5 seconds",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 坚持住，需要15秒来开门 !!! ": {
-    "Translation": "Hold on, we need 15 seconds to open the door!!!",
-    "M-Bool": false,
-    "Value": 0
-  },
   " 再守5秒 !!! ": {
     "Translation": "Defend for another 5 seconds!!!",
     "M-Bool": false,
     "Value": 0
   },
-  " [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] ": {
-    "Translation": " [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] ": {
-    "Translation": " [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] ": {
-    "Translation": " [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] ": {
-    "Translation": " [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] ",
-    "M-Bool": false,
-    "Value": 0
-  },
   " [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] ": {
     "Translation": " [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 我们需要坚守住!公园的大门将在20秒后打开! ": {
-    "Translation": " 我们需要坚守住!公园的大门将在20秒后打开! ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 最后再坚守5秒! ": {
-    "Translation": " 最后再坚守5秒! ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 守住那堵破墙! 大门将会在25秒后打开! ": {
-    "Translation": " 守住那堵破墙! 大门将会在25秒后打开! ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 在坚守10秒!!! ": {
-    "Translation": " 在坚守10秒!!! ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 到达检查点，站在白圈上来解锁大门 ": {
-    "Translation": " 到达检查点，站在白圈上来解锁大门 ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 检查点已启用! ": {
-    "Translation": " 检查点已启用! ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " Afk和乌龟将在20秒内传送到检查点 ": {
-    "Translation": " Afk和乌龟将在20秒内传送到检查点 ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 坚守住!车站门将在25秒后打开!! ": {
-    "Translation": " 坚守住!车站门将在25秒后打开!! ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 坚守住!车站门将在10秒后打开! ": {
-    "Translation": " 坚守住!车站门将在10秒后打开! ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 跳过火车!我们得去另一边!!! ": {
-    "Translation": " 跳过火车!我们得去另一边!!! ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 我们必须在这里抵抗，直到门打开!(25s) ": {
-    "Translation": " 我们必须在这里抵抗，直到门打开!(25s) ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " 再坚守10秒! ": {
-    "Translation": " 再坚守10秒! ",
     "M-Bool": false,
     "Value": 0
   },
@@ -216,11 +116,6 @@
     "M-Bool": false,
     "Value": 0
   },
-  " Afk和乌龟将在20秒内传送到检查点. ": {
-    "Translation": " Afk和乌龟将在20秒内传送到检查点. ",
-    "M-Bool": false,
-    "Value": 0
-  },
   " [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] ": {
     "Translation": " [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] ",
     "M-Bool": false,
@@ -231,23 +126,188 @@
     "M-Bool": false,
     "Value": 0
   },
-  " 快启动直升机引擎！ ": {
-    "Translation": " 快启动直升机引擎！ ",
+  " [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] ",
     "M-Bool": false,
     "Value": 0
   },
-  " The helicopter is leaving in 30 seconds. RESIST! ": {
-    "Translation": " The helicopter is leaving in 30 seconds. RESIST! ",
+  " [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] ",
     "M-Bool": false,
     "Value": 0
   },
-  " C'mon! 15 more seconds! ": {
-    "Translation": " C'mon! 15 more seconds! ",
+  " [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] ",
     "M-Bool": false,
     "Value": 0
   },
-  " Last 5 seconds! HOLD!!! ": {
-    "Translation": " Last 5 seconds! HOLD!!! ",
+  " [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 公园大门将在20秒后打开! ": {
+    "Translation": " The park gate will open in 20 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 走吧! 我们得守住公园，直到找到出路! ": {
+    "Translation": "Let's go! We need to defend the park until we find a way out!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We could call a Penis-UFO and split the fare... ": {
+    "Translation": " We could call a Penis-UFO and split the fare... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 快了！ Penis-UFO is coming! 坚持住 !!! ": {
+    "Translation": " Almost there! Penis-UFO is coming! Hold on!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO! The penis UFO 的门开了，快进来!!! ": {
+    "Translation": " GO! The penis UFO's door is open, get in quickly!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚守20秒!!! ": {
+    "Translation": " Defend 20 seconds!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 我们需要坚守住!公园的大门将在20秒后打开! ": {
+    "Translation": " We need to hold on! The park gate will open in 20 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 最后再坚守5秒! ": {
+    "Translation": " Hold on for 5 more seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 守住那堵破墙! 大门将会在25秒后打开! ": {
+    "Translation": " Hold that broken wall! The gate will open in 25 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 在坚守10秒!!! ": {
+    "Translation": " Hold on for 10 seconds!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 到达检查点，站在白圈上来解锁大门 ": {
+    "Translation": " Reach the checkpoint and stand on the white circle to unlock the gate ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 检查点已启用! ": {
+    "Translation": " Checkpoint activated! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Afk和乌龟将在20秒内传送到检查点 ": {
+    "Translation": " Afk and turtles will be teleported to the checkpoint in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚守住!车站门将在25秒后打开!! ": {
+    "Translation": " Hold on! The station gate will open in 25 seconds!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 坚守住!车站门将在10秒后打开! ": {
+    "Translation": " Hold on! The station gate will open in 10 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 跳过火车!我们得去另一边!!! ": {
+    "Translation": " Jump over the train! We need to get to the other side!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 我们必须在这里抵抗，直到门打开!(25s) ": {
+    "Translation": " We must resist here until the gate opens! (25s) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 再坚守10秒! ": {
+    "Translation": " Hold on for 10 more seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 引擎区域大门30秒后打开 ": {
+    "Translation": " The engine area gate will open in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Afk和乌龟将在20秒内传送到检查点. ": {
+    "Translation": " Afk and turtles will be teleported to the checkpoint in 20 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 引擎区域大门将在15秒后打开 ": {
+    "Translation": " The engine area gate will open in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 引擎区域的大门将在5秒后打开，坚守住!!! ": {
+    "Translation": " The engine area gate will open in 5 seconds, hold on!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 阀门室的门将在15秒后打开 ": {
+    "Translation": " The valve room door will open in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 阀室门将在5秒后开启。坚守住!!! ": {
+    "Translation": " The valve room door will open in 5 seconds. Hold on!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 点按E启动阀门!我们需要把有毒废物排出去!!! ": {
+    "Translation": " Press E to activate the valve! We need to vent the toxic waste!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这能消灭那些该死的僵尸! ": {
+    "Translation": " This will destroy those damned zombies! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 左阀门已完全打开! ": {
+    "Translation": " The left valve is fully open! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 右阀门已完全打开! ": {
+    "Translation": " The right valve is fully open! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 两个阀门都已解锁!!! ": {
+    "Translation": " Both valves have been unlocked!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 防守15秒!!! ": {
+    "Translation": " Defend for 15 seconds!!! ",
     "M-Bool": false,
     "Value": 0
   },
@@ -281,13 +341,8 @@
     "M-Bool": false,
     "Value": 0
   },
-  " [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] ": {
-    "Translation": " [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] ",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] ": {
-    "Translation": " [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] ",
+  " [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] ",
     "M-Bool": false,
     "Value": 0
   },
@@ -296,53 +351,53 @@
     "M-Bool": false,
     "Value": 0
   },
-  " [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] ": {
-    "Translation": " [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] ",
+  " 噢,不!隧道被锁上了!我们得等一会儿(30s) ": {
+    "Translation": " Oh no! The tunnel is locked! We have to wait a while (30s) ",
     "M-Bool": false,
     "Value": 0
   },
-  " [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] ": {
-    "Translation": " [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] ",
+  " 还剩15秒!继续防守! ": {
+    "Translation": " 15 seconds remaining! Keep defending! ",
     "M-Bool": false,
     "Value": 0
   },
-  " [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] ": {
-    "Translation": " [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] ",
+  " 最后5秒 ": {
+    "Translation": " Last 5 seconds ",
     "M-Bool": false,
     "Value": 0
   },
-  " [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] ": {
-    "Translation": " [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] ",
+  " [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] ",
     "M-Bool": false,
     "Value": 0
   },
-  " 公园大门将在20秒后打开! ": {
-    "Translation": " 公园大门将在20秒后打开! ",
+  " 快启动直升机引擎！ ": {
+    "Translation": " Quickly start the helicopter engine! ",
     "M-Bool": false,
     "Value": 0
   },
-  " 走吧! 我们得守住公园，直到找到出路! ": {
-    "Translation": " 走吧! 我们得守住公园，直到找到出路! ",
+  " The helicopter is leaving in 30 seconds. RESIST! ": {
+    "Translation": " The helicopter is leaving in 30 seconds. RESIST! ",
     "M-Bool": false,
     "Value": 0
   },
-  " We could call a Penis-UFO and split the fare... ": {
-    "Translation": " We could call a Penis-UFO and split the fare... ",
+  " [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] ": {
+    "Translation": " [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] ",
     "M-Bool": false,
     "Value": 0
   },
-  " 快了！ Penis-UFO is coming! 坚持住 !!! ": {
-    "Translation": " 快了！ Penis-UFO is coming! 坚持住 !!! ",
+  " C'mon! 15 more seconds! ": {
+    "Translation": " C'mon! 15 more seconds! ",
     "M-Bool": false,
     "Value": 0
   },
-  " GO! The penis UFO 的门开了，快进来!!! ": {
-    "Translation": " GO! The penis UFO 的门开了，快进来!!! ",
+  " Last 5 seconds! HOLD!!! ": {
+    "Translation": " Last 5 seconds! HOLD!!! ",
     "M-Bool": false,
     "Value": 0
   },
-  " 坚守20秒!!! ": {
-    "Translation": " 坚守20秒!!! ",
+  " 坚持住，需要15秒来开门 !!! ": {
+    "Translation": " Hold on, 15 seconds needed to open the door !!! ",
     "M-Bool": false,
     "Value": 0
   }
