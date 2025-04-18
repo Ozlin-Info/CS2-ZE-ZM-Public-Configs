@@ -5,5 +5,25 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "The door will open in 20 seconds": {
+    "Translation": "The door will open in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door is open": {
+    "Translation": "The door is open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 40 seconds": {
+    "Translation": "The door will open in 40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The elevator will leave in 30 seconds": {
+    "Translation": "The elevator will leave in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

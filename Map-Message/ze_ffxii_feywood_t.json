@@ -180,5 +180,20 @@
     "Translation": "THE DRAGON USED POISON",
     "M-Bool": false,
     "Value": 0
+  },
+  "WARMUP ROUND - WAITING PLAYERS TO CONNECT": {
+    "Translation": "WARMUP ROUND - WAITING PLAYERS TO CONNECT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MAP HINT MASTER] THE MAP HAS 11 SPECIAL ITEMS - 7 FOR HUMANS ": {
+    "Translation": "[MAP HINT MASTER] THE MAP HAS 11 SPECIAL ITEMS - 7 FOR HUMANS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "CACTUS SIDEQUEST STARTED - FIND A CACTUS TO GET A LEVELn ONLY 1 HUMAN CAN GET A LEVEL | ONLY ONCE AND ONLY ON EASY MODE": {
+    "Translation": "CACTUS SIDEQUEST STARTED - FIND A CACTUS TO GET A LEVELn ONLY 1 HUMAN CAN GET A LEVEL | ONLY ONCE AND ONLY ON EASY MODE",
+    "M-Bool": false,
+    "Value": 0
   }
 }

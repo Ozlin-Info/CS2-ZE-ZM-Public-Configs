@@ -55,5 +55,25 @@
     "Translation": "THE PEANUT BUTTER HAS BEEN PICKED UP",
     "M-Bool": false,
     "Value": 0
+  },
+  "MAP BY - LUFFAREN": {
+    "Translation": "MAP BY - LUFFAREN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK": {
+    "Translation": "DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "INCOMING TOAST - RIGHT CHAMBER": {
+    "Translation": "INCOMING TOAST - RIGHT CHAMBER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "INCOMING TOAST - LEFT CHAMBER": {
+    "Translation": "INCOMING TOAST - LEFT CHAMBER",
+    "M-Bool": false,
+    "Value": 0
   }
 }

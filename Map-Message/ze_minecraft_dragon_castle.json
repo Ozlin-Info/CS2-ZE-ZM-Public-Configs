@@ -1,0 +1,389 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map Creator : Platin": {
+    "Translation": "Map Creator : Platin",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### LEVEL 1 ###": {
+    "Translation": "### LEVEL 1 ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 20 seconds.": {
+    "Translation": "The door will open in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec.": {
+    "Translation": "Last 5 sec.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door Open!": {
+    "Translation": "Door Open!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM TP 10 SEC!": {
+    "Translation": "ZM TP 10 SEC!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HEAL GUN - 50 sec cooldown ": {
+    "Translation": " HEAL GUN - 50 sec cooldown ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec!": {
+    "Translation": "Last 5 sec!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door Open! GO": {
+    "Translation": "Door Open! GO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 30 seconds.": {
+    "Translation": "The door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 10 sec! GO BACK!": {
+    "Translation": "Last 10 sec! GO BACK!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door OPEN! GO!": {
+    "Translation": "Door OPEN! GO!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bucket 2 pickup": {
+    "Translation": " Bucket 2 pickup",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2 houses continue to burn.": {
+    "Translation": "2 houses continue to burn.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1 houses continue to burn.": {
+    "Translation": "1 houses continue to burn.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You put out all the houses!": {
+    "Translation": "You put out all the houses!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door Open 5 SEC! go back!": {
+    "Translation": "Door Open 5 SEC! go back!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door Open ! RUN!": {
+    "Translation": "Door Open ! RUN!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Press the button above to open the door.": {
+    "Translation": "Press the button above to open the door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "go next defend area !": {
+    "Translation": "go next defend area !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM TP 10 SEC !": {
+    "Translation": "ZM TP 10 SEC !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door Open ! GO": {
+    "Translation": "Door Open ! GO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The barrier will open in 25 seconds.": {
+    "Translation": "The barrier will open in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " short way open!": {
+    "Translation": " short way open!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Open GO!": {
+    "Translation": "Open GO!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec ! go back!": {
+    "Translation": "Last 5 sec ! go back!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The Final door will open in 20 seconds.": {
+    "Translation": "The Final door will open in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR OPEN! GO": {
+    "Translation": "FINAL DOOR OPEN! GO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR CLOSING 5 SEC!": {
+    "Translation": "FINAL DOOR CLOSING 5 SEC!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR CLOSING": {
+    "Translation": "FINAL DOOR CLOSING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HUMAN WIN !!!": {
+    "Translation": "HUMAN WIN !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### LEVEL 2 ###": {
+    "Translation": "### LEVEL 2 ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 25 seconds.": {
+    "Translation": "The door will open in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door Open !GO": {
+    "Translation": "Door Open !GO",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "go back !": {
+    "Translation": "go back !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec! GO BACK !": {
+    "Translation": "Last 5 sec! GO BACK !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM TP 10 SEC": {
+    "Translation": "ZM TP 10 SEC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The final door will open in 30 seconds.": {
+    "Translation": "The final door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM TP 5 SEC !": {
+    "Translation": "ZM TP 5 SEC !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR OPEN": {
+    "Translation": "FINAL DOOR OPEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR CLOSING 10 SEC!": {
+    "Translation": "FINAL DOOR CLOSING 10 SEC!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### LEVEL 3 ###": {
+    "Translation": "### LEVEL 3 ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The barrier will break in 20 seconds.": {
+    "Translation": "The barrier will break in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec! GO BACK!": {
+    "Translation": "Last 5 sec! GO BACK!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Barrier break ! RUN !": {
+    "Translation": "Barrier break ! RUN !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE TP 10 SEC!": {
+    "Translation": "ZOMBIE TP 10 SEC!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The barrier will break in 25 seconds.": {
+    "Translation": "The barrier will break in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie short way open !": {
+    "Translation": "Zombie short way open !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE TP 10 SEC !": {
+    "Translation": "ZOMBIE TP 10 SEC !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DONT DEFEND GO BACK !": {
+    "Translation": "DONT DEFEND GO BACK !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The barrier will break in 15 seconds. GO BACK!": {
+    "Translation": "The barrier will break in 15 seconds. GO BACK!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Barrier break! GO BACK !": {
+    "Translation": "Barrier break! GO BACK !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Barrier break ! GO !": {
+    "Translation": "Barrier break ! GO !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE TP 5 sec!": {
+    "Translation": "ZOMBIE TP 5 sec!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 10 sec! back!": {
+    "Translation": "Last 10 sec! back!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door Open! GO !": {
+    "Translation": "Door Open! GO !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 houses continue to burn.": {
+    "Translation": "5 houses continue to burn.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4 houses continue to burn.": {
+    "Translation": "4 houses continue to burn.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 houses continue to burn.": {
+    "Translation": "3 houses continue to burn.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE BOSS DOOR WILL OPEN IN 30 SECONDS!": {
+    "Translation": "THE BOSS DOOR WILL OPEN IN 30 SECONDS!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec ! READY !": {
+    "Translation": "Last 5 sec ! READY !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BOSS DOOR OPEN! GO!": {
+    "Translation": "BOSS DOOR OPEN! GO!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BOSS DOOR CLOSING 10 SEC!": {
+    "Translation": "BOSS DOOR CLOSING 10 SEC!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BOSS DOOR CLOSED!": {
+    "Translation": "BOSS DOOR CLOSED!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "###  GHOST BOSS ###": {
+    "Translation": "###  GHOST BOSS ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "###  LASER ACTIVATED ###": {
+    "Translation": "###  LASER ACTIVATED ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Fire Activated !": {
+    "Translation": "Fire Activated !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE ZOMBIE DOOR WILL OPEN IN 10 SECONDS.": {
+    "Translation": "THE ZOMBIE DOOR WILL OPEN IN 10 SECONDS.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3!": {
+    "Translation": "3!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2!": {
+    "Translation": "2!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1!": {
+    "Translation": "1!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE DOOR OPENING !": {
+    "Translation": "ZOMBIE DOOR OPENING !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BOSS OVER !!": {
+    "Translation": "BOSS OVER !!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR OPENING!": {
+    "Translation": "FINAL DOOR OPENING!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR CLOSING 10 SEC!!": {
+    "Translation": "FINAL DOOR CLOSING 10 SEC!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HUMAN WIN ": {
+    "Translation": " HUMAN WIN ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

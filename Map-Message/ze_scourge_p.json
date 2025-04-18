@@ -10,5 +10,25 @@
     "Translation": " Map by m4dara ",
     "M-Bool": false,
     "Value": 0
+  },
+  "STRONGHOLD ENTRANCE OPENS IN 20 SECONDS": {
+    "Translation": "STRONGHOLD ENTRANCE OPENS IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPENS IN 10 SECONDS": {
+    "Translation": "DOOR OPENS IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PLAYER PICKED UP FLAMETHROWER": {
+    "Translation": "PLAYER PICKED UP FLAMETHROWER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOORS OPENS IN 20 SECONDS": {
+    "Translation": "DOORS OPENS IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }
