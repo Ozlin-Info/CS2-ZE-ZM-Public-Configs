@@ -157,12 +157,12 @@
     "Value": 0
   },
   " 歼灭模式启用:怪物实验室, 开放(32个人类及以上，额外激活1-2个怪物) ": {
-    "Translation": " 歼灭模式启用:怪物实验室, 开放(32个人类及以上，额外激活1-2个怪物) ",
+    "Translation": " Elimination mode activated: Monster Lab, open (32 or more humans, additionally activate 1-2 monsters). ",
     "M-Bool": false,
     "Value": 0
   },
   " 变动:散漫的吉米——低重力激活 ": {
-    "Translation": " 变动:散漫的吉米——低重力激活 ",
+    "Translation": " Change: Laid-back Jimmy — Low gravity activated. ",
     "M-Bool": false,
     "Value": 0
   },
@@ -187,7 +187,7 @@
     "Value": 0
   },
   " 电梯20秒后离开 ": {
-    "Translation": " 电梯20秒后离开 ",
+    "Translation": " Elevator leaves in 20 seconds",
     "M-Bool": false,
     "Value": 0
   },
@@ -207,7 +207,7 @@
     "Value": 0
   },
   " 毁灭僵尸的细菌将在15秒内释放! ": {
-    "Translation": " 毁灭僵尸的细菌将在15秒内释放! ",
+    "Translation": " The bacteria to destroy zombies will be released in 15 seconds! ",
     "M-Bool": false,
     "Value": 0
   },

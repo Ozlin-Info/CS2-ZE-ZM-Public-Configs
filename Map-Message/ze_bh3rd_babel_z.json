@@ -222,37 +222,37 @@
     "Value": 0
   },
   "封锁已解除！ ": {
-    "Translation": "封锁已解除！ ",
+    "Translation": "The lockdown has been lifted!",
     "M-Bool": false,
     "Value": 0
   },
   "我们击败她了": {
-    "Translation": "我们击败她了",
+    "Translation": "We defeated her.",
     "M-Bool": false,
     "Value": 0
   },
   "现在,守住这里!": {
-    "Translation": "现在,守住这里!",
+    "Translation": "Now, hold this position!",
     "M-Bool": false,
     "Value": 0
   },
   "返回请求已应答！": {
-    "Translation": "返回请求已应答！",
+    "Translation": "Return request has been acknowledged!",
     "M-Bool": false,
     "Value": 0
   },
   "赶紧上飞机！": {
-    "Translation": "赶紧上飞机！",
+    "Translation": "Hurry, get on the plane!",
     "M-Bool": false,
     "Value": 0
   },
   "我们成功活下来了": {
-    "Translation": "我们成功活下来了",
+    "Translation": "We survived successfully.",
     "M-Bool": false,
     "Value": 0
   },
   "现在,我们得让亲爱的主教大人好好解释一下这是怎么回事  ": {
-    "Translation": "现在,我们得让亲爱的主教大人好好解释一下这是怎么回事  ",
+    "Translation": "Now, we need our dear Bishop to explain what happened.",
     "M-Bool": false,
     "Value": 0
   }

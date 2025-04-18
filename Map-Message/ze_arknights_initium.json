@@ -7,12 +7,12 @@
     }
   },
   "阿米娅：博士，整合运动已经发现了这里，我们需要尽快撤离": {
-    "Translation": "Amiya: Doctor, the Reunion has found us here, we need to evacuate quickly.",
+    "Translation": "Amiya: Doctor, the Reunion has found us here; we need to evacuate quickly.",
     "M-Bool": false,
     "Value": 0
   },
   "阿米娅：大门还有30s打开，请再坚持一下": {
-    "Translation": "Amiya: The gate will open in 30 seconds, please hold on a little longer.",
+    "Translation": "Amiya: The main gate will open in 30 seconds; please hold on a bit longer.",
     "M-Bool": false,
     "Value": 0
   },
@@ -22,22 +22,612 @@
     "Value": 0
   },
   "阿米娅：糟糕，这里已经被整合运动包围了": {
-    "Translation": "Amiya: Oh no, we are already surrounded by the Reunion.",
+    "Translation": "Amiya: Oh no, we've been surrounded by the Reunion.",
     "M-Bool": false,
     "Value": 0
   },
   "ACE：博士，听得到吗，15s后我将进行墙壁爆破，请注意躲避": {
-    "Translation": "ACE: Doctor, can you hear me? I will blow the wall in 15 seconds, please be careful to dodge.",
+    "Translation": "ACE: Doctor, do you hear me? I will blow the wall in 15 seconds; please take cover.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ACE：博士，快走，整合运动还有15s空降": {
+    "Translation": "ACE: Doctor, hurry! The Reunion will drop in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：博士，前方的道路还有20s开放": {
+    "Translation": "Amiya: Doctor, the path ahead will be open for another 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "阿米娅：博士，前面是巨大的源石丛，我们已经无路可走了": {
-    "Translation": "Amiya: Doctor, there’s a huge cluster of Originium ahead, we have no way to go!",
+    "Translation": "Amiya: Doctor, there's a huge cluster of Originium ahead; we have no way to go.",
     "M-Bool": false,
     "Value": 0
   },
   "ACE：井盖下方似乎通往切尔诺伯格的排水管道": {
-    "Translation": "ACE: It seems that below the manhole leads to the drainage system of Chernobog.",
+    "Translation": "ACE: It seems that there's a drainage pipe leading to Chernobog below the manhole.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ACE:博士，我需要一点时间打开这个井盖": {
+    "Translation": "ACE: Doctor, I need some time to open this manhole.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ACE:好，打开了": {
+    "Translation": "ACE: Alright, it's open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ACE：博士，请尽快破坏通风口，整合运动将在40s后空降": {
+    "Translation": "ACE: Doctor, please destroy the vent quickly; the Reunion will drop in 40 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ACE:即将空降，博士，抓稳了": {
+    "Translation": "ACE: Dropping in soon, Doctor, hold on tight.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：博士，请给我30s的时间部署水上平台，不要掉下去了哦": {
+    "Translation": "Amiya: Doctor, please give me 30 seconds to deploy the water platform; don't fall off!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：整合运动还有10s空降，前方的道路还有30s开放": {
+    "Translation": "Amiya: The Reunion will drop in 10 seconds; the path ahead will be open for another 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：整合运动还有10s进行空降，前方的震撼装置还需要30s进行爆破": {
+    "Translation": "Amiya: The Reunion will drop in 10 seconds; the shock device ahead needs 30 seconds to detonate.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：请大家再防守30s，前方就是1-7关卡了": {
+    "Translation": "Amiya: Please hold the line for another 30 seconds; we're approaching stage 1-7.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：距离任务完成还剩下30s": {
+    "Translation": "Amiya: There are 30 seconds left until the mission is complete.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：罗德岛大门还有30s打开": {
+    "Translation": "Amiya: The Rhodes Island gate will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：正在紧急联系维什戴尔小姐，马上就能获得支援了": {
+    "Translation": "Amiya: I'm urgently contacting Miss Vishdail; we'll get support soon.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "祖宗发射器将在10s内充能完毕，请远离轰炸区域": {
+    "Translation": "The Ancestor Launcher will be charged in 10 seconds; please stay away from the bombing area.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：博士，我们已经到达龙门了": {
+    "Translation": "Amiya: Doctor, we have arrived at Lungmen.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：当务之急是与龙门领袖魏彦吾谈判并取得与龙门的合作，我们才有机会抵御整合运动的进攻": {
+    "Translation": "Amiya: The priority is to negotiate with Lungmen's leader, Wei Yanwu, and secure cooperation; only then will we have a chance to fend off the Reunion's attack.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "前方红灯40s，请遵守龙门交规": {
+    "Translation": "Red light ahead for 40 seconds; please obey Lungmen traffic rules.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "魏彦吾：罗德岛，我在选择盟友时只看重一点": {
+    "Translation": "Wei Yanwu: Rhodes Island, I only care about one thing when choosing allies.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "魏彦吾：那就是要拥有与我并肩的实力": {
+    "Translation": "Wei Yanwu: That is, you must have the strength to stand alongside me.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "距离龙门近卫局大门打开还有20s": {
+    "Translation": "20 seconds until the Lungmen Guard Bureau gate opens.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "魏彦吾：想要得到我的认可，就先和近卫局的警卫们过几招吧": {
+    "Translation": "Wei Yanwu: If you want my approval, you'll have to spar with the guards of the Guard Bureau first.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：前方的区域还有40s开放": {
+    "Translation": "Amiya: The area ahead will remain open for another 40 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：办公室大门还有30s打开": {
+    "Translation": "Amiya: The office door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已获得整合运动领袖情报1": {
+    "Translation": "Information on the leader of the Reunion obtained: 1.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：博士，如果能搜集一些整合运动领袖的情报，或许有助于我们接下来的行动": {
+    "Translation": "Amiya: Doctor, gathering some information on the Reunion leader might help us in our next actions.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：办公室小门还有30s打开": {
+    "Translation": "Amiya: The small office door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：似乎找到了魏警官房门的钥匙": {
+    "Translation": "Amiya: It seems I've found the key to Officer Wei's room.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：好像没有别的道路了": {
+    "Translation": "Amiya: It seems there are no other paths.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "陈：没记错的话，这面墙的后面直通魏长官的办公室": {
+    "Translation": "Chen: If I remember correctly, this wall leads directly to the commander's office.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "陈：不对，外面已经被近卫局包围了": {
+    "Translation": "Chen: No, the outside is already surrounded by the Guard Bureau.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已获得整合运动领袖情报2": {
+    "Translation": "Information on the leader of the Reunion obtained: 2.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "陈：试试找一找周围有没有能用的东西": {
+    "Translation": "Chen: Let's try to find something useful around here.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "陈：博士，我需要20s的时间来引爆": {
+    "Translation": "Chen: Doctor, I need 20 seconds to detonate.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：绿色箱子里有一些炸药": {
+    "Translation": "Amiya: There's some explosives in the green box.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：魏警官的办公室门还有40s打开": {
+    "Translation": "Amiya: Officer Wei's office door will open in 40 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "魏彦吾：博士，我已经认可了罗德岛的实力，希望接下来合作愉快": {
+    "Translation": "Wei Yanwu: Doctor, I have recognized Rhodes Island's strength; I hope we can cooperate happily moving forward.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：博士，我们接下来的目的地是切尔诺伯格下城区，请做好准备": {
+    "Translation": "Amiya: Doctor, our next destination is the lower city of Chernobog; please prepare.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：前方道路还有40s开放": {
+    "Translation": "Amiya: The path ahead will be open for another 40 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已获得整合运动领袖情报3": {
+    "Translation": "Information on the leader of the Reunion obtained: 3.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：距离门开还有30s": {
+    "Translation": "Amiya: There are 30 seconds left until the door opens.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：还需要20s清理完道路": {
+    "Translation": "Amiya: We need another 20 seconds to clear the path.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：还需要20s清理箱子": {
+    "Translation": "Amiya: We need another 20 seconds to clear the boxes.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：旁边似乎有一个管道可以通向下一个房间": {
+    "Translation": "Amiya: There seems to be a pipe here that leads to the next room.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：距离大门打开还需要20s": {
+    "Translation": "Amiya: We need another 20 seconds until the main gate opens.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已获得整合运动领袖情报4": {
+    "Translation": "Information on the leader of the Reunion obtained: 4.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：管道口开放还需要10s": {
+    "Translation": "Amiya: The pipe will be open in another 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：前方的木箱子还需要30s移除": {
+    "Translation": "Amiya: The wooden boxes ahead will need another 30 seconds to remove.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：通风管道口打开还需要20s": {
+    "Translation": "Amiya: The vent will be open in another 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：打开卷帘门还需要30s": {
+    "Translation": "Amiya: It will take another 30 seconds to open the rolling door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：博士，周围的温度正在急剧下降，请保持警惕": {
+    "Translation": "Amiya: Doctor, the temperature is dropping rapidly; please stay alert.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：打开下一道卷帘门还需要20s": {
+    "Translation": "Amiya: It will take another 20 seconds to open the next rolling door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "霜叶：博士，我曾听说过冰原上的一支乌萨斯小队，擅长使用凝冰法术": {
+    "Translation": "Frostleaf: Doctor, I've heard of a Ursus squad on the ice plains that specializes in freezing spells.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "霜叶：尤其是他们的队长，源石技艺炉火纯青，威胁极大，请大家小心": {
+    "Translation": "Frostleaf: Especially their captain, who has mastered Originium arts and poses a great threat; everyone be careful.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已获得整合运动领袖情报5": {
+    "Translation": "Information on the leader of the Reunion obtained: 5.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：门开还需要30s": {
+    "Translation": "Amiya: The door will take another 30 seconds to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已获得整合运动领袖情报6": {
+    "Translation": "Information on the leader of the Reunion obtained: 6.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：这道门后面就是通向地面的通道了，大家再坚持30s": {
+    "Translation": "Amiya: Behind this door is the passage to the surface; everyone hold on for another 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：这扇门好像需要钥匙才能打开，去其他地方找一找吧": {
+    "Translation": "Amiya: This door seems to require a key to open; let's look for one elsewhere.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "整合运动领袖情报已集齐": {
+    "Translation": "All information on the Reunion leader has been gathered.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "即将开启真结局道路": {
+    "Translation": "The true ending path will soon be opened.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "请各位做好准备，下一道门将在15s后打开": {
+    "Translation": "Please prepare; the next door will open in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "“灯火将熄” \"Extinguished Flames\"": {
+    "Translation": "\"Extinguished Flames\"",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：周围的温度正在急速下降，我们很有可能遭遇整合运动雪怪小队领袖霜星，请各位注意": {
+    "Translation": "Amiya: The temperature is dropping rapidly; we are likely to encounter the leader of the Reunion's snow monster squad, Froststar. Everyone, be careful.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：二楼门打开还有30s": {
+    "Translation": "Amiya: The second-floor door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：一楼门还有30s打开": {
+    "Translation": "Amiya: The first-floor door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：距离电梯门打开还剩30s": {
+    "Translation": "Amiya: There are 30 seconds left until the elevator door opens.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：博士，请准备好迎接最终的战斗，寻找一个可以防守的地点": {
+    "Translation": "Amiya: Doctor, please prepare for the final battle and find a defensible position.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "博士：霜星，如果可以的话，能否考虑一下加入罗德岛": {
+    "Translation": "Doctor: Froststar, if possible, could you consider joining Rhodes Island?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "霜星：……如果下一次见面你们能打赢我的话，那我愿意加入罗德岛": {
+    "Translation": "Froststar: ...If you can defeat me next time we meet, then I am willing to join Rhodes Island.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：接下来就要靠你了……凯尔希": {
+    "Translation": "Amiya: It will be up to you next... Kelsey.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "凯尔希：但是，你该怎么办？": {
+    "Translation": "Kelsey: But what will you do?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：他们会与我一起走下去": {
+    "Translation": "Amiya: They will follow me.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：那可是……": {
+    "Translation": "Amiya: But that is... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：方舟的骑士": {
+    "Translation": "Amiya: The Knights of the Ark.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：距离下一个门开还剩30s": {
+    "Translation": "Amiya: There are 30 seconds left until the next door opens.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：距离下一个门开还剩40s": {
+    "Translation": "Amiya: There are 40 seconds left until the next door opens.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "祖宗发射器将在15s内充能完毕，请远离轰炸区域": {
+    "Translation": "The Ancestor Launcher will charge in 15 seconds; please stay away from the bombing area.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "即将开启假结局道路": {
+    "Translation": "The false ending path will soon be opened.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "各位请坚持到龙门增援的到来，下一道门将在15s后开放": {
+    "Translation": "Everyone, please hold on until the Lungmen reinforcements arrive; the next door will open in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "龙门黑蓑影卫已经抵达战场，所过之处没有任何感染者幸存，或许那恐怖的雪怪小队在他们面前也是不堪一击吧": {
+    "Translation": "The Lungmen Black Cloak Shadow Guard has arrived on the battlefield, leaving no infected survivors in their wake; perhaps that terrifying snow monster squad will be no match for them.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "霜星已经死亡，我们未能从黑蓑影卫手中救下，达成bad end": {
+    "Translation": "Froststar has died; we failed to save her from the Black Cloak Shadow Guard, achieving a bad end.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ACE：博士，请尽快破坏通风口，整合运动将在50s后空降": {
+    "Translation": "ACE: Doctor, please destroy the vent quickly; the Reunion will drop in 50 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：博士，请给我20s的时间部署水上平台，不要掉下去了哦": {
+    "Translation": "Amiya: Doctor, please give me 20 seconds to deploy the water platform; don't fall off!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅:博士，旁边的震撼装置如果利用得当，或许可以缓解整合运动的攻势": {
+    "Translation": "Amiya: Doctor, if the shock device next to us is used properly, it might alleviate the Reunion's offensive.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "震撼装置已启动，装置周围八格敌人晕眩10s": {
+    "Translation": "The shock device has been activated; enemies in the surrounding eight squares will be stunned for 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：前方的道路还有15s开放": {
+    "Translation": "Amiya: The path ahead will be open for another 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：整合运动还有10s进行空降，前方的震撼装置还需要15s进行爆破": {
+    "Translation": "Amiya: The Reunion will drop in 10 seconds; the shock device ahead needs 15 seconds to detonate.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：请大家再防守15s，前方就是1-7关卡了": {
+    "Translation": "Amiya: Please hold the line for another 15 seconds; we're approaching stage 1-7.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：距离任务完成还剩下20s": {
+    "Translation": "Amiya: There are 20 seconds left until the mission is complete.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：罗德岛大门还有20s打开": {
+    "Translation": "Amiya: The Rhodes Island gate will open in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "前方红灯20s，请遵守龙门交规": {
+    "Translation": "Red light ahead for 20 seconds; please obey Lungmen traffic rules.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：前方的区域还有20s开放": {
+    "Translation": "Amiya: The area ahead will remain open for another 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：办公室大门还有20s打开": {
+    "Translation": "Amiya: The office door will open in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：办公室小门还有20s打开": {
+    "Translation": "Amiya: The small office door will open in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：魏警官的办公室门还有30s打开": {
+    "Translation": "Amiya: Officer Wei's office door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：前方的区域还有30s开放": {
+    "Translation": "Amiya: The area ahead will remain open for another 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PRTS:任务已完成，将在20s后进入下一作战": {
+    "Translation": "PRTS: The mission is complete; we will enter the next operation in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：博士，我们已经抵达切尔诺伯格分城区，请小心行动": {
+    "Translation": "Amiya: Doctor, we have arrived at the Chernobog sub-district; please act cautiously.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：前方道路还有30s开放": {
+    "Translation": "Amiya: The path ahead will be open for another 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：距离门开还有20s": {
+    "Translation": "Amiya: There are 20 seconds left until the door opens.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：似乎找到了打开某个门的钥匙": {
+    "Translation": "Amiya: It seems I've found the key to open a door.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：管道口开放还需要10s,前方的木箱子还需要20s移除": {
+    "Translation": "Amiya: The pipe will be open in another 10 seconds; the wooden boxes ahead will need another 20 seconds to remove.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "寒冷效果：范围内人类减速10s": {
+    "Translation": "Cold effect: Humans in the area will be slowed for 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：大家再坚持10s，下一扇门马上就能打开了": {
+    "Translation": "Amiya: Everyone, hold on for another 10 seconds; the next door will open soon.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PRTS:整合运动领袖情报已集齐": {
+    "Translation": "PRTS: All information on the leader of the Reunion has been gathered.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PRTS:即将开启真结局道路": {
+    "Translation": "PRTS: The true ending path will soon be opened.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PRTS:请各位做好准备，下一道门将在15s后打开": {
+    "Translation": "PRTS: Please prepare; the next door will open in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PRTS:“灯火将熄” \"Extinguished Flames\"": {
+    "Translation": "PRTS: \"Extinguished Flames\"",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：距离下一个门开还剩15s": {
+    "Translation": "Amiya: There are 15 seconds left until the next door opens.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：博士，前方就是切尔诺伯格主城区了": {
+    "Translation": "Amiya: Doctor, ahead is the main city of Chernobog.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：前方的道路还有10s开放": {
+    "Translation": "Amiya: The path ahead will be open for another 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：请大家再防守10s，前方就是1-7关卡了": {
+    "Translation": "Amiya: Please hold the line for another 10 seconds; we're approaching stage 1-7.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PRTS:前方红灯15s，请遵守龙门交规": {
+    "Translation": "PRTS: Red light ahead for 15 seconds; please obey Lungmen traffic rules.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "距离龙门近卫局大门打开还有15s": {
+    "Translation": "15 seconds until the Lungmen Guard Bureau gate opens.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：前方的区域还有10s开放": {
+    "Translation": "Amiya: The area ahead will remain open for another 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：这扇门开还需要20s": {
+    "Translation": "Amiya: This door will take another 20 seconds to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：前方的木箱子还需要20s移除": {
+    "Translation": "Amiya: The wooden boxes ahead will need another 20 seconds to remove.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "阿米娅：打开卷帘门还需要20s": {
+    "Translation": "Amiya: It will take another 20 seconds to open the rolling door.",
     "M-Bool": false,
     "Value": 0
   }

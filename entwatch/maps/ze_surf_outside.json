@@ -1,9 +1,9 @@
 [
   {
-    "Name": "Push",
-    "ShortName": "Push",
+    "Name": "Heal/Wind",
+    "ShortName": "Heal/Wind",
     "Color": "{default}",
-    "HammerID": 650,
+    "HammerID": 39,
     "GlowColor": [0,255,0,1],
     "BlockPickup": false,
     "AllowTransfer": true,
@@ -14,10 +14,10 @@
     "UsePriority": true,
     "AbilityList": [
       {
-        "Name": "",
-        "ButtonID": 56,
-        "ButtonClass": "func_physbox",
-        "Filter": "pushguy:1",
+        "Name": "heal_button",
+        "ButtonID": 40,
+        "ButtonClass": "func_button",
+        "Filter": "heal_user:1",
         "Chat_Uses": true,
         "Mode": 2,
         "MaxUses": 0,

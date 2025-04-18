@@ -7,72 +7,72 @@
     }
   },
   "! ドアを開く -- Open the door 30 sec !": {
-    "Translation": "! ドアを開く -- Open the door 30 sec !",
+    "Translation": "! Open the door -- 30 sec !",
     "M-Bool": false,
     "Value": 0
   },
   "レイザード :": {
-    "Translation": "レイザード :",
+    "Translation": "Lazard:",
     "M-Bool": false,
     "Value": 0
   },
   "「隣町へ荷物届けに行ったは良いものの...」": {
-    "Translation": "「隣町へ荷物届けに行ったは良いものの...」",
+    "Translation": "「I went to deliver a package to the neighboring town, but...」",
     "M-Bool": false,
     "Value": 0
   },
   "「まさかこんな夜更けになるとはねえ...」": {
-    "Translation": "「まさかこんな夜更けになるとはねえ...」",
+    "Translation": "「I never thought it would get this late...」",
     "M-Bool": false,
     "Value": 0
   },
   "「道具屋のおばちゃん、つかまると話長いの忘れてたよ」": {
-    "Translation": "「道具屋のおばちゃん、つかまると話長いの忘れてたよ」",
+    "Translation": "「I forgot how much the old lady at the tool shop loves to talk once you catch her.」",
     "M-Bool": false,
     "Value": 0
   },
   "! ドアを開く -- Open the door 10 sec !": {
-    "Translation": "! ドアを開く -- Open the door 10 sec !",
+    "Translation": "! Open the door -- 10 sec !",
     "M-Bool": false,
     "Value": 0
   },
   "「この橋も夜に歩きたくないしなぁ」": {
-    "Translation": "「この橋も夜に歩きたくないしなぁ」",
+    "Translation": "「I really don't want to walk this bridge at night...」",
     "M-Bool": false,
     "Value": 0
   },
   "「仕方ない、渡るしかないか」": {
-    "Translation": "「仕方ない、渡るしかないか」",
+    "Translation": "「I guess I have no choice but to cross.」",
     "M-Bool": false,
     "Value": 0
   },
   "! ドアを開く -- Open the door 40 sec !": {
-    "Translation": "! ドアを開く -- Open the door 40 sec !",
+    "Translation": "! Open the door -- 40 sec !",
     "M-Bool": false,
     "Value": 0
   },
   "! ドアが閉まる -- Doors close 10 sec !": {
-    "Translation": "! ドアが閉まる -- Doors close 10 sec !",
+    "Translation": "! Doors close -- 10 sec !",
     "M-Bool": false,
     "Value": 0
   },
   "「今日も随分と話し込んじゃったなぁ」": {
-    "Translation": "「今日も随分と話し込んじゃったなぁ」",
+    "Translation": "「I really got caught up in conversation today.」",
     "M-Bool": false,
     "Value": 0
   },
   "「さっさと渡って早く村へ帰ろう」": {
-    "Translation": "「さっさと渡って早く村へ帰ろう」",
+    "Translation": "「Let's hurry across and get back to the village.」",
     "M-Bool": false,
     "Value": 0
   },
   "「だけどなんか...嫌な予感がするなあ...」": {
-    "Translation": "「だけどなんか...嫌な予感がするなあ...」",
+    "Translation": "「But something... feels off...」",
     "M-Bool": false,
     "Value": 0
   },
   "「何かに見られているような気がする...」": {
-    "Translation": "「何かに見られているような気がする...」",
+    "Translation": "「I feel like I'm being watched by something...」",
     "M-Bool": false,
     "Value": 0
   }
