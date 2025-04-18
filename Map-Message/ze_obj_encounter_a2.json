@@ -7,7 +7,7 @@
     }
   },
   "Map By Linyan": {
-    "Translation": "Map By Linyan",
+    "Translation": "Map By Linyan, EN Translation: Allenw @ Ozlin Server",
     "M-Bool": false,
     "Value": 0
   },
@@ -17,317 +17,317 @@
     "Value": 0
   },
   "整个设施陷入了半停电状态": {
-    "Translation": "整个设施陷入了半停电状态",
+    "Translation": "The entire facility has entered a semi-power outage state",
     "M-Bool": false,
     "Value": 0
   },
   "发生什么了": {
-    "Translation": "发生什么了",
+    "Translation": "What happened",
     "M-Bool": false,
     "Value": 0
   },
   "...生化病毒发生了泄露？": {
-    "Translation": "...生化病毒发生了泄露？",
+    "Translation": "...Has the biochemical virus leaked?",
     "M-Bool": false,
     "Value": 0
   },
   "识别代码为K-A18 代号：僵尸": {
-    "Translation": "识别代码为K-A18 代号：僵尸",
+    "Translation": "Identification code K-A18 Codename: Zombie",
     "M-Bool": false,
     "Value": 0
   },
   "如遇到有症状人员，可就地击毙": {
-    "Translation": "如遇到有症状人员，可就地击毙",
+    "Translation": "If symptomatic individuals are found, they may be executed on-site",
     "M-Bool": false,
     "Value": 0
-  },
+  },  
   "看来事情有点大啊": {
-    "Translation": "看来事情有点大啊",
+    "Translation": "Looks like things are getting serious",
     "M-Bool": false,
     "Value": 0
   },
   "给我30秒打开门": {
-    "Translation": "给我30秒打开门",
+    "Translation": "Give me 30 seconds to open the door",
     "M-Bool": false,
     "Value": 0
   },
   "靠，开门的噪声引来了僵尸": {
-    "Translation": "靠，开门的噪声引来了僵尸",
+    "Translation": "Damn, the noise from opening the door attracted zombies",
     "M-Bool": false,
     "Value": 0
   },
   "门开了，快走": {
-    "Translation": "门开了，快走",
+    "Translation": "The door is open, hurry!",
     "M-Bool": false,
     "Value": 0
   },
   "门已关闭": {
-    "Translation": "门已关闭",
+    "Translation": "The door is closed",
     "M-Bool": false,
     "Value": 0
   },
   "这边被大火封路了.....": {
-    "Translation": "这边被大火封路了.....",
+    "Translation": "This side is blocked by fire...",
     "M-Bool": false,
     "Value": 0
   },
   "来这边！有电梯可以到上一层": {
-    "Translation": "来这边！有电梯可以到上一层",
+    "Translation": "Come this way! There's an elevator to the upper level",
     "M-Bool": false,
     "Value": 0
   },
   "不过我们需要扑灭火焰": {
-    "Translation": "不过我们需要扑灭火焰",
+    "Translation": "But we need to extinguish the flames",
     "M-Bool": false,
     "Value": 0
   },
   "小心，僵尸扒开了大门": {
-    "Translation": "小心，僵尸扒开了大门",
+    "Translation": "Careful, zombies have torn open the main door",
     "M-Bool": false,
     "Value": 0
   },
   "守住阵地，还有30秒扑灭火焰": {
-    "Translation": "守住阵地，还有30秒扑灭火焰",
+    "Translation": "Hold your ground, 30 seconds left to extinguish the flames",
     "M-Bool": false,
     "Value": 0
   },
-  "僵尸从另一个大门涌来了": {
-    "Translation": "僵尸从另一个大门涌来了",
+    "僵尸从另一个大门涌来了": {
+    "Translation": "Zombies are pouring in through another door",
     "M-Bool": false,
     "Value": 0
   },
   "撤退": {
-    "Translation": "撤退",
+    "Translation": "Retreat",
     "M-Bool": false,
     "Value": 0
   },
   "小心从另一边房间来的僵尸": {
-    "Translation": "小心从另一边房间来的僵尸",
+    "Translation": "Be careful of zombies coming from the other room",
     "M-Bool": false,
     "Value": 0
   },
   "电梯大门将在20秒后开启": {
-    "Translation": "电梯大门将在20秒后开启",
+    "Translation": "The elevator door will open in 20 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "电梯大门将在5秒后关闭": {
-    "Translation": "电梯大门将在5秒后关闭",
+    "Translation": "The elevator door will close in 5 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "呼，终于摆脱掉这些僵尸了": {
-    "Translation": "呼，终于摆脱掉这些僵尸了",
+    "Translation": "Phew, finally got rid of those zombies",
     "M-Bool": false,
     "Value": 0
   },
   "怎么回事？": {
-    "Translation": "怎么回事？",
+    "Translation": "What’s going on?",
     "M-Bool": false,
     "Value": 0
   },
   "什么情况": {
-    "Translation": "什么情况",
+    "Translation": "What’s happening?",
     "M-Bool": false,
     "Value": 0
   },
   "人都去哪了？": {
-    "Translation": "人都去哪了？",
+    "Translation": "Where did everyone go?",
     "M-Bool": false,
     "Value": 0
   },
   "该死，僵尸又来了": {
-    "Translation": "该死，僵尸又来了",
+    "Translation": "Damn, the zombies are back",
     "M-Bool": false,
     "Value": 0
   },
   "大门将在10秒后开启，坚守阵地": {
-    "Translation": "大门将在10秒后开启，坚守阵地",
+    "Translation": "The main door will open in 10 seconds, hold your ground",
     "M-Bool": false,
     "Value": 0
   },
   "大门已开启": {
-    "Translation": "大门已开启",
+    "Translation": "The main door is open",
     "M-Bool": false,
     "Value": 0
   },
   "小心侧面僵尸": {
-    "Translation": "小心侧面僵尸",
+    "Translation": "Watch out for zombies on the side",
     "M-Bool": false,
     "Value": 0
   },
   "门将在20秒后开启，坚守阵地": {
-    "Translation": "门将在20秒后开启，坚守阵地",
+    "Translation": "The door will open in 20 seconds, hold your ground",
     "M-Bool": false,
     "Value": 0
   },
   "门已开启": {
-    "Translation": "门已开启",
+    "Translation": "The door is open",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸扒开了铁网，小心左边": {
-    "Translation": "僵尸扒开了铁网，小心左边",
+    "Translation": "Zombies have torn through the wire mesh, watch the left side",
     "M-Bool": false,
     "Value": 0
   },
   "门将在20秒后开启": {
-    "Translation": "门将在20秒后开启",
+    "Translation": "The door will open in 20 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "门打开了": {
-    "Translation": "门打开了",
+    "Translation": "The door is open",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸从侧面大门涌来了": {
-    "Translation": "僵尸从侧面大门涌来了",
+    "Translation": "Zombies are pouring in from the side door",
     "M-Bool": false,
     "Value": 0
   },
   "大门将在40秒后开启": {
-    "Translation": "大门将在40秒后开启",
+    "Translation": "The main door will open in 40 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "木门将在30秒后打开": {
-    "Translation": "木门将在30秒后打开",
+    "Translation": "The wooden door will open in 30 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "怎么又是死路": {
-    "Translation": "怎么又是死路",
+    "Translation": "Why is it a dead end again",
     "M-Bool": false,
     "Value": 0
   },
   "10秒后墙壁破碎": {
-    "Translation": "10秒后墙壁破碎",
+    "Translation": "The wall will break in 10 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "嘘，有无线电信号": {
-    "Translation": "嘘，有无线电信号",
+    "Translation": "Shh, there's a radio signal",
     "M-Bool": false,
     "Value": 0
   },
   ".......发生了不明类型灾害": {
-    "Translation": ".......发生了不明类型灾害",
+    "Translation": ".......An unidentified type of disaster has occurred",
     "M-Bool": false,
     "Value": 0
   },
   "各类供电与通讯系统严重损坏或失效": {
-    "Translation": "各类供电与通讯系统严重损坏或失效",
+    "Translation": "Various power and communication systems are severely damaged or non-functional",
     "M-Bool": false,
     "Value": 0
   },
   "现在已对当前地区实施全面隔离检疫": {
-    "Translation": "现在已对当前地区实施全面隔离检疫",
+    "Translation": "The current area has now been placed under full quarantine",
     "M-Bool": false,
     "Value": 0
   },
   "为了安全起见 建议收听到此广播的人员立即撤离": {
-    "Translation": "为了安全起见 建议收听到此广播的人员立即撤离",
+    "Translation": "For safety reasons, it is recommended that anyone hearing this broadcast evacuate immediately",
     "M-Bool": false,
     "Value": 0
   },
   "请遵循人员手册所标注的疏散路线": {
-    "Translation": "请遵循人员手册所标注的疏散路线",
+    "Translation": "Please follow the evacuation routes marked in the personnel manual",
     "M-Bool": false,
     "Value": 0
   },
   "如果你出现发烧、咳嗽、恶心、气喘、皮肤脱落或任何类似症状": {
-    "Translation": "如果你出现发烧、咳嗽、恶心、气喘、皮肤脱落或任何类似症状",
+    "Translation": "If you experience fever, coughing, nausea, shortness of breath, skin peeling, or any similar symptoms",
     "M-Bool": false,
     "Value": 0
   },
   "请立即报告给随行的军官、警察或安保人员": {
-    "Translation": "请立即报告给随行的军官、警察或安保人员",
+    "Translation": "Please report immediately to an accompanying officer, police, or security personnel",
     "M-Bool": false,
     "Value": 0
   },
   "因为这些症状可能与最近的事件有关": {
-    "Translation": "因为这些症状可能与最近的事件有关",
+    "Translation": "As these symptoms may be related to recent events",
     "M-Bool": false,
     "Value": 0
   },
   "当前任务：撤离设施": {
-    "Translation": "当前任务：撤离设施",
+    "Translation": "Current mission: Evacuate the facility",
     "M-Bool": false,
     "Value": 0
   },
   "给我10秒打开大门": {
-    "Translation": "给我10秒打开大门",
+    "Translation": "Give me 10 seconds to open the main door",
     "M-Bool": false,
     "Value": 0
   },
   "电梯坏了": {
-    "Translation": "电梯坏了",
+    "Translation": "The elevator is broken",
     "M-Bool": false,
     "Value": 0
   },
   "给我点时间开门": {
-    "Translation": "给我点时间开门",
+    "Translation": "Give me some time to open the door",
     "M-Bool": false,
     "Value": 0
   },
   "门开了": {
-    "Translation": "门开了",
+    "Translation": "The door is open",
     "M-Bool": false,
     "Value": 0
   },
   "该死的，疏散路线的这个门怎么开不了": {
-    "Translation": "该死的，疏散路线的这个门怎么开不了",
+    "Translation": "Damn, this door on the evacuation route won't open",
     "M-Bool": false,
     "Value": 0
   },
   "让我看看手册......靠，没路走了": {
-    "Translation": "让我看看手册......靠，没路走了",
+    "Translation": "Let me check the manual... Damn, there's no way through",
     "M-Bool": false,
     "Value": 0
   },
   "我知道这边有个管道，不过不知道是去哪的": {
-    "Translation": "我知道这边有个管道，不过不知道是去哪的",
+    "Translation": "I know there's a pipe here, but I'm not sure where it leads",
     "M-Bool": false,
     "Value": 0
   },
   "算了，走一步看一步了": {
-    "Translation": "算了，走一步看一步了",
+    "Translation": "Forget it, we'll take it one step at a time",
     "M-Bool": false,
     "Value": 0
   },
   "这边漏电了....让我想想办法": {
-    "Translation": "这边漏电了....让我想想办法",
+    "Translation": "There's an electrical leak here... Let me figure something out",
     "M-Bool": false,
     "Value": 0
   },
   "电将在10秒后切断": {
-    "Translation": "电将在10秒后切断",
+    "Translation": "The power will be cut off in 10 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "电源已切断": {
-    "Translation": "电源已切断",
+    "Translation": "The power has been cut off",
     "M-Bool": false,
     "Value": 0
   },
   "梯子将在10秒后开放": {
-    "Translation": "梯子将在10秒后开放",
+    "Translation": "The ladder will be accessible in 10 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "杂物将在20秒后摧毁": {
-    "Translation": "杂物将在20秒后摧毁",
+    "Translation": "Debris will be cleared in 20 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "大门将在30秒后开启": {
-    "Translation": "大门将在30秒后开启",
+    "Translation": "The main door will open in 30 seconds",
     "M-Bool": false,
     "Value": 0
   },
   "正在想办法打开铁丝网": {
-    "Translation": "正在想办法打开铁丝网",
+    "Translation": "Trying to figure out how to open the wire mesh",
     "M-Bool": false,
     "Value": 0
   }
