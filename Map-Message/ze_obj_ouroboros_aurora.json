@@ -260,5 +260,10 @@
     "Translation": "The first-floor laboratory door has opened.",
     "M-Bool": false,
     "Value": 0
+  },
+  "注意脚下的激光，它们并不能阻止我们前进！": {
+    "Translation": "Watch out the lasers, they can't stop us from going forward!",
+    "M-Bool": false,
+    "Value": 0
   }
 }
