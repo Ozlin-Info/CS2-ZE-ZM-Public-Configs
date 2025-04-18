@@ -7,17 +7,102 @@
     }
   },
   " level 1 ": {
-    "Translation": " level 1 ",
+    "Translation": " Level 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " level 2 ": {
+    "Translation": " Level 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " level 3 ": {
+    "Translation": " Level 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " level RTV ": {
+    "Translation": " RTV Level ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " load RTV ": {
+    "Translation": " Load RTV Level ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " load level 1 ": {
+    "Translation": " Load Level 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " load level 2 ": {
+    "Translation": " Load Level 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " load level 3 ": {
+    "Translation": " Load Level 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 倒逆空雨 ": {
+    "Translation": " Reverse Sky Rain ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 堕时 ": {
+    "Translation": " Time Fall ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 拓时之空 ": {
+    "Translation": " Expanding Time Space ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 拓空 ": {
+    "Translation": " Expanding Space ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 时空教条 ": {
+    "Translation": " Time-Space Dogma ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 时空潮涌 ": {
+    "Translation": " Time-Space Surge ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 空间涌动 ": {
+    "Translation": " Space Flow ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 等价之钟 ": {
+    "Translation": " Clock of Equivalence ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 规流飞梭 ": {
+    "Translation": " Regulated Flow Shuttle ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 迭代空壳 ": {
+    "Translation": " Iterative Shell ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 飞空之梭 ": {
+    "Translation": " Sky Shuttle ",
     "M-Bool": false,
     "Value": 0
   },
   "10 seconds": {
     "Translation": "10 seconds",
-    "M-Bool": false,
-    "Value": 0
-  },
-  " level 2 ": {
-    "Translation": " level 2 ",
     "M-Bool": false,
     "Value": 0
   }
