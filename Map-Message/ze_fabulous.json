@@ -30,5 +30,305 @@
     "Translation": "Go find him.",
     "M-Bool": false,
     "Value": 0
+  },
+  "一位玩家成为了勇者": {
+    "Translation": "A player has become the hero.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "技能（front E）：向前发射刀光击退僵尸，cd5秒": {
+    "Translation": "Skill (front E): Shoot a blade forward to repel zombies, cooldown: 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "技能（top E）：延迟3秒生成激光，击退僵尸5秒，仅一次【未解锁】": {
+    "Translation": "Skill (top E): Delay 3 seconds to generate a laser, repel zombies for 5 seconds, one-time use [Unlocked].",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这是他的残影": {
+    "Translation": "This is his shadow",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "他一定就在附近": {
+    "Translation": "He must be nearby",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "去找到他": {
+    "Translation": "Go find him",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "低门将会在30秒后开启": {
+    "Translation": "The lower door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "中门将会在30秒后开启": {
+    "Translation": "The middle door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸将于10秒后传送": {
+    "Translation": "Zombies will teleport in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "所以，你们到达了这里": {
+    "Translation": "So, you have arrived here",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "你们想要击败我，是吗": {
+    "Translation": "You want to defeat me, don't you",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "很好": {
+    "Translation": "Very well",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "向我证明你们的能力": {
+    "Translation": "Prove your abilities to me",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我会在塔的顶端等你": {
+    "Translation": "I will wait for you at the top of the tower",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯将于20秒后启动": {
+    "Translation": "The elevator will start in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸将于5秒后传送": {
+    "Translation": "Zombies will teleport in 5 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这是一间只有轮回之人才能进入的房间": {
+    "Translation": "This is a room only accessible to those who have reincarnated.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "一位玩家拾取了异能宝珠": {
+    "Translation": "A player has picked up a psychic orb.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "可能会派上用场": {
+    "Translation": "It might come in handy.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "方块察觉到了异常，变得更加强大": {
+    "Translation": "The cube sensed an anomaly and became stronger.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将于30秒后开启": {
+    "Translation": "The door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯将于10秒后离开": {
+    "Translation": "The elevator will leave in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯将于15秒后启动": {
+    "Translation": "The elevator will start in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "现在 该去面对他了": {
+    "Translation": "Now it’s time to face him.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "没想到你会到达这里": {
+    "Translation": "I didn't expect you to make it here",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "但是，到此为止了": {
+    "Translation": "But this is where it ends",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "因为我会在这里": {
+    "Translation": "Because I will be here",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "彻底消灭你": {
+    "Translation": "To completely annihilate you",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "天空坠落": {
+    "Translation": "The sky falls",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "引力掌控": {
+    "Translation": "Gravity control",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "怎么 可能": {
+    "Translation": "How is that possible",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我怎么会在这里倒下": {
+    "Translation": "How could I fall here",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "既然这样 那你也别想活着": {
+    "Translation": "In that case, you won't live either",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "跟着这个世界一起毁灭吧": {
+    "Translation": "Let yourself be destroyed along with this world",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "现在使用异能宝珠": {
+    "Translation": "Use the psychic orb now.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "一切还来得及": {
+    "Translation": "Everything is still possible",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "回到过去阻止他": {
+    "Translation": "Go back in time to stop him",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "永恒恐惧": {
+    "Translation": "Eternal fear",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "四面楚歌": {
+    "Translation": "Surrounded on all sides",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "暗影之枪": {
+    "Translation": "Shadow gun",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "诅咒光幕": {
+    "Translation": "Cursed barrier",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "坚持住 我们马上就成功了": {
+    "Translation": "Hold on, we are almost there",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "等等，小心！": {
+    "Translation": "Wait, be careful!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "看头顶！": {
+    "Translation": "Look up!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们回来了？": {
+    "Translation": "Are we back?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "所以，你们到了这里": {
+    "Translation": "So, you have made it here",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "你怎么会有这个东西": {
+    "Translation": "How do you have this thing",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "既然这样": {
+    "Translation": "In that case",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "那你就和我一起埋葬在这座城堡里吧！": {
+    "Translation": "Then you'll be buried with me in this castle!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "激光炮已被解锁": {
+    "Translation": "Laser cannon has been unlocked.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "他打算摧毁这座塔": {
+    "Translation": "He plans to destroy this tower",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "在塔被摧毁前离开这里": {
+    "Translation": "Leave here before the tower is destroyed",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "挂机僵尸将于10秒后传送": {
+    "Translation": "Hanging zombies will teleport in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门将会在35秒后开启": {
+    "Translation": "The door will open in 35 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "怎么可能让你逃出去": {
+    "Translation": "How can I let you escape",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "燃尽我最后的力量": {
+    "Translation": "I will burn my last strength",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我...失败了...": {
+    "Translation": "I... have failed...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "最终的门将会在15秒后关闭": {
+    "Translation": "The final door will close in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "地图作者:Hephasfos": {
+    "Translation": "Map author: Hephasfos",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "感谢你的游玩": {
+    "Translation": "Thank you for playing. EN Translation: Allenw @ Ozlin Server",
+    "M-Bool": false,
+    "Value": 0
   }
 }
