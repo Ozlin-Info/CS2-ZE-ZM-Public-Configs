@@ -7,37 +7,17 @@
     }
   },
   "ze_MkZk_Scarab 重置版": {
-    "Translation": "ze_MkZk_Scarab 重置版",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "进入大门，跟随眼睛的指引找到古代传送门": {
-    "Translation": "进入大门，跟随眼睛的指引找到古代传送门",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "请设置僵尸在开局45秒后尸变": {
-    "Translation": "请设置僵尸在开局45秒后尸变",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "但需要注意...": {
-    "Translation": "但需要注意...",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "...死亡会降临到那些看不到圣甲虫的人身上": {
-    "Translation": "...死亡会降临到那些看不到圣甲虫的人身上",
+    "Translation": "ze_MkZk_Scarab Remake",
     "M-Bool": false,
     "Value": 0
   },
   "剩余二十秒": {
-    "Translation": "剩余二十秒",
+    "Translation": "20 seconds left",
     "M-Bool": false,
     "Value": 0
   },
   "最后五秒!": {
-    "Translation": "最后五秒!",
+    "Translation": "Last 5 seconds!",
     "M-Bool": false,
     "Value": 0
   },
@@ -67,7 +47,57 @@
     "Value": 0
   },
   "清剿所有僵尸以获得胜利!": {
-    "Translation": "清剿所有僵尸以获得胜利!",
+    "Translation": "Eliminate all zombies to win!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "请设置僵尸在开局45秒后尸变": {
+    "translation": "Please set infection countdown 45 seconds after round start",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "所有人类有20%概率获得神圣屏障": {
+    "translation": "All humans have a 20% chance to obtain a sacred barrier",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "(在即将触发机关时消耗并传送至安全区域)": {
+    "translation": "(Consumed and transported to a safe area before triggering a mechanism)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "进入大门，跟随眼睛的指引找到古代传送门": {
+    "translation": "Enter the gate and follow the eyes' guidance to find the ancient portal",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "但需要注意...": {
+    "translation": "But be cautious...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "...死亡会降临到那些看不到圣甲虫的人身上": {
+    "translation": "...Death will come to those who cannot see the scarab",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "所有人类有50%概率获得发光沙漏": {
+    "translation": "All humans have a 50% chance to obtain a glowing hourglass",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "(在即将触发机关时消耗并传送至外场)": {
+    "translation": "(Consumed and transported to an outer area before triggering a mechanism)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "所有人类有20%概率获得终末天启": {
+    "translation": "All humans have a 20% chance to obtain the apocalypse",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "(触碰圣甲虫时不触发机关)": {
+    "translation": "(Touching the scarab does not trigger the mechanism)",
     "M-Bool": false,
     "Value": 0
   }
