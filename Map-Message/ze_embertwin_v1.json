@@ -130,15 +130,5 @@
     "Translation": "Entered Area TwentyOne",
     "M-Bool": false,
     "Value": 0
-  },
-  "已进入第三区域": {
-    "Translation": "已进入第三区域",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "已进入第六区域": {
-    "Translation": "已进入第六区域",
-    "M-Bool": false,
-    "Value": 0
   }
 }
