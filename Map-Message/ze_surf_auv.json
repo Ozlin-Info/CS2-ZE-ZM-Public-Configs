@@ -122,22 +122,22 @@
     "Value": 0
   },
   "- 看谁滑的远 -": {
-    "Translation": "- 看谁滑的远 -",
+    "Translation": "- See who surf further -",
     "M-Bool": false,
     "Value": 0
   },
   "- 人类胜利 -": {
-    "Translation": "- 人类胜利 -",
+    "Translation": "- Human win -",
     "M-Bool": false,
     "Value": 0
   },
   "- 人类+20HP -": {
-    "Translation": "- 人类+20HP -",
+    "Translation": "- Human +20HP -",
     "M-Bool": false,
     "Value": 0
   },
   "- 地图制作：咸自矜持 & 金轮的YR -": {
-    "Translation": "- 地图制作：咸自矜持 & 金轮的YR -",
+    "Translation": "- Mapper：咸自矜持 & 金轮的YR -",
     "M-Bool": false,
     "Value": 0
   }
