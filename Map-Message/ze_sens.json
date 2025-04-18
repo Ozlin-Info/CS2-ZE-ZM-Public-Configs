@@ -7,27 +7,117 @@
     }
   },
   "光明是虚假的": {
-    "Translation": "Light is fake.",
+    "Translation": "The light is fake.",
     "M-Bool": false,
     "Value": 0
   },
   "光明是真实的": {
-    "Translation": "Light is real.",
+    "Translation": "The light is real.",
     "M-Bool": false,
     "Value": 0
   },
   "光明是虚幻的": {
-    "Translation": "Light is illusory.",
+    "Translation": "The light is illusory.",
     "M-Bool": false,
     "Value": 0
   },
   "光明是虚伪的": {
-    "Translation": "Light is hypocritical.",
+    "Translation": "The light is hypocritical.",
     "M-Bool": false,
     "Value": 0
   },
   "光明是虚无缥缈的": {
-    "Translation": "Light is ethereal.",
+    "Translation": "The light is ethereal.",
+    "M-Bool": false,
+    "Value": 0
+  },
+    "光明是虚无的": {
+    "Translation": "The light is void",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是如梦似幻的": {
+    "Translation": "The light is dreamlike",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是遥不可及的": {
+    "Translation": "The light is unreachable",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是璀璨的": {
+    "Translation": "The light is brilliant",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是彷徨的": {
+    "Translation": "The light is wandering",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是不存在的": {
+    "Translation": "The light doesn't exist",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是妙不可言的": {
+    "Translation": "The light is indescribably wonderful",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是奇异的": {
+    "Translation": "The light is bizarre",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是不可能的": {
+    "Translation": "The light is impossible",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是存在的": {
+    "Translation": "The light exists",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是缥缈的": {
+    "Translation": "The light is elusive",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是一无所有的": {
+    "Translation": "The light is nothingness",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是疯狂的": {
+    "Translation": "The light is mad",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是难以置信的": {
+    "Translation": "The light is unbelievable",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "光明是不可描述的": {
+    "Translation": "The light is indescribable",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10s后迎接天坠 ": {
+    "Translation": " Prepare for the skyfall in 10s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Next map:Ze_Arcanum ": {
+    "Translation": " Next map:Ze_Arcanum ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 你征服了这张地图!!! ": {
+    "Translation": " You've conquered this map!!! ",
     "M-Bool": false,
     "Value": 0
   }
