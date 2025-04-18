@@ -17,12 +17,12 @@
     "Value": 0
   },
   "僵尸获得了《毒球》": {
-    "Translation": "The zombie has obtained 'Poison Ball'.",
+    "Translation": "The zombie has obtained [Poison Ball].",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸获得了《消除》": {
-    "Translation": "The zombie has obtained 'Erasure'.",
+    "Translation": "The zombie has obtained [Erasure].",
     "M-Bool": false,
     "Value": 0
   },
@@ -32,17 +32,147 @@
     "Value": 0
   },
   "僵尸获得了《束缚》": {
-    "Translation": "僵尸获得了《束缚》",
+    "Translation": "The zombie has obtained [Bondage]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸获得了《毒池》": {
+    "Translation": "Zombies acquired [Poison Pool]",
     "M-Bool": false,
     "Value": 0
   },
   " 一位人类习得了医疗魔法 ": {
-    "Translation": " 一位人类习得了医疗魔法 ",
+    "Translation": " A human learned Healing Magic ",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸获得了《刀锋》": {
-    "Translation": "僵尸获得了《刀锋》",
+    "Translation": "Zombies acquired [Blade]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位人类习得了卡尔的智慧 ": {
+    "Translation": " A human learned Karl's Wisdom ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第一关通过": {
+    "Translation": "Stage 1 Cleared",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第二关": {
+    "Translation": "Stage 2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸获得了《收割》": {
+    "Translation": "Zombies acquired [Reaper]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位人类习得了罗生门 ": {
+    "Translation": " A human learned Rashomon ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位人类习得萨科 ": {
+    "Translation": " A human learned Shaco ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第二关通过": {
+    "Translation": "Stage 2 Cleared",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第三关": {
+    "Translation": "Stage 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位人类习得壁垒": {
+    "Translation": " A human learned Bastion ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第三关通过": {
+    "Translation": "Stage 3 Cleared",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位人类习得了厄斐琉斯 ": {
+    "Translation": " A human learned Aphelios ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位人类习得了凤凰之炽 ": {
+    "Translation": " A human learned Phoenix Flame ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位人类习得冲击": {
+    "Translation": " A human learned Impact ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位人类习得水瀑": {
+    "Translation": " A human learned Waterfall ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位人类习得了冰刺 ": {
+    "Translation": " A human learned Ice Spike ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位人类习得了直线风 ": {
+    "Translation": " A human learned Straight Wind ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸获得了《须臾》": {
+    "Translation": "Zombies acquired [Moment]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位玩家成为了龙骑士": {
+    "Translation": " A player became Dragon Knight ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位玩家成为了尤涅若": {
+    "Translation": " A player became Yurnero ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第四关": {
+    "Translation": "Stage 4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第四关通过": {
+    "Translation": "Stage 4 Cleared",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM": {
+    "Translation": "ZM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "240s后核爆": {
+    "Translation": "Nuclear Explosion in 240s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸获得了《自爆》": {
+    "Translation": "Zombies acquired [Self-Destruct]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸获得了《流星》": {
+    "Translation": "Zombies acquired [Meteor]",
     "M-Bool": false,
     "Value": 0
   }
