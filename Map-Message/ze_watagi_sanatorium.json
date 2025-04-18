@@ -6,43 +6,143 @@
       "Value": 0
     }
   },
-  "! バリケードを破壊 -- Destroying the barricade 30 sec !": {
-    "Translation": "! バリケードを破壊 -- Destroying the barricade 30 sec !",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "幽霊少女 :": {
-    "Translation": "幽霊少女 :",
-    "M-Bool": false,
-    "Value": 0
-  },
   "「いつからここにいるのか分からない...」": {
-    "Translation": "「いつからここにいるのか分からない...」",
+    "Translation": "I don't know how long I've been here...",
     "M-Bool": false,
     "Value": 0
   },
-  "「私がなぜ死んでいるのかも分からない...」": {
-    "Translation": "「私がなぜ死んでいるのかも分からない...」",
+  "「ここからトンネルへ行けるかもしれない...」": {
+    "Translation": "Maybe we can reach the tunnel from here...",
     "M-Bool": false,
     "Value": 0
   },
-  "「一つ分かることと言えば...」": {
-    "Translation": "「一つ分かることと言えば...」",
+  "「ここは何かの儀式場...？」": {
+    "Translation": "Is this some kind of ritual site...?",
     "M-Bool": false,
     "Value": 0
   },
-  "! バリケードを破壊 -- Destroying the barricade 10 sec !": {
-    "Translation": "! バリケードを破壊 -- Destroying the barricade 10 sec !",
-    "M-Bool": false,
-    "Value": 0
-  },
-  "「渡木トンネルへ行かなければならないということ...」": {
-    "Translation": "「渡木トンネルへ行かなければならないということ...」",
+  "「この場所は療養所...」": {
+    "Translation": "This place is a sanatorium...",
     "M-Bool": false,
     "Value": 0
   },
   "「そこに私を知るための何かがあるかもしれないから...」": {
-    "Translation": "「そこに私を知るための何かがあるかもしれないから...」",
+    "Translation": "Because there might be something there that knows me...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「なぜだかここにいると落ち着くような...」": {
+    "Translation": "For some reason I feel calm here...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「一つ分かることと言えば...」": {
+    "Translation": "If there's one thing I know...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「古い防空壕...」": {
+    "Translation": "An old air raid shelter...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「渡木トンネルへ行かなければならないということ...」": {
+    "Translation": "I must go to Wataki Tunnel...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「私がなぜ死んでいるのかも分からない...」": {
+    "Translation": "I don't even know why I'm dead...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "「私には辺りが燃えているように感じる...」": {
+    "Translation": "To me, it feels like everything is burning...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "幽霊少女 :": {
+    "Translation": "Ghost Girl:",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! Music : Aquarius !": {
+    "Translation": "! Music: Aquarius !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! Music : Awake !": {
+    "Translation": "! Music: Awake !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ゾンビが入ってきた！ -- Zombies or entered the elevator! !": {
+    "Translation": "! Zombies have entered the elevator! !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ドアを開く -- Open the door 10 sec !": {
+    "Translation": "! Opening door in 10 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ドアを開く -- Open the door 30 sec !": {
+    "Translation": "! Opening door in 30 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! バリケードを破壊 -- Destroying the barricade 10 sec !": {
+    "Translation": "! Destroying barricade: 10 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! バリケードを破壊 -- Destroying the barricade 15 sec !": {
+    "Translation": "! Destroying barricade: 15 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! バリケードを破壊 -- Destroying the barricade 30 sec !": {
+    "Translation": "! Destroying barricade: 30 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! バリケードを破壊 -- Destroying the barricade 40 sec !": {
+    "Translation": "! Destroying barricade: 40 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 人間たちは脱出した -- The humans escaped !": {
+    "Translation": "! Humans have escaped !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 古びたレコードを再生した !": {
+    "Translation": "! Played an old record !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 最後の防衛だ -- This is the last defense 10 sec !": {
+    "Translation": "! Final defense: 10 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 最後の防衛だ -- This is the last defense 40 sec !": {
+    "Translation": "! Final defense: 40 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! バリケードを破壊 -- Destroying the barricade 20 sec !": {
+    "Translation": "! Destroying barricade: 20 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! 激痛を習得した！ -- ZM skill : sharp pain !": {
+    "Translation": "! Acquired skill: Sharp Pain (ZM) !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! Music : Lost_Painting !": {
+    "Translation": "! Music: Lost_Painting !",
     "M-Bool": false,
     "Value": 0
   }
