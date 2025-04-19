@@ -50,5 +50,10 @@
     "Translation": "goodluck",
     "M-Bool": false,
     "Value": 0
+  },
+  "move to the X-13 facility and wait for the next command": {
+    "Translation": "move to the X-13 facility and wait for the next command",
+    "M-Bool": false,
+    "Value": 0
   }
 }
