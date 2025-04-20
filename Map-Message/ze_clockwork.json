@@ -95,5 +95,30 @@
     "Translation": "=East=",
     "M-Bool": false,
     "Value": 0
+  },
+  "Playing clockwork-philipp-klein": {
+    "Translation": "Playing clockwork-philipp-klein",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=North=-": {
+    "Translation": "-=North=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=West=-": {
+    "Translation": "-=West=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=South=-": {
+    "Translation": "-=South=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=East=-": {
+    "Translation": "-=East=-",
+    "M-Bool": false,
+    "Value": 0
   }
 }

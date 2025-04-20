@@ -75,5 +75,10 @@
     "Translation": " ZOMBIES TRIGGERED! YOU LOSE ",
     "M-Bool": false,
     "Value": 0
+  },
+  "[Tank entered the game]": {
+    "Translation": "[Tank entered the game]",
+    "M-Bool": false,
+    "Value": 0
   }
 }

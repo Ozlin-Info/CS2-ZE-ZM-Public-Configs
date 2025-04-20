@@ -660,5 +660,185 @@
     "Translation": " Stay away from the explosives. ",
     "M-Bool": false,
     "Value": 0
+  },
+  " 感谢zed社区测试地图,以及对本图提出任何意见的人 ": {
+    "Translation": " 感谢zed社区测试地图,以及对本图提出任何意见的人 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The first door will open in 15 seconds, please wait ": {
+    "Translation": " The first door will open in 15 seconds, please wait ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The second door will open in 10 seconds, please wait ": {
+    "Translation": " The second door will open in 10 seconds, please wait ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Give me 15 seconds to destroy this wooden crate ": {
+    "Translation": " Give me 15 seconds to destroy this wooden crate ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The elevator will start in 30 seconds and destroy this wall ": {
+    "Translation": " The elevator will start in 30 seconds and destroy this wall ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " This door is locked, give me 15 seconds ": {
+    "Translation": " This door is locked, give me 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door will open in 25 seconds ": {
+    "Translation": " The door will open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Wait for 30 seconds to hold onto the zombies until the bridge rises ": {
+    "Translation": " Wait for 30 seconds to hold onto the zombies until the bridge rises ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " This goalkeeper will open the door in 20 seconds ": {
+    "Translation": " This goalkeeper will open the door in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The goalkeeper will open in 35 seconds ": {
+    "Translation": " The goalkeeper will open in 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The goalkeeper will open in 25 seconds ": {
+    "Translation": " The goalkeeper will open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The explosives have been placed, please wait for 40 seconds ": {
+    "Translation": " The explosives have been placed, please wait for 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 正在修复电力系统 ": {
+    "Translation": " 正在修复电力系统 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 电力系统已修复 ": {
+    "Translation": " 电力系统已修复 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The elevator will start in 15 seconds ": {
+    "Translation": " The elevator will start in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 正在破解这道门 ": {
+    "Translation": " 正在破解这道门 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Please give me 30 seconds ": {
+    "Translation": " Please give me 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The goalkeeper will open in 15 seconds ": {
+    "Translation": " The goalkeeper will open in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 门开了，撤退 ": {
+    "Translation": " 门开了，撤退 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The safe house will open in 30 seconds  ": {
+    "Translation": " The safe house will open in 30 seconds  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Player has picked up gravity. ": {
+    "Translation": " Player has picked up gravity. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The generator is generating electricity and will take 15 seconds ": {
+    "Translation": " The generator is generating electricity and will take 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "集装箱开始移动了,注意躲避": {
+    "Translation": "集装箱开始移动了,注意躲避",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The elevator will leave in 20 seconds ": {
+    "Translation": " The elevator will leave in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The telescopic bridge will move in 25 seconds ": {
+    "Translation": " The telescopic bridge will move in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 伸缩桥开始移动了 ": {
+    "Translation": " 伸缩桥开始移动了 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It will be activated for you in 30 seconds ": {
+    "Translation": " It will be activated for you in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 45 seconds ": {
+    "Translation": " 45 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 路被杂物挡住，需要花点时间烧毁阻碍 ": {
+    "Translation": " 路被杂物挡住，需要花点时间烧毁阻碍 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The elevator will leave in 35 seconds! ": {
+    "Translation": " The elevator will leave in 35 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We will escape from here in 40 seconds ": {
+    "Translation": " We will escape from here in 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " This is an electronic lock, I need 30 seconds to crack it ": {
+    "Translation": " This is an electronic lock, I need 30 seconds to crack it ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 魔眼干扰了我们的武器，神器将禁止使用 ": {
+    "Translation": " 魔眼干扰了我们的武器，神器将禁止使用 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The mining car will start in 10 seconds ": {
+    "Translation": " The mining car will start in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The missile will be launched in five seconds ": {
+    "Translation": " The missile will be launched in five seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 这是我的第一张地图 ": {
+    "Translation": " 这是我的第一张地图 ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

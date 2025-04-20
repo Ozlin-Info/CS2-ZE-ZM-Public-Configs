@@ -5,5 +5,115 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "DEFEND! The door is locked": {
+    "Translation": "DEFEND! The door is locked",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold it for a bit more": {
+    "Translation": "Hold it for a bit more",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Fall back": {
+    "Translation": "Fall back",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The windows are barricaded off": {
+    "Translation": "The windows are barricaded off",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold this position until we break it": {
+    "Translation": "Hold this position until we break it",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Keep it steady": {
+    "Translation": "Keep it steady",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The window barricades are broken through": {
+    "Translation": "The window barricades are broken through",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN!": {
+    "Translation": "RUN!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lockdown sequence enable": {
+    "Translation": "Lockdown sequence enable",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Upstairs window malfunction in both rooms": {
+    "Translation": "Upstairs window malfunction in both rooms",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Downstairs window malfunction": {
+    "Translation": "Downstairs window malfunction",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Emergency sequence enabled": {
+    "Translation": "Emergency sequence enabled",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nerve Gas release inbound": {
+    "Translation": "Nerve Gas release inbound",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nerve Gas in 90 seconds": {
+    "Translation": "Nerve Gas in 90 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Get to the lab for safety": {
+    "Translation": "Get to the lab for safety",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nerve Gas in 30 seconds": {
+    "Translation": "Nerve Gas in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nerve Gas in 15 seconds": {
+    "Translation": "Nerve Gas in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nerve Gas in 5 seconds": {
+    "Translation": "Nerve Gas in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nerve Gas imminent!!! CLOSE THE DOOR!!!!": {
+    "Translation": "Nerve Gas imminent!!! CLOSE THE DOOR!!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Press emergency sequence and set this place on lockdown!": {
+    "Translation": "Press emergency sequence and set this place on lockdown!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nerve Gas release in 90 seconds": {
+    "Translation": "Nerve Gas release in 90 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Tram leaving in 15 seconds": {
+    "Translation": "Tram leaving in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

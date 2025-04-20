@@ -135,5 +135,15 @@
     "Translation": " WARM UP - 30 SEC ",
     "M-Bool": false,
     "Value": 0
+  },
+  " WARM UP - 20 SEC ": {
+    "Translation": " WARM UP - 20 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARM UP - 10 SEC ": {
+    "Translation": " WARM UP - 10 SEC ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
