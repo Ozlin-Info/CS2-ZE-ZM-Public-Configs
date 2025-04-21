@@ -15,5 +15,115 @@
     "Translation": " 30 ",
     "M-Bool": false,
     "Value": 0
+  },
+  "----- 20 -----": {
+    "Translation": "----- 20 -----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "----- 30 -----": {
+    "Translation": "----- 30 -----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zm tp in 5 sec": {
+    "Translation": "zm tp in 5 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "----- 10 -----": {
+    "Translation": "----- 10 -----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zm tp in 10s": {
+    "Translation": "zm tp in 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Trace ----- 10 -----": {
+    "Translation": "Trace ----- 10 -----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Main ----- 10 -----": {
+    "Translation": "Main ----- 10 -----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-ZM TP IN 10s-": {
+    "Translation": "-ZM TP IN 10s-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "----- 40 -----": {
+    "Translation": "----- 40 -----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "----- 45 -----": {
+    "Translation": "----- 45 -----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "----- 5 -----": {
+    "Translation": "----- 5 -----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zombies tp in 15 sec": {
+    "Translation": "zombies tp in 15 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "----- 40-----": {
+    "Translation": "----- 40-----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-----zm tp in 10s------": {
+    "Translation": "-----zm tp in 10s------",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-----170-----": {
+    "Translation": "-----170-----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-----5-----": {
+    "Translation": "-----5-----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-----4-----": {
+    "Translation": "-----4-----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-----3-----": {
+    "Translation": "-----3-----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-----2-----": {
+    "Translation": "-----2-----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-----1-----": {
+    "Translation": "-----1-----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-----0-----": {
+    "Translation": "-----0-----",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "nuke in 10": {
+    "Translation": "nuke in 10",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -915,5 +915,30 @@
     "Translation": "THAT'S ALL FOR NOW - MORE STAGES TO COME",
     "M-Bool": false,
     "Value": 0
+  },
+  "OUTER GATE IS OPENING IN 10 SECONDS": {
+    "Translation": "OUTER GATE IS OPENING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OUTER GATE IS OPENING": {
+    "Translation": "OUTER GATE IS OPENING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE BABY SUICIDE RATE IS SKYROCKETING": {
+    "Translation": "THE BABY SUICIDE RATE IS SKYROCKETING",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PEOPLE ARE BUYING BBY-COINS LIKE HOTCAKES": {
+    "Translation": "PEOPLE ARE BUYING BBY-COINS LIKE HOTCAKES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SHOOT THE STINK TO GAIN HP": {
+    "Translation": "SHOOT THE STINK TO GAIN HP",
+    "M-Bool": false,
+    "Value": 0
   }
 }

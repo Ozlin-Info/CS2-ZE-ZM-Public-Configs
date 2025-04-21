@@ -10,5 +10,30 @@
     "Translation": "Survive 45 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Hold 55 Seconds": {
+    "Translation": "Hold 55 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The boat will leave in 20 seconds": {
+    "Translation": "The boat will leave in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold 45 Seconds": {
+    "Translation": "Hold 45 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold 60 Seconds": {
+    "Translation": "Hold 60 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "teleport zombies in 15 seconds , Don't stay on the first floor": {
+    "Translation": "teleport zombies in 15 seconds , Don't stay on the first floor",
+    "M-Bool": false,
+    "Value": 0
   }
 }
