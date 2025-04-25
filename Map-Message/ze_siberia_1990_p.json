@@ -15,5 +15,15 @@
     "Translation": "Objective. Find and destroy the source of the outbreak.",
     "M-Bool": false,
     "Value": 0
+  },
+  "Proximity mine obtained!": {
+    "Translation": "Proximity mine obtained!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The promixity mine can be used every 24 seconds.": {
+    "Translation": "The promixity mine can be used every 24 seconds.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

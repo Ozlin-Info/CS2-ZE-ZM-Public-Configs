@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map Status: No Stripper!": {
+    "Translation": "Map Status: No Stripper!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP": {
+    "Translation": "WARMUP",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map Update: 20/02/2025": {
+    "Translation": "Map Update: 20/02/2025",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map Ported by Waffel. Thanks to NiceShot with helping.": {
+    "Translation": "Map Ported by Waffel. Thanks to NiceShot with helping.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "!! For better game experience, set your Graphical settings on High and Brightness 100% !!": {
+    "Translation": "!! For better game experience, set your Graphical settings on High and Brightness 100% !!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Setzer] We have finally arrived. Welcome to Mt Bur-Omisace": {
+    "Translation": "[Setzer] We have finally arrived. Welcome to Mt Bur-Omisace",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Setzer] You have to go the rest of the way on your own. Flying closer is prohibited!": {
+    "Translation": "[Setzer] You have to go the rest of the way on your own. Flying closer is prohibited!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Setzer] We meet soon after Ashe talk to Al-Cid Margrace of Rozarria!": {
+    "Translation": "[Setzer] We meet soon after Ashe talk to Al-Cid Margrace of Rozarria!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Setzer] Good luck!": {
+    "Translation": "[Setzer] Good luck!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -205,5 +205,15 @@
     "Translation": " Kind Mita: Prepare to jump! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " A player found Toy Hammer! ": {
+    "Translation": " A player found Toy Hammer! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Press E smash zombies to make them slow down. ": {
+    "Translation": " Press E smash zombies to make them slow down. ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

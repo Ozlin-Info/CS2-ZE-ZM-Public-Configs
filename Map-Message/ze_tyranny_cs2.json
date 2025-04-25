@@ -35,5 +35,10 @@
     "Translation": " PLAYER HAS PICKED UP ZOMBIE HEAL ",
     "M-Bool": false,
     "Value": 0
+  },
+  " ENTRANCE DOOR OPENING ": {
+    "Translation": " ENTRANCE DOOR OPENING ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

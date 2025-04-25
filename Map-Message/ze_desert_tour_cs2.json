@@ -20,5 +20,20 @@
     "Translation": "hold here until a door is open somewhere",
     "M-Bool": false,
     "Value": 0
+  },
+  "The Door is open in 25seconds": {
+    "Translation": "The Door is open in 25seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporter is open in 10seconds": {
+    "Translation": "Teleporter is open in 10seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold here untile the rock explodes": {
+    "Translation": "Hold here untile the rock explodes",
+    "M-Bool": false,
+    "Value": 0
   }
 }

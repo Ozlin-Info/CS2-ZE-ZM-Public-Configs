@@ -20,5 +20,35 @@
     "Translation": "= = = CURRENT ARENA 1 / 8  = = =",
     "M-Bool": false,
     "Value": 0
+  },
+  "= = = 10 Second Doors Opening = = =": {
+    "Translation": "= = = 10 Second Doors Opening = = =",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "= = = Doors Open = = =": {
+    "Translation": "= = = Doors Open = = =",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "= = = CURRENT ARENA 2 / 8  = = =": {
+    "Translation": "= = = CURRENT ARENA 2 / 8  = = =",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "= = = Jump Down  = = =": {
+    "Translation": "= = = Jump Down  = = =",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "= = = 5 Second Zombie TP Activating = = =": {
+    "Translation": "= = = 5 Second Zombie TP Activating = = =",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "= = = Zombie TP Activate = = =": {
+    "Translation": "= = = Zombie TP Activate = = =",
+    "M-Bool": false,
+    "Value": 0
   }
 }

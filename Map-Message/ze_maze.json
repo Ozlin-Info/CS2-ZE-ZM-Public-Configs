@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "### WARMUP 30 SECONDES ###": {
+    "Translation": "### WARMUP 30 SECONDES ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP 20 SECONDES ###": {
+    "Translation": "### WARMUP 20 SECONDES ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### WARMUP 10 SECONDES ###": {
+    "Translation": "### WARMUP 10 SECONDES ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### STAGE 1 ###": {
+    "Translation": "### STAGE 1 ###",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

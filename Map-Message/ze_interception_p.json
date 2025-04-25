@@ -15,5 +15,15 @@
     "Translation": "COMPLEX GATE OPENING IN 5 SECONDS",
     "M-Bool": false,
     "Value": 0
+  },
+  "SEWER OPENING IN 20 SECONDS": {
+    "Translation": "SEWER OPENING IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SEWER OPENING IN 5 SECONDS": {
+    "Translation": "SEWER OPENING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }

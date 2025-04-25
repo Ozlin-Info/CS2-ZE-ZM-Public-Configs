@@ -35,5 +35,25 @@
     "Translation": " The Asylum Main gates will open will open in 25 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Version 1.0.2.0 ": {
+    "Translation": " Version 1.0.2.0 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The Lower Asylum gates will open in 5 seconds ": {
+    "Translation": " The Lower Asylum gates will open in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies got there before humans! You lost! ": {
+    "Translation": " Zombies got there before humans! You lost! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The Asylum Main gates will open in 25 seconds ": {
+    "Translation": " The Asylum Main gates will open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

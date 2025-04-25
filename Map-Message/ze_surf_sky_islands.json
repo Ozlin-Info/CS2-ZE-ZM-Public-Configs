@@ -115,5 +115,15 @@
     "Translation": "Jump",
     "M-Bool": false,
     "Value": 0
+  },
+  "Map by 三百度幸运12121": {
+    "Translation": "Map by 三百度幸运12121",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Version:test11": {
+    "Translation": "Version:test11",
+    "M-Bool": false,
+    "Value": 0
   }
 }

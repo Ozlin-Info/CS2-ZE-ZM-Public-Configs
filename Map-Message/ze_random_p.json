@@ -425,5 +425,60 @@
     "Translation": "HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!",
     "M-Bool": false,
     "Value": 0
+  },
+  "LEVEL -- BOX WITH A LIGHT IN IT": {
+    "Translation": "LEVEL -- BOX WITH A LIGHT IN IT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL-- CITY NIGHT ESCAPE": {
+    "Translation": "LEVEL-- CITY NIGHT ESCAPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL -- ICE CAP ESCAPE": {
+    "Translation": "LEVEL -- ICE CAP ESCAPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Everyone HOLD the boxes while someone starts up the teleporter!": {
+    "Translation": "Everyone HOLD the boxes while someone starts up the teleporter!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporter will be fully charged in 20secs!": {
+    "Translation": "Teleporter will be fully charged in 20secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleporter ERROR!": {
+    "Translation": "Teleporter ERROR!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL -- OPEN FIELD": {
+    "Translation": "LEVEL -- OPEN FIELD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Survive for 15secs": {
+    "Translation": "Survive for 15secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL -- CLASSIC": {
+    "Translation": "LEVEL -- CLASSIC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL -- CARPET ESCAPE": {
+    "Translation": "LEVEL -- CARPET ESCAPE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL -- COUCH ESCAPE": {
+    "Translation": "LEVEL -- COUCH ESCAPE",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -20,5 +20,10 @@
     "Translation": "Wall will break in 20 sec",
     "M-Bool": false,
     "Value": 0
+  },
+  "Doors will opens in 20 sec": {
+    "Translation": "Doors will opens in 20 sec",
+    "M-Bool": false,
+    "Value": 0
   }
 }
