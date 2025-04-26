@@ -694,3 +694,25 @@ ze_ocarina_of_time:3443889075
 ze_stalker_ultimate_v2_3:3444132875
 ze_madness:3444189983
 ze_legend_of_astrum_z:3444378464
+ze_serein:3445049165
+ze_ashen_keep_p:3445829396
+ze_prisonbreak_rescue:3448333943
+ze_thorn_final_song:3449623018
+ze_barrage_p:3451195984
+ze_gris_re:3451216035
+ze_titanic_escape_p:3453518918
+ze_temple_escape_p:3454138717
+ze_2012_p:3455547830
+ze_mountain_escape_p:3456054673
+ze_black_lion_p:3456691074
+ze_thriller_escape_p:3457205872
+ze_ffxiv_wanderers_palace_v6_2:3459109250
+ze_surf_daybreak:3460219997
+ze_deathinvain_palace:3461956041
+ze_re_creation:3462082136
+ze_ffxii_malgo_reactor:3463705720
+ze_maontain_escape:3464392570
+ze_kebab_immigrant:3464430150
+ze_minecraft_universe:3467141649
+//ze_lotr_dol_guldur:3468652654 //under development
+ze_yurilnier:3469287715
