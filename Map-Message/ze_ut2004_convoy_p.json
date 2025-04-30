@@ -245,5 +245,10 @@
     "Translation": "Enemies reached the objective",
     "M-Bool": false,
     "Value": 0
+  },
+  " REDEEMER has been acquired": {
+    "Translation": " REDEEMER has been acquired",
+    "M-Bool": false,
+    "Value": 0
   }
 }

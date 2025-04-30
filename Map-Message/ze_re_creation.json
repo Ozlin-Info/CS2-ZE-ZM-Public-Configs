@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Ze_Re_Creation ": {
+    "Translation": " Ze_Re_Creation ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Author : Zenow ": {
+    "Translation": " Author : Zenow ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CS2 Porter: Shana ": {
+    "Translation": " CS2 Porter: Shana ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage 1 ": {
+    "Translation": " Stage 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button Active! ": {
+    "Translation": " Button Active! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SecLeft ": {
+    "Translation": " 10 SecLeft ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has pick up PushGun ": {
+    "Translation": " A player has pick up PushGun ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A player has pick up LowHGun ": {
+    "Translation": " A player has pick up LowHGun ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 SecLeft ": {
+    "Translation": " 20 SecLeft ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

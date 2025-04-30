@@ -125,5 +125,20 @@
     "Translation": "Version:test11",
     "M-Bool": false,
     "Value": 0
+  },
+  "Version:test12": {
+    "Translation": "Version:test12",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "特别感谢僵尸乐园和x社区为此图提供测试": {
+    "Translation": "特别感谢僵尸乐园和x社区为此图提供测试",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "感谢所有参与过测试版本游玩的玩家": {
+    "Translation": "感谢所有参与过测试版本游玩的玩家",
+    "M-Bool": false,
+    "Value": 0
   }
 }

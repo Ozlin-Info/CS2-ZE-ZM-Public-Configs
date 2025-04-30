@@ -35,5 +35,25 @@
     "Translation": " Destroy the rock 10 SECONDS ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Laser_Lv -- ??? -- ": {
+    "Translation": " Laser_Lv -- ??? -- ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Laser_Lv -- Carnage -- ": {
+    "Translation": " Laser_Lv -- Carnage -- ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Fixing the elevator 30 SECONDS ": {
+    "Translation": " Fixing the elevator 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Fixing the elevator 10 SECONDS ": {
+    "Translation": " Fixing the elevator 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

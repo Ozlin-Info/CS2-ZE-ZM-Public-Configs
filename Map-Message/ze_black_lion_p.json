@@ -1,0 +1,59 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ZOMBIES SEEN AT BLACK LION SWIMMING POOLS ": {
+    "Translation": " ZOMBIES SEEN AT BLACK LION SWIMMING POOLS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIES ARE INFECTING THE AIR ": {
+    "Translation": " ZOMBIES ARE INFECTING THE AIR ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HUMANS MUST SURVIVE FOR 1.5 MINUTES ": {
+    "Translation": " HUMANS MUST SURVIVE FOR 1.5 MINUTES ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 45 SECONDS UNTIL AIR BECOMES TOXIC ": {
+    "Translation": " 45 SECONDS UNTIL AIR BECOMES TOXIC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS UNTIL AIR BECOMES FULLY TOXIC ": {
+    "Translation": " 10 SECONDS UNTIL AIR BECOMES FULLY TOXIC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GET INSIDE THE BUILDING ": {
+    "Translation": " GET INSIDE THE BUILDING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 3 ": {
+    "Translation": " 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 2 ": {
+    "Translation": " 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 1 ": {
+    "Translation": " 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BLACK LION SWIMMING POOLS CONTAMINATED ": {
+    "Translation": " BLACK LION SWIMMING POOLS CONTAMINATED ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -10,5 +10,40 @@
     "Translation": " 15  seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " 20  seconds ": {
+    "Translation": " 20  seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 25  seconds ": {
+    "Translation": " 25  seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10  seconds ": {
+    "Translation": " 10  seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30  seconds ": {
+    "Translation": " 30  seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 35  seconds ": {
+    "Translation": " 35  seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 32  seconds ": {
+    "Translation": " 32  seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " End ": {
+    "Translation": " End ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

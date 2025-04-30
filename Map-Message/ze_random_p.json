@@ -480,5 +480,15 @@
     "Translation": "LEVEL -- COUCH ESCAPE",
     "M-Bool": false,
     "Value": 0
+  },
+  "LEVEL -- ZOMBIE DEATHRUN": {
+    "Translation": "LEVEL -- ZOMBIE DEATHRUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL -- INTERSTELLAR ESCAPE 9": {
+    "Translation": "LEVEL -- INTERSTELLAR ESCAPE 9",
+    "M-Bool": false,
+    "Value": 0
   }
 }

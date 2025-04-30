@@ -55,5 +55,15 @@
     "Translation": "USE RADIO TO CALL FOR HELP!",
     "M-Bool": false,
     "Value": 0
+  },
+  "NUKE IN 10 SECONDS": {
+    "Translation": "NUKE IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NUKE IN 5 SECONDS": {
+    "Translation": "NUKE IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }

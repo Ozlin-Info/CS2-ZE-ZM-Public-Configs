@@ -6,18 +6,18 @@
       "Value": 0
     }
   },
-  "Level 1": {
-    "Translation": "Level 1",
+  "ROAD SELECTION : House": {
+    "Translation": "ROAD SELECTION : House",
     "M-Bool": false,
     "Value": 0
   },
-  "Map By R1cko27 & Stepanof": {
-    "Translation": "Map By R1cko27 & Stepanof",
+  "MAP BY LeGrem": {
+    "Translation": "MAP BY LeGrem",
     "M-Bool": false,
     "Value": 0
   },
-  "Hold 15 seconds": {
-    "Translation": "Hold 15 seconds",
+  "ROAD SELECTION : Gas Station": {
+    "Translation": "ROAD SELECTION : Gas Station",
     "M-Bool": false,
     "Value": 0
   }

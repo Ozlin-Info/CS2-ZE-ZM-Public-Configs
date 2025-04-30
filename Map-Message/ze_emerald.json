@@ -35,5 +35,10 @@
     "Translation": " Door opens in 30 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  "||| Map by Struppi |||": {
+    "Translation": "||| Map by Struppi |||",
+    "M-Bool": false,
+    "Value": 0
   }
 }

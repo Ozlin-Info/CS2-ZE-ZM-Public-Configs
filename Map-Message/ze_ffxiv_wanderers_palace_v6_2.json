@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ze_FFXIV_Wanderers_Palace ": {
+    "Translation": " ze_FFXIV_Wanderers_Palace ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by Dakotec & Lishang ": {
+    "Translation": " Map by Dakotec & Lishang ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Easy Mode ": {
+    "Translation": " Easy Mode ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Special thanks - Tianli ": {
+    "Translation": " Special thanks - Tianli ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map ported by Waffel. Thanks to NiceShot, koen and jaek for helping. ": {
+    "Translation": " Map ported by Waffel. Thanks to NiceShot, koen and jaek for helping. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map Update: 24/04/25 ": {
+    "Translation": " Map Update: 24/04/25 ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

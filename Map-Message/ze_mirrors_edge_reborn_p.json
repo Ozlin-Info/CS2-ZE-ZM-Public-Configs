@@ -145,5 +145,130 @@
     "Translation": " OBJECTIVE : COLLECT 1 SUITCASE ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Unlimited ammo has been picked ": {
+    "Translation": " Unlimited ammo has been picked ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door Opens In 20 sec ": {
+    "Translation": " Door Opens In 20 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SUITCASE DOOR OPENS IN 10 SECONDS ": {
+    "Translation": " SUITCASE DOOR OPENS IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SUITCASE DOOR IS OPENING!": {
+    "Translation": " SUITCASE DOOR IS OPENING!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SUITCASE COLLECTED! RUN! ": {
+    "Translation": " SUITCASE COLLECTED! RUN! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SUITCASE MADE IT ON TO CHOPPER. WELL DONE YOU WIN ": {
+    "Translation": " SUITCASE MADE IT ON TO CHOPPER. WELL DONE YOU WIN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DIFFICULTY LEVEL : EXTREME ": {
+    "Translation": " DIFFICULTY LEVEL : EXTREME ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " OBJECTIVE: COLLECT 2 SUITCASES ": {
+    "Translation": " OBJECTIVE: COLLECT 2 SUITCASES ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIES ARE FASTER AND HAVE MORE HEALTH ": {
+    "Translation": " ZOMBIES ARE FASTER AND HAVE MORE HEALTH ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door Opens In 30 sec ": {
+    "Translation": " Door Opens In 30 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SUITCASE DOOR WILL OPEN IN 10 SECONDS": {
+    "Translation": " SUITCASE DOOR WILL OPEN IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SUITCASE DOOR IS OPENING! PRESS THE BUTTON": {
+    "Translation": "SUITCASE DOOR IS OPENING! PRESS THE BUTTON",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold more 25 seconds": {
+    "Translation": "Hold more 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " SUITCASES MADE IT ON TO CHOPPER. WELL DONE YOU WIN ": {
+    "Translation": " SUITCASES MADE IT ON TO CHOPPER. WELL DONE YOU WIN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DIFFICULTY LEVEL : GOD / IMPOSSIBLE": {
+    "Translation": " DIFFICULTY LEVEL : GOD / IMPOSSIBLE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER ": {
+    "Translation": " YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR WILL BREAK IN 20 SECONDS ": {
+    "Translation": " DOOR WILL BREAK IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR WILL BREAK IN 10 SECONDS ": {
+    "Translation": " DOOR WILL BREAK IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR WILL BREAK IN 5 SECONDS ": {
+    "Translation": " DOOR WILL BREAK IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR ITS BROKEN!! RUN!!!! ": {
+    "Translation": " DOOR ITS BROKEN!! RUN!!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door Opens In 35 sec ": {
+    "Translation": " Door Opens In 35 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!": {
+    "Translation": " THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR IS FULLY OPENED!! PRESS THE BUTTON ": {
+    "Translation": " DOOR IS FULLY OPENED!! PRESS THE BUTTON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BUTTON IS PRESSED! RUN!! ": {
+    "Translation": " BUTTON IS PRESSED! RUN!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "YOU BEAT THE MAP!!! AMAZING!!!": {
+    "Translation": "YOU BEAT THE MAP!!! AMAZING!!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

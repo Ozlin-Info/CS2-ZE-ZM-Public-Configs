@@ -1,0 +1,24 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ze_FFXIV_Wanderers_Palace_Rebirth": {
+    "Translation": "ze_FFXIV_Wanderers_Palace_Rebirth",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Upgrade from ze_FFXIV_Wanderers_Palace_v4 created by Altima": {
+    "Translation": "Upgrade from ze_FFXIV_Wanderers_Palace_v4 created by Altima",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map ported and remade by Runa & Tenshi.": {
+    "Translation": "Map ported and remade by Runa & Tenshi.",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

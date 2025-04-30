@@ -35,5 +35,15 @@
     "Translation": " DOOR OPENS IN 10 SECONDS ",
     "M-Bool": false,
     "Value": 0
+  },
+  " DOOR OPENS IN 20 SECONDS ": {
+    "Translation": " DOOR OPENS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND 20 SECONDS FOR THE DOOR TO CLOSE ": {
+    "Translation": " DEFEND 20 SECONDS FOR THE DOOR TO CLOSE ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

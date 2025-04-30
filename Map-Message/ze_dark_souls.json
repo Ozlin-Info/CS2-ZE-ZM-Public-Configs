@@ -55,5 +55,15 @@
     "Translation": " The Asylum Main gates will open in 25 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Version 1.0.2.1 ": {
+    "Translation": " Version 1.0.2.1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by HaRyDe. Microrost. Kotya. Friend ": {
+    "Translation": " Map by HaRyDe. Microrost. Kotya. Friend ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

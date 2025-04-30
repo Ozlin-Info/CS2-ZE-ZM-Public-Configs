@@ -10,5 +10,40 @@
     "Translation": "Pause for 20 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Pause for 25 seconds": {
+    "Translation": "Pause for 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pause for 15 seconds": {
+    "Translation": "Pause for 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final pause for 60 seconds": {
+    "Translation": "Final pause for 60 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 seconds left": {
+    "Translation": "30 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10 seconds left": {
+    "Translation": "10 seconds left",
+    "M-Bool": false,
+    "Value": 0
+  },
+  ". . .": {
+    "Translation": ". . .",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "! ! !": {
+    "Translation": "! ! !",
+    "M-Bool": false,
+    "Value": 0
   }
 }

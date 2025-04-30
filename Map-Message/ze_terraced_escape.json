@@ -15,5 +15,15 @@
     "Translation": "SPECIAL THANKS TO MAPEADORES FOR TESTING",
     "M-Bool": false,
     "Value": 0
+  },
+  " THE DOOR OPENS IN 20 SECONDS ": {
+    "Translation": " THE DOOR OPENS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SHOOT THE FENCE": {
+    "Translation": "SHOOT THE FENCE",
+    "M-Bool": false,
+    "Value": 0
   }
 }
