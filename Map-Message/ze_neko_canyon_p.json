@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Rocket leaving in 8 seconds. ": {
+    "Translation": " Rocket leaving in 8 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nuke will explode in 50 seconds. ": {
+    "Translation": " Nuke will explode in 50 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nuke will explode in 30 seconds. ": {
+    "Translation": " Nuke will explode in 30 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nuke will explode in 10 seconds. ": {
+    "Translation": " Nuke will explode in 10 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " NUKE WILL EXPLODE IN 5 SECONDS! ": {
+    "Translation": " NUKE WILL EXPLODE IN 5 SECONDS! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nuke impact! ": {
+    "Translation": " Nuke impact! ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

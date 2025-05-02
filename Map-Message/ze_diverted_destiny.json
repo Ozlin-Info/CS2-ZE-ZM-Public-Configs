@@ -70,5 +70,15 @@
     "Translation": "Step in the middle to vote for Marathon Mode!",
     "M-Bool": false,
     "Value": 0
+  },
+  "MARATHON stage has been set!": {
+    "Translation": "MARATHON stage has been set!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Loading your fate...": {
+    "Translation": "Loading your fate...",
+    "M-Bool": false,
+    "Value": 0
   }
 }

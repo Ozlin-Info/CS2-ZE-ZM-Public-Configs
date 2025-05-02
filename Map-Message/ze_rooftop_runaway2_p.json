@@ -10,5 +10,15 @@
     "Translation": "MAP MADE BY GARGANTUA",
     "M-Bool": false,
     "Value": 0
+  },
+  "DOOR WILL OPEN IN 120 SECONDS.": {
+    "Translation": "DOOR WILL OPEN IN 120 SECONDS.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR WILL OPEN IN 90 SECONDS.": {
+    "Translation": "DOOR WILL OPEN IN 90 SECONDS.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

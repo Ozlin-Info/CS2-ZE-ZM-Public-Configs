@@ -20,5 +20,25 @@
     "Translation": "Map ported and remade by Runa & Tenshi.",
     "M-Bool": false,
     "Value": 0
+  },
+  "Boat will leave in 15 seconds": {
+    "Translation": "Boat will leave in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Normal ": {
+    "Translation": " Normal ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up Radiant Finale(Ammo)": {
+    "Translation": "A player has picked up Radiant Finale(Ammo)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door will open in 10 seconds": {
+    "Translation": "Door will open in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

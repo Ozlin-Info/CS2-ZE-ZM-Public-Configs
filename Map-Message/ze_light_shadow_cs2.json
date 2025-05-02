@@ -50,5 +50,10 @@
     "Translation": " People only respect the light ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Light has been gone for a long time ": {
+    "Translation": " Light has been gone for a long time ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
