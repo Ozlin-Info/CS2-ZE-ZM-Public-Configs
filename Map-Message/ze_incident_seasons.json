@@ -71,7 +71,7 @@
     "M-Bool": false,
     "Value": 0
   },
-  " 来自地狱的恶魔毕托鲁已经苏醒 ": {
+  " 来自地狱的恶魔毕托鲁已经苏醒  ": {
     "Translation": " The demon Bitoru from hell has awakened ",
     "M-Bool": false,
     "Value": 0
@@ -131,7 +131,7 @@
     "M-Bool": false,
     "Value": 0
   },
-  " 她是使用冰气魔法的强大魔法使 ": {
+  " 她是使用冰气魔法的强大魔法使  ": {
     "Translation": " She's a powerful mage specialising in ice magic ",
     "M-Bool": false,
     "Value": 0
@@ -141,7 +141,7 @@
     "M-Bool": false,
     "Value": 0
   },
-  " 巴托莉：看到远处的那座尖塔了吗？ ": {
+  " 巴托莉：看到远处的那座尖塔了吗？  ": {
     "Translation": " Bartoli: See that spire in the distance? ",
     "M-Bool": false,
     "Value": 0
@@ -321,7 +321,7 @@
     "M-Bool": false,
     "Value": 0
   },
-  " 来自异世界的拉弥亚似乎对这场异变很感兴趣 ": {
+  " 来自异世界的拉弥亚似乎对这场异变很感兴趣  ": {
     "Translation": " Lamia from another world seems interested in this anomaly ",
     "M-Bool": false,
     "Value": 0
@@ -466,7 +466,7 @@
     "M-Bool": false,
     "Value": 0
   },
-  " 夏之力已固定，你可以在后续关卡继续使用…… ": {
+  " 夏之力已固定，你可以在后续关卡继续使用……  ": {
     "Translation": " Summer Power stabilized - you can continue using it... ",
     "M-Bool": false,
     "Value": 0
@@ -787,22 +787,22 @@
     "Value": 0
   },
   " 多萝斯：吾名，多萝斯 ": {
-    "Translation": " Dross: I am Dross ",
+    "Translation": " Doros: I am Doros ",
     "M-Bool": false,
     "Value": 0
   },
   " 多萝斯：是掌管四季力量的神明 ": {
-    "Translation": " Dross: Deity governing seasonal powers ",
+    "Translation": " Doros: Deity governing seasonal powers ",
     "M-Bool": false,
     "Value": 0
   },
   " 多萝斯：你们一而再再而三的阻挠我，与恶魔无异 ": {
-    "Translation": " Dross: Repeated interference makes you no better than demons ",
+    "Translation": " Doros: Repeated interference makes you no better than demons ",
     "M-Bool": false,
     "Value": 0
   },
   " 多萝斯：就让你们与这些死尸一起长眠吧！ ": {
-    "Translation": " Dross: Sleep forever with these corpses! ",
+    "Translation": " Doros: Sleep forever with these corpses! ",
     "M-Bool": false,
     "Value": 0
   },
