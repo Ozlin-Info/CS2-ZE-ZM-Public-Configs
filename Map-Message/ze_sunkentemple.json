@@ -10,5 +10,85 @@
     "Translation": " LFG SUNKENTEMPLE ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Zombies will teleport in 10 seconds ": {
+    "Translation": " Zombies will teleport in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Push has been picked ": {
+    "Translation": " Push has been picked ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Fall pit will break in 20 seconds ": {
+    "Translation": " Fall pit will break in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Fall pit will break in 5 seconds ": {
+    "Translation": " Fall pit will break in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Gate is opening ": {
+    "Translation": " Gate is opening ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Wall has been picked ": {
+    "Translation": " Wall has been picked ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies will teleport in 20 seconds ": {
+    "Translation": " Zombies will teleport in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND ": {
+    "Translation": " DEFEND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Gate will open in 10 seconds ": {
+    "Translation": " Gate will open in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies teleport in 15 seconds ": {
+    "Translation": " Zombies teleport in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Gate will open in 20 seconds ": {
+    "Translation": " Gate will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Gate will open in 5 seconds ": {
+    "Translation": " Gate will open in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Gate will open in 15 seconds ": {
+    "Translation": " Gate will open in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Split up and keep defending ": {
+    "Translation": " Split up and keep defending ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Lower gate will open in 40 seconds ": {
+    "Translation": " Lower gate will open in 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Lower gate will open in 10 seconds ": {
+    "Translation": " Lower gate will open in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

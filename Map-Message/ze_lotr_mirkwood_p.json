@@ -35,5 +35,10 @@
     "Translation": "Thorin: The Path Is Overgrown... We must break our way through before it is too late",
     "M-Bool": false,
     "Value": 0
+  },
+  "Thorin: Something Has Knocked Over These Trees, Quickly Now, Climb Over Them!": {
+    "Translation": "Thorin: Something Has Knocked Over These Trees, Quickly Now, Climb Over Them!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

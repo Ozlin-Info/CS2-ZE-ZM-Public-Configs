@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " STAGE I ": {
+    "Translation": " STAGE I ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Portcullis opening in 30 seconds ": {
+    "Translation": " Portcullis opening in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Round failed! Zombies have reached the objective! ": {
+    "Translation": " Round failed! Zombies have reached the objective! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds left ": {
+    "Translation": " 5 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Spawn area teleport activating in 5 seconds ": {
+    "Translation": " Spawn area teleport activating in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

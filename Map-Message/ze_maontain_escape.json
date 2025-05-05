@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "普通模式": {
+    "Translation": "普通模式",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "但...": {
+    "Translation": "但...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "无事发生": {
+    "Translation": "无事发生",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "但......": {
+    "Translation": "但......",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DIO在朝你扔压路机": {
+    "Translation": "DIO在朝你扔压路机",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "那是什么....": {
+    "Translation": "那是什么....",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
