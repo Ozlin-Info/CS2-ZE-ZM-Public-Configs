@@ -35,5 +35,35 @@
     "Translation": " Map Update: 24/04/25 ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Map Update: 01/05/25 ": {
+    "Translation": " Map Update: 01/05/25 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Oops ": {
+    "Translation": "Oops ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "and i m tired too ": {
+    "Translation": "and i m tired too ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "I apologize for my lie": {
+    "Translation": "I apologize for my lie",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "cuz this version is v6_2 instead of v7 xD": {
+    "Translation": "cuz this version is v6_2 instead of v7 xD",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Good luck wanderers.": {
+    "Translation": "Good luck wanderers.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

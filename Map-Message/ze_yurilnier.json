@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " ZE_ YURILNIER": {
+    "Translation": " ZE_ YURILNIER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP MADE BY SATOKA ": {
+    "Translation": " MAP MADE BY SATOKA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PHASE : FRIGUS ": {
+    "Translation": " PHASE : FRIGUS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIP : ESCAPE PATH WILL OPEN BY +USE HANGING LANTERN ON THE WALL ": {
+    "Translation": " TIP : ESCAPE PATH WILL OPEN BY +USE HANGING LANTERN ON THE WALL ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIP : THERE ARE NO FORCE TELEPORTS ": {
+    "Translation": " TIP : THERE ARE NO FORCE TELEPORTS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TIP : IF YOU LATE FOR THE PARTY. FIND AND DIVE LANTERN ON THE GROUND ": {
+    "Translation": " TIP : IF YOU LATE FOR THE PARTY. FIND AND DIVE LANTERN ON THE GROUND ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

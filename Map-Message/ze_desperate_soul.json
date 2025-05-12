@@ -190,5 +190,10 @@
     "Translation": "A player has picked up Verdandi",
     "M-Bool": false,
     "Value": 0
+  },
+  "Chapter - 0 - Alienation of the World": {
+    "Translation": "Chapter - 0 - Alienation of the World",
+    "M-Bool": false,
+    "Value": 0
   }
 }

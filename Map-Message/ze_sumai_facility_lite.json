@@ -230,5 +230,10 @@
     "Translation": "[Comms]: Infiltration squad has successfully escaped.",
     "M-Bool": false,
     "Value": 0
+  },
+  "STAGE 1 - Infiltration": {
+    "Translation": "STAGE 1 - Infiltration",
+    "M-Bool": false,
+    "Value": 0
   }
 }

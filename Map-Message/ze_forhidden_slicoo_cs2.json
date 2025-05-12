@@ -453,7 +453,7 @@
   },
   "由于魔力流失，精灵耗尽最后的魔力,变为普通人,最后仅剩的魔力传输给了[随机]神器": {
     "Translation": " Due to magic depletion, the elf has exhausted their last magic, turning into a normal person, and the last remaining magic is transferred to a [random] artifact ",
-"M-Bool": false,
+    "M-Bool": false,
     "Value": 0
   },
   "僵尸神器：冰环": {
@@ -683,6 +683,11 @@
   },
   "命定之死前的苟延残喘罢了!": {
     "Translation": "Just a struggle before the destined death!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--地图作者:黑岩,Fong|感谢tenshi.,mdxzl,lemon,tianli,气流对地图制作及移植的帮助,移植者:lopb,本地图需要cs2fix插件和lua解锁才能正常游玩--": {
+    "Translation": "--地图作者:黑岩,Fong|感谢tenshi.,mdxzl,lemon,tianli,气流对地图制作及移植的帮助,移植者:lopb,本地图需要cs2fix插件和lua解锁才能正常游玩--",
     "M-Bool": false,
     "Value": 0
   }
