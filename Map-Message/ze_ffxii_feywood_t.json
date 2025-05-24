@@ -195,5 +195,15 @@
     "Translation": "CACTUS SIDEQUEST STARTED - FIND A CACTUS TO GET A LEVELn ONLY 1 HUMAN CAN GET A LEVEL | ONLY ONCE AND ONLY ON EASY MODE",
     "M-Bool": false,
     "Value": 0
+  },
+  "CHOCHOBO SIDEQUEST STRATED": {
+    "Translation": "CHOCHOBO SIDEQUEST STRATED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN": {
+    "Translation": "FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN",
+    "M-Bool": false,
+    "Value": 0
   }
 }

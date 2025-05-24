@@ -20,5 +20,10 @@
     "Translation": "Press the button in the security room",
     "M-Bool": false,
     "Value": 0
+  },
+  "Test Servers : Mapeadores | GFL | ZMTR": {
+    "Translation": "Test Servers : Mapeadores | GFL | ZMTR",
+    "M-Bool": false,
+    "Value": 0
   }
 }

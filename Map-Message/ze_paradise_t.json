@@ -5,5 +5,60 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "HINT: 'Crouch' into the hang gliders and then stand up inside.": {
+    "Translation": "HINT: 'Crouch' into the hang gliders and then stand up inside.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HINT: Cut the boat cable!": {
+    "Translation": "HINT: Cut the boat cable!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!": {
+    "Translation": "HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " V-22 Operator: Extraction complete. Dust off in 10... ": {
+    "Translation": " V-22 Operator: Extraction complete. Dust off in 10... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " V-22 Operator: SAM launch detected. Taking evasive maneuvers... ": {
+    "Translation": " V-22 Operator: SAM launch detected. Taking evasive maneuvers... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Missile attack!!": {
+    "Translation": "Missile attack!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HINT: Ocean currents will impede progress.": {
+    "Translation": "HINT: Ocean currents will impede progress.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 seconds": {
+    "Translation": "5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zodiac Operator: Jaw's cousin is closing on our six! Shoot her! ": {
+    "Translation": " Zodiac Operator: Jaw's cousin is closing on our six! Shoot her! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Magma chamber charges detonated. Wilmekea Peak has become unstable! ": {
+    "Translation": " Magma chamber charges detonated. Wilmekea Peak has become unstable! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Wilmekea has gone critical. 10 seconds until eruption! ": {
+    "Translation": " Wilmekea has gone critical. 10 seconds until eruption! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

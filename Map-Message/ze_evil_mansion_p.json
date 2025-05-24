@@ -180,5 +180,90 @@
     "Translation": "-= SCACLAN.COM  50.31.65.61:27015 =-",
     "M-Bool": false,
     "Value": 0
+  },
+  "-=Detonating=-": {
+    "Translation": "-=Detonating=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=Main door opens in 10 seconds!=-": {
+    "Translation": "-=Main door opens in 10 seconds!=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=Hold here for 40 seconds=-": {
+    "Translation": "-=Hold here for 40 seconds=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=Toilet Defense System Activated=-": {
+    "Translation": "-=Toilet Defense System Activated=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=Defense System Activated.=-": {
+    "Translation": "-=Defense System Activated.=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lightning: Oooo Yeah!!! Did that hurt?": {
+    "Translation": "Lightning: Oooo Yeah!!! Did that hurt?",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=Door opens in 10 seconds.=-": {
+    "Translation": "-=Door opens in 10 seconds.=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-": {
+    "Translation": "-=DOOR JAMMED! FIND ANOTHER WAY OUT!=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=Zombies advance in 15 seconds.=-": {
+    "Translation": "-=Zombies advance in 15 seconds.=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=Hold here for 30 Seconds.=-": {
+    "Translation": "-=Hold here for 30 Seconds.=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=A Player Has Been Raped By Sailormoon.=-": {
+    "Translation": "-=A Player Has Been Raped By Sailormoon.=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=5 seconds remaining.=-": {
+    "Translation": "-=5 seconds remaining.=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=DOOR OPENED! Zombies held back for 5 seconds.=-": {
+    "Translation": "-=DOOR OPENED! Zombies held back for 5 seconds.=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=Helicopter Departing in 10 Seconds.=-": {
+    "Translation": "-=Helicopter Departing in 10 Seconds.=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=MAYDAY! MAYDAY!!!=-": {
+    "Translation": "-=MAYDAY! MAYDAY!!!=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=Hold here for 20 seconds=-": {
+    "Translation": "-=Hold here for 20 seconds=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=WE'RE GOING DOWN!=-": {
+    "Translation": "-=WE'RE GOING DOWN!=-",
+    "M-Bool": false,
+    "Value": 0
   }
 }

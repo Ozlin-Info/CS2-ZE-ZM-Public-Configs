@@ -35,5 +35,10 @@
     "Translation": "那是什么....",
     "M-Bool": false,
     "Value": 0
+  },
+  "地图出现了大飞板": {
+    "Translation": "地图出现了大飞板",
+    "M-Bool": false,
+    "Value": 0
   }
 }

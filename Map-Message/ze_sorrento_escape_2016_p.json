@@ -1,0 +1,99 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "++ CURRENT DIFFICULTY ++": {
+    "Translation": "++ CURRENT DIFFICULTY ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ EASY ++": {
+    "Translation": "++ EASY ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAP MADE BY MR.MUESLI AND GARGANTUA": {
+    "Translation": "MAP MADE BY MR.MUESLI AND GARGANTUA",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 1 WILL OPEN IN 35 SECONDS ++": {
+    "Translation": "++ GATE 1 WILL OPEN IN 35 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ SPAWN TELEPORT ENABLED ++": {
+    "Translation": "++ SPAWN TELEPORT ENABLED ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 1 WILL OPEN IN 20 SECONDS ++": {
+    "Translation": "++ GATE 1 WILL OPEN IN 20 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 1 WILL OPEN IN 10 SECONDS ++": {
+    "Translation": "++ GATE 1 WILL OPEN IN 10 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 1 WILL OPEN IN 5 SECONDS ++": {
+    "Translation": "++ GATE 1 WILL OPEN IN 5 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 1 IS NOW OPEN!! ++": {
+    "Translation": "++ GATE 1 IS NOW OPEN!! ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 2 WILL OPEN IN 5 SECONDS ++": {
+    "Translation": "++ GATE 2 WILL OPEN IN 5 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ GATE 2 IS NOW OPEN!! ++": {
+    "Translation": "++ GATE 2 IS NOW OPEN!! ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ BOATS ARE LEAVING IN 30 SECONDS ++": {
+    "Translation": "++ BOATS ARE LEAVING IN 30 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ BOATS ARE LEAVING IN 15 SECONDS ++": {
+    "Translation": "++ BOATS ARE LEAVING IN 15 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ BOATS ARE LEAVING IN 10 SECONDS ++": {
+    "Translation": "++ BOATS ARE LEAVING IN 10 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ BOATS ARE LEAVING!! ++": {
+    "Translation": "++ BOATS ARE LEAVING!! ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ NUKE IN 10 SECONDS ++": {
+    "Translation": "++ NUKE IN 10 SECONDS ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ YOU ADVANCED TO THE NEXT LEVEL ++": {
+    "Translation": "++ YOU ADVANCED TO THE NEXT LEVEL ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ MEDIUM ++": {
+    "Translation": "++ MEDIUM ++",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

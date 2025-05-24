@@ -65,5 +65,60 @@
     "Translation": "Stage 1 - Find a way through Paramina Rift and locate the ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Player has learned AERO (WIND MAGICK)": {
+    "Translation": " Player has learned AERO (WIND MAGICK)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GATES OPEN IN 30 SECONDS ": {
+    "Translation": " GATES OPEN IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GATES OPEN IN 5 SECONDS ": {
+    "Translation": " GATES OPEN IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Player has learned POISON (POISON MAGICK)": {
+    "Translation": " Player has learned POISON (POISON MAGICK)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Player has learned BLIZZARD (ICE MAGICK)": {
+    "Translation": " Player has learned BLIZZARD (ICE MAGICK)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD 25 SECONDS ": {
+    "Translation": " HOLD 25 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS LEFT ": {
+    "Translation": " 5 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD 20 SECONDS BEFORE A RANDOM PATH OPENS ": {
+    "Translation": " HOLD 20 SECONDS BEFORE A RANDOM PATH OPENS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD 5 MORE SECONDS ": {
+    "Translation": " HOLD 5 MORE SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE LEFT WAY HAS BEEN OPENED ": {
+    "Translation": " THE LEFT WAY HAS BEEN OPENED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TREASURE +71 GIL FOUND": {
+    "Translation": "TREASURE +71 GIL FOUND",
+    "M-Bool": false,
+    "Value": 0
   }
 }

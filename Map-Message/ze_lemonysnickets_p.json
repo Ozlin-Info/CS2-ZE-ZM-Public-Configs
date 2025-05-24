@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Map created by Snake": {
+    "Translation": "Map created by Snake",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend Inside for 45s!": {
+    "Translation": "Defend Inside for 45s!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 seconds left!": {
+    "Translation": "5 seconds left!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold here for 30s!": {
+    "Translation": "Hold here for 30s!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

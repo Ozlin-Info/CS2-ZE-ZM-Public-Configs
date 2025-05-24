@@ -25,5 +25,130 @@
     "Translation": "## STAGE 1/3 - EASY ##",
     "M-Bool": false,
     "Value": 0
+  },
+  "## ELEVATOR LEAVING IN 20 SECONDS ##": {
+    "Translation": "## ELEVATOR LEAVING IN 20 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## ELEVATOR LEAVING IN 10 SECONDS ##": {
+    "Translation": "## ELEVATOR LEAVING IN 10 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## ELEVATOR LEAVING IN 5 SECONDS ##": {
+    "Translation": "## ELEVATOR LEAVING IN 5 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## ELEVATOR LEAVING ##": {
+    "Translation": "## ELEVATOR LEAVING ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## DOOR OPENS IN 20 SECONDS ##": {
+    "Translation": "## DOOR OPENS IN 20 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## DOOR OPENS IN 10 SECONDS ##": {
+    "Translation": "## DOOR OPENS IN 10 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## DOOR OPENS IN 5 SECONDS ##": {
+    "Translation": "## DOOR OPENS IN 5 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## DOOR OPENS! RUN! ##": {
+    "Translation": "## DOOR OPENS! RUN! ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## HOLD HERE IN 30 SECONDS ##": {
+    "Translation": "## HOLD HERE IN 30 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## HOLD HERE IN 5 SECONDS ##": {
+    "Translation": "## HOLD HERE IN 5 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## RUN! ##": {
+    "Translation": "## RUN! ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## DOOR OPENS IN 30 SECONDS ##": {
+    "Translation": "## DOOR OPENS IN 30 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## AFK TELEPORT ACTIVATED IN 5 SECONDS ##": {
+    "Translation": "## AFK TELEPORT ACTIVATED IN 5 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## AFK TELEPORT ACTIVATED! ##": {
+    "Translation": "## AFK TELEPORT ACTIVATED! ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## DOOR OPENS IN 15 SECONDS ##": {
+    "Translation": "## DOOR OPENS IN 15 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## DOOR OPEN! RUN! ##": {
+    "Translation": "## DOOR OPEN! RUN! ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## DOOR OPENS 20 SECONDS ##": {
+    "Translation": "## DOOR OPENS 20 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## ZOMBIE TELEPORT ACTIVATED IN 10 SECONDS ##": {
+    "Translation": "## ZOMBIE TELEPORT ACTIVATED IN 10 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## ZOMBIE TELEPORT ACTIVATED! ##": {
+    "Translation": "## ZOMBIE TELEPORT ACTIVATED! ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## DOOR OPENS 10 SECONDS ##": {
+    "Translation": "## DOOR OPENS 10 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## AFK TELEPORT ACTIVATED IN 15 SECONDS ##": {
+    "Translation": "## AFK TELEPORT ACTIVATED IN 15 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## AFK TELEPORT ACTIVATED ##": {
+    "Translation": "## AFK TELEPORT ACTIVATED ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## ELEVATOR LEAVING IN 40 SECONDS ##": {
+    "Translation": "## ELEVATOR LEAVING IN 40 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## ZOMBIE TELEPORT ACTIVATED IN 5 SECONDS ##": {
+    "Translation": "## ZOMBIE TELEPORT ACTIVATED IN 5 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## ELEVATOR LEAVING IN 30 SECONDS ##": {
+    "Translation": "## ELEVATOR LEAVING IN 30 SECONDS ##",
+    "M-Bool": false,
+    "Value": 0
   }
 }

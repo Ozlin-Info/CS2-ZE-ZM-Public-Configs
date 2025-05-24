@@ -385,5 +385,455 @@
     "Translation": " HUMAN WIN ",
     "M-Bool": false,
     "Value": 0
+  },
+  "### LEVEL 1/5 ###": {
+    "Translation": "### LEVEL 1/5 ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bucket 1 pickup": {
+    "Translation": " Bucket 1 pickup",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator Leave !!": {
+    "Translation": "Elevator Leave !!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### LEVEL 2/5 ###": {
+    "Translation": "### LEVEL 2/5 ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " COBWEB - 60 sec cooldown ": {
+    "Translation": " COBWEB - 60 sec cooldown ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "short way opening !": {
+    "Translation": "short way opening !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The barrier will break in 10 seconds.": {
+    "Translation": "The barrier will break in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Barrier Break! GO BACK!": {
+    "Translation": "Barrier Break! GO BACK!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The final door will close in 15 seconds.": {
+    "Translation": "The final door will close in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FINAL DOOR CLOSED": {
+    "Translation": "FINAL DOOR CLOSED",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### LEVEL 3/5 ###": {
+    "Translation": "### LEVEL 3/5 ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FIRE GUN - 60 sec cooldown ": {
+    "Translation": " FIRE GUN - 60 sec cooldown ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Torch 2 pickup": {
+    "Translation": " Torch 2 pickup",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The teleport will open in 20 seconds.": {
+    "Translation": "The teleport will open in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 10 sec!": {
+    "Translation": "Last 10 sec!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleport Open! GO !": {
+    "Translation": "Teleport Open! GO !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TP 10 SEC !": {
+    "Translation": "AFK TP 10 SEC !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The bridge will open in 20 seconds.": {
+    "Translation": "The bridge will open in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Opening !": {
+    "Translation": "Opening !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boss teleportation will open in 25 seconds.": {
+    "Translation": "Boss teleportation will open in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Open GO!!": {
+    "Translation": "Open GO!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### LEVEL 4/5 ###": {
+    "Translation": "### LEVEL 4/5 ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The barrier will break in 15 seconds. GO BACK !": {
+    "Translation": "The barrier will break in 15 seconds. GO BACK !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Break the board!": {
+    "Translation": "Break the board!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Press the button for the boat to arrive.": {
+    "Translation": "Press the button for the boat to arrive.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend the area": {
+    "Translation": "Defend the area",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The boat will arrive in 20 seconds.": {
+    "Translation": "The boat will arrive in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Boat is coming.": {
+    "Translation": "Boat is coming.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec! get on the boat": {
+    "Translation": "Last 5 sec! get on the boat",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE TP 5 SEC !": {
+    "Translation": "ZOMBIE TP 5 SEC !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The teleport will open in 25 seconds.": {
+    "Translation": "The teleport will open in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie short way open.": {
+    "Translation": "Zombie short way open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec! Ready!": {
+    "Translation": "Last 5 sec! Ready!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BOSS teleportation is Open! GO!": {
+    "Translation": "BOSS teleportation is Open! GO!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARDEN COMINGG ": {
+    "Translation": " WARDEN COMINGG ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "I THINK HE A LITTLE ANGRY !!": {
+    "Translation": "I THINK HE A LITTLE ANGRY !!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE DOOR OPEN 5 SEC!": {
+    "Translation": "ZOMBIE DOOR OPEN 5 SEC!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 3 ": {
+    "Translation": " 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 2 ": {
+    "Translation": " 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 1 ": {
+    "Translation": " 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZM DOOR OPEN ": {
+    "Translation": " ZM DOOR OPEN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZM DOOR CLOSED ": {
+    "Translation": " ZM DOOR CLOSED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### LEVEL 5/5 ###": {
+    "Translation": "### LEVEL 5/5 ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Teleport Open!": {
+    "Translation": "Teleport Open!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The bridge will open in 25 seconds.": {
+    "Translation": "The bridge will open in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec !": {
+    "Translation": "Last 5 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The bridge is open. GO BACK!": {
+    "Translation": "The bridge is open. GO BACK!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Press the button to detonate the tnt.": {
+    "Translation": "Press the button to detonate the tnt.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM TP 5 sec !": {
+    "Translation": "ZM TP 5 sec !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Tnt will explode soon.": {
+    "Translation": "Tnt will explode soon.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Tnt exploded. RUN RUN.": {
+    "Translation": "Tnt exploded. RUN RUN.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The doors will open in 30 seconds.": {
+    "Translation": "The doors will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec ! go back !": {
+    "Translation": "Last 5 sec ! go back !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The doors opening. RUN!": {
+    "Translation": "The doors opening. RUN!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The boss bridge will open in 25 seconds.": {
+    "Translation": "The boss bridge will open in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 10 Sec! Ready!!!": {
+    "Translation": "Last 10 Sec! Ready!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The bridge will be closed, stand back.": {
+    "Translation": "The bridge will be closed, stand back.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The bridge is closing.": {
+    "Translation": "The bridge is closing.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TNT ATTACK !": {
+    "Translation": "TNT ATTACK !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZM ATTACK !": {
+    "Translation": "ZM ATTACK !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bridge opening!": {
+    "Translation": "Bridge opening!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bridge closing!": {
+    "Translation": "Bridge closing!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The teleport will open in 20 seconds!": {
+    "Translation": "The teleport will open in 20 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec ! GO BACK !!!": {
+    "Translation": "Last 5 sec ! GO BACK !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The teleport OPEN! RUN !": {
+    "Translation": "The teleport OPEN! RUN !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The barrier will break in 30 seconds.": {
+    "Translation": "The barrier will break in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Barrier Break! GO!": {
+    "Translation": "Barrier Break! GO!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 10 sec! go back !": {
+    "Translation": "Last 10 sec! go back !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " pickaxe 1 pickup": {
+    "Translation": " pickaxe 1 pickup",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Road 1, all the stones are broken. Get back!": {
+    "Translation": "Road 1, all the stones are broken. Get back!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " pickaxe 2 pickup": {
+    "Translation": " pickaxe 2 pickup",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Road 2, all the stones are broken. Get back!": {
+    "Translation": "Road 2, all the stones are broken. Get back!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIE TP 15 SEC !": {
+    "Translation": "ZOMBIE TP 15 SEC !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec ! go back": {
+    "Translation": "Last 5 sec ! go back",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Barrier Break !": {
+    "Translation": "Barrier Break !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec! go back": {
+    "Translation": "Last 5 sec! go back",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND !!!": {
+    "Translation": "DEFEND !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Activate the triggers in the left and right area.": {
+    "Translation": "Activate the triggers in the left and right area.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Laser completed.": {
+    "Translation": "Laser completed.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Go to the next area.": {
+    "Translation": "Go to the next area.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Barrier Break ! GO!": {
+    "Translation": "Barrier Break ! GO!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 5 sec ! reday!!": {
+    "Translation": "Last 5 sec ! reday!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Barrier Break ! GO BOSS AREA !": {
+    "Translation": "Barrier Break ! GO BOSS AREA !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE BOSS PATH WILL BE BROKEN IN 10 SEC!": {
+    "Translation": "THE BOSS PATH WILL BE BROKEN IN 10 SEC!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DRAGON BOSS ": {
+    "Translation": " DRAGON BOSS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE DRAGON IS VERY STRONG, BE CAREFUL!": {
+    "Translation": "THE DRAGON IS VERY STRONG, BE CAREFUL!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " NPC ATTACK! ": {
+    "Translation": " NPC ATTACK! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LASER ACTIVATED ": {
+    "Translation": " LASER ACTIVATED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LOOK UP !": {
+    "Translation": "LOOK UP !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAP OVER ": {
+    "Translation": " MAP OVER ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

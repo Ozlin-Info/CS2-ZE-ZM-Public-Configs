@@ -5,5 +5,15 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "This is my first map,thanks for playing": {
+    "Translation": "This is my first map,thanks for playing",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30 seconds": {
+    "Translation": "30 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

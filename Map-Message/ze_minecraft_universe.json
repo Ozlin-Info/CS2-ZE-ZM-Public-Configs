@@ -1,0 +1,74 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "WARMUP": {
+    "Translation": "WARMUP",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "75": {
+    "Translation": "75",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "60": {
+    "Translation": "60",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "45": {
+    "Translation": "45",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30": {
+    "Translation": "30",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15": {
+    "Translation": "15",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10": {
+    "Translation": "10",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5": {
+    "Translation": "5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4": {
+    "Translation": "4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP OVER": {
+    "Translation": "WARMUP OVER",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

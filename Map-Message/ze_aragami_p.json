@@ -35,5 +35,10 @@
     "Translation": "The door will open in 10s",
     "M-Bool": false,
     "Value": 0
+  },
+  "The door is opened": {
+    "Translation": "The door is opened",
+    "M-Bool": false,
+    "Value": 0
   }
 }

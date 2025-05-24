@@ -25,5 +25,10 @@
     "Translation": "Stage 1  Awakening",
     "M-Bool": false,
     "Value": 0
+  },
+  "Stage 1 - Awakening": {
+    "Translation": "Stage 1 - Awakening",
+    "M-Bool": false,
+    "Value": 0
   }
 }

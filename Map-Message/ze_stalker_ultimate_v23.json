@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "This is a map based on the game STALKER": {
+    "Translation": "This is a map based on the game STALKER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The map isn't eazy. It needs good ZE skills and good teamplay": {
+    "Translation": "The map isn't eazy. It needs good ZE skills and good teamplay",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E": {
+    "Translation": "Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Type in console mat_colorcorrection 1 for dynamic effects!!": {
+    "Translation": "Type in console mat_colorcorrection 1 for dynamic effects!!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

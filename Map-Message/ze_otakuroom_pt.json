@@ -125,5 +125,10 @@
     "Translation": "ClearRobot leaving in 10 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Version: CS2 v1.2.2": {
+    "Translation": "Version: CS2 v1.2.2",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -25,5 +25,75 @@
     "Translation": " Entrance is opening ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Accessing,shutter will open in 20 seconds ": {
+    "Translation": " Accessing,shutter will open in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Shutter is opening ": {
+    "Translation": " Shutter is opening ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " More hold to get weapons !! ": {
+    "Translation": " More hold to get weapons !! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Shutter will open in 30 seconds ": {
+    "Translation": " Shutter will open in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Shutter will open in 5 seconds ": {
+    "Translation": " Shutter will open in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Power is restoring,back to defence ": {
+    "Translation": " Power is restoring,back to defence ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Elevertor power is restored,now you can activate the elevator ": {
+    "Translation": " Elevertor power is restored,now you can activate the elevator ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Elevator will leave in 20 seconds ": {
+    "Translation": " Elevator will leave in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Elevator will leave in 5 seconds ": {
+    "Translation": " Elevator will leave in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Helicopter is here ": {
+    "Translation": " Helicopter is here ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It will leave in 45 seconds ": {
+    "Translation": " It will leave in 45 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It will leave in 10 seconds ": {
+    "Translation": " It will leave in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It will leave in 5 seconds ": {
+    "Translation": " It will leave in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nuke is coming !! ": {
+    "Translation": " Nuke is coming !! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

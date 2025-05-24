@@ -1,0 +1,89 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "ze surf daybreak": {
+    "Translation": "ze surf daybreak",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by Chartapilus": {
+    "Translation": "Map by Chartapilus",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Port by 三百度幸运12121": {
+    "Translation": "Port by 三百度幸运12121",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ The portal is open ~": {
+    "Translation": "~ The portal is open ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Zombies come in 20sec ~": {
+    "Translation": "~ Zombies come in 20sec ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Touch the light to open the portal ~": {
+    "Translation": "~ Touch the light to open the portal ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Afk tele in 20sec ~": {
+    "Translation": "~ Afk tele in 20sec ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Zombies come in 15sec ~": {
+    "Translation": "~ Zombies come in 15sec ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Find me ~": {
+    "Translation": "~ Find me ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "0_0": {
+    "Translation": "0_0",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Zombies come in 11sec ~": {
+    "Translation": "~ Zombies come in 11sec ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Last afk tele in 20 sec ~": {
+    "Translation": "~ Last afk tele in 20 sec ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ 25sec until platform break ~": {
+    "Translation": "~ 25sec until platform break ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ Breaking the platform ~": {
+    "Translation": "~ Breaking the platform ~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ze_surf_daybreak": {
+    "Translation": "ze_surf_daybreak",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~ FIN ~": {
+    "Translation": "~ FIN ~",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
