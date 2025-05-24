@@ -59,7 +59,7 @@
     "Name": "Wind",
     "ShortName": "Wind",
     "Color": "{default}",
-    "HammerID": 29751,
+    "HammerID": 29754,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -236,7 +236,7 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 29224,
     "UsePriority": true,
     "AbilityList": [
       {
@@ -264,7 +264,7 @@
     "ForceDrop": false,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": 29237,
     "UsePriority": true,
     "AbilityList": [
       {
