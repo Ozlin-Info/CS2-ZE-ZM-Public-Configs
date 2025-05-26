@@ -100,5 +100,10 @@
     "translation": "(Touching the scarab does not trigger the mechanism)",
     "M-Bool": false,
     "Value": 0
+  },
+  "Sector 1 reached.": {
+    "Translation": "Sector 1 reached.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -65,5 +65,100 @@
     "Translation": "[MUSIC] BLOODHOUND GANG - The Bad Touch",
     "M-Bool": false,
     "Value": 0
+  },
+  " DEFEND 20 SECONDS ": {
+    "Translation": " DEFEND 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND 5 MORE SECONDS ": {
+    "Translation": " DEFEND 5 MORE SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button B2 Pressed ": {
+    "Translation": " Button B2 Pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button B1 Pressed ": {
+    "Translation": " Button B1 Pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Button B3 Pressed ": {
+    "Translation": " Button B3 Pressed ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO TO THE CENTRAL BUILDING... ": {
+    "Translation": " GO TO THE CENTRAL BUILDING... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ... AND WAIT FOR EVACUATION ": {
+    "Translation": " ... AND WAIT FOR EVACUATION ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[MUSIC] AQUA - BARBIE": {
+    "Translation": "[MUSIC] AQUA - BARBIE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND 10 SECONDS ": {
+    "Translation": " DEFEND 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " END OF THE LINE !! ": {
+    "Translation": " END OF THE LINE !! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD THIS POSITION FOR 60 SECONDS !! ": {
+    "Translation": " HOLD THIS POSITION FOR 60 SECONDS !! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 50 SECONDS REMAINING ": {
+    "Translation": " 50 SECONDS REMAINING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 40 SECONDS REMAINING ": {
+    "Translation": " 40 SECONDS REMAINING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30 SECONDS REMAINING ": {
+    "Translation": " 30 SECONDS REMAINING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 SECONDS REMAINING ": {
+    "Translation": " 20 SECONDS REMAINING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS REMAINING ": {
+    "Translation": " 10 SECONDS REMAINING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS REMAINING ": {
+    "Translation": " 5 SECONDS REMAINING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " U WON LEVEL 1 (EASY) ": {
+    "Translation": " U WON LEVEL 1 (EASY) ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LEVEL 2 (BOSS) ": {
+    "Translation": " LEVEL 2 (BOSS) ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

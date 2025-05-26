@@ -55,5 +55,15 @@
     "Translation": " Light has been gone for a long time ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Shadow disguises light ": {
+    "Translation": " Shadow disguises light ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A zombie get Gravity ": {
+    "Translation": " A zombie get Gravity ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -80,5 +80,10 @@
     "Translation": "[Tank entered the game]",
     "M-Bool": false,
     "Value": 0
+  },
+  "[Summoner entered the game]": {
+    "Translation": "[Summoner entered the game]",
+    "M-Bool": false,
+    "Value": 0
   }
 }

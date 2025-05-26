@@ -165,5 +165,55 @@
     "Translation": "3 | Zombies Teleported in Hardwired Room! | 3",
     "M-Bool": false,
     "Value": 0
+  },
+  "3 | 30 Seconds Long Defend | 3": {
+    "Translation": "3 | 30 Seconds Long Defend | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Last 10 Seconds, Stay Green Circle Marker | 3": {
+    "Translation": "3 | Last 10 Seconds, Stay Green Circle Marker | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Humans Teleported | 3": {
+    "Translation": "3 | Humans Teleported | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Zombies Teleported in Green Room! | 3": {
+    "Translation": "3 | Zombies Teleported in Green Room! | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Hard Defense | 3": {
+    "Translation": "3 | Hard Defense | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | 40 Seconds Long Defend, For Sexy Girls... | 3": {
+    "Translation": "3 | 40 Seconds Long Defend, For Sexy Girls... | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Final | 3": {
+    "Translation": "3 | Final | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | 30 Seconds Defend | 3": {
+    "Translation": "3 | 30 Seconds Defend | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Last 10 Seconds, Stay Finish Line | 3": {
+    "Translation": "3 | Last 10 Seconds, Stay Finish Line | 3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3 | Map Over! | 3": {
+    "Translation": "3 | Map Over! | 3",
+    "M-Bool": false,
+    "Value": 0
   }
 }

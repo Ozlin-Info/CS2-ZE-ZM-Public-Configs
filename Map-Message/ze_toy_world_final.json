@@ -105,5 +105,110 @@
     "Translation": " stage complete ",
     "M-Bool": false,
     "Value": 0
+  },
+  " The gate will shatter after 25 seconds ": {
+    "Translation": " The gate will shatter after 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The obstacle will explode after 28 seconds ": {
+    "Translation": " The obstacle will explode after 28 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies will teleport in 15 seconds ": {
+    "Translation": " Zombies will teleport in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The obstacle will explode after 25 seconds ": {
+    "Translation": " The obstacle will explode after 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " wait 35 seconds ": {
+    "Translation": " wait 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Side road activating ": {
+    "Translation": " Side road activating ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Side road is activating  ": {
+    "Translation": " Side road is activating  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Run ": {
+    "Translation": " Run ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend the house in 15 seconds ": {
+    "Translation": " Defend the house in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Run Run ": {
+    "Translation": " Run Run ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Press the button of the ship to call the large rescue cruise ship ": {
+    "Translation": " Press the button of the ship to call the large rescue cruise ship ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Waiting for rescue ": {
+    "Translation": " Waiting for rescue ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombie side raod activating ": {
+    "Translation": " Zombie side raod activating ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " zmtp 5 seconds ": {
+    "Translation": " zmtp 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold 35 seconds ": {
+    "Translation": " Hold 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defense for 25 seconds ": {
+    "Translation": " Defense for 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies will teleport in 5 seconds ": {
+    "Translation": " Zombies will teleport in 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " zombie has been teleported back,Run ": {
+    "Translation": " zombie has been teleported back,Run ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tips:Push the red book on the ground away ": {
+    "Translation": " Tips:Push the red book on the ground away ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Climb the ladder and run ": {
+    "Translation": " Climb the ladder and run ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Waiting for rescue,Hold 35 seconds ": {
+    "Translation": " Waiting for rescue,Hold 35 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

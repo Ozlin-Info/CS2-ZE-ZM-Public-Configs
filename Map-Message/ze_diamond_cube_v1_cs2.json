@@ -35,5 +35,15 @@
     "Translation": " door opening in 30 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " portal opening in 20 seconds ": {
+    "Translation": " portal opening in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " door opening in 25 seconds ": {
+    "Translation": " door opening in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
