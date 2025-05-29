@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "---Feedback:noojeff@gmail.com---": {
+    "Translation": "---Feedback:noojeff@gmail.com---",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "---Special Thank To:HZM654321 and JackBauer123---": {
+    "Translation": "---Special Thank To:HZM654321 and JackBauer123---",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "---Map made by Jeff---": {
+    "Translation": "---Map made by Jeff---",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "---Have Fun!---": {
+    "Translation": "---Have Fun!---",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Now get in the tunnel!": {
+    "Translation": "Now get in the tunnel!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "And def the path for 20 seconds": {
+    "Translation": "And def the path for 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door has opened,GOGOGO": {
+    "Translation": "Door has opened,GOGOGO",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

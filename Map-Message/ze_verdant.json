@@ -35,5 +35,10 @@
     "Translation": "| DOORS WILL OPEN IN 10 SEC |",
     "M-Bool": false,
     "Value": 0
+  },
+  " You took too long to trigger, slaying all humans... ": {
+    "Translation": " You took too long to trigger, slaying all humans... ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -25,5 +25,10 @@
     "Translation": "Jump Down!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Shoot at Shrek to remove the fence": {
+    "Translation": "Shoot at Shrek to remove the fence",
+    "M-Bool": false,
+    "Value": 0
   }
 }

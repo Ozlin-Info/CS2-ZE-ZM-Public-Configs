@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Normal Mode ": {
+    "Translation": " Normal Mode ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 seconds ": {
+    "Translation": " 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds left ": {
+    "Translation": " 5 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30 seconds ": {
+    "Translation": " 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombie TP in 10 seconds ": {
+    "Translation": " Zombie TP in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 15 seconds ": {
+    "Translation": " 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
