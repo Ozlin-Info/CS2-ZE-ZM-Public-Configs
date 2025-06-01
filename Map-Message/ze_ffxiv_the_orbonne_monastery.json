@@ -290,5 +290,10 @@
     "Translation": "A player has learned erase magic",
     "M-Bool": false,
     "Value": 0
+  },
+  "一位玩家习得狂暴魔法": {
+    "Translation": "一位玩家习得狂暴魔法",
+    "M-Bool": false,
+    "Value": 0
   }
 }

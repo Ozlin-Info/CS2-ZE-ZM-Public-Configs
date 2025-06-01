@@ -10,5 +10,105 @@
     "Translation": " MAP MADE BY DARKOGRE AND PATRAO! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " USE THE COMPUTERS TO OPEN THE DOOR ": {
+    "Translation": " USE THE COMPUTERS TO OPEN THE DOOR ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENS IN 20 SECONDS ": {
+    "Translation": " DOOR OPENS IN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TURN THE LASERS OFF ": {
+    "Translation": " TURN THE LASERS OFF ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO TO THE BATHROOM ": {
+    "Translation": " GO TO THE BATHROOM ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BATHROOM DOOR OPENS IN 15 SECONDS ": {
+    "Translation": " BATHROOM DOOR OPENS IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR IS OPEN ": {
+    "Translation": " DOOR IS OPEN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Truck leaving in 15 seconds! ": {
+    "Translation": " Truck leaving in 15 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The police wants to stop you! ": {
+    "Translation": " The police wants to stop you! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Shoot them! ": {
+    "Translation": " Shoot them! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The Elevator will leave in 10 seconds. Don't miss it! ": {
+    "Translation": " The Elevator will leave in 10 seconds. Don't miss it! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD 40 SECONDS ": {
+    "Translation": " HOLD 40 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS LEFT  ": {
+    "Translation": " 5 SECONDS LEFT  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD THE KITCHEN! DON'T LET ZOMBIES IN! ": {
+    "Translation": " HOLD THE KITCHEN! DON'T LET ZOMBIES IN! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR IS OPENING ": {
+    "Translation": " DOOR IS OPENING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD THE BEDROOM ": {
+    "Translation": " HOLD THE BEDROOM ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MAKE YOUR WAY TO THE OFFICE ": {
+    "Translation": " MAKE YOUR WAY TO THE OFFICE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE OFFICE SHOULD BE AT YOUR RIGHT SIDE ": {
+    "Translation": " THE OFFICE SHOULD BE AT YOUR RIGHT SIDE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! ": {
+    "Translation": " USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30 SECONDS TO UNLOCK THE DOOR ": {
+    "Translation": " 30 SECONDS TO UNLOCK THE DOOR ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GET IN THE CHOPPA! ": {
+    "Translation": " GET IN THE CHOPPA! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

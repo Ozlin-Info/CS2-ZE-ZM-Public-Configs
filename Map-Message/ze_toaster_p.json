@@ -75,5 +75,10 @@
     "Translation": "INCOMING TOAST - LEFT CHAMBER",
     "M-Bool": false,
     "Value": 0
+  },
+  "INCOMING TOAST - BOTH CHAMBERS": {
+    "Translation": "INCOMING TOAST - BOTH CHAMBERS",
+    "M-Bool": false,
+    "Value": 0
   }
 }

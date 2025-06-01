@@ -1,0 +1,49 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "++ Ze Temple Escape ++": {
+    "Translation": "++ Ze Temple Escape ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Map by Matias-TM ++": {
+    "Translation": "++ Map by Matias-TM ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Ported to CS:GO by Matias-TM ++": {
+    "Translation": "++ Ported to CS:GO by Matias-TM ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Torch prefab by Fibbs ++": {
+    "Translation": "++ Torch prefab by Fibbs ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Modified textures by Matias-TM ++": {
+    "Translation": "++ Modified textures by Matias-TM ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Crates breaks in 30 seconds ++": {
+    "Translation": "++ Crates breaks in 30 seconds ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ 5 seconds left! ++": {
+    "Translation": "++ 5 seconds left! ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Fall back! ++": {
+    "Translation": "++ Fall back! ++",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

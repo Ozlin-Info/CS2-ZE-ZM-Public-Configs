@@ -15,5 +15,25 @@
     "Translation": "Aux Door Opening In 15 Seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Airlock Door Opening In 5 Seconds": {
+    "Translation": "Airlock Door Opening In 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Outdoor Tram Starting in 45 Seconds": {
+    "Translation": "Outdoor Tram Starting in 45 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Outdoor Tram Starting in 30 Seconds": {
+    "Translation": "Outdoor Tram Starting in 30 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Outdoor Tram Starting in 5 Seconds": {
+    "Translation": "Outdoor Tram Starting in 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -1,0 +1,84 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Move upstairs to avoid the flames!": {
+    "Translation": "Move upstairs to avoid the flames!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Activate the emergency power controller!": {
+    "Translation": "Activate the emergency power controller!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Please hold on for 30 seconds!": {
+    "Translation": "Please hold on for 30 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Please hold on for 20 seconds!": {
+    "Translation": "Please hold on for 20 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Please hold on for 10 seconds!": {
+    "Translation": "Please hold on for 10 seconds!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The elevator is working again!": {
+    "Translation": "The elevator is working again!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warning!Zombie reinforcements have arrived!": {
+    "Translation": "Warning!Zombie reinforcements have arrived!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Activate the firewall controller!": {
+    "Translation": "Activate the firewall controller!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait until the firewall is open!": {
+    "Translation": "Wait until the firewall is open!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The firewall will open in 5 seconds...": {
+    "Translation": "The firewall will open in 5 seconds...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The firewall will open in 4 seconds...": {
+    "Translation": "The firewall will open in 4 seconds...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The firewall will open in 3 seconds...": {
+    "Translation": "The firewall will open in 3 seconds...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The firewall will open in 2 seconds...": {
+    "Translation": "The firewall will open in 2 seconds...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The firewall will open in 1 second...": {
+    "Translation": "The firewall will open in 1 second...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gate to the next area has opened!": {
+    "Translation": "The gate to the next area has opened!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -490,5 +490,10 @@
     "Translation": "LEVEL -- INTERSTELLAR ESCAPE 9",
     "M-Bool": false,
     "Value": 0
+  },
+  "LEVEL -- FAIL NADES": {
+    "Translation": "LEVEL -- FAIL NADES",
+    "M-Bool": false,
+    "Value": 0
   }
 }

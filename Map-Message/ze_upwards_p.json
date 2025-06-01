@@ -15,5 +15,10 @@
     "Translation": "CENTRAL RIGHT ELEVATOR LEAVES IN 15 SECONDS",
     "M-Bool": false,
     "Value": 0
+  },
+  "CENTRAL LEFT ELEVATOR LEAVES IN 15 SECONDS": {
+    "Translation": "CENTRAL LEFT ELEVATOR LEAVES IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "我不知道这个选择...是否正确..": {
+    "Translation": "我不知道这个选择...是否正确..",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我将我的队员陷入了水深火热之中....": {
+    "Translation": "我将我的队员陷入了水深火热之中....",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我愧对他们....": {
+    "Translation": "我愧对他们....",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我辜负了他们的信任....": {
+    "Translation": "我辜负了他们的信任....",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
