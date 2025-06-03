@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Welcome to EORZEA": {
+    "Translation": "Welcome to EORZEA",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LEVEL 1 - THE COIL OF BAHAMUT": {
+    "Translation": "LEVEL 1 - THE COIL OF BAHAMUT",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "++ ZE_ITALY_TOWN ++": {
+    "Translation": "++ ZE_ITALY_TOWN ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ CURRENT LEVEL: EASY +++": {
+    "Translation": "+++ CURRENT LEVEL: EASY +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ HOLD! THE DOOR OPENS SOON! ++": {
+    "Translation": "++ HOLD! THE DOOR OPENS SOON! ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ Defend for 25 seconds +++": {
+    "Translation": "+++ Defend for 25 seconds +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ 10 seconds left!!! +++": {
+    "Translation": "+++ 10 seconds left!!! +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ The door is opening +++": {
+    "Translation": "+++ The door is opening +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ The door opens in 30 seconds +++": {
+    "Translation": "+++ The door opens in 30 seconds +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ The door opens in 10 seconds +++": {
+    "Translation": "+++ The door opens in 10 seconds +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ The door is opening... RETREAT!!! +++": {
+    "Translation": "+++ The door is opening... RETREAT!!! +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ Double doors open in 10 seconds +++": {
+    "Translation": "+++ Double doors open in 10 seconds +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ Double doors are opening!!! +++": {
+    "Translation": "+++ Double doors are opening!!! +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ Keep the zombies out while the doors close +++": {
+    "Translation": "+++ Keep the zombies out while the doors close +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ Second double doors open in 15 seconds +++": {
+    "Translation": "+++ Second double doors open in 15 seconds +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Nuke launched. Impact in 30 seconds ++": {
+    "Translation": "++ Nuke launched. Impact in 30 seconds ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "++ Impact in 10 seconds ++": {
+    "Translation": "++ Impact in 10 seconds ++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ NEXT LEVEL IS NORMAL +++": {
+    "Translation": "+++ NEXT LEVEL IS NORMAL +++",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "+++ CURRENT LEVEL: NORMAL +++": {
+    "Translation": "+++ CURRENT LEVEL: NORMAL +++",
+    "M-Bool": false,
+    "Value": 0
+  }
+}
