@@ -45,5 +45,10 @@
     "Translation": " Escape Ski Lift 1 Is Leaving In 20 Seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Escape Boat 3 Is Leaving in 25 Seconds ": {
+    "Translation": " Escape Boat 3 Is Leaving in 25 Seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

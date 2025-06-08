@@ -25,5 +25,25 @@
     "Translation": "CURRENT LEVEL  1 ",
     "M-Bool": false,
     "Value": 0
+  },
+  "CURRENT LEVEL - 1 -": {
+    "Translation": "CURRENT LEVEL - 1 -",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie picked up Gravity": {
+    "Translation": "Zombie picked up Gravity",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombie picked up Nuke": {
+    "Translation": "Zombie picked up Nuke",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20 seconds": {
+    "Translation": "20 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

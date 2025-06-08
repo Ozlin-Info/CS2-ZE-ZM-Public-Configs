@@ -25,5 +25,10 @@
     "Translation": "20 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "STAGE I": {
+    "Translation": "STAGE I",
+    "M-Bool": false,
+    "Value": 0
   }
 }

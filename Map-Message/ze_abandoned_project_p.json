@@ -30,5 +30,25 @@
     "Translation": " THANKS FOR PLAYING ",
     "M-Bool": false,
     "Value": 0
+  },
+  "COVER HERE 15s": {
+    "Translation": "COVER HERE 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PRESS THE BUTTON ": {
+    "Translation": " PRESS THE BUTTON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RESIST 15 SECONDS ": {
+    "Translation": " RESIST 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO GO GO ": {
+    "Translation": " GO GO GO ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

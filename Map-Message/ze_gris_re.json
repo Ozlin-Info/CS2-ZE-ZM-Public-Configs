@@ -1,0 +1,14 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "20s": {
+    "Translation": "20s",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

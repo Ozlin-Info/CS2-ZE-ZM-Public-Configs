@@ -170,5 +170,10 @@
     "Translation": "1",
     "M-Bool": false,
     "Value": 0
+  },
+  "Water after waterfall is very hazardous Instant-death": {
+    "Translation": "Water after waterfall is very hazardous Instant-death",
+    "M-Bool": false,
+    "Value": 0
   }
 }

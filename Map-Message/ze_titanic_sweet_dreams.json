@@ -100,5 +100,20 @@
     "Translation": "# HUMANS FALL BACK - DOOR OPENING FOR 10 SECONDS #",
     "M-Bool": false,
     "Value": 0
+  },
+  "# 20 Seconds For Door Opening... #": {
+    "Translation": "# 20 Seconds For Door Opening... #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# 5 Seconds For Door Opening... #": {
+    "Translation": "# 5 Seconds For Door Opening... #",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "# All Humans Fall Back! #": {
+    "Translation": "# All Humans Fall Back! #",
+    "M-Bool": false,
+    "Value": 0
   }
 }

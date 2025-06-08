@@ -40,5 +40,25 @@
     "Translation": "Door will open in 10 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "A player has picked up Doton(Dirt)": {
+    "Translation": "A player has picked up Doton(Dirt)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up High Thunder Ⅱ(Thunder)": {
+    "Translation": "A player has picked up High Thunder Ⅱ(Thunder)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door will open in 30 seconds": {
+    "Translation": "Door will open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lalafel: Please take me on the adventure together!!!": {
+    "Translation": "Lalafel: Please take me on the adventure together!!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

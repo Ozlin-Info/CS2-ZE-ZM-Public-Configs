@@ -10,5 +10,95 @@
     "Translation": "Stage-1",
     "M-Bool": false,
     "Value": 0
+  },
+  "《25s》": {
+    "Translation": "《25s》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "《20s》": {
+    "Translation": "《20s》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "《15s》": {
+    "Translation": "《15s》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "《80s》": {
+    "Translation": "《80s》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Stage-2": {
+    "Translation": "Stage-2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "《30s》": {
+    "Translation": "《30s》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "《35s》": {
+    "Translation": "《35s》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "《50s》": {
+    "Translation": "《50s》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Stage-3": {
+    "Translation": "Stage-3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "《230s》": {
+    "Translation": "《230s》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "《180s》": {
+    "Translation": "《180s》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "《120s》": {
+    "Translation": "《120s》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "《90s》": {
+    "Translation": "《90s》",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thanks you for playing": {
+    "Translation": "Thanks you for playing",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RTV": {
+    "Translation": "RTV",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Auto Bunnyhopping Enabled ": {
+    "Translation": " Auto Bunnyhopping Enabled ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It's Laser Party ! ": {
+    "Translation": " It's Laser Party ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " InVisible Laser Started ": {
+    "Translation": " InVisible Laser Started ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

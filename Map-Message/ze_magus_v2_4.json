@@ -40,5 +40,15 @@
     "Translation": "13 seconds until the boat leaves",
     "M-Bool": false,
     "Value": 0
+  },
+  "30 seconds until the gate opens": {
+    "Translation": "30 seconds until the gate opens",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "15 seconds until the gate opens": {
+    "Translation": "15 seconds until the gate opens",
+    "M-Bool": false,
+    "Value": 0
   }
 }
