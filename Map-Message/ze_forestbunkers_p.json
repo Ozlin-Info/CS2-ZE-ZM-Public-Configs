@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " 10 MINUTES TO ESCAPE ": {
+    "Translation": " 10 MINUTES TO ESCAPE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 MINUTES TO ESCAPE ": {
+    "Translation": " 5 MINUTES TO ESCAPE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 3 MINUTES TO ESCAPE ": {
+    "Translation": " 3 MINUTES TO ESCAPE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 1 MINUTE TO ESCAPE ": {
+    "Translation": " 1 MINUTE TO ESCAPE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE CHOPPER MUST TAKE OFF IN THE NEXT 30 SECONDS TO AVOID ROUND LOSS ": {
+    "Translation": " THE CHOPPER MUST TAKE OFF IN THE NEXT 30 SECONDS TO AVOID ROUND LOSS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS TO ESCAPE ": {
+    "Translation": " 10 SECONDS TO ESCAPE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TOO LATE ": {
+    "Translation": " TOO LATE ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

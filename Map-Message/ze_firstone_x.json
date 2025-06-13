@@ -901,7 +901,7 @@
     "M-Bool": false,
     "Value": 0
   },
-"  永恒的观测者  ": {
+  "  永恒的观测者  ": {
     "Translation": "  Eternal Observer  ",
     "M-Bool": false,
     "Value": 0
@@ -1013,6 +1013,16 @@
   },
   "α:退到林中去": {
     "Translation": "α: Retreat to the forest.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  序章:任务开始  ": {
+    "Translation": "  序章:任务开始  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "part 1": {
+    "Translation": "part 1",
     "M-Bool": false,
     "Value": 0
   }

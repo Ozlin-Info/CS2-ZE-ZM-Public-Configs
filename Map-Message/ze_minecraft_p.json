@@ -30,5 +30,45 @@
     "Translation": "PATH BLOCKERS BREAK IN 5 SECONDS",
     "M-Bool": false,
     "Value": 0
+  },
+  "TNT EXPLODING IN 30 SECONDS": {
+    "Translation": "TNT EXPLODING IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "HOLD THE CAVE!!!!": {
+    "Translation": "HOLD THE CAVE!!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TNT EXPLODING IN 20 SECONDS": {
+    "Translation": "TNT EXPLODING IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TNT EXPLODING IN 10 SECONDS": {
+    "Translation": "TNT EXPLODING IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TNT EXPLODING IN 5 SECONDS": {
+    "Translation": "TNT EXPLODING IN 5 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GOGO.. GET TO THE SLIP GATE": {
+    "Translation": "GOGO.. GET TO THE SLIP GATE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TELE TO CAGE IN 15 SECONDS": {
+    "Translation": "AFK TELE TO CAGE IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TELE 2 TELEPORTING IN 20 SECONDS": {
+    "Translation": "AFK TELE 2 TELEPORTING IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -25,5 +25,20 @@
     "Translation": "Type in console mat_colorcorrection 1 for dynamic effects!!",
     "M-Bool": false,
     "Value": 0
+  },
+  "A player picked up fireball": {
+    "Translation": "A player picked up fireball",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lab door 1 will open in 11 seconds": {
+    "Translation": "Lab door 1 will open in 11 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Lab door 1 will open for zombies in 18 seconds": {
+    "Translation": "Lab door 1 will open for zombies in 18 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

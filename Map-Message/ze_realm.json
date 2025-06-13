@@ -40,5 +40,15 @@
     "Translation": "35",
     "M-Bool": false,
     "Value": 0
+  },
+  "30": {
+    "Translation": "30",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "10": {
+    "Translation": "10",
+    "M-Bool": false,
+    "Value": 0
   }
 }

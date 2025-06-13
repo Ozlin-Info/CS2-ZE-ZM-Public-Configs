@@ -1,0 +1,79 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Lorem Ipsum or 'What the fuck am I doing?' ": {
+    "Translation": " Lorem Ipsum or 'What the fuck am I doing?' ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map by sTc ": {
+    "Translation": " Map by sTc ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Room One: Wait, I have seen this before... ": {
+    "Translation": " Room One: Wait, I have seen this before... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Path opens up in 25 seconds ": {
+    "Translation": " Path opens up in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Room Two: Ah yes, the classic... ": {
+    "Translation": " Room Two: Ah yes, the classic... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Survive for 120 seconds ": {
+    "Translation": " Survive for 120 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies arrive in 20 seconds ": {
+    "Translation": " Zombies arrive in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds left ": {
+    "Translation": " 10 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 3 ": {
+    "Translation": " 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 2 ": {
+    "Translation": " 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 1 ": {
+    "Translation": " 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies are trapped! Run to the portal! ": {
+    "Translation": " Zombies are trapped! Run to the portal! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombies have been released! ": {
+    "Translation": " Zombies have been released! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Room Three: Can't see shit in this mist ": {
+    "Translation": " Room Three: Can't see shit in this mist ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

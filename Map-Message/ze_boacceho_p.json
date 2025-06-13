@@ -35,5 +35,25 @@
     "Translation": " Cunning Hallways shall be -of course- those that contain Barely Anything -or was it everything-. ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Wait here! A wise word might come from HIGH ": {
+    "Translation": " Wait here! A wise word might come from HIGH ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Some time has passed and yet no words came... May HIGH have lied? ": {
+    "Translation": " Some time has passed and yet no words came... May HIGH have lied? ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ... ": {
+    "Translation": " ... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It opened but... no word was read or heard... Or was it that we couldn't understand? ": {
+    "Translation": " It opened but... no word was read or heard... Or was it that we couldn't understand? ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

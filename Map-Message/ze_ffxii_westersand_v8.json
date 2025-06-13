@@ -65,5 +65,20 @@
     "Translation": " A player has learned Fire magick. ",
     "M-Bool": false,
     "Value": 0
+  },
+  " The first door will open in 10 seconds ": {
+    "Translation": " The first door will open in 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The second door will open in 15 seconds ": {
+    "Translation": " The second door will open in 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Keep defending!! ": {
+    "Translation": " Keep defending!! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

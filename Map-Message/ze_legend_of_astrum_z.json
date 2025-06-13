@@ -1,0 +1,94 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "Warmup -- 60 seconds": {
+    "Translation": "Warmup -- 60 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map made by Pasas1345": {
+    "Translation": "Map made by Pasas1345",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Inspired by the game: Princess Connect Re:Dive!": {
+    "Translation": "Inspired by the game: Princess Connect Re:Dive!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's get familiar with the abilities of the weapons": {
+    "Translation": "Let's get familiar with the abilities of the weapons",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warmup -- 50 seconds": {
+    "Translation": "Warmup -- 50 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Kokkoro's Spear - Heals 50 HP. After that it pushes zombies away with the faeries it spawns": {
+    "Translation": "Kokkoro's Spear - Heals 50 HP. After that it pushes zombies away with the faeries it spawns",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Kokkoro's Spear - After casting a healing aura will appear for 8 seconds.": {
+    "Translation": "Kokkoro's Spear - After casting a healing aura will appear for 8 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warmup -- 40 seconds": {
+    "Translation": "Warmup -- 40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pecorine's Sword - Become a shield which blocks zombies from going through you.": {
+    "Translation": "Pecorine's Sword - Become a shield which blocks zombies from going through you.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pecorine's Sword - After which the sword swings 3 times freezing and pushing back the zombies.": {
+    "Translation": "Pecorine's Sword - After which the sword swings 3 times freezing and pushing back the zombies.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warmup -- 30 seconds": {
+    "Translation": "Warmup -- 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Kyaru's Grimore - Charge magic which then shoots an orb that damages and slows zombies.": {
+    "Translation": "Kyaru's Grimore - Charge magic which then shoots an orb that damages and slows zombies.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warmup -- 20 seconds": {
+    "Translation": "Warmup -- 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hopefully you'll be able to adventure with everyone.": {
+    "Translation": "Hopefully you'll be able to adventure with everyone.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warmup -- 10 seconds": {
+    "Translation": "Warmup -- 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Warmup -- Ending": {
+    "Translation": "Warmup -- Ending",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Stage 1 - Forest & Landosol": {
+    "Translation": "Stage 1 - Forest & Landosol",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

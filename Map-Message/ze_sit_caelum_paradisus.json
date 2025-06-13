@@ -160,5 +160,10 @@
     "Translation": "EXTRA VENTUS ACTIVATED",
     "M-Bool": false,
     "Value": 0
+  },
+  " TAKE FRONT-LEFT DOOR ": {
+    "Translation": " TAKE FRONT-LEFT DOOR ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

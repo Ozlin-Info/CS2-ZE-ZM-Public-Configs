@@ -35,5 +35,15 @@
     "Translation": " 15 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " 40 seconds ": {
+    "Translation": " 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 seconds ": {
+    "Translation": " 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

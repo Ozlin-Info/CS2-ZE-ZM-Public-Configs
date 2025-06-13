@@ -85,5 +85,10 @@
     "Translation": "35 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Gate #4 opened": {
+    "Translation": "Gate #4 opened",
+    "M-Bool": false,
+    "Value": 0
   }
 }

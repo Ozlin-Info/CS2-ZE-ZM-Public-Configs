@@ -325,5 +325,20 @@
     "Translation": "TO BE CONTINUED IN PART 2",
     "M-Bool": false,
     "Value": 0
+  },
+  "The canals! Neo-Kowloon should be close by": {
+    "Translation": "The canals! Neo-Kowloon should be close by",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The back entrance to Neo-Kowloon! Resist until it opens": {
+    "Translation": "The back entrance to Neo-Kowloon! Resist until it opens",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "There is a high concentration of toxic-gas here, move quickly!": {
+    "Translation": "There is a high concentration of toxic-gas here, move quickly!",
+    "M-Bool": false,
+    "Value": 0
   }
 }
