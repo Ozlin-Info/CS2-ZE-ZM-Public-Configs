@@ -55,5 +55,40 @@
     "Translation": " The door is opening get inside !",
     "M-Bool": false,
     "Value": 0
+  },
+  " The electricity should be cut off in a few seconds ": {
+    "Translation": " The electricity should be cut off in a few seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Electricity is OFF ": {
+    "Translation": " Electricity is OFF ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DON'T TOUCH THE LASERS": {
+    "Translation": "DON'T TOUCH THE LASERS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The vent is going to explode... ": {
+    "Translation": " The vent is going to explode... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door is going to open in 10 sec ": {
+    "Translation": " The door is going to open in 10 sec ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN": {
+    "Translation": "RUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door opened": {
+    "Translation": "The door opened",
+    "M-Bool": false,
+    "Value": 0
   }
 }

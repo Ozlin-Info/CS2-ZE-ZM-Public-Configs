@@ -1,0 +1,149 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "!!! BOX SPAWNER !!!": {
+    "Translation": "!!! BOX SPAWNER !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STEPS OPEN ": {
+    "Translation": " STEPS OPEN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND HERE ": {
+    "Translation": " DEFEND HERE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FALL BACK ": {
+    "Translation": " FALL BACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LEVEL 1 ": {
+    "Translation": " LEVEL 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CHECKPOINTS ": {
+    "Translation": " CHECKPOINTS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CHECKPOINT 1 ": {
+    "Translation": " CHECKPOINT 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPEN 25 SECONDS ": {
+    "Translation": " DOOR OPEN 25 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPEN ": {
+    "Translation": " DOOR OPEN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR CLOSING ": {
+    "Translation": " DOOR CLOSING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PRESS AND HOLD ": {
+    "Translation": " PRESS AND HOLD ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CAUTION : FAN AUTOMATIC START ": {
+    "Translation": " CAUTION : FAN AUTOMATIC START ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CHECKPOINT 2 ": {
+    "Translation": " CHECKPOINT 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPEN 20 SECONDS ": {
+    "Translation": " DOOR OPEN 20 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR CLOSING 5 SECONDS ": {
+    "Translation": " DOOR CLOSING 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CHECKPOINT 3 ": {
+    "Translation": " CHECKPOINT 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BREAK TRAM ": {
+    "Translation": " BREAK TRAM ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CATCH BOX  ": {
+    "Translation": " CATCH BOX  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TO SPAWN CRATE ": {
+    "Translation": " TO SPAWN CRATE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BOX SPAWNED ": {
+    "Translation": " BOX SPAWNED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPEN 30 SECONDS ": {
+    "Translation": " DOOR OPEN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CHECKPOINT 4 ": {
+    "Translation": " CHECKPOINT 4 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENING 10 SECONDS ": {
+    "Translation": " DOOR OPENING 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FAN ACTIVATING ": {
+    "Translation": " FAN ACTIVATING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " USE BLOCKS FOR COVER  ": {
+    "Translation": " USE BLOCKS FOR COVER  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FANS STOPPED ": {
+    "Translation": " FANS STOPPED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FINAL DOOR CLOSING 30 SECONDS ": {
+    "Translation": " FINAL DOOR CLOSING 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LEVEL 1 - CHECKPOINTS WON ": {
+    "Translation": " LEVEL 1 - CHECKPOINTS WON ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

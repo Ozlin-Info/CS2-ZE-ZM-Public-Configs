@@ -35,5 +35,15 @@
     "Translation": "CHAPTER - THE FORGOTTEN",
     "M-Bool": false,
     "Value": 0
+  },
+  "The barrier will disappear in 20 seconds": {
+    "Translation": "The barrier will disappear in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A zombie has picked up ZMFire": {
+    "Translation": "A zombie has picked up ZMFire",
+    "M-Bool": false,
+    "Value": 0
   }
 }
