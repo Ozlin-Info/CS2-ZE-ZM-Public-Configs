@@ -378,14 +378,14 @@
         "CoolDown": 0,
         "Ignore": false,
         "LockItem": false,
-        "MathID": 26196,
+        "MathID": 142472,
         "MathNameFix": false,
         "MathFindSpawned": true,
         "MathDontShowMax": true
       },
       {
         "Name": "Item_WOTG_Button",
-        "ButtonID": 26203,
+        "ButtonID": 143827,
         "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,
@@ -947,7 +947,7 @@
     "AllowTransfer": true,
     "ForceDrop": true,
     "Chat": true,
-    "Hud": true,    
+    "Hud": true,
     "TriggerID": 0,
     "UsePriority": true,
     "AbilityList": [
@@ -963,7 +963,7 @@
       }
     ]
   },
-  { 
+  {
     "Name": "Skull Lantern",
     "ShortName": "Lantern",
     "Color": "{default}",
@@ -990,5 +990,5 @@
         "CoolDown": 0
       }
     ]
-  } 
+  }
 ]

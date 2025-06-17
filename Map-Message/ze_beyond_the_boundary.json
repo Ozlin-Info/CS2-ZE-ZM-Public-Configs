@@ -25,5 +25,75 @@
     "Translation": "15 seconds later, the magic circle is disappearing",
     "M-Bool": false,
     "Value": 0
+  },
+  "Someone has found the item wizard ! Go and find the item": {
+    "Translation": "Someone has found the item wizard ! Go and find the item",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Release the courtyard seal in 20 seconds": {
+    "Translation": "Release the courtyard seal in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The courtyard door opens in 20 seconds": {
+    "Translation": "The courtyard door opens in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "After 30 seconds, the platform rises. Hold on": {
+    "Translation": "After 30 seconds, the platform rises. Hold on",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Spirit Pray] Guard teleport 20 seconds": {
+    "Translation": "[Spirit Pray] Guard teleport 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The magic circle disappears after 10 seconds": {
+    "Translation": "The magic circle disappears after 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The inner gate of heaven will open in 20 seconds": {
+    "Translation": "The inner gate of heaven will open in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The ladder will appear in 30 seconds": {
+    "Translation": "The ladder will appear in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Spirit Pray]Guard teleport 15 seconds later": {
+    "Translation": "[Spirit Pray]Guard teleport 15 seconds later",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "��We're at the elves castle. Kill the red elves��": {
+    "Translation": "��We're at the elves castle. Kill the red elves��",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Spirit Pray]Transmit in 10 seconds": {
+    "Translation": "[Spirit Pray]Transmit in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The seal will be released in 20 seconds": {
+    "Translation": "The seal will be released in 20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The seal will be released in 15 seconds": {
+    "Translation": "The seal will be released in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend for 15 seconds and wait for the seal to be released": {
+    "Translation": "Defend for 15 seconds and wait for the seal to be released",
+    "M-Bool": false,
+    "Value": 0
   }
 }

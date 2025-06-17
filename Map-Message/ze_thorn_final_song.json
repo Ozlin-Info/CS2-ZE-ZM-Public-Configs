@@ -25,5 +25,20 @@
     "Translation": "我辜负了他们的信任....",
     "M-Bool": false,
     "Value": 0
+  },
+  "死的人应该是我....": {
+    "Translation": "死的人应该是我....",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "他们为此付出了生命...": {
+    "Translation": "他们为此付出了生命...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "门还有20秒开": {
+    "Translation": "门还有20秒开",
+    "M-Bool": false,
+    "Value": 0
   }
 }

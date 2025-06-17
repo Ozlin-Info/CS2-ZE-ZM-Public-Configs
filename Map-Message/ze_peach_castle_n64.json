@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "MAP BY BLUE BLUE": {
+    "Translation": "MAP BY BLUE BLUE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND ! THE CASTLE WILL OPEN SOON ": {
+    "Translation": " DEFEND ! THE CASTLE WILL OPEN SOON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " VOTE FOR THE LEVEL YOU WANT TO PLAY BY JUMPING THROUGH THE PAINTINGS ": {
+    "Translation": " VOTE FOR THE LEVEL YOU WANT TO PLAY BY JUMPING THROUGH THE PAINTINGS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WE, THE PINK BOB-OMBS, ARE ON YOUR SIDE ! BUT DON'T TOUCH THE BLACK ONES ! ": {
+    "Translation": " WE, THE PINK BOB-OMBS, ARE ON YOUR SIDE ! BUT DON'T TOUCH THE BLACK ONES ! ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -40,5 +40,65 @@
     "Translation": "||| Map by Struppi |||",
     "M-Bool": false,
     "Value": 0
+  },
+  "||| Gate opens in 20 seconds |||": {
+    "Translation": "||| Gate opens in 20 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Crate explodes in 35 seconds |||": {
+    "Translation": "||| Crate explodes in 35 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Gate opens in 15 seconds |||": {
+    "Translation": "||| Gate opens in 15 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Door opens in 15 seconds |||": {
+    "Translation": "||| Door opens in 15 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Door opens in 30 seconds |||": {
+    "Translation": "||| Door opens in 30 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Survive for 20 seconds |||": {
+    "Translation": "||| Survive for 20 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Bring the Emerald to the rescue zone |||": {
+    "Translation": "||| Bring the Emerald to the rescue zone |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Defend for 15 seconds |||": {
+    "Translation": "||| Defend for 15 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Helicopter arrives in 15 seconds |||": {
+    "Translation": "||| Helicopter arrives in 15 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Get in the Helicopter |||": {
+    "Translation": "||| Get in the Helicopter |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Missing Emerald |||": {
+    "Translation": "||| Missing Emerald |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Round Failed |||": {
+    "Translation": "||| Round Failed |||",
+    "M-Bool": false,
+    "Value": 0
   }
 }

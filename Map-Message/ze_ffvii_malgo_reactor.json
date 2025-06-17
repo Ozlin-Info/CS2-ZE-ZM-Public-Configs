@@ -50,5 +50,10 @@
     "Translation": "1",
     "M-Bool": false,
     "Value": 0
+  },
+  " HEAL Materia has been found. ": {
+    "Translation": " HEAL Materia has been found. ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

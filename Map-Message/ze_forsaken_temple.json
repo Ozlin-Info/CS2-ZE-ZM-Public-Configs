@@ -145,5 +145,50 @@
     "Translation": " WARM UP - 10 SEC ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Door is opening in 35s ": {
+    "Translation": " Door is opening in 35s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It's seems the door is locked ": {
+    "Translation": " It's seems the door is locked ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hint: key item owner must touch the locked door ": {
+    "Translation": " Hint: key item owner must touch the locked door ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Use the key to unlock it ": {
+    "Translation": " Use the key to unlock it ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Nicely done! The door is going to unlock! ": {
+    "Translation": " Nicely done! The door is going to unlock! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " JUMP! ": {
+    "Translation": " JUMP! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door is opening in 25s ": {
+    "Translation": " Door is opening in 25s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Door is closing in 10s ": {
+    "Translation": " Door is closing in 10s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Divine Tears - crouch ": {
+    "Translation": " Divine Tears - crouch ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
