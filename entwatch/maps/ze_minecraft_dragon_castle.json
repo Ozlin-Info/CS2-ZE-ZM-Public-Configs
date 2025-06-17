@@ -102,5 +102,187 @@
         "CoolDown": 80
       }
     ]
-  }
+  },
+  {
+    "Name": "TNT",
+    "ShortName": "TNT",
+    "Color": "{red}",
+    "HammerID": 31812,
+    "GlowColor": [255,30,30,255],
+    "BlockPickup": false,
+    "AllowTransfer": true,
+    "ForceDrop": true,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": 0,
+    "UsePriority": true,
+    "AbilityList": [
+        {
+          "Name": "Gun_TNT_Btn",
+          "ButtonID": 31808,
+          "ButtonClass": "func_button",
+          "Filter": "",
+          "Chat_Uses": true,
+          "Mode": 2,
+          "MaxUses": 0,
+          "CoolDown": 180
+        }
+      ]
+    },
+    {
+      "Name": "Bucket 1",
+      "ShortName": "Bucket 1",
+      "Color": "{default}",
+      "HammerID": 24501,
+      "GlowColor": [255,255,255,255],
+      "BlockPickup": false,
+      "AllowTransfer": true,
+      "ForceDrop": true,
+      "Chat": true,
+      "Hud": true,
+      "TriggerID": 0,
+      "UsePriority": true,
+      "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 0,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 1,
+            "MaxUses": 0,
+            "CoolDown": 0
+          }
+        ]
+    },
+    {
+      "Name": "Bucket 2",
+      "ShortName": "Bucket 2",
+      "Color": "{default}",
+      "HammerID": 24527,
+      "GlowColor": [255,255,255,255],
+      "BlockPickup": false,
+      "AllowTransfer": true,
+      "ForceDrop": true,
+      "Chat": true,
+      "Hud": true,
+      "TriggerID": 0,
+      "UsePriority": true,
+      "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 0,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 1,
+            "MaxUses": 0,
+            "CoolDown": 0
+          }
+        ]
+    },
+    {
+        "Name": "Torch 1",
+        "ShortName": "Torch 1",
+        "Color": "{orange}",
+        "HammerID": 24627,
+        "GlowColor": [255,140,0,255],
+        "BlockPickup": false,
+        "AllowTransfer": true,
+        "ForceDrop": true,
+        "Chat": true,
+        "Hud": true,
+        "TriggerID": 0,
+        "UsePriority": true,
+        "AbilityList": [
+            {
+              "Name": "",
+              "ButtonID": 0,
+              "ButtonClass": "func_button",
+              "Filter": "",
+              "Chat_Uses": true,
+              "Mode": 1,
+              "MaxUses": 0,
+              "CoolDown": 0
+            }
+          ]
+    },
+    {
+      "Name": "Torch 2",
+      "ShortName": "Torch 2",
+      "Color": "{orange}",
+      "HammerID": 26495,
+      "GlowColor": [255,140,0,255],
+      "BlockPickup": false,
+      "AllowTransfer": true,
+      "ForceDrop": true,
+      "Chat": true,
+      "Hud": true,
+      "TriggerID": 0,
+      "UsePriority": true,
+      "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 0,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 1,
+            "MaxUses": 0,
+            "CoolDown": 0
+          }
+        ]
+    },
+    {
+      "Name": "Pickaxe 1",
+      "ShortName": "Pickaxe 1",
+      "Color": "{default}",
+      "HammerID": 26542,
+      "GlowColor": [255,255,255,255],
+      "BlockPickup": false,
+      "AllowTransfer": true,
+      "ForceDrop": true,
+      "Chat": true,
+      "Hud": true,
+      "TriggerID": 0,
+      "UsePriority": true,
+      "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 0,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 1,
+            "MaxUses": 0,
+            "CoolDown": 0
+          }
+        ]
+    },
+    {
+      "Name": "Pickaxe 2",
+      "ShortName": "Pickaxe 2",
+      "Color": "{default}",
+      "HammerID": 26574,
+      "GlowColor": [255,255,255,255],
+      "BlockPickup": false,
+      "AllowTransfer": true,
+      "ForceDrop": true,
+      "Chat": true,
+      "Hud": true,
+      "TriggerID": 0,
+      "UsePriority": true,
+      "AbilityList": [
+          {
+            "Name": "",
+            "ButtonID": 0,
+            "ButtonClass": "func_button",
+            "Filter": "",
+            "Chat_Uses": true,
+            "Mode": 1,
+            "MaxUses": 0,
+            "CoolDown": 0
+          }
+        ]
+    }
 ]
