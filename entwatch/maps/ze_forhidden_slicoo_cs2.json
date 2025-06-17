@@ -681,7 +681,7 @@
 		  "Name": "Sword Mage Ruijie",
 		  "ShortName": "Ruijie",
 		  "Color": "{default}",
-		  "HammerID": "17724",
+		  "HammerID": 17724,
 		  "GlowColor": [0,255,0,1],
 		  "BlockPickup": false,
 		  "AllowTransfer": true,
