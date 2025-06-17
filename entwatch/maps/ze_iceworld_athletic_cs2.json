@@ -311,7 +311,7 @@
     "Name": "Yotsuba/Speed",
     "ShortName": "Yotsuba/Speed",
     "Color": "{default}",
-    "HammerID": "833",
+    "HammerID": 833,
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
