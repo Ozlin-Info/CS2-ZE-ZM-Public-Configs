@@ -120,5 +120,15 @@
     "Translation": "[Red-XIII] There I will give you all the stuff you need. ",
     "M-Bool": false,
     "Value": 0
+  },
+  "A player has picked up EARTH materia": {
+    "Translation": "A player has picked up EARTH materia",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS": {
+    "Translation": "THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS",
+    "M-Bool": false,
+    "Value": 0
   }
 }
