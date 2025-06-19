@@ -35,5 +35,10 @@
     "Translation": " 10 more seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  "- Easy Mode -": {
+    "Translation": "- Easy Mode -",
+    "M-Bool": false,
+    "Value": 0
   }
 }

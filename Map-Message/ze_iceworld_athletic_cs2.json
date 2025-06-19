@@ -25,5 +25,15 @@
     "Translation": " OHHHHHH ITS E PICK LEGEND !!! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " defend for 10 seconds ": {
+    "Translation": " defend for 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " defend for 30 seconds ": {
+    "Translation": " defend for 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -90,5 +90,10 @@
     "Translation": "Gate #4 opened",
     "M-Bool": false,
     "Value": 0
+  },
+  "Gate #3 opened": {
+    "Translation": "Gate #3 opened",
+    "M-Bool": false,
+    "Value": 0
   }
 }
