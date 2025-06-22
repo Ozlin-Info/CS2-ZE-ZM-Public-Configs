@@ -25,5 +25,25 @@
     "Translation": "   You Win.   ",
     "M-Bool": false,
     "Value": 0
+  },
+  "| | | Map by uVerin | | |": {
+    "Translation": "| | | Map by uVerin | | |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| | | 50 Seconds | | |": {
+    "Translation": "| | | 50 Seconds | | |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| | | 30 Seconds | | |": {
+    "Translation": "| | | 30 Seconds | | |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| | | You Win. | | |": {
+    "Translation": "| | | You Win. | | |",
+    "M-Bool": false,
+    "Value": 0
   }
 }

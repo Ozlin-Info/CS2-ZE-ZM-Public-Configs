@@ -15,5 +15,35 @@
     "Translation": "~# Prop Removers Activated #~",
     "M-Bool": false,
     "Value": 0
+  },
+  "~# Hold this position #~": {
+    "Translation": "~# Hold this position #~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~# 5 SECONDS! #~": {
+    "Translation": "~# 5 SECONDS! #~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~# GO! #~": {
+    "Translation": "~# GO! #~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~# Nuke Has Been Launched #~": {
+    "Translation": "~# Nuke Has Been Launched #~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~# 15 Seconds To Impact #~": {
+    "Translation": "~# 15 Seconds To Impact #~",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "~# 5 Seconds To Impact #~": {
+    "Translation": "~# 5 Seconds To Impact #~",
+    "M-Bool": false,
+    "Value": 0
   }
 }

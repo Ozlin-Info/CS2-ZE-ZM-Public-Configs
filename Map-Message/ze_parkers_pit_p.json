@@ -25,5 +25,60 @@
     "Translation": " LEFT ROUTE  FALL BACK ",
     "M-Bool": false,
     "Value": 0
+  },
+  " RIGHT ROUTE | HOLD HERE ": {
+    "Translation": " RIGHT ROUTE | HOLD HERE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RIGHT ROUTE | FALL BACK ": {
+    "Translation": " RIGHT ROUTE | FALL BACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LEFT ROUTE | HOLD HERE ": {
+    "Translation": " LEFT ROUTE | HOLD HERE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LEFT ROUTE | FALL BACK ": {
+    "Translation": " LEFT ROUTE | FALL BACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOORS OPEN - 5 SECONDS ": {
+    "Translation": " DOORS OPEN - 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD HERE ": {
+    "Translation": " HOLD HERE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FALL BACK | FALL BACK ": {
+    "Translation": " FALL BACK | FALL BACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MASS TELEPORT IN 10 SECONDS ": {
+    "Translation": " MASS TELEPORT IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPEN - 5 SECONDS ": {
+    "Translation": " DOOR OPEN - 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FALL BACK ": {
+    "Translation": " FALL BACK ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD HERE! ": {
+    "Translation": " HOLD HERE! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
