@@ -55,5 +55,115 @@
     "Translation": " BLACK LION SWIMMING POOLS CONTAMINATED ",
     "M-Bool": false,
     "Value": 0
+  },
+  " DRAINING PUMPS ACTIVATED ": {
+    "Translation": " DRAINING PUMPS ACTIVATED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PUMP FAILURE IMMINENT ": {
+    "Translation": " PUMP FAILURE IMMINENT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PUMPS DAMAGED ": {
+    "Translation": " PUMPS DAMAGED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARNING - INCOMING FLOODS ": {
+    "Translation": " WARNING - INCOMING FLOODS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOORS ARE ABOUT TO LOCK..... ": {
+    "Translation": " DOORS ARE ABOUT TO LOCK..... ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ALL DOORS LOCKED ": {
+    "Translation": " ALL DOORS LOCKED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TOXIC AIR LEVELS RETURNING TO NORMAL ": {
+    "Translation": " TOXIC AIR LEVELS RETURNING TO NORMAL ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS BEFORE ESCAPE DOORS OPEN ": {
+    "Translation": " 10 SECONDS BEFORE ESCAPE DOORS OPEN ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ESCAPE DOORS S1 & S2 OPENING ": {
+    "Translation": " ESCAPE DOORS S1 & S2 OPENING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ESCAPE DOORS C1 OPENING ": {
+    "Translation": " ESCAPE DOORS C1 OPENING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ESCAPE DOORS E1 & E3 OPENED ": {
+    "Translation": " ESCAPE DOORS E1 & E3 OPENED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ANTI TOXINS BEING RELEASED ": {
+    "Translation": " ANTI TOXINS BEING RELEASED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 40 SECONDS UNTIL EFFECT ": {
+    "Translation": " 40 SECONDS UNTIL EFFECT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GET TO THE SAFETY ROOM ON THE ROOF ": {
+    "Translation": " GET TO THE SAFETY ROOM ON THE ROOF ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30 SECONDS UNTIL EFFECT ": {
+    "Translation": " 30 SECONDS UNTIL EFFECT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS UNTIL EFFECT ": {
+    "Translation": " 10 SECONDS UNTIL EFFECT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS UNTIL EFFECT ": {
+    "Translation": " 5 SECONDS UNTIL EFFECT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 4 SECONDS UNTIL EFFECT ": {
+    "Translation": " 4 SECONDS UNTIL EFFECT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 3 SECONDS UNTIL EFFECT ": {
+    "Translation": " 3 SECONDS UNTIL EFFECT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 2 SECONDS UNTIL EFFECT ": {
+    "Translation": " 2 SECONDS UNTIL EFFECT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 1 SECOND UNTIL EFFECT ": {
+    "Translation": " 1 SECOND UNTIL EFFECT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ANTI TOXIN'S EFFECTIVE": {
+    "Translation": " ANTI TOXIN'S EFFECTIVE",
+    "M-Bool": false,
+    "Value": 0
   }
 }

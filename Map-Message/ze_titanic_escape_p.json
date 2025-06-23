@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "The ship is sinking! You have 5 minutes to get to the surface!!!": {
+    "Translation": "The ship is sinking! You have 5 minutes to get to the surface!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map created by DoomsKnight and Mousey. ": {
+    "Translation": "Map created by DoomsKnight and Mousey. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final Door will open in 60 seconds": {
+    "Translation": "Final Door will open in 60 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Main elevator's second doors now unlocked": {
+    "Translation": "Main elevator's second doors now unlocked",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Final Door will open in 30 seconds": {
+    "Translation": "Final Door will open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

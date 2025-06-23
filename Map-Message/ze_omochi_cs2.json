@@ -25,5 +25,10 @@
     "Translation": "[ 10 ]",
     "M-Bool": false,
     "Value": 0
+  },
+  "[ 25 ]": {
+    "Translation": "[ 25 ]",
+    "M-Bool": false,
+    "Value": 0
   }
 }
