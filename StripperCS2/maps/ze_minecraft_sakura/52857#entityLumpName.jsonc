@@ -11,7 +11,7 @@
 		},
 		"replace": {
 			"io": {
-				"overrideparam": "say Wanna buy apples, bro?"
+				"overrideparam": "say Do you wanna buy some apples bro"
 			}
 		}
 	}
