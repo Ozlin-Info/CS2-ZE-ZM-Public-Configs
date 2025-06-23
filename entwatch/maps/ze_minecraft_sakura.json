@@ -1,9 +1,9 @@
 [
 	{
-		"Name": "Item 1",
-		"ShortName": "114514",
+		"Name": "Ammo",
+		"ShortName": "Ammo",
 		"Color": "{default}",
-		"HammerID": 46711,
+		"HammerID": 53074,
 		"GlowColor": [255,255,255,255],
 		"FilterID": 0,
 		"FilterValue": "",
@@ -17,22 +17,50 @@
 		"AbilityList": [
 			{
 				"Name": "114514",
-				"ButtonID": 46712,
+				"ButtonID": 47012,
 				"ButtonClass": "func_button",
-        		"Filter": "gu_user:1",
+        		"Filter": "",
 				"Chat_Uses": true,
 				"Mode": 2,
 				"MaxUses": 0,
-				"CoolDown": 35
+				"CoolDown": 80
 			}
 		]
 	},
 	{
-		"Name": "Item 2",
-		"ShortName": "5211314",
-		"Color": "{default}",
-		"HammerID": 46701,
-		"GlowColor": [255,255,255,255],
+		"Name": "Nuke",
+		"ShortName": "Nuke",
+		"Color": "{darkred}",
+		"HammerID": 47895,
+		"GlowColor": [170,0,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": true,
+		"ForceDrop": true,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 47960,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "5211314",
+				"ButtonID": 47898,
+				"ButtonClass": "func_button",
+        		"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 3,
+				"CoolDown": 10
+			}
+		]
+	},
+	{
+		"Name": "Lucid Dreams",
+		"ShortName": "Lucid Dreams",
+		"Color": "{grey}",
+		"HammerID": 53075,
+		"GlowColor": [128,128,128,255],
 		"FilterID": 0,
 		"FilterValue": "",
 		"BlockPickup": false,
@@ -44,14 +72,42 @@
 		"UsePriority": true,
 		"AbilityList": [
 			{
-				"Name": "5211314",
-				"ButtonID": 46703,
-				"ButtonClass": "func_button",
-        		"Filter": "gun_user:1",
+				"Name": "",
+				"ButtonID": 0,
+				"ButtonClass": "",
+        		"Filter": "",
 				"Chat_Uses": true,
-				"Mode": 2,
+				"Mode": 1,
 				"MaxUses": 0,
-				"CoolDown": 25
+				"CoolDown": 0
+			}
+		]
+	},
+	{
+		"Name": "Zombie Creeper",
+		"ShortName": "ZM Creeper",
+		"Color": "{green}",
+		"HammerID": 48021,
+		"GlowColor": [0,255,0,255],
+		"FilterID": 0,
+		"FilterValue": "",
+		"BlockPickup": false,
+		"AllowTransfer": false,
+		"ForceDrop": false,
+		"Chat": true,
+		"Hud": true,
+		"TriggerID": 48026,
+		"UsePriority": true,
+		"AbilityList": [
+			{
+				"Name": "",
+				"ButtonID": 47252,
+				"ButtonClass": "func_button",
+        		"Filter": "",
+				"Chat_Uses": true,
+				"Mode": 4,
+				"MaxUses": 3,
+				"CoolDown": 30
 			}
 		]
 	}
