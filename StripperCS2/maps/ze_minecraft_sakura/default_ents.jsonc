@@ -18,74 +18,7 @@
 			"rendermode": "kRenderNone"
 		}
 	],
-	// Anti-delay for tree hold
-	"add": [
-		{
-			"classname": "trigger_multiple",
-			"targetname": "antidelay_trigger",
-			"model": "maps/ze_minecraft_sakura/entities/push_sakura_42311.vmdl",
-			"origin": "3069.419678 2592.000244 768",
-			"angles": "0 179.999969 0",
-			"scales": "1 1 1",
-			"filtername": "[PR#]zombie",
-			"startdisabled": "0",
-			"wait": "1",
-			"uselocaloffset": "0",
-			"spawnflags": "1",
-			"io": [
-				{
-					"outputname": "OnStartTouch",
-					"targetname": "[PR#]cmd",
-					"inputname": "Command",
-					"overrideparam": "say Zombies touched the door! Slaying humans ( ͡ ͡° ͜ ʖ ͡°  )",
-					"timestofire": 1
-				},
-				{
-					"outputname": "OnStartTouch",
-					"targetname": "nuke_humans",
-					"inputname": "Enable",
-					"delay": 2.0,
-					"timestofire": 1
-				}
-			]
-		},
-		{
-			"classname": "trigger_hurt",
-			"targetname": "nuke_humans",
-			"model": "maps/ze_minecraft_sakura/entities/nuke_hurt_42519.vmdl",
-			"origin": "1095.999878 -436 236",
-			"scales": "1 1 1",
-			"filtername": "[PR#]human",
-			"startdisabled": "1",
-			"uselocaloffset": "0",
-			"thinkalways": "0",
-			"nodmgforce": "0",
-			"forgivedelay": "3",
-			"damagemodel": "0",
-			"damagetype": "1024",
-			"damagecap": "20",
-			"damage": "999999",
-			"spawnflags": "1"
-		}
-	],
-	"modify": {
-		"match": {
-			"classname": "func_button",
-			"hammeruniqueid": "41983"
-		},
-		"insert": {
-			"io": [
-				{
-					"outputname": "OnPressed",
-					"targetname": "antidelay_trigger",
-					"inputname": "Disable",
-					"delay": 60.0,
-					"timestofire": 1
-				}
-			]
-		}
-	},
-	// Translate map to English using DeepL + Proofread by Oz-Lin
+	// Translate map to English using DeepL/Google Translate, Proofread by Oz-Lin
 	"modify": [
 		{
 			"match": {
@@ -147,125 +80,13 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say （僵尸5秒后传送）"
+						"overrideparam": "say (20秒)"
 					}
 				]
 			},
 			"replace": {
 				"io": {
-					"overrideparam": "say (Zombies teleporting in 5 seconds)"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
-						"overrideparam": "say 没想到叭,咱又回来了喵~"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say Can't you believe that, we're back meow~"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
-						"overrideparam": "say _(:з」∠)_不要再打咱了喵"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say _(:з」∠)_ Stop hitting me"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
-						"overrideparam": "say 你这淫虫留命在世上只会把米吃贵！（｀へ´）"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say You are a whore that only eats the most expensive rice! （｀へ´）"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
-						"overrideparam": "say 啊咧！这么多张床，难道是要开趴咩(* /ω＼*)"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say Oh my god! So many beds, is this a sleepover party? (* /ω＼*)"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
-						"overrideparam": "say 樱"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say Sakura"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
-						"overrideparam": "say 大家好我就是梦梦杨桃冰箱❀"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say Hello, I'm the Dreamy star fruit refrigerator ❀"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
-						"overrideparam": "say 已解锁 mini的色图小屋o(*≧▽≦)ツ"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say Unlocked mini's R18 cabin o(*≧▽≦)ツ"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
-						"overrideparam": "say 你惊扰了 文爱警察"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say You disturbed the Saxting police."
+					"overrideparam": "say (20 seconds)"
 				}
 			}
 		},
@@ -511,13 +332,13 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say (25秒后玻璃碎掉）"
+						"overrideparam": "say (15秒后玻璃碎掉）"
 					}
 				]
 			},
 			"replace": {
 				"io": {
-					"overrideparam": "say *** The glass will break in 25 seconds ***"
+					"overrideparam": "say *** The glass will break in 15 seconds ***"
 				}
 			}
 		},
@@ -651,13 +472,13 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say （僵尸10秒后传送）"
+						"overrideparam": "say 20秒后门开"
 					}
 				]
 			},
 			"replace": {
 				"io": {
-					"overrideparam": "say *** Zombies will teleport in 10 seconds ***"
+					"overrideparam": "say The door opens in 20 seconds."
 				}
 			}
 		},
@@ -665,13 +486,13 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say 拉动门卫室的拉杆就能开门了(/≧▽≦)/"
+						"overrideparam": "say 姜丝5s后传送！"
 					}
 				]
 			},
 			"replace": {
 				"io": {
-					"overrideparam": "say Pull the lever in the guard's room to open the door (/≧▽≦)/"
+					"overrideparam": "say Zambis teleports after 5s!"
 				}
 			}
 		},
@@ -721,27 +542,13 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say 哨站顶部有一个钟"
+						"overrideparam": "say 哨站背面有一个钟"
 					}
 				]
 			},
 			"replace": {
 				"io": {
-					"overrideparam": "say Ring the bell on top of the outpost"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
-						"overrideparam": "say 我们下去吧！"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say Let's head down!"
+					"overrideparam": "say Ring the bell on the back of the outpost"
 				}
 			}
 		},
@@ -889,13 +696,13 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say （守住30s）"
+						"overrideparam": "say （守住20s）"
 					}
 				]
 			},
 			"replace": {
 				"io": {
-					"overrideparam": "say *** Hold for 30 seconds ***"
+					"overrideparam": "say *** Hold for 20 seconds ***"
 				}
 			}
 		},
@@ -959,13 +766,13 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say （码头30秒后开放！）"
+						"overrideparam": "say （码头25秒后开放！）"
 					}
 				]
 			},
 			"replace": {
 				"io": {
-					"overrideparam": "say *** The docks open in 30 seconds! ***"
+					"overrideparam": "say *** The docks open in 25 seconds! ***"
 				}
 			}
 		},
@@ -1001,20 +808,6 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say （僵尸10秒后传送）"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say *** Zombies teleport in 10 seconds ***"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
 						"overrideparam": "say 三个字，让大家多守40秒(/ω＼*)"
 					}
 				]
@@ -1029,13 +822,13 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say 啊嘞┌|*´∀｀|┘貌似什么东西忘记触发了喵"
+						"overrideparam": "say (5秒后门开!）"
 					}
 				]
 			},
 			"replace": {
 				"io": {
-					"overrideparam": "say Uh oh! ┌|*´∀｀|┘ Looks like someone forgot to trigger, meow"
+					"overrideparam": "say The door opens in 5 seconds!"
 				}
 			}
 		},
@@ -1043,13 +836,13 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say 嘤嘤嘤有坏比o(≧口≦)o"
+						"overrideparam": "say (树屋将在40s后开放)"
 					}
 				]
 			},
 			"replace": {
 				"io": {
-					"overrideparam": "say Waaah, you meanie! o(≧口≦)o"
+					"overrideparam": "say (Treehouse will open in 40s)"
 				}
 			}
 		},
@@ -1057,41 +850,13 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say (10秒后门开）"
+						"overrideparam": "say (30秒后门开!）"
 					}
 				]
 			},
 			"replace": {
 				"io": {
-					"overrideparam": "say *** The door opens in 10 seconds ***"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
-						"overrideparam": "say (僵尸被阻挡5秒，快跑！！(o゜▽゜)o☆）"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say *** Zombies are blocked for 5 seconds, run! (o゜▽゜)o☆ ***"
-				}
-			}
-		},
-		{
-			"match": {
-				"io": [
-					{
-						"overrideparam": "say (30秒后门开）"
-					}
-				]
-			},
-			"replace": {
-				"io": {
-					"overrideparam": "say *** The door opens in 30 seconds ***"
+					"overrideparam": "say (The door opens in 30 seconds!)"
 				}
 			}
 		},
@@ -1141,13 +906,13 @@
 			"match": {
 				"io": [
 					{
-						"overrideparam": "say (树屋将在10s后开放)"
+						"overrideparam": "say (树屋将在5s后开放)"
 					}
 				]
 			},
 			"replace": {
 				"io": {
-					"overrideparam": "say *** The treehouse will open in 10 seconds ***"
+					"overrideparam": "say (The treehouse will open in 5 seconds)"
 				}
 			}
 		},
@@ -1335,10 +1100,478 @@
 		},
 		{
 			"match": {
-				"message": "敬请期待！！！"
+				"io": [
+					{
+						"overrideparam": "say 啊嘞！这么多床，难道是要开银趴吗"
+					}
+				]
 			},
 			"replace": {
-				"message": "Stay tuned!!!"
+				"io": {
+					"overrideparam": "say Oh! So many beds, are we going to have a party?"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 你不许参加银趴！！！"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say You are not allowed to attend the Swing Party!!!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 你已经被小魅魔榨干惹awa"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say You have been drained by the little succubus awa"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say kz吗？有点意思"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Kz? That's interesting."
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 要来一起睡午觉嘛~"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Why don't you join us for a nap?"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 九尾可爱喵~九尾可爱喵~"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Nine-tailed meow! Nine-tailed meow!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say (某处的玻璃似乎在轻轻颤动)"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say (Somewhere the glass seems to be shaking slightly)"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 撒旦:“哼，不知好歹”"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Satan: “Hmph, you don't know what's good for you.”"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 撒旦:“哼，赏你点力量”"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Satan: “Hmph, I'll give you some strength.”"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 撒旦:“僵尸吗?有点意思”"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Satan: “Zombies? That's interesting.”"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 撒旦:“怎么？你也想如他们般癫狂？”"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Satan: “What? Do you want to be as crazy as they are?”"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 撒旦:“向我祈祷吧，人类！”"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Satan: “Pray to me, human!”"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 已经燃尽了...传送门进不去力！"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say It's burned out...I can't get through the portal!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 获得了移速加成！"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Gained a movement speed bonus!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 果然感觉身体被强健了呢！"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say I really feel like my body has become stronger!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 想必大半夜不睡觉的都在这里展示汗水与努力的吧！"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say I'm sure the ones who stayed up most of the night are here to show off their sweat and hard work!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 门后居然有个隐藏传送门？！"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say There's a hidden portal behind the door?!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 星野酱永远沉睡在不清醒的梦里了喵"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Hoshino-chan is forever sleeping in an unconscious dream meow."
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 已经没有人类了喵！"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say There are no more humans meow!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 樱花岛似乎出现了时空裂隙..."
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say There seems to be a time-space rift on Sakura Island..."
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 服务器人数低于36，已移除僵尸贴门核爆效果！！"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say When the player count is below 36, the nuke when zombies touch the door is removed!!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say OMG!!!姜丝把你老婆米库拐跑了！！"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say OMG!!! Jiangsi kidnapped your wife Miku!!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say （25s后传送！）"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say (Teleporting in 25s!)"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 星野酱居然真的打开了通往梦的隧道Σヽ(ﾟД ﾟ; )ﾉ"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Hoshino-chan actually opened the tunnel to her dream Σヽ(ﾟД ﾟ; )ﾉ"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say ^(*￣(oo)￣)^测试用的按钮忘删了 感谢提醒"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say ^(*￣(oo)￣)^ I forgot to delete the button for testing. Thanks for the reminder!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 有小猪掉入了虚空^(*--(oo)--*)^"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say A little piggy fell into the void ^(*--(oo)--*)^"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 快看，有个noob想吃披萨 ˶ᵒ ֊ ˂˶ "
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Look, there's a noob who wants to eat pizza ˶ᵒ ֊ ˂˶ "
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 才...才不是喜欢你呢⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄礼物放在鱼桶里了喵~"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say No... I don't like you. ⁄(⁄⁄•⁄ω⁄•⁄⁄)⁄ The gift is in the fish bucket, meow~"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 真拿你没办法喵⌯>ᴗ0⌯ "
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say I can't do anything about you meow ⌯>ᴗ0⌯ "
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 不要再摸那里了喵 脸红喵(＊／ω＼＊)"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Don't touch there anymore, meow, *blush* meow (＊／ω＼＊)"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 船舱在10秒后打开"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say The cabin opens in 10 seconds"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 5秒后僵尸传送！"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say Zombies teleport in 5 seconds!"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say (10秒后门开喵~o( =∩ω∩= )m)"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say (The door will open in 10 seconds ~o( =∩ω∩= )m)"
+				}
+			}
+		},
+		{
+			"match": {
+				"io": [
+					{
+						"overrideparam": "say 二楼门10秒后打开喵！"
+					}
+				]
+			},
+			"replace": {
+				"io": {
+					"overrideparam": "say The door to the second floor will open in 10 seconds, meow!"
+				}
 			}
 		},
 		{
@@ -1351,18 +1584,18 @@
 		},
 		{
 			"match": {
-				"message": "梦梦杨桃冰箱❀"
+				"message": "/梦梦杨桃冰箱❀/"
 			},
 			"replace": {
-				"message": "Dreamy star fruit refrigerator ❀"
+				"message": "Dreamy star fruit\nrefrigerator ❀"
 			}
 		},
 		{
 			"match": {
-				"message": "智者不入爱河 与你难做智者"
+				"message": "智者不入爱河 遇你难做智者"
 			},
 			"replace": {
-				"message": "Wise people don't fall in\nlove, and it is hard to\nbe wise with you"
+				"message": "Wise people don't fall in\nlove, and it is hard to\nbe wise when it comes you"
 			}
 		},
 		{
@@ -1455,10 +1688,82 @@
 		},
 		{
 			"match": {
-				"message": "valve的屎山|"
+				"message": "/力量，/"
 			},
 			"replace": {
-				"message": "Valve's pile of shit"
+				"message": "Power.\nThe very reason\nto be king!"
+			}
+		},
+		{
+			"match": {
+				"message": "但是我拒绝！"
+			},
+			"replace": {
+				"message": "But I refuse!"
+			}
+		},
+		{
+			"match": {
+				"message": "爱德敏room"
+			},
+			"replace": {
+				"message": "Edmund room"
+			}
+		},
+		{
+			"match": {
+				"message": "生电高玩最新力作 cs2更新抑制器切门大法"
+			},
+			"replace": {
+				"message": "The latest masterpiece CS2 update cut door big way"
+			}
+		},
+		{
+			"match": {
+				"message": "来点猫图屋"
+			},
+			"replace": {
+				"message": "Have some\ncat pictures."
+			}
+		},
+		{
+			"match": {
+				"message": "敬请期待！！"
+			},
+			"replace": {
+				"message": "Stay tuned!!"
+			}
+		},
+		{
+			"match": {
+				"message": "kasumi后宫应援团"
+			},
+			"replace": {
+				"message": "Kasumi Harem\nSupport Group"
+			}
+		},
+		{
+			"match": {
+				"message": "心爱的猫猫"
+			},
+			"replace": {
+				"message": "Beloved Cat"
+			}
+		},
+		{
+			"match": {
+				"message": "生闷气的猫猫"
+			},
+			"replace": {
+				"message": "Sulking Cat"
+			}
+		},
+		{
+			"match": {
+				"message": "小猫咪偷晴+v"
+			},
+			"replace": {
+				"message": "Kittens Stealing\nSunshine+v"
 			}
 		}
 	]
