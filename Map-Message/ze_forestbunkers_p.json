@@ -40,5 +40,40 @@
     "Translation": " TOO LATE ",
     "M-Bool": false,
     "Value": 0
+  },
+  " DOOR OPENING IN 25 SECONDS ": {
+    "Translation": " DOOR OPENING IN 25 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BUNKER DOORS OPENING IN 15 SECONDS ": {
+    "Translation": " BUNKER DOORS OPENING IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BUNKER PATH: BARRICADE AND RESIST 40 SECONDS ": {
+    "Translation": " BUNKER PATH: BARRICADE AND RESIST 40 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BUNKER PATH: 20 SECONDS LEFT ": {
+    "Translation": " BUNKER PATH: 20 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FREEZERAY PICKED UP ": {
+    "Translation": " FREEZERAY PICKED UP ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BUNKER PATH: 5 SECONDS ": {
+    "Translation": " BUNKER PATH: 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BUNKER PATH: FALL BACK! ": {
+    "Translation": " BUNKER PATH: FALL BACK! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

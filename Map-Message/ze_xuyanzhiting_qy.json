@@ -20,5 +20,40 @@
     "Translation": "代号_虚掩之庭的计划取消 离开这里",
     "M-Bool": false,
     "Value": 0
+  },
+  "30": {
+    "Translation": "30",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "坚持5秒...": {
+    "Translation": "坚持5秒...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4": {
+    "Translation": "4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "0": {
+    "Translation": "0",
+    "M-Bool": false,
+    "Value": 0
   }
 }

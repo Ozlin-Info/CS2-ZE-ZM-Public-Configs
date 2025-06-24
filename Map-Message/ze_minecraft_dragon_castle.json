@@ -835,5 +835,20 @@
     "Translation": " MAP OVER ",
     "M-Bool": false,
     "Value": 0
+  },
+  " WALL GUN - 80 sec cooldown ": {
+    "Translation": " WALL GUN - 80 sec cooldown ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TNT GUN - 180 sec cooldown ": {
+    "Translation": " TNT GUN - 180 sec cooldown ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Torch 1 pickup": {
+    "Translation": " Torch 1 pickup",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -45,5 +45,60 @@
     "Translation": "A zombie has picked up ZMFire",
     "M-Bool": false,
     "Value": 0
+  },
+  "A player has picked up Disaster Scroll": {
+    "Translation": "A player has picked up Disaster Scroll",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up Thunder Scroll": {
+    "Translation": "A player has picked up Thunder Scroll",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LYCAN:The road on the left is opennyan.": {
+    "Translation": "LYCAN:The road on the left is opennyan.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Let's go on the rightnyan!": {
+    "Translation": "Let's go on the rightnyan!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The barrier will disappear in 30 seconds": {
+    "Translation": "The barrier will disappear in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up Hurricane Scroll": {
+    "Translation": "A player has picked up Hurricane Scroll",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The gate is closed": {
+    "Translation": "The gate is closed",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The stone tablets on both sides seem to have a clue": {
+    "Translation": "The stone tablets on both sides seem to have a clue",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up Saint Diana's shelter": {
+    "Translation": "A player has picked up Saint Diana's shelter",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up Frost Scroll": {
+    "Translation": "A player has picked up Frost Scroll",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A player has picked up Cure Scroll": {
+    "Translation": "A player has picked up Cure Scroll",
+    "M-Bool": false,
+    "Value": 0
   }
 }

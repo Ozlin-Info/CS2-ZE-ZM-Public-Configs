@@ -45,7 +45,7 @@
     "Translation": " The recent weather has become extremely abnormal ",
     "M-Bool": false,
     "Value": 0
-  }, 
+  },
   " 明明才刚入春，秩序之庭的空气却格外炎热 ": {
     "Translation": " Though spring has just begun, the air in the Court of Order is unusually hot ",
     "M-Bool": false,
@@ -943,6 +943,26 @@
   },
   " 最后,巴托莉停止了思考,你们又一次维护了世界的秩序 ": {
     "Translation": " Finally, Bartoli ceased thinking - you've preserved world order once more ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A zombie has picked up Electrical Ring ": {
+    "Translation": " A zombie has picked up Electrical Ring ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A zombie has picked up Collecter magic ": {
+    "Translation": " A zombie has picked up Collecter magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " A zombie has picked up gravity magic ": {
+    "Translation": " A zombie has picked up gravity magic ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 一位玩家拾取了[铭月的应急医疗] ": {
+    "Translation": " 一位玩家拾取了[铭月的应急医疗] ",
     "M-Bool": false,
     "Value": 0
   }
