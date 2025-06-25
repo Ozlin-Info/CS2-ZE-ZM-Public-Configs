@@ -25,5 +25,120 @@
     "Translation": " Red and blue presents will contain zombie and human items respectively. ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Zombie present placer has been picked up. Press +USE (E) to place a present. ": {
+    "Translation": " Zombie present placer has been picked up. Press +USE (E) to place a present. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door opens in 30 seconds ": {
+    "Translation": " The door opens in 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door opens in 10 seconds. Hold! ": {
+    "Translation": " The door opens in 10 seconds. Hold! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The door opens in 5 seconds. RESIST!!! ": {
+    "Translation": " The door opens in 5 seconds. RESIST!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold the bridge! The door opens in 20 seconds! ": {
+    "Translation": " Hold the bridge! The door opens in 20 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Activate one of the control pannels! ": {
+    "Translation": " Activate one of the control pannels! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Tree placer has been picked up. Press +USE (E) to place a tree. ": {
+    "Translation": " Tree placer has been picked up. Press +USE (E) to place a tree. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Napalm candle has been picked up. Press +USE (E) to activate ": {
+    "Translation": " Napalm candle has been picked up. Press +USE (E) to activate ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Well done! The door opens in 20 seconds. RESIST!!! ": {
+    "Translation": " Well done! The door opens in 20 seconds. RESIST!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold! The door will open in 25 seconds! ": {
+    "Translation": " Hold! The door will open in 25 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Only 5 seconds left! RESIST! ": {
+    "Translation": " Only 5 seconds left! RESIST! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We have to hold this area for 40 seconds until the doors open! ": {
+    "Translation": " We have to hold this area for 40 seconds until the doors open! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Keep defending! 15 seconds left! ": {
+    "Translation": " Keep defending! 15 seconds left! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds! RESIST!!! ": {
+    "Translation": " 5 seconds! RESIST!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Storage area door opening in 15 seconds. HOLD! ": {
+    "Translation": " Storage area door opening in 15 seconds. HOLD! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold a bit! The door will open in 15 seconds! ": {
+    "Translation": " Hold a bit! The door will open in 15 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold 10 more seconds! The second doors will open soon!": {
+    "Translation": " Hold 10 more seconds! The second doors will open soon!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THIS IS OUR LAST STAND! ": {
+    "Translation": " THIS IS OUR LAST STAND! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! ": {
+    "Translation": " DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RESIST! 30 SECONDS LEFT!!! ": {
+    "Translation": " RESIST! 30 SECONDS LEFT!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 15 SECONDS! KEEP IT UP!!! ": {
+    "Translation": " 15 SECONDS! KEEP IT UP!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LAST 5 SECONDS! RESIST!!! ": {
+    "Translation": " LAST 5 SECONDS! RESIST!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " You have beaten easy mode... Let's see now how you do in MEDIUM! ": {
+    "Translation": " You have beaten easy mode... Let's see now how you do in MEDIUM! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
