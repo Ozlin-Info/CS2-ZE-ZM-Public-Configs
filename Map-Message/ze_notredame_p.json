@@ -1,0 +1,54 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "###Map Made By Mononoke###": {
+    "Translation": "###Map Made By Mononoke###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "###Press E to use items###": {
+    "Translation": "###Press E to use items###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "###All items have 1 Minute Cooldown###": {
+    "Translation": "###All items have 1 Minute Cooldown###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "###Doors will Open in 20 Seconds...Survive###": {
+    "Translation": "###Doors will Open in 20 Seconds...Survive###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "###Gutter Gate Will Open in 30 Seconds...Survive###": {
+    "Translation": "###Gutter Gate Will Open in 30 Seconds...Survive###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "###Gutter Gate Open...Run!###": {
+    "Translation": "###Gutter Gate Open...Run!###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### Undead Priest Active: Flame Thrower###": {
+    "Translation": "### Undead Priest Active: Flame Thrower###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### Flame On ###": {
+    "Translation": "### Flame On ###",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "### Flame Charged ###": {
+    "Translation": "### Flame Charged ###",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

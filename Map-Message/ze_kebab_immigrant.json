@@ -15,5 +15,50 @@
     "Translation": "[ Map By Nostar ]",
     "M-Bool": false,
     "Value": 0
+  },
+  "[ SHOTGUN item has been picked ]": {
+    "Translation": "[ SHOTGUN item has been picked ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ HEAL item has been picked ]": {
+    "Translation": "[ HEAL item has been picked ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ Bridge coming in 20 SECONDS ]": {
+    "Translation": "[ Bridge coming in 20 SECONDS ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ AMMO item has been picked ]": {
+    "Translation": "[ AMMO item has been picked ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ The bridges are on the way ]": {
+    "Translation": "[ The bridges are on the way ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ FALL BACK ]": {
+    "Translation": "[ FALL BACK ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ Door open in 20 SECONDS ]": {
+    "Translation": "[ Door open in 20 SECONDS ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ Door open in 15 SECONDS ]": {
+    "Translation": "[ Door open in 15 SECONDS ]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[ AFK Teleport in 5 SECONDS ]": {
+    "Translation": "[ AFK Teleport in 5 SECONDS ]",
+    "M-Bool": false,
+    "Value": 0
   }
 }

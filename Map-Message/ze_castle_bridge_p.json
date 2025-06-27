@@ -30,5 +30,35 @@
     "Translation": "Castle of dark",
     "M-Bool": false,
     "Value": 0
+  },
+  "THE DOORS OF FIRST CASTLE WILL OPEN IN 30 SECONDS": {
+    "Translation": "THE DOORS OF FIRST CASTLE WILL OPEN IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TELEPORT IN 10 SECONDS": {
+    "Translation": "AFK TELEPORT IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE DOORS WILL OPEN IN 25 SECONDS": {
+    "Translation": "THE DOORS WILL OPEN IN 25 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "THE PLATFORM WILL LEAVE IN 30 SECONDS": {
+    "Translation": "THE PLATFORM WILL LEAVE IN 30 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK TELEPORT IN 15 SECONDS": {
+    "Translation": "AFK TELEPORT IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bridge between the worlds": {
+    "Translation": "Bridge between the worlds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

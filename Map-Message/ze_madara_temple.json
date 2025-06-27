@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "(Map Ported to CS:GO by Henry)": {
+    "Translation": "(Map Ported to CS:GO by Henry)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Ending has been modified ": {
+    "Translation": " Ending has been modified ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Learn more about it, in the workshop ": {
+    "Translation": " Learn more about it, in the workshop ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Doors opens in 20 seconds ": {
+    "Translation": " Doors opens in 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Press the three levers to open the door ": {
+    "Translation": " Press the three levers to open the door ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLAYER HAS PICKED UP WIND ": {
+    "Translation": " PLAYER HAS PICKED UP WIND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLAYER HAS PICKED UP HEAL ": {
+    "Translation": " PLAYER HAS PICKED UP HEAL ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

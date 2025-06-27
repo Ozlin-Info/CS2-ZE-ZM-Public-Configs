@@ -5,5 +5,15 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "这是哪？": {
+    "Translation": "这是哪？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "奇怪的地方，怎么到处都是...鸡块？不管了，找到路就行！": {
+    "Translation": "奇怪的地方，怎么到处都是...鸡块？不管了，找到路就行！",
+    "M-Bool": false,
+    "Value": 0
   }
 }
