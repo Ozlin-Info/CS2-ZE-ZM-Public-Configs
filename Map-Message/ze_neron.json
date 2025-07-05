@@ -90,5 +90,15 @@
     "Translation": "Kiki:Looks like we have to jump up and touch 8 energy balls to open the door",
     "M-Bool": false,
     "Value": 0
+  },
+  "Kiki:No, the facility's security system is activated, which means we are considered the enemy": {
+    "Translation": "Kiki:No, the facility's security system is activated, which means we are considered the enemy",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Kiki:There is no way, we have to break the security system": {
+    "Translation": "Kiki:There is no way, we have to break the security system",
+    "M-Bool": false,
+    "Value": 0
   }
 }

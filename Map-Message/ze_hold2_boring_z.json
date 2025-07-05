@@ -160,5 +160,10 @@
     "Translation": " Level 2  Hard ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Level 1 - Easy ": {
+    "Translation": " Level 1 - Easy ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

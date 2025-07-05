@@ -1,0 +1,84 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "=== Game Mode : Harmonious Mode ===": {
+    "Translation": "=== Game Mode : Harmonious Mode ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== The map defult mode is Harmonious mode ===": {
+    "Translation": "=== The map defult mode is Harmonious mode ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== If you want to play Original Mode,you can Find Choose area and stand there ===": {
+    "Translation": "=== If you want to play Original Mode,you can Find Choose area and stand there ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== If the number of players choosing Original Mode more than Harmonious mode.The Game will start with Choose Original Mode ===": {
+    "Translation": "=== If the number of players choosing Original Mode more than Harmonious mode.The Game will start with Choose Original Mode ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== WARMUP ROUND COMRADE! ===": {
+    "Translation": "=== WARMUP ROUND COMRADE! ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Map By [CygaPb] RoadRunner ": {
+    "Translation": " Map By [CygaPb] RoadRunner ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CS2 Version Port By Shana ": {
+    "Translation": " CS2 Version Port By Shana ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " NO WESTERN SPIES ALLOWED ON THIS MAP! ": {
+    "Translation": " NO WESTERN SPIES ALLOWED ON THIS MAP! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== You have 5 seconds to choosing to stand if you want to choose Mode ===": {
+    "Translation": "=== You have 5 seconds to choosing to stand if you want to choose Mode ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The Game Mode will become Harmonious Mode": {
+    "Translation": "The Game Mode will become Harmonious Mode",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " WARNING! This map is in Beta so there might be bugs and other issues! ": {
+    "Translation": " WARNING! This map is in Beta so there might be bugs and other issues! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Alright bois its time! ": {
+    "Translation": " Alright bois its time! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "=== LEVEL 1: Sewers and Bridge ===": {
+    "Translation": "=== LEVEL 1: Sewers and Bridge ===",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " They're waiting for us at the door. Get out through the windows at the top! ": {
+    "Translation": " They're waiting for us at the door. Get out through the windows at the top! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Follow Vanya. He will lead us to safety ": {
+    "Translation": " Follow Vanya. He will lead us to safety ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

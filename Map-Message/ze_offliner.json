@@ -15,5 +15,25 @@
     "Translation": "2024.6.21-Updated",
     "M-Bool": false,
     "Value": 0
+  },
+  "| Door opens in 20 seconds |": {
+    "Translation": "| Door opens in 20 seconds |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| Door opens in 35 seconds |": {
+    "Translation": "| Door opens in 35 seconds |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| 5 seconds left |": {
+    "Translation": "| 5 seconds left |",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "| Door opens in 15 seconds |": {
+    "Translation": "| Door opens in 15 seconds |",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -15,5 +15,60 @@
     "Translation": "LEFT DOOR OPENS IN 30 SECONDS",
     "M-Bool": false,
     "Value": 0
+  },
+  "GATE OPENS IN 15 SECONDS": {
+    "Translation": "GATE OPENS IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLAYER HAS PICKED UP DOTON ": {
+    "Translation": " PLAYER HAS PICKED UP DOTON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE OPENS IN 25 SECONDS": {
+    "Translation": "GATE OPENS IN 25 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE OPENS IN 20 SECONDS": {
+    "Translation": "GATE OPENS IN 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLAYER HAS PICKED UP SUITON ": {
+    "Translation": " PLAYER HAS PICKED UP SUITON ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GATE OPENS IN 10 SECONDS": {
+    "Translation": "GATE OPENS IN 10 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ITACHI DOORS OPENS IN 15 SECONDS": {
+    "Translation": "ITACHI DOORS OPENS IN 15 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GET IN FAST ": {
+    "Translation": " GET IN FAST ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DO NOT LET ZOMBIES ENTER ": {
+    "Translation": " DO NOT LET ZOMBIES ENTER ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ITACHI IS USING A STRONG GENJUTSU ": {
+    "Translation": " ITACHI IS USING A STRONG GENJUTSU ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAY IN THE MIDDLE ": {
+    "Translation": " STAY IN THE MIDDLE ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

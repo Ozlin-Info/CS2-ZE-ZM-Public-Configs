@@ -1025,5 +1025,10 @@
     "Translation": "part 1",
     "M-Bool": false,
     "Value": 0
+  },
+  "黑棺充能完毕": {
+    "Translation": "黑棺充能完毕",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -55,5 +55,10 @@
     "Translation": " Lightning Orb has been acquired ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Round failed! Zombies have reached the objective! ": {
+    "Translation": " Round failed! Zombies have reached the objective! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

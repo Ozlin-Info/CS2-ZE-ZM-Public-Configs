@@ -5,5 +5,60 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "fire!!!": {
+    "Translation": "fire!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " wait 60s ": {
+    "Translation": " wait 60s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " “我不知道，但是我不能往回走” ": {
+    "Translation": " “我不知道，但是我不能往回走” ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " wait 42s ": {
+    "Translation": " wait 42s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " wait 50s ": {
+    "Translation": " wait 50s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " wait 40s ": {
+    "Translation": " wait 40s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " “或许我真的想逃避现实，但这里真的很好，不是吗？我想象它们很和善，然后迷失……” ": {
+    "Translation": " “或许我真的想逃避现实，但这里真的很好，不是吗？我想象它们很和善，然后迷失……” ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " wait 30s ": {
+    "Translation": " wait 30s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 别着急，你其实可以慢下来 ": {
+    "Translation": " 别着急，你其实可以慢下来 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " wait 20s ": {
+    "Translation": " wait 20s ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " wait 25s ": {
+    "Translation": " wait 25s ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

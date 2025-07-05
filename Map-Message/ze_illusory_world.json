@@ -50,5 +50,10 @@
     "Translation": "Zombie Snow Slow human around you for 3 sec. 30 cd",
     "M-Bool": false,
     "Value": 0
+  },
+  "Zombie Speed -Speed up zombie around you for 3 sec. 60 cd": {
+    "Translation": "Zombie Speed -Speed up zombie around you for 3 sec. 60 cd",
+    "M-Bool": false,
+    "Value": 0
   }
 }

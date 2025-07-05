@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Map by : Airvulpes ": {
+    "Translation": " Map by : Airvulpes ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Difficulty : Disuse ": {
+    "Translation": " Difficulty : Disuse ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

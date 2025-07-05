@@ -15,5 +15,15 @@
     "Translation": "LEVEL 1 - THE COIL OF BAHAMUT",
     "M-Bool": false,
     "Value": 0
+  },
+  "Reached Allagan Door. Defend for 30 seconds": {
+    "Translation": "Reached Allagan Door. Defend for 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Allagan Door opened. Lets Mosey!": {
+    "Translation": "Allagan Door opened. Lets Mosey!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

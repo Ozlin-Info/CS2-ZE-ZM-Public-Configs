@@ -250,5 +250,10 @@
     "Translation": " REDEEMER has been acquired",
     "M-Bool": false,
     "Value": 0
+  },
+  " NO FRIENDLY FORCES DETECTED ON THE TRUCK ": {
+    "Translation": " NO FRIENDLY FORCES DETECTED ON THE TRUCK ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

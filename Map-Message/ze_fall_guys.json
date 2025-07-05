@@ -30,5 +30,20 @@
     "Translation": "Revolving Platforms",
     "M-Bool": false,
     "Value": 0
+  },
+  "Moving Walls": {
+    "Translation": "Moving Walls",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "King of the Mountain": {
+    "Translation": "King of the Mountain",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Fragile floor": {
+    "Translation": "Fragile floor",
+    "M-Bool": false,
+    "Value": 0
   }
 }

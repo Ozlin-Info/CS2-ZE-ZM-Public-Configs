@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "WARMUP ROUND 60 SEC": {
+    "Translation": "WARMUP ROUND 60 SEC",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WARMUP 5 SEC": {
+    "Translation": "WARMUP 5 SEC",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

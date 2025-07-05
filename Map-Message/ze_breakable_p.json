@@ -20,5 +20,60 @@
     "Translation": "RUN",
     "M-Bool": false,
     "Value": 0
+  },
+  "COVER 30s": {
+    "Translation": "COVER 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PREPARE TO RUN - TAKE THE RIGHT DOOR": {
+    "Translation": "PREPARE TO RUN - TAKE THE RIGHT DOOR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "COVER 35s": {
+    "Translation": "COVER 35s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "FIND GREEN LIGHT DOOR": {
+    "Translation": "FIND GREEN LIGHT DOOR",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BREAK THE CORRECT WALLS": {
+    "Translation": "BREAK THE CORRECT WALLS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES PROTECTION ACTIVATED ! HURRY UP": {
+    "Translation": "ZOMBIES PROTECTION ACTIVATED ! HURRY UP",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BREAK THE BLOCKING PILLAR OR COVER 1 MINUTE": {
+    "Translation": "BREAK THE BLOCKING PILLAR OR COVER 1 MINUTE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN TO THE OTHER SIDE OF THE BRIDGE": {
+    "Translation": "RUN TO THE OTHER SIDE OF THE BRIDGE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "SHOOT THE BRIDGE": {
+    "Translation": "SHOOT THE BRIDGE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "OR COVER 1 MINUTE": {
+    "Translation": "OR COVER 1 MINUTE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "30s LEFT": {
+    "Translation": "30s LEFT",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -95,5 +95,10 @@
     "Translation": " PLAYER HAS PICKED UP GRAVITY ",
     "M-Bool": false,
     "Value": 0
+  },
+  " PLAYER HAS PICKED UP ICE ": {
+    "Translation": " PLAYER HAS PICKED UP ICE ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

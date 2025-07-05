@@ -1,0 +1,19 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " VERSION 1.5 ": {
+    "Translation": " VERSION 1.5 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CASUAL DIFFICULTY - ZOMBIE HP 600 ": {
+    "Translation": " CASUAL DIFFICULTY - ZOMBIE HP 600 ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

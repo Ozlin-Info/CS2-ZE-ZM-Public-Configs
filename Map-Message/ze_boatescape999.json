@@ -115,5 +115,10 @@
     "Translation": "Ver:5.0.7",
     "M-Bool": false,
     "Value": 0
+  },
+  "Mode : Rainbow Laser": {
+    "Translation": "Mode : Rainbow Laser",
+    "M-Bool": false,
+    "Value": 0
   }
 }
