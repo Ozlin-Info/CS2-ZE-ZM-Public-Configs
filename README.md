@@ -3,33 +3,41 @@ Here you can find a list of public configuations for Ozlin Info game community s
 
 https://steamcommunity.com/groups/ozlin-gaming
 
+> [!NOTE]  
+> The configurations here are provided "as-is" for our community and are not always 100% up to date. Feel free to use these configs if it works, but make sure you also pay it forward for other server owners and set your repo public!
+>
+
 ## BossHP 
 Empty folder, reserved for future. 
 
 ## Entwatch 
 Using darkerz7's public EntWatch plugin https://github.com/darkerz7/EntWatchSharp
 
+> [!WARNING]  
+> Starting from 2025-06-27, our EntWatch config definition is changed to accept `HammerID`, `TriggerID`, `ButtonID`, and `MathID` with both String and Integer values. This is due to when the game engine decides to use string values.
+> 
+> New or updated configs here will be in String value by default.
+ 
 **Example Structure**
-```json
-[
+```json[
 	{
 		"Name": "",					//String, FullName of Item (Chat)
 		"ShortName": "",				//String, ShortName of Item (Hud)
 		"Color": "",					//String, One of the colors. (Chat)
-		"HammerID": 0,					//Integer, weapon_* HammerID
+		"HammerID": "0",				//String or Integer, weapon_* HammerID
 		"GlowColor": [0,0,0,0],				//Array[4], One of the colors. (Glow)
 		"BlockPickup": false,				//Bool, The item cannot be picked up
 		"AllowTransfer": false,				//Bool, Allow admins to transfer an item
 		"ForceDrop": false,				//Bool, The item will be dropped if player dies or disconnects
 		"Chat": false,					//Bool, Display chat items
 		"Hud": false,					//Bool, Display Hud items
-		"TriggerID": 0,					//Integer, Sets a trigger that an ebanned player cant activate, mostly to prevent picking up weapon_knife items
+		"TriggerID": "0",				//String or Integer, Sets a trigger that an ebanned player cant activate, mostly to prevent picking up weapon_knife items
 		"UsePriority": false,				//Bool, Enabled by default. You can disable the forced pressing of the button on a specific item
 		"SpawnerID": 0,					//Integer, Allows admins to spawn items. Not recommended to use because it can break the items. Type point_template's HammerID which spawns the item
 		"AbilityList": [				//Array of abilities
 			{
 				"Name": "",			//String, Custom ability name, can be omitted
-				"ButtonID": 0,			//Integer, Allows you to sort buttons
+				"ButtonID": "0",		//String or Integer, Allows you to sort buttons
 				"ButtonClass": "",		//String, Button Class, Can use "game_ui" for anoter activation method
 				"Filter": "",			//String, Filter value for activator. |$attribute| for filter_activator_attribute_int (starts with $); |context:value| for filter_activator_context (contains :); other for filter_activator_name
 				"Chat_Uses": false,		//Bool, Display chat someone is using an item(if disabled chat)
@@ -38,12 +46,12 @@ Using darkerz7's public EntWatch plugin https://github.com/darkerz7/EntWatchShar
 				"CoolDown": 0,			//Integer, Cooldown of item for modes 2, 4, 5
 				"Ignore": false,		//Bool, Ignore item display
 				"LockItem": false,		//Bool, Lock button/door/game_ui_IO
-				"MathID": 0,			//Integer, math_counter HammerID for modes 6, 7
+				"MathID": "0",			//String or Integer, math_counter HammerID for modes 6, 7
 				"MathNameFix": false		//Bool, Fix the name of the math_counter (Work with flag: Preserve entity names (Don't do name fixup) ->point_template/env_entity_maker)
 			},
 			{
 				"Name": "",
-				"ButtonID": 0,
+				"ButtonID": "0",
 				"ButtonClass": "game_ui::PressedAttack",	//Example for Game_UI
 				"Filter": "",
 				"Chat_Uses": false,
@@ -52,7 +60,7 @@ Using darkerz7's public EntWatch plugin https://github.com/darkerz7/EntWatchShar
 				"CoolDown": 0,
 				"Ignore": false,
 				"LockItem": false,
-				"MathID": 0,
+				"MathID": "0",
 				"MathNameFix": false
 			}
 		]
