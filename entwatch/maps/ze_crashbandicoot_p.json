@@ -3,7 +3,7 @@
     "Name": "Cannon",
     "ShortName": "Cannon",
     "Color": "{default}",
-    "HammerID": 1264,
+    "HammerID": "1264",
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -12,12 +12,12 @@
     "ForceDrop": true,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": "0",
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "tappo_nappi",
-        "ButtonID": 3059,
+        "ButtonID": "3059",
         "ButtonClass": "func_button",
         "Filter": "tappo_kantaja",
         "Chat_Uses": true,
@@ -26,7 +26,7 @@
         "CoolDown": 0,
         "Ignore": false,
         "LockItem": false,
-        "MathID": 25,
+        "MathID": "25",
         "MathNameFix": false,
         "MathFindSpawned": true,
         "MathDontShowMax": true

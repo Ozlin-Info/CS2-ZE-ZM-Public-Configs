@@ -3,7 +3,7 @@
     "Name": "Wall",
     "ShortName": "Wall",
     "Color": "{default}",
-    "HammerID": 201,
+    "HammerID": "201",
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -12,12 +12,12 @@
     "ForceDrop": true,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": "0",
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "wall_button",
-        "ButtonID": 198,
+        "ButtonID": "198",
         "ButtonClass": "func_button",
         "Filter": "",
         "Chat_Uses": true,

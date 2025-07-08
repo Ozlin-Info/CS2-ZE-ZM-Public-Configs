@@ -3,7 +3,7 @@
     "Name": "halo",
     "ShortName": "halo",
     "Color": "{default}",
-    "HammerID": 12375,
+    "HammerID": "12375",
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -12,12 +12,12 @@
     "ForceDrop": true,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": "0",
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "halo_button",
-        "ButtonID": 12381,
+        "ButtonID": "12381",
         "ButtonClass": "func_button",
         "Filter": "halo_user:1",
         "Chat_Uses": true,

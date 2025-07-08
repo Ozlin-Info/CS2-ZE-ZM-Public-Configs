@@ -3,7 +3,7 @@
     "Name": "Ammo",
     "ShortName": "Ammo",
     "Color": "{default}",
-    "HammerID": 9493,
+    "HammerID": "9493",
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -12,12 +12,12 @@
     "ForceDrop": true,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": "0",
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "Item_Button",
-        "ButtonID": 9495,
+        "ButtonID": "9495",
         "ButtonClass": "func_button",
         "Filter": "yy:1",
         "Chat_Uses": true,

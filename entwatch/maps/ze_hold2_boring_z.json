@@ -3,7 +3,7 @@
     "Name": "Music Box",
     "ShortName": "Music Box",
     "Color": "{default}",
-    "HammerID": 41,
+    "HammerID": "41",
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -12,12 +12,12 @@
     "ForceDrop": true,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": "0",
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "Item_Musicbox_Button",
-        "ButtonID": 42,
+        "ButtonID": "42",
         "ButtonClass": "func_button",
         "Filter": "$User_Musicbox",
         "Chat_Uses": true,
@@ -27,7 +27,7 @@
       },
       {
         "Name": "Item_Musicbox_Button_Top",
-        "ButtonID": 1457,
+        "ButtonID": "1457",
         "ButtonClass": "func_button",
         "Filter": "$User_Musicbox",
         "Chat_Uses": true,
@@ -36,12 +36,12 @@
         "CoolDown": 120,
         "Ignore": false,
         "LockItem": true,
-        "MathID": 0,
+        "MathID": "0",
         "MathNameFix": false
       },
       {
         "Name": "Item_Musicbox_Button_Under",
-        "ButtonID": 1459,
+        "ButtonID": "1459",
         "ButtonClass": "func_button",
         "Filter": "$User_Musicbox",
         "Chat_Uses": true,
@@ -50,7 +50,7 @@
         "CoolDown": 120,
         "Ignore": false,
         "LockItem": true,
-        "MathID": 0,
+        "MathID": "0",
         "MathNameFix": false
       }
     ]

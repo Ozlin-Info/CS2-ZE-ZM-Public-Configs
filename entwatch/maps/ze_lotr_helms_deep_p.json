@@ -3,7 +3,7 @@
     "Name": "radio",
     "ShortName": "radio",
     "Color": "{default}",
-    "HammerID": 413,
+    "HammerID": "413",
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -12,12 +12,12 @@
     "ForceDrop": true,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": "0",
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "",
-        "ButtonID": 957,
+        "ButtonID": "957",
         "ButtonClass": "func_physbox",
         "Filter": "radioguy:1",
         "Chat_Uses": true,

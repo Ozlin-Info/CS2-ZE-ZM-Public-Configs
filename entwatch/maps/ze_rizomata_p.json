@@ -1,310 +1,310 @@
 [
-	{
-		"Name": "ZM 加速/Zombie Haste",
-		"ShortName": "ZM Haste",
-		"Color": "{default}",
-		"HammerID": 738,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 739,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-    },
-    {
-		"Name": "ZM 毒/Zombie Death",
-		"ShortName": "ZM Death",
-		"Color": "{default}",
-		"HammerID": 732,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 733,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-    {
-		"Name": "ZM 诅咒/Zombie Curse",
-		"ShortName": "ZM Curse",
-		"Color": "{default}",
-		"HammerID": 735,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 736,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "",
-				"ButtonID": 0,
-				"ButtonClass": "",
-				"Filter": "",
-				"Chat_Uses": true,
-				"Mode": 1,
-				"MaxUses": 0,
-				"CoolDown": 0
-			}
-		]
-	},
-    {
-		"Name": "风1/Wind1",
-		"ShortName": "Wind1",
-		"Color": "{default}",
-		"HammerID": 703,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 784,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "wind_button",
-				"ButtonID": 698,
-				"ButtonClass": "func_physbox",
-				"Filter": "winduser:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			}
-		]
-	},
-    {
-		"Name": "风2/Wind2",
-		"ShortName": "Wind2",
-		"Color": "{default}",
-		"HammerID": 667,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 746,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "wind_button2",
-				"ButtonID": 660,
-				"ButtonClass": "func_physbox",
-				"Filter": "windtwouser:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			}
-		]
-	},
-    {
-		"Name": "水1/Water 1",
-		"ShortName": "Water1",
-		"Color": "{default}",
-		"HammerID": 1245,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1278,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "water_button",
-				"ButtonID": 1239,
-				"ButtonClass": "func_physbox",
-				"Filter": "wateruser:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			}
-		]
-	},
-    {
-		"Name": "水2/Water 2",
-		"ShortName": "Water2",
-		"Color": "{default}",
-		"HammerID": 1264,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1284,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "water_button2",
-				"ButtonID": 1258,
-				"ButtonClass": "func_physbox",
-				"Filter": "watertwouser:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			}
-		]
-	},
-    {
-		"Name": "奶1/Heal 1",
-		"ShortName": "Heal1",
-		"Color": "{default}",
-		"HammerID": 1801,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1677,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "heal_button",
-				"ButtonID": 1799,
-				"ButtonClass": "func_physbox",
-				"Filter": "healuser:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-    {
-		"Name": "奶2/Heal 2",
-		"ShortName": "Heal2",
-		"Color": "{default}",
-		"HammerID": 1594,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1577,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "heal_button2",
-				"ButtonID": 1590,
-				"ButtonClass": "func_physbox",
-				"Filter": "healtwouser:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 55
-			}
-		]
-	},
-    {
-		"Name": "土1/Earth 1",
-		"ShortName": "Earth1",
-		"Color": "{default}",
-		"HammerID": 1816,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1663,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "earth_button",
-				"ButtonID": 1817,
-				"ButtonClass": "func_physbox",
-				"Filter": "earthuser:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			}
-		]
-	},
-    {
-		"Name": "土2/Earth 2",
-		"ShortName": "Earth2",
-		"Color": "{default}",
-		"HammerID": 1603,
-		"GlowColor": [255,255,255,255],
-		"FilterID": 0,
-		"FilterValue": "",
-		"BlockPickup": false,
-		"AllowTransfer": false,
-		"ForceDrop": false,
-		"Chat": true,
-		"Hud": true,
-		"TriggerID": 1575,
-		"UsePriority": true,
-		"AbilityList": [
-			{
-				"Name": "earth_button2",
-				"ButtonID": 1606,
-				"ButtonClass": "func_physbox",
-				"Filter": "earthtwouser:1",
-				"Chat_Uses": true,
-				"Mode": 2,
-				"MaxUses": 0,
-				"CoolDown": 50
-			}
-		]
-	}
+  {
+    "Name": "ZM 加速/Zombie Haste",
+    "ShortName": "ZM Haste",
+    "Color": "{default}",
+    "HammerID": "738",
+    "GlowColor": [255,255,255,255],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": "739",
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": "0",
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "ZM 毒/Zombie Death",
+    "ShortName": "ZM Death",
+    "Color": "{default}",
+    "HammerID": "732",
+    "GlowColor": [255,255,255,255],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": "733",
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": "0",
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "ZM 诅咒/Zombie Curse",
+    "ShortName": "ZM Curse",
+    "Color": "{default}",
+    "HammerID": "735",
+    "GlowColor": [255,255,255,255],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": "736",
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "",
+        "ButtonID": "0",
+        "ButtonClass": "",
+        "Filter": "",
+        "Chat_Uses": true,
+        "Mode": 1,
+        "MaxUses": 0,
+        "CoolDown": 0
+      }
+    ]
+  },
+  {
+    "Name": "风1/Wind1",
+    "ShortName": "Wind1",
+    "Color": "{default}",
+    "HammerID": "703",
+    "GlowColor": [255,255,255,255],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": "784",
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "wind_button",
+        "ButtonID": "698",
+        "ButtonClass": "func_physbox",
+        "Filter": "winduser:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "风2/Wind2",
+    "ShortName": "Wind2",
+    "Color": "{default}",
+    "HammerID": "667",
+    "GlowColor": [255,255,255,255],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": "746",
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "wind_button2",
+        "ButtonID": "660",
+        "ButtonClass": "func_physbox",
+        "Filter": "windtwouser:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "水1/Water 1",
+    "ShortName": "Water1",
+    "Color": "{default}",
+    "HammerID": "1245",
+    "GlowColor": [255,255,255,255],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": "1278",
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "water_button",
+        "ButtonID": "1239",
+        "ButtonClass": "func_physbox",
+        "Filter": "wateruser:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "水2/Water 2",
+    "ShortName": "Water2",
+    "Color": "{default}",
+    "HammerID": "1264",
+    "GlowColor": [255,255,255,255],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": "1284",
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "water_button2",
+        "ButtonID": "1258",
+        "ButtonClass": "func_physbox",
+        "Filter": "watertwouser:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "奶1/Heal 1",
+    "ShortName": "Heal1",
+    "Color": "{default}",
+    "HammerID": "1801",
+    "GlowColor": [255,255,255,255],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": "1677",
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "heal_button",
+        "ButtonID": "1799",
+        "ButtonClass": "func_physbox",
+        "Filter": "healuser:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "奶2/Heal 2",
+    "ShortName": "Heal2",
+    "Color": "{default}",
+    "HammerID": "1594",
+    "GlowColor": [255,255,255,255],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": "1577",
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "heal_button2",
+        "ButtonID": "1590",
+        "ButtonClass": "func_physbox",
+        "Filter": "healtwouser:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 55
+      }
+    ]
+  },
+  {
+    "Name": "土1/Earth 1",
+    "ShortName": "Earth1",
+    "Color": "{default}",
+    "HammerID": "1816",
+    "GlowColor": [255,255,255,255],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": "1663",
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "earth_button",
+        "ButtonID": "1817",
+        "ButtonClass": "func_physbox",
+        "Filter": "earthuser:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  },
+  {
+    "Name": "土2/Earth 2",
+    "ShortName": "Earth2",
+    "Color": "{default}",
+    "HammerID": "1603",
+    "GlowColor": [255,255,255,255],
+    "FilterID": 0,
+    "FilterValue": "",
+    "BlockPickup": false,
+    "AllowTransfer": false,
+    "ForceDrop": false,
+    "Chat": true,
+    "Hud": true,
+    "TriggerID": "1575",
+    "UsePriority": true,
+    "AbilityList": [
+      {
+        "Name": "earth_button2",
+        "ButtonID": "1606",
+        "ButtonClass": "func_physbox",
+        "Filter": "earthtwouser:1",
+        "Chat_Uses": true,
+        "Mode": 2,
+        "MaxUses": 0,
+        "CoolDown": 50
+      }
+    ]
+  }
 ]

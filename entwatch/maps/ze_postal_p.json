@@ -3,7 +3,7 @@
     "Name": "Heal",
     "ShortName": "Heal",
     "Color": "{default}",
-    "HammerID": 44496,
+    "HammerID": "44496",
     "GlowColor": [0,255,0,1],
     "FilterID": 0,
     "FilterValue": "",
@@ -12,12 +12,12 @@
     "ForceDrop": true,
     "Chat": true,
     "Hud": true,
-    "TriggerID": 0,
+    "TriggerID": "0",
     "UsePriority": true,
     "AbilityList": [
       {
         "Name": "heal_button",
-        "ButtonID": 44494,
+        "ButtonID": "44494",
         "ButtonClass": "func_button",
         "Filter": "$heal_user",
         "Chat_Uses": true,
