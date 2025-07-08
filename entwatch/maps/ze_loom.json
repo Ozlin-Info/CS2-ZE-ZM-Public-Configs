@@ -2,9 +2,9 @@
   {
     "Name": "Lightning",
     "ShortName": "Lightning",
-    "Color": "{default}",
+    "Color": "{blue}",
     "HammerID": "7939",
-    "GlowColor": [255,255,255,255],
+    "GlowColor": [0,0,255,255],
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
@@ -36,9 +36,9 @@
   {
     "Name": "Firework",
     "ShortName": "Firework",
-    "Color": "{default}",
+    "Color": "{red}",
     "HammerID": "6969",
-    "GlowColor": [255,255,255,255],
+    "GlowColor": [255,0,0,255],
     "FilterID": 0,
     "FilterValue": "",
     "BlockPickup": false,
