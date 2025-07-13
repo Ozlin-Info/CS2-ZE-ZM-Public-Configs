@@ -90,5 +90,15 @@
     "Translation": " TIP: The map does not tolerate missed shots ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Its existence is far away from time or matter - it exists out of pure belief ": {
+    "Translation": " Its existence is far away from time or matter - it exists out of pure belief ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ERRBODY GETTIN' DEDED - GO H8 THE MAP MOAR! ": {
+    "Translation": " ERRBODY GETTIN' DEDED - GO H8 THE MAP MOAR! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

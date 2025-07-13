@@ -15,5 +15,40 @@
     "Translation": "30 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "20 seconds": {
+    "Translation": "20 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Get to the top ": {
+    "Translation": " Get to the top ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZMtp enabled ": {
+    "Translation": "ZMtp enabled ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "40 seconds": {
+    "Translation": "40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "25 sceonds": {
+    "Translation": "25 sceonds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "25 seconds": {
+    "Translation": "25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Keep going down ": {
+    "Translation": " Keep going down ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

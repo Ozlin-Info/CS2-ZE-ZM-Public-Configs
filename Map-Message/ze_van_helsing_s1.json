@@ -60,5 +60,20 @@
     "Translation": "Zombie TP 10 sec!",
     "M-Bool": false,
     "Value": 0
+  },
+  "The hospital door will open in 30 seconds.": {
+    "Translation": "The hospital door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Last 10 sec!": {
+    "Translation": "Last 10 sec!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door Opening RUN !": {
+    "Translation": "Door Opening RUN !",
+    "M-Bool": false,
+    "Value": 0
   }
 }

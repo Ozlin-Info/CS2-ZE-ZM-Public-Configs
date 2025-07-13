@@ -15,5 +15,110 @@
     "Translation": "||| Map by Struppi |||",
     "M-Bool": false,
     "Value": 0
+  },
+  "||| OFFICE gate opens in 20 seconds |||": {
+    "Translation": "||| OFFICE gate opens in 20 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| OFFICE gate opens in 5 seconds |||": {
+    "Translation": "||| OFFICE gate opens in 5 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| STORAGE door opens in 20 seconds |||": {
+    "Translation": "||| STORAGE door opens in 20 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| STORAGE door opens in 5 seconds |||": {
+    "Translation": "||| STORAGE door opens in 5 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Door opens in 5 seconds |||": {
+    "Translation": "||| Door opens in 5 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Door opens in 10 seconds |||": {
+    "Translation": "||| Door opens in 10 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Door breaks in 20 seconds ||": {
+    "Translation": "||| Door breaks in 20 seconds ||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Door breaks in 10 seconds ||": {
+    "Translation": "||| Door breaks in 10 seconds ||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Door breaks in 10 ||": {
+    "Translation": "||| Door breaks in 10 ||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Door breaks in 5 ||": {
+    "Translation": "||| Door breaks in 5 ||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Train leaves in 10 seconds |||": {
+    "Translation": "||| Train leaves in 10 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Generator Powering up |||": {
+    "Translation": "||| Generator Powering up |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Elevator is leaving in 15 seconds |||": {
+    "Translation": "||| Elevator is leaving in 15 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| right Blastdoor will open in 10 seconds |||": {
+    "Translation": "||| right Blastdoor will open in 10 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Blastdoor opens in 20 seconds |||": {
+    "Translation": "||| Blastdoor opens in 20 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Blastdoor opens in 40 seconds |||": {
+    "Translation": "||| Blastdoor opens in 40 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Fencedoor opens in 10 seconds |||": {
+    "Translation": "||| Fencedoor opens in 10 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Fencegate opens in 10 seconds |||": {
+    "Translation": "||| Fencegate opens in 10 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Blastdoor opens in 10 seconds |||": {
+    "Translation": "||| Blastdoor opens in 10 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| Fencegate opens in 20 seconds |||": {
+    "Translation": "||| Fencegate opens in 20 seconds |||",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "||| left Blastdoor will open in 10 seconds |||": {
+    "Translation": "||| left Blastdoor will open in 10 seconds |||",
+    "M-Bool": false,
+    "Value": 0
   }
 }

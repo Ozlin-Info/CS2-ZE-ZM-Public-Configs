@@ -20,5 +20,80 @@
     "Translation": "ROAD SELECTION : Gas Station",
     "M-Bool": false,
     "Value": 0
+  },
+  "DOOR CLOSING IN 15s": {
+    "Translation": "DOOR CLOSING IN 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND THE HOUSE 50s": {
+    "Translation": "DEFEND THE HOUSE 50s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1ST FLOOR LOST : CLOSING IN 5s": {
+    "Translation": "1ST FLOOR LOST : CLOSING IN 5s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5s LEFT": {
+    "Translation": "5s LEFT",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES IN THE BEDROOM DEFEND 5s": {
+    "Translation": "ZOMBIES IN THE BEDROOM DEFEND 5s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN": {
+    "Translation": "RUN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND THE GAS STATION 50s": {
+    "Translation": "DEFEND THE GAS STATION 50s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ACTIVATE THE GENERATOR IN THE BARN !": {
+    "Translation": "ACTIVATE THE GENERATOR IN THE BARN !",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOORS CLOSING IN 15s": {
+    "Translation": "DOORS CLOSING IN 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND THE BARN 45s": {
+    "Translation": "DEFEND THE BARN 45s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DEFEND 30s": {
+    "Translation": "DEFEND 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "BLOW UP THE BARRAGE WITH THE COMPUTER": {
+    "Translation": "BLOW UP THE BARRAGE WITH THE COMPUTER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "EXPLOSION IN 1 MINUTE": {
+    "Translation": "EXPLOSION IN 1 MINUTE",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ROOF OPEN": {
+    "Translation": "ROOF OPEN",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "LADDERS ACCESS OPEN": {
+    "Translation": "LADDERS ACCESS OPEN",
+    "M-Bool": false,
+    "Value": 0
   }
 }

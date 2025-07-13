@@ -75,5 +75,10 @@
     "Translation": "A player has picked up Earth Magic",
     "M-Bool": false,
     "Value": 0
+  },
+  "ze_S_A_M ver:2.3.1": {
+    "Translation": "ze_S_A_M ver:2.3.1",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -15,5 +15,90 @@
     "Translation": "Map made by Xquality.",
     "M-Bool": false,
     "Value": 0
+  },
+  "Security airlock closing.": {
+    "Translation": "Security airlock closing.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Mini airlock opening in 5.": {
+    "Translation": "Mini airlock opening in 5.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Power generator Offline.": {
+    "Translation": "Power generator Offline.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Power generator waiting for restart.": {
+    "Translation": "Power generator waiting for restart.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Airlock opening in 20 secs.": {
+    "Translation": "Airlock opening in 20 secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Power Generator Online.": {
+    "Translation": "Power Generator Online.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Airlock opening in 15 secs.": {
+    "Translation": "Airlock opening in 15 secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Airlock opening in 10 secs.": {
+    "Translation": "Airlock opening in 10 secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Airlock opening in 5 secs.": {
+    "Translation": "Airlock opening in 5 secs.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Airlock opening.": {
+    "Translation": "Airlock opening.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bunker closing in 60 secs": {
+    "Translation": "Bunker closing in 60 secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pole doors closing.": {
+    "Translation": "Pole doors closing.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bunker closing in 40 secs": {
+    "Translation": "Bunker closing in 40 secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bunker closing in 20 secs": {
+    "Translation": "Bunker closing in 20 secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bunker closing in 10 secs": {
+    "Translation": "Bunker closing in 10 secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Bunker closing in 5 secs": {
+    "Translation": "Bunker closing in 5 secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Marslab self-destructing in...": {
+    "Translation": "Marslab self-destructing in...",
+    "M-Bool": false,
+    "Value": 0
   }
 }

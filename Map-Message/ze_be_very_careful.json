@@ -120,5 +120,10 @@
     "Translation": "Wait, this door seems off!",
     "M-Bool": false,
     "Value": 0
+  },
+  "获得的电风扇!": {
+    "Translation": "获得的电风扇!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -205,5 +205,20 @@
     "Translation": "FIND 300 GIL TO UNLOCK CHOCOBOS ON SPAWN",
     "M-Bool": false,
     "Value": 0
+  },
+  "A PLAYER HAS ACQUIRED FIRAGA(FIRE LEVEL 1)": {
+    "Translation": "A PLAYER HAS ACQUIRED FIRAGA(FIRE LEVEL 1)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A PLAYER HAS ACQUIRED AEROGA(WIND LEVEL 1)": {
+    "Translation": "A PLAYER HAS ACQUIRED AEROGA(WIND LEVEL 1)",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "A PLAYER HAS ACQUIRED THUNDAGA(ELECTRO LEVEL 1)": {
+    "Translation": "A PLAYER HAS ACQUIRED THUNDAGA(ELECTRO LEVEL 1)",
+    "M-Bool": false,
+    "Value": 0
   }
 }

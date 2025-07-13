@@ -15,5 +15,15 @@
     "Translation": "Door will open in 15 seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Spawn teleport will activate in 15 seconds": {
+    "Translation": "Spawn teleport will activate in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold for 30 seconds": {
+    "Translation": "Hold for 30 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

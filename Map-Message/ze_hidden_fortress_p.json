@@ -35,5 +35,10 @@
     "Translation": " Humans have failed to escape! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Humans have escaped! ": {
+    "Translation": " Humans have escaped! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
