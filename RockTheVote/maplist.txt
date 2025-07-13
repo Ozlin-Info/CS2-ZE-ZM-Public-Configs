@@ -360,7 +360,7 @@ ze_geometric:3281834374
 ze_diverted_destiny:3282400800
 ze_obf_rescape:3283167200
 ze_infiltration_final_p:3283238776
-ze_starlight_revue_cs2:3285481137
+ze_starlight_revue_cs2:3519985936
 ze_fond_dream:3285633504
 ze_italy_remake_cs2:3285781300
 //ze_sky_defend_v1:3286133969 // workshop error
@@ -776,3 +776,13 @@ ze_gameshow:3502458657
 ze_error:3503421526
 ze_diablo:3485132292
 ze_ultrakill:3455771581
+zm_hoshi_house_of_1003_corpses:3510859039
+ze_obj_annihilate_dd_v1:3434442059
+ze_untitled_touhou:3511418043
+ze_skibidi_toilet_remake:3512276174
+ze_obf_rampage_v2:3512703303
+ze_timesink:3513697564
+ze_guye_room:3518232786
+ze_new_forest_cs2:3518808791
+ze_watagi_tunnel_rewind:3518946563
+ze_arknights_caerula_arbor:3522564643
