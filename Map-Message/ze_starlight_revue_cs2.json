@@ -5,5 +5,280 @@
       "M-Bool": false,
       "Value": 0
     }
+  },
+  "学校大门还有40秒打开": {
+    "Translation": "The school gate will open in 40 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "等待30秒迷宫的栅栏门打开": {
+    "Translation": "Wait 30 seconds for the maze gate to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "走廊被东西挡住了，从教室里绕过去吧": {
+    "Translation": "The corridor is blocked; go around from the classroom.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "等待30秒教室后门打开": {
+    "Translation": "Wait 30 seconds for the classroom back door to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "等待30秒舞蹈室的门打开": {
+    "Translation": "Wait 30 seconds for the dance room door to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "图书室的门还有10秒打开": {
+    "Translation": "The library door will open in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "图书室的后门在25秒后打开": {
+    "Translation": "The back door of the library will open in 25 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "等待10秒教室前门打开": {
+    "Translation": "Wait 10 seconds for the classroom front door to open.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "奇怪，门怎么锁住了，我们再想想其他办法": {
+    "Translation": "Strange, why is the door locked? Let's think of another way.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "那面墙好像坏了，我们看看能不能给它推倒": {
+    "Translation": "That wall seems broken; let's see if we can push it down.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯门还有30秒打开": {
+    "Translation": "The elevator door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "舞台将在10秒后开启": {
+    "Translation": "The stage will open in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到九名少女开启电梯": {
+    "Translation": "Find nine girls to activate the elevator.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到了西条克洛迪娜": {
+    "Translation": "Found Saijo Clodina.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到了天堂真矢": {
+    "Translation": "Found Amamiya Maya.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到了花柳香子": {
+    "Translation": "Found Hanamura Kyoko.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到了神乐光": {
+    "Translation": "Found Kagura Hikaru.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到了露崎真昼": {
+    "Translation": "Found Ruzaki Mahiru.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到了爱城华恋": {
+    "Translation": "Found Aizawa Karen.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到了大场奈奈": {
+    "Translation": "Found Ooba Nana.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到了星见纯那": {
+    "Translation": "Found Hoshimi Junna.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "找到了石动双叶": {
+    "Translation": "Found Ishidou Fuka.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "舞台将在55秒后开启": {
+    "Translation": "The stage will open in 55 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "v0.15": {
+    "Translation": "v0.15",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "这是我的第一张地图,重置GO时期的少女歌剧": {
+    "Translation": "这是我的第一张地图,重置GO时期的少女歌剧",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "如遇到地图bug，请到我创意工坊下留言": {
+    "Translation": "如遇到地图bug，请到我创意工坊下留言",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "建议打开地图音乐体验更佳": {
+    "Translation": "建议打开地图音乐体验更佳",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "祝大家玩的愉快": {
+    "Translation": "祝大家玩的愉快",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "奇怪,学校大门怎么进不去,快进左边的小树林": {
+    "Translation": "奇怪,学校大门怎么进不去,快进左边的小树林",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "打碎了所有长颈鹿,守住30秒等待星星上升": {
+    "Translation": "打碎了所有长颈鹿,守住30秒等待星星上升",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "守住20秒等待平台下降": {
+    "Translation": "守住20秒等待平台下降",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸将在3秒后传送": {
+    "Translation": "僵尸将在3秒后传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们需要打碎两边水晶才能继续前进": {
+    "Translation": "我们需要打碎两边水晶才能继续前进",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们成功了!守住15秒等待道路出现": {
+    "Translation": "我们成功了!守住15秒等待道路出现",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "我们将在20秒后传送": {
+    "Translation": "我们将在20秒后传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "路被堵住了，守住20秒检查一下哪道门是正确的门": {
+    "Translation": "路被堵住了，守住20秒检查一下哪道门是正确的门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "又来?继续守住20秒寻找正确的门": {
+    "Translation": "又来?继续守住20秒寻找正确的门",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "快站到架子下面去守住15秒": {
+    "Translation": "快站到架子下面去守住15秒",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK将在5秒后传送": {
+    "Translation": "AFK将在5秒后传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "平台将在15秒后开始移动，注意其他平台上的僵尸": {
+    "Translation": "平台将在15秒后开始移动，注意其他平台上的僵尸",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "梯子开放了，快走！": {
+    "Translation": "梯子开放了，快走！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK3秒后传送": {
+    "Translation": "AFK3秒后传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "星星马上就要消失了，快走!": {
+    "Translation": "星星马上就要消失了，快走!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK将在15秒后开启": {
+    "Translation": "AFK将在15秒后开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "鸟笼将在5秒后上升": {
+    "Translation": "鸟笼将在5秒后上升",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第一道铁门还有20秒打开": {
+    "Translation": "第一道铁门还有20秒打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第二道铁门还有20秒打开": {
+    "Translation": "第二道铁门还有20秒打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第三道铁门还有5秒打开": {
+    "Translation": "第三道铁门还有5秒打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "站在鸟笼里等待30秒传送": {
+    "Translation": "站在鸟笼里等待30秒传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK将在3秒后开启": {
+    "Translation": "AFK将在3秒后开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "检测到没有达成真结局解锁条件": {
+    "Translation": "检测到没有达成真结局解锁条件",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "将开启假结局......": {
+    "Translation": "将开启假结局......",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "20秒后将开启跳刀": {
+    "Translation": "20秒后将开启跳刀",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "梯子已碎掉": {
+    "Translation": "梯子已碎掉",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "即将重启舞台......": {
+    "Translation": "即将重启舞台......",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -75,5 +75,20 @@
     "Translation": " BUNKER PATH: FALL BACK! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " FOREST PATH: RESIST 20 SECONDS": {
+    "Translation": " FOREST PATH: RESIST 20 SECONDS",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FOREST PATH: 5 SECONDS ": {
+    "Translation": " FOREST PATH: 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FOREST PATH: RETREAT! ": {
+    "Translation": " FOREST PATH: RETREAT! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
