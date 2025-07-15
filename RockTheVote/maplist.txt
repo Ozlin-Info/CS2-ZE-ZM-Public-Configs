@@ -786,3 +786,4 @@ ze_guye_room:3518232786
 ze_new_forest_cs2:3518808791
 ze_watagi_tunnel_rewind:3518946563
 ze_arknights_caerula_arbor:3522564643
+ze_minecraft_adventure:3492345434
