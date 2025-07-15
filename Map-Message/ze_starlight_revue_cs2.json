@@ -72,47 +72,47 @@
     "Value": 0
   },
   "找到了西条克洛迪娜": {
-    "Translation": "Found Saijo Clodina.",
+    "Translation": "Found Claudine Saijo.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了天堂真矢": {
-    "Translation": "Found Amamiya Maya.",
+    "Translation": "Found Maya Tendo.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了花柳香子": {
-    "Translation": "Found Hanamura Kyoko.",
+    "Translation": "Found Kaoruko Hanayagi.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了神乐光": {
-    "Translation": "Found Kagura Hikaru.",
+    "Translation": "Found Hikari Kagura.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了露崎真昼": {
-    "Translation": "Found Ruzaki Mahiru.",
+    "Translation": "Found Mahiru Tsuyuzaki.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了爱城华恋": {
-    "Translation": "Found Aizawa Karen.",
+    "Translation": "Found Karen Aijo.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了大场奈奈": {
-    "Translation": "Found Ooba Nana.",
+    "Translation": "Found Nana Daiba.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了星见纯那": {
-    "Translation": "Found Hoshimi Junna.",
+    "Translation": "Found Junna Hoshimi.",
     "M-Bool": false,
     "Value": 0
   },
   "找到了石动双叶": {
-    "Translation": "Found Ishidou Fuka.",
+    "Translation": "Found Futaba Isurugi.",
     "M-Bool": false,
     "Value": 0
   },
@@ -127,157 +127,157 @@
     "Value": 0
   },
   "这是我的第一张地图,重置GO时期的少女歌剧": {
-    "Translation": "这是我的第一张地图,重置GO时期的少女歌剧",
+    "Translation": "This is my first map, a reset of the CSGO era of the Revue Starlight.",
     "M-Bool": false,
     "Value": 0
   },
   "如遇到地图bug，请到我创意工坊下留言": {
-    "Translation": "如遇到地图bug，请到我创意工坊下留言",
+    "Translation": "If you encounter any map bugs, please leave a message in my Steam workshop page.",
     "M-Bool": false,
     "Value": 0
   },
   "建议打开地图音乐体验更佳": {
-    "Translation": "建议打开地图音乐体验更佳",
+    "Translation": "It is recommended to turn on the map music for a better experience. (snd_musicvolume 0.5)",
     "M-Bool": false,
     "Value": 0
   },
   "祝大家玩的愉快": {
-    "Translation": "祝大家玩的愉快",
+    "Translation": "Wishing everyone a great time.",
     "M-Bool": false,
     "Value": 0
   },
   "奇怪,学校大门怎么进不去,快进左边的小树林": {
-    "Translation": "奇怪,学校大门怎么进不去,快进左边的小树林",
+    "Translation": "Strange, why can't we enter the school gate? Quick, go into the small bushes on the left.",
     "M-Bool": false,
     "Value": 0
   },
   "打碎了所有长颈鹿,守住30秒等待星星上升": {
-    "Translation": "打碎了所有长颈鹿,守住30秒等待星星上升",
+    "Translation": "Smashed all the giraffes, hold for 30 seconds and wait for the stars to rise.",
     "M-Bool": false,
     "Value": 0
   },
   "守住20秒等待平台下降": {
-    "Translation": "守住20秒等待平台下降",
+    "Translation": "Hold for 20 seconds and wait for the platform to descend.",
     "M-Bool": false,
     "Value": 0
   },
   "僵尸将在3秒后传送": {
-    "Translation": "僵尸将在3秒后传送",
+    "Translation": "Zombies will be teleported in 3 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "我们需要打碎两边水晶才能继续前进": {
-    "Translation": "我们需要打碎两边水晶才能继续前进",
+    "Translation": "We need to smash the crystals on both sides to proceed.",
     "M-Bool": false,
     "Value": 0
   },
   "我们成功了!守住15秒等待道路出现": {
-    "Translation": "我们成功了!守住15秒等待道路出现",
+    "Translation": "We did it! Hold for 15 seconds and wait for the road to appear.",
     "M-Bool": false,
     "Value": 0
   },
   "我们将在20秒后传送": {
-    "Translation": "我们将在20秒后传送",
+    "Translation": "We will teleport in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "路被堵住了，守住20秒检查一下哪道门是正确的门": {
-    "Translation": "路被堵住了，守住20秒检查一下哪道门是正确的门",
+    "Translation": "The path is blocked; hold for 20 seconds and check which door is the correct one.",
     "M-Bool": false,
     "Value": 0
   },
   "又来?继续守住20秒寻找正确的门": {
-    "Translation": "又来?继续守住20秒寻找正确的门",
+    "Translation": "Again? Continue to hold for 20 seconds to find the correct door.",
     "M-Bool": false,
     "Value": 0
   },
   "快站到架子下面去守住15秒": {
-    "Translation": "快站到架子下面去守住15秒",
+    "Translation": "Quick, stand under the rack and hold for 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "AFK将在5秒后传送": {
-    "Translation": "AFK将在5秒后传送",
+    "Translation": "AFK will be teleported in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "平台将在15秒后开始移动，注意其他平台上的僵尸": {
-    "Translation": "平台将在15秒后开始移动，注意其他平台上的僵尸",
+    "Translation": "The platform will start moving in 15 seconds; watch out for zombies on other platforms.",
     "M-Bool": false,
     "Value": 0
   },
   "梯子开放了，快走！": {
-    "Translation": "梯子开放了，快走！",
+    "Translation": "The ladder is open; hurry up!",
     "M-Bool": false,
     "Value": 0
   },
   "AFK3秒后传送": {
-    "Translation": "AFK3秒后传送",
+    "Translation": "AFK will be teleported in 3 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "星星马上就要消失了，快走!": {
-    "Translation": "星星马上就要消失了，快走!",
+    "Translation": "The stars are about to disappear; hurry up!",
     "M-Bool": false,
     "Value": 0
   },
   "AFK将在15秒后开启": {
-    "Translation": "AFK将在15秒后开启",
+    "Translation": "AFK will be teleported in 15 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "鸟笼将在5秒后上升": {
-    "Translation": "鸟笼将在5秒后上升",
+    "Translation": "The birdcage will rise in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "第一道铁门还有20秒打开": {
-    "Translation": "第一道铁门还有20秒打开",
+    "Translation": "The first iron gate will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "第二道铁门还有20秒打开": {
-    "Translation": "第二道铁门还有20秒打开",
+    "Translation": "The second iron gate will open in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "第三道铁门还有5秒打开": {
-    "Translation": "第三道铁门还有5秒打开",
+    "Translation": "The third iron gate will open in 5 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "站在鸟笼里等待30秒传送": {
-    "Translation": "站在鸟笼里等待30秒传送",
+    "Translation": "Stand in the birdcage and wait for 30 seconds to teleport.",
     "M-Bool": false,
     "Value": 0
   },
   "AFK将在3秒后开启": {
-    "Translation": "AFK将在3秒后开启",
+    "Translation": "AFK will be activated in 3 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "检测到没有达成真结局解锁条件": {
-    "Translation": "检测到没有达成真结局解锁条件",
+    "Translation": "Detected that the conditions for unlocking the true ending have not been met.",
     "M-Bool": false,
     "Value": 0
   },
   "将开启假结局......": {
-    "Translation": "将开启假结局......",
+    "Translation": "A false ending will be activated......",
     "M-Bool": false,
     "Value": 0
   },
   "20秒后将开启跳刀": {
-    "Translation": "20秒后将开启跳刀",
+    "Translation": "Start dodging laser blades in 20 seconds.",
     "M-Bool": false,
     "Value": 0
   },
   "梯子已碎掉": {
-    "Translation": "梯子已碎掉",
+    "Translation": "The ladder has broken.",
     "M-Bool": false,
     "Value": 0
   },
   "即将重启舞台......": {
-    "Translation": "即将重启舞台......",
+    "Translation": "The stage is about to restart......",
     "M-Bool": false,
     "Value": 0
   }

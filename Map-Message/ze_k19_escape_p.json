@@ -25,5 +25,55 @@
     "Translation": "Doors will opens in 20 sec",
     "M-Bool": false,
     "Value": 0
+  },
+  "Shit ! the door is blocked ! Hold this position": {
+    "Translation": "Shit ! the door is blocked ! Hold this position",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold this position for 20 sec": {
+    "Translation": "Hold this position for 20 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend this position for 20 sec": {
+    "Translation": "Defend this position for 20 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend this position 20 sec": {
+    "Translation": "Defend this position 20 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend this position for 15 sec": {
+    "Translation": "Defend this position for 15 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Team Fall Back to the reactor room": {
+    "Translation": "Team Fall Back to the reactor room",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend the reactor for 20 sec": {
+    "Translation": "Defend the reactor for 20 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Fuck! the reactor is uncontrollable, exit the K-19": {
+    "Translation": "Fuck! the reactor is uncontrollable, exit the K-19",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Crate will break in 25 sec": {
+    "Translation": "Crate will break in 25 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend the exit for 25 sec": {
+    "Translation": "Defend the exit for 25 sec",
+    "M-Bool": false,
+    "Value": 0
   }
 }
