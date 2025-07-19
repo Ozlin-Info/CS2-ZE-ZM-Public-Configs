@@ -6,23 +6,28 @@
       "Value": 0
     }
   },
-  "| MAP BY NUTWOOMY |": {
-    "Translation": "| MAP BY NUTWOOMY |",
+  " ZE_ERROR ": {
+    "Translation": " ZE_ERROR ",
     "M-Bool": false,
     "Value": 0
   },
-  "| | 15 | |": {
-    "Translation": "| | 15 | |",
+  "ERROR": {
+    "Translation": "ERROR",
     "M-Bool": false,
     "Value": 0
   },
-  "| | 10 | |": {
-    "Translation": "| | 10 | |",
+  "3": {
+    "Translation": "3",
     "M-Bool": false,
     "Value": 0
   },
-  "| | 5 | |": {
-    "Translation": "| | 5 | |",
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
     "M-Bool": false,
     "Value": 0
   }

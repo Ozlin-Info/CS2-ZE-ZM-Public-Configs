@@ -100,5 +100,10 @@
     "Translation": "Incoming nuke!!!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Tram leaving in 45 seconds.": {
+    "Translation": "Tram leaving in 45 seconds.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -80,5 +80,115 @@
     "Translation": " Follow Vanya. He will lead us to safety ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Defend in the sewers for 40 seconds ": {
+    "Translation": " Defend in the sewers for 40 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS!!! ": {
+    "Translation": " 5 SECONDS!!! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Meet Vanya outside ": {
+    "Translation": " Meet Vanya outside ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend near the garage for 25 seconds! ": {
+    "Translation": " Defend near the garage for 25 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 Seconds left! ": {
+    "Translation": " 5 Seconds left! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Fall back! Get to the parking lot. ": {
+    "Translation": " Fall back! Get to the parking lot. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleporting everyone to the parking lot in 15 seconds! ": {
+    "Translation": " Teleporting everyone to the parking lot in 15 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold for 30 seconds ! ": {
+    "Translation": " Hold for 30 seconds ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Run! Get to the warehouse! ": {
+    "Translation": " Run! Get to the warehouse! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Teleporting everyone to the warehouse in 15 seconds! ": {
+    "Translation": " Teleporting everyone to the warehouse in 15 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Defend the warehouse for 10 seconds! ": {
+    "Translation": " Defend the warehouse for 10 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Fall back! ": {
+    "Translation": " Fall back! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We have to keep defending here while train is coming through ": {
+    "Translation": " We have to keep defending here while train is coming through ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 more seconds! ": {
+    "Translation": " 5 more seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Shoot the APC ! ": {
+    "Translation": " Shoot the APC ! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Dodge its shots! ": {
+    "Translation": " Dodge its shots! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "TIP: Nades do NOT do extra damage on this boss! ": {
+    "Translation": "TIP: Nades do NOT do extra damage on this boss! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " It's dead! Run across the bridge to safety! ": {
+    "Translation": " It's dead! Run across the bridge to safety! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Bridge will be destroyed in 25 seconds ": {
+    "Translation": " Bridge will be destroyed in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Break the railing on the sides for easier defence! ": {
+    "Translation": " Break the railing on the sides for easier defence! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 Seconds left! Get back! ": {
+    "Translation": " 5 Seconds left! Get back! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Shoot off remaining zombies! ": {
+    "Translation": " Shoot off remaining zombies! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

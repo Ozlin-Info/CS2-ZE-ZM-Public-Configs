@@ -40,5 +40,35 @@
     "Translation": "地图出现了大飞板",
     "M-Bool": false,
     "Value": 0
+  },
+  "黑雾四起": {
+    "Translation": "黑雾四起",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "雾气消失": {
+    "Translation": "雾气消失",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "雾气再起": {
+    "Translation": "雾气再起",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -90,5 +90,30 @@
     "Translation": " Lower gate will open in 10 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Heal has been picked ": {
+    "Translation": " Heal has been picked ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Upper gate will open in 25 seconds ": {
+    "Translation": " Upper gate will open in 25 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Keep defending untill the gate closes ": {
+    "Translation": " Keep defending untill the gate closes ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FIND ANOTHER WAY  FAST ": {
+    "Translation": " FIND ANOTHER WAY  FAST ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Try shooting the walls ": {
+    "Translation": " Try shooting the walls ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
