@@ -10,5 +10,40 @@
     "Translation": "  Level 1  ",
     "M-Bool": false,
     "Value": 0
+  },
+  " GATE OPENS IN 15 SECONDS ": {
+    "Translation": " GATE OPENS IN 15 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5 SECONDS LEFT ": {
+    "Translation": "5 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  PLAYER PICKED HURT ITEM   ": {
+    "Translation": "  PLAYER PICKED HURT ITEM   ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  PLAYER PICKED FIRE ITEM   ": {
+    "Translation": "  PLAYER PICKED FIRE ITEM   ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HOLD FOR 25 SECONDS ": {
+    "Translation": " HOLD FOR 25 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS LEFT ": {
+    "Translation": " 5 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "  PLAYER PICKED SLOW ITEM   ": {
+    "Translation": "  PLAYER PICKED SLOW ITEM   ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

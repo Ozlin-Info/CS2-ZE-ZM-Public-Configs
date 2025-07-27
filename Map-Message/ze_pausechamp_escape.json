@@ -75,5 +75,10 @@
     "Translation": "WARNING! PINK LANDMINES WILL INSTA KILL YOU! YOU HAVE BEEN WARNED",
     "M-Bool": false,
     "Value": 0
+  },
+  "The PauseChamp wall will break in 20 seconds! Defend and keep PauseChamping!": {
+    "Translation": "The PauseChamp wall will break in 20 seconds! Defend and keep PauseChamping!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

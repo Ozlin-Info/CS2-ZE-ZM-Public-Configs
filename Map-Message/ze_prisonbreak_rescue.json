@@ -80,5 +80,10 @@
     "Translation": "The gate to the next area has opened!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Pass through the hall and move towards the elevator!": {
+    "Translation": "Pass through the hall and move towards the elevator!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

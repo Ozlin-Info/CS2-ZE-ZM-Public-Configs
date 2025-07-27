@@ -95,5 +95,15 @@
     "Translation": "BREAK THE WALLS AND MOVE ON",
     "M-Bool": false,
     "Value": 0
+  },
+  "ZOMBIE TP 7 SEC !!!": {
+    "Translation": "ZOMBIE TP 7 SEC !!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "DOOR OPEN! RUN": {
+    "Translation": "DOOR OPEN! RUN",
+    "M-Bool": false,
+    "Value": 0
   }
 }

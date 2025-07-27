@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " PROLOGUE ": {
+    "Translation": " PROLOGUE ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 50 SECONDS LEFT ": {
+    "Translation": " 50 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 SECONDS LEFT ": {
+    "Translation": " 20 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS LEFT ": {
+    "Translation": " 10 SECONDS LEFT ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " MIDDLE PLATFORM MOVING IN 30 SECONDS ": {
+    "Translation": " MIDDLE PLATFORM MOVING IN 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIES TELEPORT AROUND THE AREA IN 10 SECONDS ": {
+    "Translation": " ZOMBIES TELEPORT AROUND THE AREA IN 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAY IN THE VERY MIDDLE ": {
+    "Translation": " STAY IN THE VERY MIDDLE ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

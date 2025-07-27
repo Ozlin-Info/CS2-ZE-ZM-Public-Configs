@@ -65,5 +65,15 @@
     "Translation": "Good luck wanderers.",
     "M-Bool": false,
     "Value": 0
+  },
+  "!daniel": {
+    "Translation": "!daniel",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Slay goober": {
+    "Translation": "Slay goober",
+    "M-Bool": false,
+    "Value": 0
   }
 }

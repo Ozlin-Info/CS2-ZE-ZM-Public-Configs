@@ -50,5 +50,90 @@
     "Translation": "Look out the zombies on the street.",
     "M-Bool": false,
     "Value": 0
+  },
+  "Please wait another 25 seconds": {
+    "Translation": "Please wait another 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "NUKE!": {
+    "Translation": "NUKE!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Mission compelet.": {
+    "Translation": "Mission compelet.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 15 seconds.": {
+    "Translation": "The door will open in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The door will open in 30 seconds.": {
+    "Translation": "The door will open in 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Please wait 30 seconds.": {
+    "Translation": "Please wait 30 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The box will be broken in 10 seconds.": {
+    "Translation": "The box will be broken in 10 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The box will be cleared in 20 seconds.": {
+    "Translation": "The box will be cleared in 20 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The airship will come in 40 seconds.": {
+    "Translation": "The airship will come in 40 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Get on the airship now!": {
+    "Translation": "Get on the airship now!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "We have 45 seconds to find the items in the squre.": {
+    "Translation": "We have 45 seconds to find the items in the squre.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "5": {
+    "Translation": "5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "4": {
+    "Translation": "4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "3": {
+    "Translation": "3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2": {
+    "Translation": "2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1": {
+    "Translation": "1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "GO!": {
+    "Translation": "GO!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

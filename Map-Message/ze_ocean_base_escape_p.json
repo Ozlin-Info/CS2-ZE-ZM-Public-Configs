@@ -40,5 +40,25 @@
     "Translation": "Old Lab path opening in 5secs. RUN!!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Use the pipes along the wall to get across the pit of fire!": {
+    "Translation": "Use the pipes along the wall to get across the pit of fire!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Make your way to the other end of the ballroom! There's a hole in the railing to can use to make it to the second floor!": {
+    "Translation": "Make your way to the other end of the ballroom! There's a hole in the railing to can use to make it to the second floor!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Jump and slide down to use the ladders to get off the ceiling!": {
+    "Translation": "Jump and slide down to use the ladders to get off the ceiling!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Ocean Base status critical!": {
+    "Translation": "Ocean Base status critical!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

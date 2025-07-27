@@ -40,5 +40,30 @@
     "Translation": "A player picked up Force Grip",
     "M-Bool": false,
     "Value": 0
+  },
+  "The doors will open in 15 seconds": {
+    "Translation": "The doors will open in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The doors will open in 5 seconds": {
+    "Translation": "The doors will open in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Fall back! The doors are open": {
+    "Translation": "Fall back! The doors are open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The barricade will explode in 10 seconds": {
+    "Translation": "The barricade will explode in 10 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "barricade exploded": {
+    "Translation": "barricade exploded",
+    "M-Bool": false,
+    "Value": 0
   }
 }

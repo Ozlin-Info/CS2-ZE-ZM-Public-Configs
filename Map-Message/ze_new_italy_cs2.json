@@ -70,5 +70,250 @@
     "Translation": "White Gate Opening  0 Seconds",
     "M-Bool": false,
     "Value": 0
+  },
+  "Big Gate Opening | 20 Seconds": {
+    "Translation": "Big Gate Opening | 20 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Big Gate Opening | 15 Seconds": {
+    "Translation": "Big Gate Opening | 15 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Big Gate Opening | 10 Seconds": {
+    "Translation": "Big Gate Opening | 10 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Big Gate Opening | 5 Seconds": {
+    "Translation": "Big Gate Opening | 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Big Gate Opening | 0 Seconds": {
+    "Translation": "Big Gate Opening | 0 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "White Gate Opening | 30 Seconds": {
+    "Translation": "White Gate Opening | 30 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "White Gate Opening | 25 Seconds": {
+    "Translation": "White Gate Opening | 25 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1/2 Big Glass Breaking | 4 Seconds": {
+    "Translation": "1/2 Big Glass Breaking | 4 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "White Gate Opening | 20 Seconds": {
+    "Translation": "White Gate Opening | 20 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "White Gate Opening | 15 Seconds": {
+    "Translation": "White Gate Opening | 15 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "White Gate Opening | 10 Seconds": {
+    "Translation": "White Gate Opening | 10 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "White Gate Opening | 5 Seconds": {
+    "Translation": "White Gate Opening | 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "White Gate Opening | 0 Seconds": {
+    "Translation": "White Gate Opening | 0 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1/1 Small Gate Opening | 4 Seconds": {
+    "Translation": "1/1 Small Gate Opening | 4 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "2/2 Big Glass Breaking | 4 Seconds": {
+    "Translation": "2/2 Big Glass Breaking | 4 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gray Door Opening | 30 Seconds": {
+    "Translation": "Gray Door Opening | 30 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gray Door Opening | 25 Seconds": {
+    "Translation": "Gray Door Opening | 25 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gray Door Opening | 20 Seconds": {
+    "Translation": "Gray Door Opening | 20 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gray Door Opening | 15 Seconds": {
+    "Translation": "Gray Door Opening | 15 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gray Door Opening | 10 Seconds": {
+    "Translation": "Gray Door Opening | 10 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gray Door Opening | 5 Seconds": {
+    "Translation": "Gray Door Opening | 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Gray Door Opening | 0 Seconds": {
+    "Translation": "Gray Door Opening | 0 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "1/2 Glow Red Target Teleport [ZM] | 10 Seconds": {
+    "Translation": "1/2 Glow Red Target Teleport [ZM] | 10 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Metal Fence Opening | 20 Seconds": {
+    "Translation": "Metal Fence Opening | 20 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Metal Fence Opening | 15 Seconds": {
+    "Translation": "Metal Fence Opening | 15 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Metal Fence Opening | 10 Seconds": {
+    "Translation": "Metal Fence Opening | 10 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Metal Fence Opening | 5 Seconds": {
+    "Translation": "Metal Fence Opening | 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Metal Fence Opening | 0 Seconds": {
+    "Translation": "Metal Fence Opening | 0 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pink Glass Opening | 30 Seconds": {
+    "Translation": "Pink Glass Opening | 30 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pink Glass Opening | 25 Seconds": {
+    "Translation": "Pink Glass Opening | 25 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pink Glass Opening | 20 Seconds": {
+    "Translation": "Pink Glass Opening | 20 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pink Glass Opening | 15 Seconds": {
+    "Translation": "Pink Glass Opening | 15 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pink Glass Opening | 10 Seconds": {
+    "Translation": "Pink Glass Opening | 10 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pink Glass Opening | 5 Seconds": {
+    "Translation": "Pink Glass Opening | 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Pink Glass Opening | 0 Seconds": {
+    "Translation": "Pink Glass Opening | 0 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Portal Opening | 20 Seconds": {
+    "Translation": "Portal Opening | 20 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Portal Opening | 15 Seconds": {
+    "Translation": "Portal Opening | 15 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Portal Opening [Stay in Particle Effect] | 10 Seconds": {
+    "Translation": "Portal Opening [Stay in Particle Effect] | 10 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Portal Opening [Stay in Particle Effect] | 5 Seconds": {
+    "Translation": "Portal Opening [Stay in Particle Effect] | 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Portal Opening [Stay in Particle Effect] | 0 Seconds": {
+    "Translation": "Portal Opening [Stay in Particle Effect] | 0 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Just Survival | 30 Seconds": {
+    "Translation": "Just Survival | 30 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Just Survival | 25 Seconds": {
+    "Translation": "Just Survival | 25 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Just Survival | 20 Seconds": {
+    "Translation": "Just Survival | 20 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Just Survival | 15 Seconds": {
+    "Translation": "Just Survival | 15 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Just Survival | 10 Seconds": {
+    "Translation": "Just Survival | 10 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Just Survival | 5 Seconds": {
+    "Translation": "Just Survival | 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Just Survival | 0 Seconds": {
+    "Translation": "Just Survival | 0 Seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Nice Team! - Thanks For Playing Map": {
+    "Translation": "Nice Team! - Thanks For Playing Map",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map Made By: MUHAMMETS7": {
+    "Translation": "Map Made By: MUHAMMETS7",
+    "M-Bool": false,
+    "Value": 0
   }
 }

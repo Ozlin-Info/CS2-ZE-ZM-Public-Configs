@@ -25,5 +25,10 @@
     "Translation": " Thanks for the test map: Shiz0 & BalG & Pivogay & GaGaGa & Yuudachi & Bandit",
     "M-Bool": false,
     "Value": 0
+  },
+  "C4 will explode in 25 seconds": {
+    "Translation": "C4 will explode in 25 seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

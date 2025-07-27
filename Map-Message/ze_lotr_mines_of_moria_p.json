@@ -145,5 +145,10 @@
     "Translation": "Gandalf is gone!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed": {
+    "Translation": "Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed",
+    "M-Bool": false,
+    "Value": 0
   }
 }

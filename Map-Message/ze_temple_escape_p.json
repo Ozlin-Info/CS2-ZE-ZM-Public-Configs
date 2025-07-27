@@ -45,5 +45,10 @@
     "Translation": "++ Fall back! ++",
     "M-Bool": false,
     "Value": 0
+  },
+  "++ Wall breaks in 60 seconds ++": {
+    "Translation": "++ Wall breaks in 60 seconds ++",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "23:08 PM，阿尔法基地外，任务：与Redemption小队一起进入阿尔法基地，营救幸存者.": {
+    "Translation": "23:08 PM，阿尔法基地外，任务：与Redemption小队一起进入阿尔法基地，营救幸存者.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "总部：Eclipsis小队，你们将从阿尔法基地的 01 号设施潜入，搜索 01 号设施的所有幸存者.": {
+    "Translation": "总部：Eclipsis小队，你们将从阿尔法基地的 01 号设施潜入，搜索 01 号设施的所有幸存者.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "指挥官:岛上情况看起来不太乐观，他们从水里来了…": {
+    "Translation": "指挥官:岛上情况看起来不太乐观，他们从水里来了…",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "指挥官：收到.": {
+    "Translation": "指挥官：收到.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "f16:收到，01，天空已经安全了，祝你们好运！": {
+    "Translation": "f16:收到，01，天空已经安全了，祝你们好运！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "总部:切记，你们和Redemption小队是唯一能执行这个任务的力量，一切行动以自保为主，优先确保队员的安全！": {
+    "Translation": "总部:切记，你们和Redemption小队是唯一能执行这个任务的力量，一切行动以自保为主，优先确保队员的安全！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "f16:收到，搜索该区域。": {
+    "Translation": "f16:收到，搜索该区域。",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

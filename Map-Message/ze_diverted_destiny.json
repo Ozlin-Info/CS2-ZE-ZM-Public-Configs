@@ -80,5 +80,15 @@
     "Translation": "Loading your fate...",
     "M-Bool": false,
     "Value": 0
+  },
+  "Zombie Gravity has been picked up": {
+    "Translation": "Zombie Gravity has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Cooldown: 90 Seconds | Duration: 5 Seconds": {
+    "Translation": "Cooldown: 90 Seconds | Duration: 5 Seconds",
+    "M-Bool": false,
+    "Value": 0
   }
 }

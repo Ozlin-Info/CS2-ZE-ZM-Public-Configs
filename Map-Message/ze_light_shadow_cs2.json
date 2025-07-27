@@ -65,5 +65,10 @@
     "Translation": " A zombie get Gravity ",
     "M-Bool": false,
     "Value": 0
+  },
+  " A zombie get Freeze ": {
+    "Translation": " A zombie get Freeze ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

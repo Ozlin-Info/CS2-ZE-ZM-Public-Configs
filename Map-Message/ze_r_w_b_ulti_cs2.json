@@ -30,5 +30,25 @@
     "Translation": " MAP by NK ",
     "M-Bool": false,
     "Value": 0
+  },
+  "-- Avoid black --": {
+    "Translation": "-- Avoid black --",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-Stage-White-": {
+    "Translation": "-Stage-White-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "--Port by Creal --": {
+    "Translation": "--Port by Creal --",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-- MAP by NK --": {
+    "Translation": "-- MAP by NK --",
+    "M-Bool": false,
+    "Value": 0
   }
 }

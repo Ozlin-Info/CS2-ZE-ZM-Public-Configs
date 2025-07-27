@@ -125,5 +125,95 @@
     "Translation": " ACTIVATING FLAME LAUNCH ",
     "M-Bool": false,
     "Value": 0
+  },
+  "-- The machine was destroyed.--": {
+    "Translation": "-- The machine was destroyed.--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STOP EVACUATION ": {
+    "Translation": " STOP EVACUATION ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPRNING ": {
+    "Translation": " DOOR OPRNING ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE DOOR WILL OPEN IN 5 SECONDS  ": {
+    "Translation": " THE DOOR WILL OPEN IN 5 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO BACK! GO TO THE NEXT DEFENSE AREA ": {
+    "Translation": " GO BACK! GO TO THE NEXT DEFENSE AREA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE TELEPORT 10 SECONDS  ": {
+    "Translation": " ZOMBIE TELEPORT 10 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENING, RUN RUN  ": {
+    "Translation": " DOOR OPENING, RUN RUN  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE DOOR WILL OPEN IN 25 SECONDS  , GO BACK": {
+    "Translation": " THE DOOR WILL OPEN IN 25 SECONDS  , GO BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GO TO THE NEXT DEFENSE AREA ": {
+    "Translation": " GO TO THE NEXT DEFENSE AREA ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE TELEPORT 10 SECONDS ": {
+    "Translation": " ZOMBIE TELEPORT 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " THE DOOR OPENING , GO BACK": {
+    "Translation": " THE DOOR OPENING , GO BACK",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EVACUATION WILL STOP AFTER 30 SECONDS ": {
+    "Translation": " EVACUATION WILL STOP AFTER 30 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HUMAN TELEPORT 3 SECONDS ": {
+    "Translation": " HUMAN TELEPORT 3 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EVACUATION HALTED! MISSION COMPLATED ": {
+    "Translation": " EVACUATION HALTED! MISSION COMPLATED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " EVACUATION HALTED ": {
+    "Translation": " EVACUATION HALTED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE TELEPORT 3 SECONDS ": {
+    "Translation": " ZOMBIE TELEPORT 3 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " LASER ACTIVATED ": {
+    "Translation": " LASER ACTIVATED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " HUMAN WIN ": {
+    "Translation": " HUMAN WIN ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
