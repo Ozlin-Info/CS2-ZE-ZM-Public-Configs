@@ -1,0 +1,34 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "v7.28_a": {
+    "Translation": "v7.28_a",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第一关": {
+    "Translation": "第一关",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "防守30秒": {
+    "Translation": "防守30秒",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "撤退,想办法到床上去。": {
+    "Translation": "撤退,想办法到床上去。",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "路被该死的乐事薯片挡住了，防守30秒。": {
+    "Translation": "路被该死的乐事薯片挡住了，防守30秒。",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

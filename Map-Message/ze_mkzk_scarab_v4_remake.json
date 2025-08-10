@@ -105,5 +105,10 @@
     "Translation": "Sector 1 reached.",
     "M-Bool": false,
     "Value": 0
+  },
+  "请设置僵尸在开局30秒后尸变": {
+    "Translation": "请设置僵尸在开局30秒后尸变",
+    "M-Bool": false,
+    "Value": 0
   }
 }

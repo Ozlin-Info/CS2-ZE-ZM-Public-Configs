@@ -1,0 +1,114 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "door 1 open 20s": {
+    "Translation": "door 1 open 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 1 open 10s": {
+    "Translation": "door 1 open 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 2 open 15s": {
+    "Translation": "door 2 open 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zteleport 10s": {
+    "Translation": "zteleport 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 2 open 10s": {
+    "Translation": "door 2 open 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 3 open 20s": {
+    "Translation": "door 3 open 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 3 open 10s": {
+    "Translation": "door 3 open 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 4 open 20s": {
+    "Translation": "door 4 open 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 4 open 10s": {
+    "Translation": "door 4 open 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 5 open 20s": {
+    "Translation": "door 5 open 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 5 open 10s": {
+    "Translation": "door 5 open 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "zteleport 20": {
+    "Translation": "zteleport 20",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 6 open 30s": {
+    "Translation": "door 6 open 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 6 open 10s": {
+    "Translation": "door 6 open 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 7 open 60s": {
+    "Translation": "door 7 open 60s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 7 open 30s": {
+    "Translation": "door 7 open 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "door 7 open 10s": {
+    "Translation": "door 7 open 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "last door open 30s": {
+    "Translation": "last door open 30s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "last door open 10s": {
+    "Translation": "last door open 10s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "last defense 20s": {
+    "Translation": "last defense 20s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "last defense 10s": {
+    "Translation": "last defense 10s",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

@@ -280,5 +280,20 @@
     "Translation": "The stage is about to restart......",
     "M-Bool": false,
     "Value": 0
+  },
+  "v0.19": {
+    "Translation": "v0.19",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "感谢诺漫Normann指挥测试": {
+    "Translation": "感谢诺漫Normann指挥测试",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "此版本不代表最终版本": {
+    "Translation": "此版本不代表最终版本",
+    "M-Bool": false,
+    "Value": 0
   }
 }

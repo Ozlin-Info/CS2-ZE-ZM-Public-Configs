@@ -45,5 +45,10 @@
     "Translation": " Defend until the gates open 30s ",
     "M-Bool": false,
     "Value": 0
+  },
+  " ....... ": {
+    "Translation": " ....... ",
+    "M-Bool": false,
+    "Value": 0
   }
 }
