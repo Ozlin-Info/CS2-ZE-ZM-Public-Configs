@@ -1,0 +1,169 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  " Welcome to SKILL ESCAPE by acme": {
+    "Translation": " Welcome to SKILL ESCAPE by acme",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Ported by proper": {
+    "Translation": " Ported by proper",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAGE 1: JUST A TRIM": {
+    "Translation": " STAGE 1: JUST A TRIM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND YOUR TEAMMATES ": {
+    "Translation": " DEFEND YOUR TEAMMATES ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND, DONT EDGE   ": {
+    "Translation": " DEFEND, DONT EDGE   ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS   ": {
+    "Translation": " 5 SECONDS   ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BOOST ENABLED   ": {
+    "Translation": " BOOST ENABLED   ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND FOR 30 SEC ": {
+    "Translation": " DEFEND FOR 30 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAY ON THE TOP BOX AND DEFEND  ": {
+    "Translation": " STAY ON THE TOP BOX AND DEFEND  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND FOR 15 SEC ": {
+    "Translation": " DEFEND FOR 15 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS  ": {
+    "Translation": " 5 SECONDS  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DOOR OPENING, JUMP ": {
+    "Translation": " DOOR OPENING, JUMP ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE TP IN 5 SECONDS ": {
+    "Translation": " ZOMBIE TP IN 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " CLOSING DOOR IN 25 SEC ": {
+    "Translation": " CLOSING DOOR IN 25 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " TOUCH RING LIFE IF YOU  100HP ": {
+    "Translation": " TOUCH RING LIFE IF YOU  100HP ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 SECONDS ": {
+    "Translation": " 10 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 SECONDS ": {
+    "Translation": " 5 SECONDS ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAGE 1: COMPLETED ": {
+    "Translation": " STAGE 1: COMPLETED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAGE 2: EASY  ": {
+    "Translation": " STAGE 2: EASY  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAGE 2: EASY ": {
+    "Translation": " STAGE 2: EASY ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " DEFEND YOUR TEAMMATES FOR 40 SEC ": {
+    "Translation": " DEFEND YOUR TEAMMATES FOR 40 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " BREAKING EMERGENCY GLASS IN 15 SEC ": {
+    "Translation": " BREAKING EMERGENCY GLASS IN 15 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLATFORM LEAVING IN 25 SEC, DEFEND ": {
+    "Translation": " PLATFORM LEAVING IN 25 SEC, DEFEND ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE SHORTCUT OPENED ": {
+    "Translation": " ZOMBIE SHORTCUT OPENED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIES TAKE THE LADDER ": {
+    "Translation": " ZOMBIES TAKE THE LADDER ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLATFORM LEAVING IN 10 SEC ": {
+    "Translation": " PLATFORM LEAVING IN 10 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " PLATFORM LEAVING IN 5 SEC ": {
+    "Translation": " PLATFORM LEAVING IN 5 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAGE 2 COMPLETED ": {
+    "Translation": " STAGE 2 COMPLETED ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " STAGE 3: MEDIUM ": {
+    "Translation": " STAGE 3: MEDIUM ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " JUMP IN THE WATER ": {
+    "Translation": " JUMP IN THE WATER ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ZOMBIE TP in 5 SEC!  ": {
+    "Translation": " ZOMBIE TP in 5 SEC!  ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ROTOR STOPPING IN 5 SEC ": {
+    "Translation": " ROTOR STOPPING IN 5 SEC ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

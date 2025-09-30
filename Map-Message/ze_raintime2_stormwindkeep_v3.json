@@ -135,5 +135,15 @@
     "Translation": " Please wait 30 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  "--A player picked up the gao da--": {
+    "Translation": "--A player picked up the gao da--",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-- A player picked up the Incendiary Feather Immortal -- ": {
+    "Translation": "-- A player picked up the Incendiary Feather Immortal -- ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

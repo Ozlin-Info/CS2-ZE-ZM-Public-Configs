@@ -160,5 +160,20 @@
     "Translation": " CONTROL TOWER DOOR IN CORRIDOR WILL OPEN IN 5S, THE WINDOW UPON THE DOOR WILL AUTOMATICALLY BREAK ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Music: Zack Hemsey  -  Mind Heist   ": {
+    "Translation": " Music: Zack Hemsey  -  Mind Heist   ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Music: OST Resident Evil_ Extinction  Charlie Clouser - Convoy (Remix)   ": {
+    "Translation": " Music: OST Resident Evil_ Extinction  Charlie Clouser - Convoy (Remix)   ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Music: Position Music - Dark Walk Album (Epic Action Dramatic Music)  - EpicMusicVn)   ": {
+    "Translation": " Music: Position Music - Dark Walk Album (Epic Action Dramatic Music)  - EpicMusicVn)   ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

@@ -10,5 +10,25 @@
     "Translation": "This factory's fucked. Yall gotta get outta here ASAP.",
     "M-Bool": false,
     "Value": 0
+  },
+  "Elevator leaving in 15 seconds.": {
+    "Translation": "Elevator leaving in 15 seconds.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Vent gate opens in 15 seconds": {
+    "Translation": "Vent gate opens in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "This slow ass door needs a few seconds to get working": {
+    "Translation": "This slow ass door needs a few seconds to get working",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You guys will have to go through the conveyor belts. Be careful of the vending machines.": {
+    "Translation": "You guys will have to go through the conveyor belts. Be careful of the vending machines.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

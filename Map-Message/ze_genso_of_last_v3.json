@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "[WARM-UP ROUND 50SECONDS]": {
+    "Translation": "[WARM-UP ROUND 50SECONDS]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " ze_genso_of_last_v3 ": {
+    "Translation": " ze_genso_of_last_v3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Map by Pohmian/Mochi": {
+    "Translation": "Map by Pohmian/Mochi",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Port by 三百度幸运12121": {
+    "Translation": "Port by 三百度幸运12121",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[NORMAL MODE - Welcome to the Genso]": {
+    "Translation": "[NORMAL MODE - Welcome to the Genso]",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[Normal Mode]": {
+    "Translation": "[Normal Mode]",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

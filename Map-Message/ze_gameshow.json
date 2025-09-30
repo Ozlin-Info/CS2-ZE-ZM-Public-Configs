@@ -1,0 +1,69 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "After buying a special weapon": {
+    "Translation": "After buying a special weapon",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "MAP BY DREAM EATER": {
+    "Translation": "MAP BY DREAM EATER",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PICKING A RANDOM MIDDLE WALL IN 30 SECONDS!": {
+    "Translation": "PICKING A RANDOM MIDDLE WALL IN 30 SECONDS!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Weapons don't damage in the lobby!": {
+    "Translation": "Weapons don't damage in the lobby!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WALL OPENING IN 5...": {
+    "Translation": "WALL OPENING IN 5...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WALL OPENING IN 4...": {
+    "Translation": "WALL OPENING IN 4...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WALL OPENING IN 3...": {
+    "Translation": "WALL OPENING IN 3...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WALL OPENING IN 2...": {
+    "Translation": "WALL OPENING IN 2...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "WALL OPENING IN 1...": {
+    "Translation": "WALL OPENING IN 1...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wall 2 is open!": {
+    "Translation": "Wall 2 is open!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wall 1 is open!": {
+    "Translation": "Wall 1 is open!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wall 3 is open!": {
+    "Translation": "Wall 3 is open!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

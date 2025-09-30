@@ -6,18 +6,18 @@
       "Value": 0
     }
   },
-  " VERSION 1.5 ": {
-    "Translation": " VERSION 1.5 ",
+  " This map is based on CSO ze_bloodcastle ": {
+    "Translation": " This map is based on CSO ze_bloodcastle ",
     "M-Bool": false,
     "Value": 0
   },
-  " CASUAL DIFFICULTY - ZOMBIE HP 600 ": {
-    "Translation": " CASUAL DIFFICULTY - ZOMBIE HP 600 ",
+  " Map by Hestia ": {
+    "Translation": " Map by Hestia ",
     "M-Bool": false,
     "Value": 0
   },
-  " VERSION 1.7 ": {
-    "Translation": " VERSION 1.7 ",
+  " Door Will Open In 25 Seconds ": {
+    "Translation": " Door Will Open In 25 Seconds ",
     "M-Bool": false,
     "Value": 0
   }

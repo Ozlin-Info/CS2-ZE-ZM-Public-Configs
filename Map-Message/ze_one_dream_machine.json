@@ -20,5 +20,40 @@
     "Translation": "[S2ZE] GAME SAVED!",
     "M-Bool": false,
     "Value": 0
+  },
+  "ONE DREAM MACHINE | NEW VERSION": {
+    "Translation": "ONE DREAM MACHINE | NEW VERSION",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Enemy Mapea Soldier: Pull The Trigger.": {
+    "Translation": "Enemy Mapea Soldier: Pull The Trigger.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Enemy Mapea Soldier: Come On Mr Fr.": {
+    "Translation": "Enemy Mapea Soldier: Come On Mr Fr.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Enemy Mapea Soldier: Pull The Trigger!": {
+    "Translation": "Enemy Mapea Soldier: Pull The Trigger!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Enemy Mapea Soldier: Lets Go Shoot Me!": {
+    "Translation": "Enemy Mapea Soldier: Lets Go Shoot Me!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Enemy Mapea Soldier: Shoot Me!": {
+    "Translation": "Enemy Mapea Soldier: Shoot Me!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies Coming...": {
+    "Translation": "Zombies Coming...",
+    "M-Bool": false,
+    "Value": 0
   }
 }

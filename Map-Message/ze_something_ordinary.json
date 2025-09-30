@@ -150,5 +150,45 @@
     "Translation": "## ELEVATOR LEAVING IN 30 SECONDS ##",
     "M-Bool": false,
     "Value": 0
+  },
+  "## RUN RUN RUN!!! ##": {
+    "Translation": "## RUN RUN RUN!!! ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## TELEPORT CLOSED IN 25 SECONDS! ##": {
+    "Translation": "## TELEPORT CLOSED IN 25 SECONDS! ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## TELEPORT CLOSED IN 20 SECONDS! ##": {
+    "Translation": "## TELEPORT CLOSED IN 20 SECONDS! ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## TELEPORT CLOSED IN 5 SECONDS! ##": {
+    "Translation": "## TELEPORT CLOSED IN 5 SECONDS! ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## TELEPORT CLOSED!!! ##": {
+    "Translation": "## TELEPORT CLOSED!!! ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## STAGE 1 COMPLETED ##": {
+    "Translation": "## STAGE 1 COMPLETED ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## STAGE 2/3 - HARD ##": {
+    "Translation": "## STAGE 2/3 - HARD ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## WALL PICKED UP ##": {
+    "Translation": "## WALL PICKED UP ##",
+    "M-Bool": false,
+    "Value": 0
   }
 }

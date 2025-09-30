@@ -65,5 +65,15 @@
     "Translation": " Round failed! Zombies have reached the objective! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " MIMIC Materia has been found. ": {
+    "Translation": " MIMIC Materia has been found. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " FIRE Materia has been found. ": {
+    "Translation": " FIRE Materia has been found. ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

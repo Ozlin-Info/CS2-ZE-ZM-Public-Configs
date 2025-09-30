@@ -1,0 +1,29 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "## Doors Will Open in 30 Seconds ##": {
+    "Translation": "## Doors Will Open in 30 Seconds ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## Doors Will Open in 10 Seconds ##": {
+    "Translation": "## Doors Will Open in 10 Seconds ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## Doors Will Open in 5 Seconds ##": {
+    "Translation": "## Doors Will Open in 5 Seconds ##",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "## Doors Open RUN ##": {
+    "Translation": "## Doors Open RUN ##",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

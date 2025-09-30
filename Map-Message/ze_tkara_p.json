@@ -15,5 +15,25 @@
     "Translation": " Hold until the City Doors Open! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Cover the windows until we find a way out of here ": {
+    "Translation": " Cover the windows until we find a way out of here ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Kitchen and living room windows are broken! ": {
+    "Translation": " Kitchen and living room windows are broken! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " RESIST ": {
+    "Translation": " RESIST ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " GET DOWN IN THE BASEMENT NOW ": {
+    "Translation": " GET DOWN IN THE BASEMENT NOW ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

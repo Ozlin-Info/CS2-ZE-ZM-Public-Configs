@@ -1,0 +1,44 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "地图: 葛炮奇思妙想": {
+    "Translation": "地图: 葛炮奇思妙想",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "版本: Alpha 1.7": {
+    "Translation": "版本: Alpha 1.7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "作者: CD意识.": {
+    "Translation": "作者: CD意识.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "'Lua脚本加载成功,版本1.7'": {
+    "Translation": "'Lua脚本加载成功,版本1.7'",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "地图为ZED社区ZM创作设计": {
+    "Translation": "地图为ZED社区ZM创作设计",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "感谢ZED社区反馈与支持": {
+    "Translation": "感谢ZED社区反馈与支持",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "感谢HatedTong,BotCirno等玩家的测试反馈.谢谢你们!": {
+    "Translation": "感谢HatedTong,BotCirno等玩家的测试反馈.谢谢你们!",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

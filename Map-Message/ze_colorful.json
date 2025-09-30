@@ -40,5 +40,15 @@
     "Translation": "Afk tp in 10 sec.",
     "M-Bool": false,
     "Value": 0
+  },
+  "Wait for 30 sec.": {
+    "Translation": "Wait for 30 sec.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Afk teleport in 10 sec.": {
+    "Translation": "Afk teleport in 10 sec.",
+    "M-Bool": false,
+    "Value": 0
   }
 }

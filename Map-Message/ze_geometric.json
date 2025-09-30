@@ -35,5 +35,10 @@
     "Translation": " Hold for 30 seconds ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Hold for 15 seconds ": {
+    "Translation": " Hold for 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

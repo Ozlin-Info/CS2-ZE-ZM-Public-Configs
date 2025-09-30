@@ -15,5 +15,115 @@
     "Translation": "Thanks to Darivan、 Geraral、打酱油的企鹅 ",
     "M-Bool": false,
     "Value": 0
+  },
+  "Wait here for 35 seconds": {
+    "Translation": "Wait here for 35 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "welcome to the summer house，enjoy yourself！": {
+    "Translation": "welcome to the summer house，enjoy yourself！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The road will open in 30 seconds": {
+    "Translation": "The road will open in 30 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "soon randomly select a road": {
+    "Translation": "soon randomly select a road",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK players has been teleported": {
+    "Translation": "AFK players has been teleported",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The road will open in 25 seconds": {
+    "Translation": "The road will open in 25 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Another road has been opened": {
+    "Translation": "Another road has been opened",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK player will teleport in 5 seconds": {
+    "Translation": "AFK player will teleport in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The road will open in 15 seconds": {
+    "Translation": "The road will open in 15 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "break these glasses!": {
+    "Translation": "break these glasses!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Oh, I forgot to retrieve my storybook. Can you help me retrieve it？": {
+    "Translation": "Oh, I forgot to retrieve my storybook. Can you help me retrieve it？",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK players will teleport in 5 seconds": {
+    "Translation": "AFK players will teleport in 5 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Please pass through that glowing door": {
+    "Translation": "Please pass through that glowing door",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK players will teleport in 7 seconds": {
+    "Translation": "AFK players will teleport in 7 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Please here for 35 seconds": {
+    "Translation": "Please here for 35 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "The wall that blocks the spirit will be lifted in 8 seconds": {
+    "Translation": "The wall that blocks the spirit will be lifted in 8 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "You have found my book, and now I can tell you stories！": {
+    "Translation": "You have found my book, and now I can tell you stories！",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Please wait for 5 seconds and return to the house through the front illuminated door": {
+    "Translation": "Please wait for 5 seconds and return to the house through the front illuminated door",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Soon, a random road will open": {
+    "Translation": "Soon, a random road will open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Please defend here for 40 seconds": {
+    "Translation": "Please defend here for 40 seconds",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "now,Please listen to the first story...": {
+    "Translation": "now,Please listen to the first story...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Thank you for playing": {
+    "Translation": "Thank you for playing",
+    "M-Bool": false,
+    "Value": 0
   }
 }

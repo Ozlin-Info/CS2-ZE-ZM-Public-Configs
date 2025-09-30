@@ -100,5 +100,25 @@
     "Translation": "The Ring has been destroyed! Escape from Mordor!",
     "M-Bool": false,
     "Value": 0
+  },
+  "Lever pressed! Door will open in 15s": {
+    "Translation": "Lever pressed! Door will open in 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Resist 30 s!!": {
+    "Translation": "Resist 30 s!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Go into the Mount Doom!": {
+    "Translation": "Go into the Mount Doom!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Resist 50 s!!": {
+    "Translation": "Resist 50 s!!",
+    "M-Bool": false,
+    "Value": 0
   }
 }

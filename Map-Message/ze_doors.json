@@ -15,5 +15,40 @@
     "Translation": "Special thanks to MAPEADORES mapping community",
     "M-Bool": false,
     "Value": 0
+  },
+  "Door will open in 20 sec": {
+    "Translation": "Door will open in 20 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Find the correct doors": {
+    "Translation": "Find the correct doors",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Watch out for the doors and the trap doors hahaha": {
+    "Translation": "Watch out for the doors and the trap doors hahaha",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Way will open in 20sec": {
+    "Translation": "Way will open in 20sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Defend for 20 sec": {
+    "Translation": "Defend for 20 sec",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Back quick !!!!!!!": {
+    "Translation": "Back quick !!!!!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Jump off": {
+    "Translation": "Jump off",
+    "M-Bool": false,
+    "Value": 0
   }
 }

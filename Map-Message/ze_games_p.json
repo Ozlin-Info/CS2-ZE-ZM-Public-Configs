@@ -1,0 +1,179 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "-=[ Welcome to Zombie Games ]=-": {
+    "Translation": "-=[ Welcome to Zombie Games ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Starting game: Obstacle Race ]=-": {
+    "Translation": "-=[ Starting game: Obstacle Race ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ You have 1 minute to reach the end ]=-": {
+    "Translation": "-=[ You have 1 minute to reach the end ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ You have 40 seconds ]=-": {
+    "Translation": "-=[ You have 40 seconds ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ You have 20 more seconds ]=-": {
+    "Translation": "-=[ You have 20 more seconds ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Hurry, 10 seconds left ]=-": {
+    "Translation": "-=[ Hurry, 10 seconds left ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ 5 ]=-": {
+    "Translation": "-=[ 5 ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ 4 ]=-": {
+    "Translation": "-=[ 4 ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ 3 ]=-": {
+    "Translation": "-=[ 3 ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ 2 ]=-": {
+    "Translation": "-=[ 2 ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ 1 ]=-": {
+    "Translation": "-=[ 1 ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Select your first game ]=-": {
+    "Translation": "-=[ Select your first game ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Autopick in 1 minute ]=-": {
+    "Translation": "-=[ Autopick in 1 minute ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Hard Mode :: CT/T == 1 ]=-": {
+    "Translation": "-=[ Hard Mode :: CT/T == 1 ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Easy Mode :: CT/T  4 ]=-": {
+    "Translation": "-=[ Easy Mode :: CT/T  4 ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Starting game: Conveyor ]=-": {
+    "Translation": "-=[ Starting game: Conveyor ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Easy Mode ]=-": {
+    "Translation": "-=[ Easy Mode ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Survive until next ratio mode ]=-": {
+    "Translation": "-=[ Survive until next ratio mode ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Extreme Mode :: CT/T  1 ]=-": {
+    "Translation": "-=[ Extreme Mode :: CT/T  1 ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Starting game: Obstacle ]=-": {
+    "Translation": "-=[ Starting game: Obstacle ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Extreme Mode ]=-": {
+    "Translation": "-=[ Extreme Mode ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Survive 90 Seconds... ]=-": {
+    "Translation": "-=[ Survive 90 Seconds... ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Here come the zombies ]=-": {
+    "Translation": "-=[ Here come the zombies ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ You have 60 seconds ]=-": {
+    "Translation": "-=[ You have 60 seconds ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Zombie spawn has advanced ]=-": {
+    "Translation": "-=[ Zombie spawn has advanced ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Starting game: Drop ]=-": {
+    "Translation": "-=[ Starting game: Drop ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Survive 60 Seconds... ]=-": {
+    "Translation": "-=[ Survive 60 Seconds... ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Activating in 5 ]=-": {
+    "Translation": "-=[ Activating in 5 ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ It's time for the final minigame ]=-": {
+    "Translation": "-=[ It's time for the final minigame ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Starting game: Frogger ]=-": {
+    "Translation": "-=[ Starting game: Frogger ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Collect the gems in 45 seconds ]=-": {
+    "Translation": "-=[ Collect the gems in 45 seconds ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Zombies are free ]=-": {
+    "Translation": "-=[ Zombies are free ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Starting game: Murder in the dark ]=-": {
+    "Translation": "-=[ Starting game: Murder in the dark ]=-",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "-=[ Zombies are blind!!!! ]=-": {
+    "Translation": "-=[ Zombies are blind!!!! ]=-",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

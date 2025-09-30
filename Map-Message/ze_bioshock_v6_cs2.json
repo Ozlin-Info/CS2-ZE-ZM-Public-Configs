@@ -110,5 +110,70 @@
     "Translation": "Get in the Bathysphere - 12s",
     "M-Bool": false,
     "Value": 0
+  },
+  "Hold the Atrium - 22s": {
+    "Translation": "Hold the Atrium - 22s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Plasmid obtained: Sonic Boom": {
+    "Translation": "Plasmid obtained: Sonic Boom",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Door is open": {
+    "Translation": "Door is open",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold until secuity door releases - 15s": {
+    "Translation": "Hold until secuity door releases - 15s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Plasmid upgraded: Sonic Boom 2": {
+    "Translation": "Plasmid upgraded: Sonic Boom 2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Plasmid obtained: Insect Swarm": {
+    "Translation": "Plasmid obtained: Insect Swarm",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Wait for the elevators arrival": {
+    "Translation": "Wait for the elevators arrival",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "AFK teleport in 5s": {
+    "Translation": "AFK teleport in 5s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Elevator 2 leaving - 5s": {
+    "Translation": "Elevator 2 leaving - 5s",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Plasmid upgraded: Insect Swarm 2": {
+    "Translation": "Plasmid upgraded: Insect Swarm 2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Hold until the security door releases": {
+    "Translation": "Hold until the security door releases",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Plasmid obtained: Winter Blast": {
+    "Translation": "Plasmid obtained: Winter Blast",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "That's a Little Sister. Looks like she's alone...": {
+    "Translation": "That's a Little Sister. Looks like she's alone...",
+    "M-Bool": false,
+    "Value": 0
   }
 }

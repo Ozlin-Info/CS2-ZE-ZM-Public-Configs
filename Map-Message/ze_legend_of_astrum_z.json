@@ -90,5 +90,115 @@
     "Translation": "Stage 1 - Forest & Landosol",
     "M-Bool": false,
     "Value": 0
+  },
+  "Kyaru's Grimore has been picked up": {
+    "Translation": "Kyaru's Grimore has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " The trees are in the way! We'll be able to clear it in 20 seconds. ": {
+    "Translation": " The trees are in the way! We'll be able to clear it in 20 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Just 10 more seconds! ": {
+    "Translation": " Just 10 more seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds left. Just one last log. ": {
+    "Translation": " 5 seconds left. Just one last log. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Its clear! ": {
+    "Translation": " Its clear! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " More trees on the way! Hold on for a bit. It will take around 20 seconds again. ": {
+    "Translation": " More trees on the way! Hold on for a bit. It will take around 20 seconds again. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 more seconds! ": {
+    "Translation": " 5 more seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Now... We may need our weapons. Could you find them in the forest? ": {
+    "Translation": " Now... We may need our weapons. Could you find them in the forest? ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " There should be three paths. I think all paths has a weapon of ours. Thanks in advance. ": {
+    "Translation": " There should be three paths. I think all paths has a weapon of ours. Thanks in advance. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Kyaru: These rocks are in the way! I think I should have enough magic to blow these up. Hold on for 20 seconds. ": {
+    "Translation": " Kyaru: These rocks are in the way! I think I should have enough magic to blow these up. Hold on for 20 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Kyaru: 5 more... Charging! ": {
+    "Translation": " Kyaru: 5 more... Charging! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Kyaru: The way is clear! ": {
+    "Translation": " Kyaru: The way is clear! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We have found Kyaru's Grimore! ": {
+    "Translation": " We have found Kyaru's Grimore! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Kokkoro: I see my spear right there. Unfortunately it's blocked by a tree. I can summon spirits to carry them. ": {
+    "Translation": " Kokkoro: I see my spear right there. Unfortunately it's blocked by a tree. I can summon spirits to carry them. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Kokkoro: This will take 15 seconds. ": {
+    "Translation": " Kokkoro: This will take 15 seconds. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Kokkoro: The way is clear now. We can go on right ahead. ": {
+    "Translation": " Kokkoro: The way is clear now. We can go on right ahead. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We have found Kokkoro's Staff! ": {
+    "Translation": " We have found Kokkoro's Staff! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Kokkoro's Spear has been picked up": {
+    "Translation": "Kokkoro's Spear has been picked up",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Pecorine: Seems like the rock wall is blocking the path. I guess I can punch through it. ": {
+    "Translation": " Pecorine: Seems like the rock wall is blocking the path. I guess I can punch through it. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Pecorine: Give me 20 seconds to warm up and charge the punch. ": {
+    "Translation": " Pecorine: Give me 20 seconds to warm up and charge the punch. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Pecorine: Here we go! ": {
+    "Translation": " Pecorine: Here we go! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " We have found Pecorine's Sword! ": {
+    "Translation": " We have found Pecorine's Sword! ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

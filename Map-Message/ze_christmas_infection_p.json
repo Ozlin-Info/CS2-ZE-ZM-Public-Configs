@@ -140,5 +140,20 @@
     "Translation": " You have beaten easy mode... Let's see now how you do in MEDIUM! ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Ice boomerang has been picked up. Press +USE (E) to throw it. ": {
+    "Translation": " Ice boomerang has been picked up. Press +USE (E) to throw it. ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Well done! The door will open in 15 seconds! ": {
+    "Translation": " Well done! The door will open in 15 seconds! ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Zombie fog has been picked up. Press +USE (E) to activate ": {
+    "Translation": " Zombie fog has been picked up. Press +USE (E) to activate ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

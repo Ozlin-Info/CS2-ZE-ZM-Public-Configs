@@ -1,0 +1,39 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "[FOREST] MAP MADE BY: ODM": {
+    "Translation": "[FOREST] MAP MADE BY: ODM",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[FOREST] JUST SURVIVAL IN HOUSE FOR 40 MINUTES": {
+    "Translation": "[FOREST] JUST SURVIVAL IN HOUSE FOR 40 MINUTES",
+    "M-Bool": false,
+    "Value": 0
+  },
+  ":UJEL:  Be Careful | Dont Edge | Use Negev | Use Molotov ": {
+    "Translation": ":UJEL:  Be Careful | Dont Edge | Use Negev | Use Molotov ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[FOREST] LAST 10 SECONDS... / Zombies is Teleporting... / Door is Opening...": {
+    "Translation": "[FOREST] LAST 10 SECONDS... / Zombies is Teleporting... / Door is Opening...",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "[FOREST] GO! GO! GO!": {
+    "Translation": "[FOREST] GO! GO! GO!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  ":Jason:  Don't worry, I called the fire department. ": {
+    "Translation": ":Jason:  Don't worry, I called the fire department. ",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

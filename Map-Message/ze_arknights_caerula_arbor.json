@@ -1,0 +1,184 @@
+{
+  "MapTextTranslation": {
+    "MapTextTranslation": {
+      "Translation": "Translated Text",
+      "M-Bool": false,
+      "Value": 0
+    }
+  },
+  "欢迎来到ze地图，明日方舟：深蓝之树": {
+    "Translation": "欢迎来到ze地图，明日方舟：深蓝之树",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "现在所处的回合为热身回合": {
+    "Translation": "现在所处的回合为热身回合",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "如果你在这个房间感到无聊，可以试试去喝点热水，可能会有奇妙的事情发生": {
+    "Translation": "如果你在这个房间感到无聊，可以试试去喝点热水，可能会有奇妙的事情发生",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "如果你处于单机跑图模式，可以在这个提示出现后重启回合来进入第一关": {
+    "Translation": "如果你处于单机跑图模式，可以在这个提示出现后重启回合来进入第一关",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "最后，希望你能享受这次旅途": {
+    "Translation": "最后，希望你能享受这次旅途",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当前源石锭数量:8": {
+    "Translation": "当前源石锭数量:8",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当前目标生命值:6": {
+    "Translation": "当前目标生命值:6",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当前灯火值:100": {
+    "Translation": "当前灯火值:100",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当前骰子数:7": {
+    "Translation": "当前骰子数:7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "剩余钥匙数量:5": {
+    "Translation": "剩余钥匙数量:5",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "源石锭数量+1": {
+    "Translation": "源石锭数量+1",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已获得新神器:减速，技能期间范围内可对僵尸造成持续减速": {
+    "Translation": "已获得新神器:减速，技能期间范围内可对僵尸造成持续减速",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "已获得反隐神器，使用后范围内僵尸减速，可对僵尸隐匿生效": {
+    "Translation": "已获得反隐神器，使用后范围内僵尸减速，可对僵尸隐匿生效",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "道路将在20s后开放": {
+    "Translation": "道路将在20s后开放",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "挂机僵尸将在30s后传送": {
+    "Translation": "挂机僵尸将在30s后传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "道路将在30s后开放": {
+    "Translation": "道路将在30s后开放",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "触发事件:天灾信使": {
+    "Translation": "触发事件:天灾信使",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸将在30s后传送": {
+    "Translation": "僵尸将在30s后传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "下一扇门将在20s后开启": {
+    "Translation": "下一扇门将在20s后开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "源石锭数量+4": {
+    "Translation": "源石锭数量+4",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "源石锭数量+2": {
+    "Translation": "源石锭数量+2",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "源石锭数量+3": {
+    "Translation": "源石锭数量+3",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "电梯将在30s后上升，僵尸传送将在20s后开启": {
+    "Translation": "电梯将在30s后上升，僵尸传送将在20s后开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "大门将在20s后打开": {
+    "Translation": "大门将在20s后打开",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当前源石锭数量:20": {
+    "Translation": "当前源石锭数量:20",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当前灯火值:95": {
+    "Translation": "当前灯火值:95",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "剩余钥匙数量:6": {
+    "Translation": "剩余钥匙数量:6",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "第一层已通过，额外获得6源石锭": {
+    "Translation": "第一层已通过，额外获得6源石锭",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "PRTS:旅途中收集到的工具已经整理在左边的房间中，出发前最好先清点一遍": {
+    "Translation": "PRTS:旅途中收集到的工具已经整理在左边的房间中，出发前最好先清点一遍",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当前源石锭数量:26": {
+    "Translation": "当前源石锭数量:26",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当前目标生命值:7": {
+    "Translation": "当前目标生命值:7",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "当前灯火值:90": {
+    "Translation": "当前灯火值:90",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "道路将在20s后开启": {
+    "Translation": "道路将在20s后开启",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸将在20s后传送": {
+    "Translation": "僵尸将在20s后传送",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "僵尸将在25s后传送": {
+    "Translation": "僵尸将在25s后传送",
+    "M-Bool": false,
+    "Value": 0
+  }
+}

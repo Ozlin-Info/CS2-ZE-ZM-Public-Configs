@@ -60,5 +60,135 @@
     "Translation": " 10 seconds left ",
     "M-Bool": false,
     "Value": 0
+  },
+  " Hold 30 seconds ": {
+    "Translation": " Hold 30 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 10 ": {
+    "Translation": " 10 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 9 ": {
+    "Translation": " 9 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 8 ": {
+    "Translation": " 8 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 7 ": {
+    "Translation": " 7 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 6 ": {
+    "Translation": " 6 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 ": {
+    "Translation": " 5 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 4 ": {
+    "Translation": " 4 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 3 ": {
+    "Translation": " 3 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 2 ": {
+    "Translation": " 2 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 1 ": {
+    "Translation": " 1 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold 20 seconds ": {
+    "Translation": " Hold 20 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold 10 seconds ": {
+    "Translation": " Hold 10 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold 5 seconds ": {
+    "Translation": " Hold 5 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 5 seconds left ": {
+    "Translation": " 5 seconds left ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Hold 15 seconds ": {
+    "Translation": " Hold 15 seconds ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 100 ": {
+    "Translation": " 100 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 90 ": {
+    "Translation": " 90 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 80 ": {
+    "Translation": " 80 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 70 ": {
+    "Translation": " 70 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 60 ": {
+    "Translation": " 60 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 50 ": {
+    "Translation": " 50 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 40 ": {
+    "Translation": " 40 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 30 ": {
+    "Translation": " 30 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " 20 ": {
+    "Translation": " 20 ",
+    "M-Bool": false,
+    "Value": 0
+  },
+  " Stage - D ": {
+    "Translation": " Stage - D ",
+    "M-Bool": false,
+    "Value": 0
   }
 }

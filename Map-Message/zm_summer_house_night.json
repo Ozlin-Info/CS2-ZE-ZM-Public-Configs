@@ -30,5 +30,10 @@
     "Translation": "The fan will cause some pushing force on T",
     "M-Bool": false,
     "Value": 0
+  },
+  "Be careful！ The water can cause hurt to T": {
+    "Translation": "Be careful！ The water can cause hurt to T",
+    "M-Bool": false,
+    "Value": 0
   }
 }

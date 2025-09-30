@@ -15,5 +15,45 @@
     "Translation": "Btw. Unlimited ammo time :3",
     "M-Bool": false,
     "Value": 0
+  },
+  "Defend for 20secs": {
+    "Translation": "Defend for 20secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Prefinal Hold 50secs": {
+    "Translation": "Prefinal Hold 50secs",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies teleporting in 15 secs. Get ready.": {
+    "Translation": "Zombies teleporting in 15 secs. Get ready.",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies teleporting in 10 secs!": {
+    "Translation": "Zombies teleporting in 10 secs!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "Zombies teleporting in 5 secs!!!": {
+    "Translation": "Zombies teleporting in 5 secs!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "ZOMBIES TELEPORTED! COVER ALL THREE SIDES!": {
+    "Translation": "ZOMBIES TELEPORTED! COVER ALL THREE SIDES!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUUUUUUUUUN!!!": {
+    "Translation": "RUUUUUUUUUN!!!",
+    "M-Bool": false,
+    "Value": 0
+  },
+  "RUN INTO THE HOLE!": {
+    "Translation": "RUN INTO THE HOLE!",
+    "M-Bool": false,
+    "Value": 0
   }
 }
